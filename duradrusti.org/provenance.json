@@ -8554,7 +8554,7 @@
     "capture": "20110630190427",
     "input_sha256": "53c74037eb4370821ecf5d824d43db96f8020a557ef1b009b327136c2bb94949",
     "local_edition_sha256": "1bdd7ffbde837bf7f0085810506d3facf34bc4fcb4b63da8971dd7d7ec7548c5",
-    "output_sha256": "3845d9b614250b1bc4c1364e0a5f54e5e6176a9a698f36e04486339d32a6aea4",
+    "output_sha256": "8e827148109ac963deb7f6991b18c9f2982df45fbab35661886adc3fcd80c745",
     "recovery_note": "Original homepage HTML and layout retained. Artwork may come from separately dated captures; see the restoration record. Links are local and online services are inactive.",
     "derived_from_pdf": false,
     "publication_layout_note": "Archive navigation moved to a read-only footer; historical content and original assets retained."
@@ -48813,5 +48813,16 @@
     "output_sha256": "1fcca4fbd6b8e021629ec35045ec583eb18d1d217114decd478dfe1d3564e637",
     "recovery_note": "New restoration navigation styling; not historical website CSS.",
     "derived_from_pdf": false
+  },
+  {
+    "output": "duradrusti.org/_support/duradrusti-preview-6cee9b82ea5b.jpg",
+    "source": "restoration/publication-review/duradrusti-social-preview.jpg",
+    "original_url": "https://archive.projectodisha.org/duradrusti.org/index.html",
+    "capture": "2026-11-21",
+    "input_sha256": "6cee9b82ea5b92d6933d14314f64eb5fcc1b99b64bab387a9f3da4cc8bafbe3b",
+    "local_edition_sha256": "6cee9b82ea5b92d6933d14314f64eb5fcc1b99b64bab387a9f3da4cc8bafbe3b",
+    "output_sha256": "6cee9b82ea5b92d6933d14314f64eb5fcc1b99b64bab387a9f3da4cc8bafbe3b",
+    "derived_preview": true,
+    "recovery_note": "Modern browser screenshot of the restored homepage, used only for link previews; not a historical capture."
   }
 ]
