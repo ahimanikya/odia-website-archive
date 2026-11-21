@@ -580,11 +580,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "63b97433d2b8cd6dfb084e0f4d92b6bbe3182789e3b37d2cb15d72e4766429b2",
+    "output_sha256": "cceccedfe81a8525138fbb2376c3adb1c5bc6fdb904cf2155198fea9804e22e0",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/article/devi.html",
-    "local_edition_sha256": "17d7cc6cff1abfc5570f2353cb771b432033a516d13046ac0a486bf47b4875ce",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "dc59bfa626f992488349cf4924532f45ed399343b8f498e1cdfcba45e2e59bd7",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -597,11 +598,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "92111b4efe06a7a45b53593e830643bf78bee09e37ff944f93a70dfb01694df8",
+    "output_sha256": "6acdef87cbaffcb44d18efb9c77ecb0e4ea8ff89eac91258d419aa4bb5114778",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/article/devi1.html",
-    "local_edition_sha256": "ee5bea5a4b30e55d453e6ee8a48a278b3f04e5ffa5af2a08bc77c28798a661a5",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "ec355a508d94049db2079ba53fa45e9d8f13c1dd4edbc79d747f7737c2c277c3",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -614,11 +616,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "c0e61b0f02c04ddb1f805c5f57ea22279fde4c01018da9cf1903131a052f323b",
+    "output_sha256": "71eb7776f12bae4e6b060fe22b94f755a72d3d606d5bf2c11f1e6f18b89f41d3",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/article/devi2.html",
-    "local_edition_sha256": "871cca7e8e01bc24e33a012293be5166e8173e093ba61e803ece6e4ae0c49da9",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "1726aeb1ce8b40047412c860e47e1186bdacabbde6197da37a7ae15df9d75a13",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -647,11 +650,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "817f0457b1930ea06179c377a58699cd099e460a400213b4707e89c94129880d",
+    "output_sha256": "1f1ce606234ad08ca6f3cc22da514efc43d3c81bded0c98ca3bbb2efd6f1a985",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/article/rajsh.html",
-    "local_edition_sha256": "eca11457e08436083dc45a1471fa064a2b21867f45ac7badfed5aa3e601dc183",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "049894a7c1cd65378c18d08160ce6f76fa88220a3ed78a062c4c9ab540fccfe6",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "asset",
@@ -2581,11 +2585,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "0c2da0ff18c24d4d65b522f6d42a84109945da608a322dc994b0d99a38222d8a",
+    "output_sha256": "be649d1843c207631baf5b9fbc0f9903f9e504830eea7d00cb523a83ccd82127",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/article/devi.html",
-    "local_edition_sha256": "98830eb97e45c8400f15632c29b9061fb65a6d78980e86fae26584099ca7f61c",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "3b2517ce262c64d73cbdb6dc5366ea1c8165fe323328c4c734711934407da2af",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2598,11 +2603,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "a1cb0d15abe76b00001d591c1ce9470943938d3e9a0456f0be494e5ca842c8cf",
+    "output_sha256": "5760476432c393e9c61a27577f8c2371ce46938b493bd7e11003c159d986dfb1",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/article/devi1.html",
-    "local_edition_sha256": "91350c610a085035aa8dea0650765fbc7feba4660dfac57e4db0dcfdf3ba3b4d",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "607ea8ff5c389400dcfb3b031ad543317f86c1d64505e605a23388607e856977",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2615,11 +2621,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "9d6e1294c845ad8b8b55c43243a45965d166d6f1ec5c80d1fd92511c2d9e06b6",
+    "output_sha256": "a48e0a18bd0b958b970aae959aefc9f6009c24aab792538d22d83b4d209a6151",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/article/devi2.html",
-    "local_edition_sha256": "7e903a55bd535a8d00efcb521baf5bf8d2000fba4f6e4ede2a2f83c27e98cb00",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "5b0718c080827c08f0901d692d0c5c51378f7e6bad51356ec6a33eb6dde721c8",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2632,11 +2639,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "76b76869d03f3a930a5fa88b007c9b0e73deece757bd5729ac63ae131c51e42a",
+    "output_sha256": "fb17b24b7f27e8134ba9d97f3d08d0bb59d0e16e2940ed136575dce54becdd16",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/article/rajsh.html",
-    "local_edition_sha256": "fd59afc2e014e86e995a4692a9d20e1d737431a88a9b52f7d66fa8f2e5c0370e",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "8dc7a76ab7ccbc36cfba627797e28a3cabe787f83ef8ca49f7937c857f18a679",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2682,11 +2690,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "f5f63d8c1d5238b0811ef5a4f69b1371c7e1800ea90c9c2fc578a8bd00195d28",
+    "output_sha256": "74aafd621d027134297f6b43f68b8c678365305c2069f5c2c4edfcd343ff8636",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/jokes/joke1.html",
-    "local_edition_sha256": "f8c268bab0c9a63f04f7bae020df9d725d4bff68c25e5e08646f429ff4b2509c",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "9b6d3a4bb205c7dd185d4b99c5a8b9a7302b40e464f3747871a1ab0eb3c984ed",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2699,11 +2708,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "8a860404b4ba07da254be5184dd7c130ad9c9ffcd84472bff19f299729573dfb",
+    "output_sha256": "173c93cc8a642939ede60245057c32daf4c6e8c866b2655aa49ec5ba5332cb6f",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/jokes/joke10.html",
-    "local_edition_sha256": "4fa8b245b4cca74741ff27f39e3a2ea5b9ee1f4b8b8cf2a0ff8a725061af7649",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "260817bd6766bacc7589ee519cfa1bb6094edd8fb9f715b181cef2f9711ab8e1",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2716,11 +2726,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "8a249c001d1ecc271dbf9d2286d80038bdda57ef484e0102c50c887dafbc9265",
+    "output_sha256": "fd6f6b104a33ca17051c6a4a4ec7ea64572a7644627bb90a064c4123a7c9faa6",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/jokes/joke11.html",
-    "local_edition_sha256": "635ac89c470df4ebd3d693cf2900177ae929c8f43f3907c0d28583fb4bcf86d8",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "25d03babfffb3d154292882e2a9ffbe34d79da4259415aeb3db0c10f8cc5820b",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2733,11 +2744,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "35f0af5728097136a3decd4fc1aaa6842dfdf46a3f746c19fbca292d7fc2f93b",
+    "output_sha256": "a1ee50c3b43ca74fd5d62b2cb1fcc32fd39323c1682abe3b7e31cda1d36097f7",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/jokes/joke12.html",
-    "local_edition_sha256": "52079a5e1d399dd2d54f7e8a1c2eafd025e833e6a997b5e2a561658ef2a3ebd1",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "0cae042c3cb09875ab968064fe91e48a8f661207a5a63071772fca5fcc52f4f6",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2750,11 +2762,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "b810de224410d3eea2970a2f9f12eeb8c275d14ecf525d6670a487fad847dbe7",
+    "output_sha256": "788bb4c092fdd805410b87d72ac2e881f132f223f90bfcb924abfa167edf3a30",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/jokes/joke2.html",
-    "local_edition_sha256": "ae6319269cf4ef67cab92749ffffe1b61b9a92ed13cb73617449b2e232a8efd9",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "d5981415c847afddabc1dc104813afc9b3749fd09c0fe9a9e1ee8979f766652c",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2767,11 +2780,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "0b09c467679f2f34577afee0e774b2d536c7838a5b26c55978bf1a67fb867b71",
+    "output_sha256": "d6c3a7925f0e9231b90350cad45bc09f99f8bfc257b4e749155a4076054b0ccc",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/jokes/joke3.html",
-    "local_edition_sha256": "1e3b7b7a9a6222fe11b94c43513b683caf1e016056a13635d63268ee013a2b73",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "03c04272d4a18f3161a5140e13dbad476f77b47a87d2e4f7bba295d666b1f070",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2784,11 +2798,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "b2e938c4f0bf2ab215fb3e79dbbb504517d5fbb2620d9e7f28a0e01c1ba7ff89",
+    "output_sha256": "983d9bf6cbbd3f8e325646ebbd294d3f830ce8a071b646c625aa9b7ccee11ab7",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/jokes/joke4.html",
-    "local_edition_sha256": "25fe2f3bf242620f0d4484b17220682f45718f1138f99e804d789c7fad9c95ff",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "e57e1059468ca52ef92de1e89f3dd34105b2e31e3709f1d25276e550055d26d5",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2801,11 +2816,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "b085e4760a722d61bfe39a8542a947362d08fc6d7c195665b658e7a7648b43b4",
+    "output_sha256": "1dc9f03bee67261165b1a8852d100548b3466dddfb0349738ff130e81f8dbca6",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/jokes/joke5.html",
-    "local_edition_sha256": "f48bae02f194156579e9dc27120428349af5bfe7769afe6e79d49dca8af6bf70",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "6c702f4a5fe36185e9edf781acd01cd23429daecc74d80686ac7bf5a32b7942a",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2818,11 +2834,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "18c57d5c36f92485a713062d45197a7712357237069f49cd350d769dc9e43c34",
+    "output_sha256": "c8f356336da4f96c460b20c8ea382b4239c60a4e0d7a70381780cd6581d8e874",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/jokes/joke6.html",
-    "local_edition_sha256": "37afbe7bbe8f4c816625aedc9248038f8f3beed1e44504320a57f1a026a9403d",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "4367b74dd6dbc108de6c11bbd7f33bdef557a5e2e09ee65a34204bb49072444f",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2835,11 +2852,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "38078a3eff13cdf5580573fe5751b2d30c24fca9598655bff3fa9b600408882e",
+    "output_sha256": "5dff907af80fd510cd3663f9573f563cccd3f1ddd4b363b635b258725cf9093c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/jokes/joke7.html",
-    "local_edition_sha256": "d745a6d2d0f4ad078de8f558465eecce630127df65eb225cf988186efb418630",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "1a62c1deaa8b7abcad6c208cb7e0c4a5d5bebc6881982de6daf3b8796995cf45",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2852,11 +2870,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "eb259940cf002936382bc58de1c377dc03310b6b288a0de73858050db735733a",
+    "output_sha256": "80873cddbfcd6f5d01237de1d7302ad2fcd0f2879343b1e2387780703482ca4f",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/jokes/joke8.html",
-    "local_edition_sha256": "ec05b744e0997abb972bc327026095da232140488f794cf5dc95eefc20c435c7",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "0f51bdc64b9371a3b9fc631420d87611ac9e27892dfc6632acbd874a516a0090",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2869,11 +2888,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "d291d50628c27306fcc7609848f1229a9e5ffd77ceff510df5a6691377938806",
+    "output_sha256": "95e4cb5f2afeffbdbe78c4052f7e91e6316a0b8ed67d687d3c5d4d0b69bf4631",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/jokes/joke9.html",
-    "local_edition_sha256": "c2edde59363be9337f69304ba9ad92e9b13fe3ee19c1d06e17a7e653c5f70ad2",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "f12308c7bdc5d3cd2568c646d6bb527e3d77277ccd9e1a6d4ed507f74b91ad55",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2886,11 +2906,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "9b492dfc3b1ba5ba9833fe3f85adbcd007b5bfab49e9601e94f16685b9ccc3cf",
+    "output_sha256": "39164975b1981e2e0e771b0a9c82408e2dff4443124f8ca3e958be3d393ea227",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/kids/chandan.html",
-    "local_edition_sha256": "5604dc612998e4d707f03dfe0349ed18a7ea07a7aa0ac61edbeb3c5202004520",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "c88aeebad9e87c76c899e04a5f031ccb29235ef5b48ce5e7b4ba191c393d6306",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2903,11 +2924,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "18398aeae031dc80a5313d169dd1b4c9eb2454bcac8e97a164ff67fea2f64d70",
+    "output_sha256": "29bdafb0345d1b42aa90ebf168acb1f2e9f6f5038838ad8c3548a5d55267fa6d",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/kids/chandanart.html",
-    "local_edition_sha256": "f7febdbf141fd8c67c12f591958eac67204e6cb5e9e79a596949b2b18e28ffc1",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "5f6af0c4af58408a3152acbaa747aad234d534898926a1311da6a5f44e151576",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2920,11 +2942,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "394aee68b718e2b06aa6fe7101c6a191764c5ec7fcbe4ffe8554d2ae559c7630",
+    "output_sha256": "7121caf4b11096e098879e0e09c78a05573c6e387df4e5c6d77180c4a15d6e54",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/kids/chandanpm.html",
-    "local_edition_sha256": "96b21274217bcecda1fed8a2d3335cae89ccad0eb786423db198b66db5dbbb86",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "16aada0a36631a0b6e71b7b5f29300b55ce588ebb06b64b308d798b214622f3b",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2937,11 +2960,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "585bb7e6409f2933e375daf9271ed0a5ee8023447ff9f8fc43747342d53a6868",
+    "output_sha256": "f8df9f225337fa3a78e71e6818b3ec70d2519b0afe970e8dca0f203d6ad5dac1",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/kids/kid.html",
-    "local_edition_sha256": "1b1cdacb5f84fe9faa196b576f1b2e42dac2ca3af0d41f34b8b211012f4cab32",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "f77184e2de5717fcc06d9fc51e2e55ea193d82f461c1cd99b7ae0d62dd69952d",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2970,11 +2994,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "f12e5749510593298ac5cd8c5e1c7d30d15a1118e3f8c0ec5b798b88222f1222",
+    "output_sha256": "a9b51e453aafe7497e6ac846ba1a7264e39a7d5a74530df0464cd2fcb8ceb4e5",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/kids/kid1.html",
-    "local_edition_sha256": "ca3095d27900bdf5e35171e72c65150b3310007ba33685ab582543195322b22b",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "36573c47c1689685a157fccf9965b6fea9418c520511a60fec20b37ba01e87eb",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -2987,11 +3012,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "ca2c4efcaf2bf20bb7818274887fc3a93e37964f0a9a07220f05c9f57e0b1885",
+    "output_sha256": "9f6e232c85d3df6adf7b87e63432c143e3411b2ab90ca6c7d56a7ba450f6b05f",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/kids/sambit.html",
-    "local_edition_sha256": "1135831010c404634b15f0614772f7a2c00b1d27dc8602f7547253b6cf8c5d6b",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "2747202c28a825ba61abe2f6bc2dec5717e8e2f1bc50b6a9d919d8a9b3c1a525",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3004,10 +3030,11 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "37d61e407869aba23b63f98a2aa14a3f231b86ad846156e86bfe33365cf27955",
+    "output_sha256": "32c57f040ab356790ba687188ef19f1d572df3a3165eb6cc7f23583c656730bd",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/OrissaNOriya.html",
-    "local_edition_sha256": "20333e06d2b49b4b519431480ceab27f081bc43d2cef2b164151fbe37d714a27"
+    "local_edition_sha256": "bf5f1993fa52351f6da2817f4ba9b45f45ce13832290cf41903435bf47d01de3",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3020,11 +3047,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "14dfeae1b71cc05a135beafb908472c07648106bb11438b2033a0c06102dbf87",
+    "output_sha256": "92c5e07565ae5aaaebf9987391d4addaac60fd9c4ecdad4327fd8de6bf1d5ad7",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/art.html",
-    "local_edition_sha256": "ef38512eab7b6f07b36010be39b31ea2139a339abf7f9bed051c818ed8d5c8fb",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "1eff6c5a4ff04b643b54837705ea666c8dcb2e0430b6eac43665ac7c9b64ead8",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3037,11 +3065,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "217f9d6d72d4f1ced934946ef1b7a5f44dfe64776235d8f41c351937f3d39fb5",
+    "output_sha256": "3dbc4da89e86b78d5c1afa3ff8554ab5c518537e17952f85f28e0da6fd49862b",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/beauty.html",
-    "local_edition_sha256": "d810e15d134507d4f3a68ddeebe98e29e4c512aeccb54b9e27b3c32f21321454",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "d796c8efc0749948175b030341d6a52ce8633d28d9227a122fac9d16aa7b2e7b",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3054,11 +3083,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "23d71f7b44a2acd5c0c9f2a083f59c8e87ea49a8d93b704b3753c393942256de",
+    "output_sha256": "fd01cfe84393cf3761cd335c41af7ac624bfebf8ed4b75c33a3d4da8e96586d3",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/bhubaneswar.html",
-    "local_edition_sha256": "df46eca4438f6c76937b884038ddc55a8c99d452195172617e68ff41a904d4f5",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "c94efabe92c2ff03226bb49ea7addc29dd17efcfa3712c1000d178bf10e5304b",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3071,11 +3101,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "64a8b8d83f3498722e2bc37e6659a54371a4164cc1fccbf151ed7f0a1401936d",
+    "output_sha256": "fcccebc6019a1a63356a87a89dd8ec3b016601f2dafbe75f493a12aedd935378",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/enclos.html",
-    "local_edition_sha256": "0f208aa4a58596df98b5babc59195305e262fbc521f0c5b54d223d58835b4aee",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "7a5cd2399513f1ea2567e4effc2ad92e60fbf71ca0def1bd569dfef06153a021",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3088,11 +3119,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "87e32480bce2c61f35fdb4236f2e57e4241aaa3ddf5fb60ccaccdb70119c0315",
+    "output_sha256": "aefcc7082411fc9afda269b41c92e263c1b9cae70ecf6ed8c302f0620741ee7e",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/future.html",
-    "local_edition_sha256": "9fb99a9fbc2aff68527e0c4adc9e79fc8e95f64c24d190be8ba274b27439863a",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "d17d128b45fbe0280adc2a05428374ac2589c155af4afb8c31c192f11810891c",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3105,11 +3137,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "5f07d302fe646cd57812913b47e6bf7734411739c82052dcc6c931bbc5fbd28f",
+    "output_sha256": "a62aa8b8c0b8a5dee8999c4fa655a88073f3738215b0ea9fd147fb741553fdb0",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/health.html",
-    "local_edition_sha256": "3b412e87f22a2711ca50412555383c6b3c2c518481d2cf648cc05b1809263369",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "74fbb4927823ebd792113737314cd2763f255b34163e0dc0cc93a6cf23dea4f4",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3122,11 +3155,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "7e7f41aff352f3d189e7380b0f923b8aa62b641c326217aafc16ef434fe4dec6",
+    "output_sha256": "5472bfaee1f385a02a2adfe253c84567c964950de5bf09c56bf2c89042c7a817",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/indrec.html",
-    "local_edition_sha256": "cd7ebd1b8ac96cc5e0543c5219fb1d92fe0d316569985539e6055e2539d0ce7f",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "e61ca41941bf69c10ecb41d7c917fc3e5433a4e526fdf1b8623a4c18605e44a9",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3139,11 +3173,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "7adf6c72b90ecb19b3da7e14618c396004bb50df3e8c013a0b58a031a85a0d09",
+    "output_sha256": "1702af3ade3fbac6b12d924d7e93c6e439be8aa9f5f63c1b0c27447e05015e48",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/ir.html",
-    "local_edition_sha256": "5b1e8053493c003af4a52cef4bfda8d0f2e3a1dbb80f67f4436c8c6ff2538332",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "914d978bba1d35175d7326f754e7413b684e2108a1723284475e0a8c86679d15",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3156,11 +3191,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "d886693e78c0099571b14516238c1210c8e2ad111096ddd35390a44d3595ad30",
+    "output_sha256": "ea951ce5d2962fadc5f88422c3d88bfc56e5b86b8a771f6f7003b2d70887b3b0",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/odiya.html",
-    "local_edition_sha256": "b2b374a5455965ec45bd0f5c91dd69630979f1702f83783291424c5eef85baf6",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "56e86e9cf79c51c6d0a5c3c991dd1d581854d03fea066d7c7e68ff151c770515",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3173,11 +3209,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "878e13f3d6933d06552b851a8da28e06fa7994f1bdafcb65d34f5ef4837eb64a",
+    "output_sha256": "0dc1de6acd266f828fa5c9c3c2ee58ba9b0bca92f4ab98739ce412d07c937f6e",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/sahitya.html",
-    "local_edition_sha256": "86d284305cfedb66cd4f77604a6a1841cc1815ef70784fce654eca22eca660cc",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "7f498ca326f89c2ad42baf51a637540cee938a8f05395321747591f047ada438",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3206,11 +3243,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "487ec146b63ebaf7d8ff58e19873c5cd23f10574e78af80101ec05b80a74d6a2",
+    "output_sha256": "9472837e1b94a1d7377eab06b29b6b5723d5df6fee055f6c899f42c7282aee5a",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/temple.html",
-    "local_edition_sha256": "cafc2e46885b0b24d1e4764d53e95ccb5f4c982e1c5a9a87a88ad8ecb15aa873",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "c9171f519308c3fe194917966cffdbadd4c01b057f2226fa5d263593839e6970",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3223,11 +3261,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "476ca6c088593c8734bfdbe5e3e84c5137d209b22e1c451414bfb97894fd22fa",
+    "output_sha256": "91201bd76ae66d71fd4bcc1a51c5e1bec1572a0d71a8b3a525c6ff97cb237c8c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/vasa.html",
-    "local_edition_sha256": "dea29786b54010eedc00acaa15af3ceb2b02d89e16011ac6434ff7311c3fdd80",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "26617f2d5e19ef0b481e373a127c37b5489c416e880ed5725bafa5842f009fcc",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3240,11 +3279,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "8541060f622207590b7c09def7f598ece9bb9ace7c86e9dfd474fed0639515b3",
+    "output_sha256": "3489f7e899f94b89ee8d00f3cb6981a6d38d9ae583bf112fd580678658cdf6ca",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/visacan.html",
-    "local_edition_sha256": "cb02eddcf9f1a092a9f0411edfe1c3e96e14687f9c4622a5c554de2f17aaf464",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "7de0effe5ae275c935bc494b88d46cca19596d6e4d2f9723d8e1b2dc63d2ecdf",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3257,11 +3297,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "e4e54c505b40e6a500c9e73704ad6681603bcbcfad800817c97dad5023c7173b",
+    "output_sha256": "304a8eaa08e97465cfef23f18fa8ca3ffbe21af3e13ceb05af17e8691af1c327",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/wild.html",
-    "local_edition_sha256": "34a1fab99d7a67079fffbf0d3f30d7273fb92c1e7950f7d5e55d08e322e3e386",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "5a18a92b214faed8dccb4994bcb67d1d5c3a6c75ca8e2397d03267281cbc7d92",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3338,11 +3379,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "b2ba223ad6271ecc68a78335d31bef7a1ac559a9b21b968bbb7561cb3d2fc0be",
+    "output_sha256": "2df6045897a5a701a1a01ecc5b04ae670838f1ff33c689aa8e28e4514319a764",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/odlink/coollink.html",
-    "local_edition_sha256": "b9f4efa137a40940458434be8f4dca24c364b79fa6d7fd25db06d35abff9a755",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "34e9fcc7dc857218f52011756bbfe48c9a5f2dedb86b533d73c2c2d35eaae65c",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3355,11 +3397,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "4ad79abde9f015ac60e39bc018032aac694a28865611a6d62d57a7be89748114",
+    "output_sha256": "7be1c7cfb0f7adc1946bb410a3895268c97bab25da34fb3c56e0e17905870caf",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/ornet/ornetfr.html",
-    "local_edition_sha256": "683bca2637569a5ea07becaa67137ab64b9d852f89993773f9fed891acff41c3",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "96d6d7b5be69ab5f35da879d30d8a797b57973ae49b0d73b5abe4c479be40d12",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3372,11 +3415,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "fe2e5e8c4708579856000c6c2fed2094b6fbcce538c8ae110fb3df423e94edb3",
+    "output_sha256": "f09e3a84b2a461cbb9fb18c09778a381475b6b767898c904d57c652e6bcc775b",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/people/dml1.html",
-    "local_edition_sha256": "f9e962e568fc88042e6c646470f9b30963a1b7f29986ed3ec9201cf26b8ec33d",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "2510ab0344f31fb95e0b9bb0fe768d37e47b90661cf4c92a0974c4215df687ad",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3389,11 +3433,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "895d59a00d5dc882f51d55c6e34e10f09bf8c52eb92f720979e394d90f5bbe9b",
+    "output_sha256": "a8cf1c14a7c02366f7f6704a1e506a8b75f2ba8e4c155ea146da8939c600facb",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/people/dml2.html",
-    "local_edition_sha256": "b39ff364d49499da3a29788baae6b8a7a238a2e1f24f323e8c6b206f02c39998",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "871ff1bf654fca5515f64c505bf2ca57dd145c7898333ea0020e56cd3ce7e232",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3406,11 +3451,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "51565d7a294883c72dbc08500e9476ef8bcdf2c9ede2e0ad5afdede4f68edb4f",
+    "output_sha256": "dab82cdc1ee23e882a7b2a6b90ec8d4d72bc0be6c3051cbce15e03336fbc52a1",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/people/dml3.html",
-    "local_edition_sha256": "94456caa7cb6a372732ce4863eb3c12fb3f7de941cab577d6612a6553777bcaa",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "ccb9aa0b4fd88b6c2bd3273f63a2ff9b0e4422bf83dad2afc2837f58b6e7674f",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3423,11 +3469,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "ed9f8163605d80b32059e7f45bb0e940504986e9d603adf6e4ba848c2a804cc4",
+    "output_sha256": "a56d3531c12c0fa7b564612cac1a88572ad67b2b5b4374934cb9e54dbea7433e",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/people/dml4.html",
-    "local_edition_sha256": "e8548ae1445dddcbe5e1176d0902d070f660141cb22cb5e23edfa262d4c9154c",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "f063ed429feaac43ff3d38e744007a04ca6e4e64e73389dd03a252fd3d862840",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3440,11 +3487,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "88656bf119f927139823bbbd9af90336b4800baba433718eed88551302382ad0",
+    "output_sha256": "26c56494f880d5285091effc6bc9b9bdbc0d0e48e2e8dad81eae51b313f9d119",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/people/dml5.html",
-    "local_edition_sha256": "efbf42489cc90ca160ff2f60b32c662408c011bb06b57da4d3493684e3ae850b",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "6959b7af55a2534ac7f4ceaaede56634a46790147cb9db58ab3033c9dd6a3089",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3457,11 +3505,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "c6daf9855ab61b84505717850bbd9ea0de85fd3e09208afc75039efd535c2224",
+    "output_sha256": "cccd0888705171154fee68fa634ffc53b9664e01b68d3b67286e387397c5ea50",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/people/dml6.html",
-    "local_edition_sha256": "262fe5526944af5019f8fe7ff23e1fe9f48fe17b3e23059b6019e5ae1cdb5239",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "220e7dcd614f85ca5c9d560919fe9243e907818dbde8ec46d35477ab230895b9",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3490,11 +3539,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "ff1177d0062df2ab1ae292e05c0c119b4d09de85518ecdd7c089f95f33cb0a97",
+    "output_sha256": "983d20da8d957971209ad5418f94571f14289b08711ff83776e55000242312db",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/people/prabodh.html",
-    "local_edition_sha256": "29c29f6556c63541f58ec15899548086d6e472388a764d0d59407c3067fe111a",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "bbc667bd0f356aaa7ef97d6ba78657f677f3109f7fbeb61f7b0338d11c02b9ee",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3523,11 +3573,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "c66d447556a0e8ec7345b21190010b212026b3370721402a0e0db9f982d96db1",
+    "output_sha256": "609cab2570b7d9c370b2b90f5b565917ddedea451916d9d7aabbafd6ff9a5b28",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/people/sashi.html",
-    "local_edition_sha256": "3b2d8ed440644714f9ac986aa2c8206ccbc00b26f9cea305c98dc917bd703f9c",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "d12a59e02897853bad6a9067a0004359b3adf1080bfdddc3d21507acade462a9",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3540,11 +3591,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "98c61a9c9f119371fec03af89321a4e844584f18477ba3571d8cf641171fd40f",
+    "output_sha256": "e49990ad75b5f5d20c06942e0f71611eb56477ba3853508a2b4498d066fca9d8",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/personality/persack.html",
-    "local_edition_sha256": "6b97790c019b6c3f494092a2be3267d1483a503e47faf4da62ee3d7b6a3205f2",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "51c0dd8a05fe9bcd5fd1515ad01fe6121eace2daf338de7f7c3a7576a1dccd5b",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3557,11 +3609,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "d76baacc0d7cf0ccf4fbb8f05f07f2d205bcd0eaad7b909207c12ff34bf62b48",
+    "output_sha256": "fd4036dbc1f0ca6eb41423f295d66f30226e088140e03ae172ec007b2d31392c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/personality/personality.html",
-    "local_edition_sha256": "1f33ae3fe0293fddd717c9e0fc7f8750724063206912134bacadc90db75daece",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "c19d82aae8900279fadb3dbc938e98156cb9e91c17c3ad8d4f4a3c9d9cff5bf7",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3574,11 +3627,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "a8dd93d72132af2c20121ce1db2e69eb6ebe08429b13a580e07d29b0ca5da2ab",
+    "output_sha256": "62a45d1e77ca40ab3dc6673df84c90c6776c6c609172d2bbd8ebeaafff4b67fd",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/poetry/poem1.html",
-    "local_edition_sha256": "834a02a467f29d2024199e96249f2715882e4834a19cc8e88a1f4bf900d5125b",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "fdee4c6a55026ee6ac69d513b39ab3ee27b79fdd5a0ac2d515c039ff2845f2cc",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3591,11 +3645,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "d6efe7609e0921d79d82eac2526fe40f9f7890e128fdc89d5f3f946ac19e85f0",
+    "output_sha256": "3c8785d7c94a52b1012b856046cb4fc3a3bb1cf9f3f991d199c5afbdd6a23b9c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/poetry/poem2.html",
-    "local_edition_sha256": "1529c5b8ca9f8102899e967686462354d241f2299117b7b45f98156bc305680a",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "04dccdfeca0670fa47e7c30f5d80bc9abb0121c0df0eafca5406572b4c82b721",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3608,11 +3663,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "71ef7de13139e4f4f3e05bc26051566fbbe7cd121469d95f40dcb49241cb1565",
+    "output_sha256": "b63b9ae1ffbb1f13123593fc71f2ba0c6fe5b4ecd479bbc2723aef2bcacf8270",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/poetry/poem3.html",
-    "local_edition_sha256": "8d585d009df9e403c1b385490849630f6c86302d39fa5d396b321c552da161e3",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "e62681f929f48075e59f7b7e314547b2667f2179b1b923334df6f2da0cbf2c2e",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3625,11 +3681,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "3c1568cfbb6cbecec2158c5e5ce5ecaf2813d56a5cd93a4f40f4ee1c3a38f266",
+    "output_sha256": "0e4a731c39076bb4f426919e71f74250efd339c1e5cd1eb00a9561f7becd5828",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/poetry/poem4.html",
-    "local_edition_sha256": "44dca45bfcd727634732ea3f8c8e6b6f3d21265fa1bd9c0c5f4b5999e466984f",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "4dda3a7b4caec55206691c88b8663a7cf6616811b82344ea31da903b8b46290b",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3642,11 +3699,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "f9a433a58f589250dafd3d317bfbd1e261b57f0d419b20b0d70a2025203c911d",
+    "output_sha256": "641b4ac9c35dbeb2b4a3f3207874fc8c86783d6d4bfa60c37d61e70af0874048",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/poetry/poem5.html",
-    "local_edition_sha256": "625dc8670354c7dce66866efd393ec1664e61976d069b3446e22a1c153aa6067",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "9c14f4b67d683e145f3f83c21020b98ad58d5b76521988a74c61c2125f404c92",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3659,11 +3717,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "e7281228db1a2c77e7bb72fef6bc774623cf0a3cb7d58ab44c529ef40ea5fb2d",
+    "output_sha256": "34e79e6278e3d605128f012f1fe6a5c8b5d18d2cd43ae365a4cd060d36996720",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/poetry/poem6.html",
-    "local_edition_sha256": "2a38ede9d53686b28b61840c0dda84438f81eef7e6e86652562331ae81df693f",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "c8c5dac52d743b36c024706fa8ffe7f0863db3b7d029bdc656c5764a55fe3bc5",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -3676,11 +3735,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "4ce4c5010b11e9381e97a78645ebb6965e1dfb78f1e892fa38055c2b429ec2c9",
+    "output_sha256": "110ceb3089f85aa7d65e1322f2596adf00a5842ea4b8d8046cb952529346bf07",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/poetry/poem7.html",
-    "local_edition_sha256": "940f8cac14718997756571cb5f89e57cc39376463cc1eace8b56adcfc5f2613c",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "875cba734027a26a1ddd445dc8e8595a0f2a86b7528b8da444f9f8129efba380",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -6866,11 +6926,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "693932d33f4bea3fd0506972a2c5e6e90d470ec953cc4f1812ad3681c61d02d0",
+    "output_sha256": "9f7a266979a921a13793f02aa18c104942e25da7640f165123da2a35876dbad1",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/captures/1998-columbia-home.html",
-    "local_edition_sha256": "e6a49822609b43185fa60241493927c38689e8bb262208304c10920ed6576764",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive."
+    "local_edition_sha256": "813d9f81c958d1f6af3c14049240de7211a3365e0062e0e9b8030e48b736463a",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -6899,11 +6960,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "c8f3b9fd2b7fb3a2889fd97afb6c3bc84dedb0c3eeb84203a65ab80872d2cb4f",
+    "output_sha256": "48f2ec9ced639da277c60cba916f31f28ca46b200146a96d13a54d97dcf4b5be",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/captures/1999-columbia-home.html",
-    "local_edition_sha256": "b0fb00452824de5d498e34a2d21b09c241a6fc39e4392312ececed2fc991e844",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive."
+    "local_edition_sha256": "3a33551b13ab92f9e4625c94f0c3e26fa017914c8c7d513bbc55e6096f5b9507",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -6996,11 +7058,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "bfd8c0ade62088a6b550b66f5de18c796271367e0604b5301e92364d4f7ee464",
+    "output_sha256": "45f8dffa434cbd66ba55e557ef7bcf3cb4f52c99f18d4e569e16bb7a9dce5a2b",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/captures/2001-acknowledgments.html",
-    "local_edition_sha256": "dc3668aa0f7030feb143fb05036e9c987760db29705c3712b31af36545647ca6",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "bb6ec7d82111a50613915270c5878c17046a002dcd0eb992c1955d2e00dab716",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -7045,10 +7108,11 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "14eead6329832fe7ae527a8651561986230b8799c8245a96eb8ab4392e9a8089",
+    "output_sha256": "8a10b30d8d29ae80105087e6d5f5b48bdcbf85865e1e7768bceecaa2e607d460",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/captures/2001-home.html",
-    "local_edition_sha256": "0773b4fa39ea39d75b41d976ce956b63933fd8f69b38ce9fe2eea6f0ab305ba3"
+    "local_edition_sha256": "e4fb1d66c03ea41bd8fad9ec076cc8cad1735ae40a89754e5836a3e3c8b13b77",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -7077,10 +7141,11 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "e7ea93511336a0927ea98009e89f1998b41a7cecc38916990f50e82007f2d5f8",
+    "output_sha256": "507a49b9611a704dedd0c7a712d842cfdfeb923e4d5eec5511467a550b707e2b",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/captures/2001-orissa-oriya.html",
-    "local_edition_sha256": "a40d44e747b58d880297e3cd469efac72d5342cf9ee73b9c7b84593b3b769686"
+    "local_edition_sha256": "13ed1b87467bf9b603d37ac1bcaf037ef06648508458195e79b7d3e99dd6d3f4",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21148,12 +21213,13 @@
     "derived_from_pdf": false,
     "recovery_note": "Original homepage HTML and layout retained. Artwork may come from separately dated captures; see the restoration record. Links are local and online services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "7fb6a6e90880d95ace24d45a758c5818d12b73b2cfa0666105420fc9f5050495",
+    "output_sha256": "cebff9243928bf8bea8b87e00e132db61c4080dc80bd7eacc235476fe78bbd3f",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_preview_artwork": "odiya/images/mrgodisa3.gif",
     "local_source": "odiya/index.html",
-    "local_edition_sha256": "d625d882db6f4607e3240a25f25d41be06bbf8312b007a88f2a52e3c66498938",
-    "motion_restoration": "Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Circlet banner: image and animation still missing."
+    "local_edition_sha256": "238b2ce086aff2d24b3fe0ec83822957aaea361274e9469bf2389c92a149570c",
+    "motion_restoration": "Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Banner image recovered; Circlet animation remains unavailable.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21166,11 +21232,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "01c6ea40be90d5dfbcdd735c08f82afd4faf6f1ff8041817b5027d294fe98e3b",
+    "output_sha256": "3af87ad3d6b8ec7c2dc4710627ff58501d340a2d8ed76edbae27c97c436f7727",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/indexold.html",
-    "local_edition_sha256": "679f84153685cb4732a3e2f1c261ecb1c170c7d49e39b5282c21953c78dde9a8",
-    "motion_restoration": "Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Circlet banner: image and animation still missing."
+    "local_edition_sha256": "2ba0320bda457be5897cebfc2ac7a5a5a30d1ef7f0bfb8dd7898b30a9e2c6065",
+    "motion_restoration": "Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Banner image recovered; Circlet animation remains unavailable.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21183,11 +21250,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "0dd64f5ca091d0a425a9415a9bf241a2cb850ae770da8e28458071695bc98cac",
+    "output_sha256": "18d5e01246eea3fb1519295dd17e235ab9d4189a7c7910ac5c41daae01e0486e",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/jokes/joke1.html",
-    "local_edition_sha256": "62f9247d21eaafa0fc419d3ee40486580f9f5c1a69b8ab01f81e9a7f2ea885d7",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "c7d7a526b4045101aae0eb2b7e6ab47c2d0562f8b113d67af028c2c0a0372b72",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21200,11 +21268,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "bc989dfb5fe9ae3040cc88d91bf35e395365f59c9d5b161ba0432b26f52b6693",
+    "output_sha256": "c8106b7ac976e6db07d2b0586406d114e5c100fd372677086654f240194c535c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/jokes/joke10.html",
-    "local_edition_sha256": "2dedb966bbade8d71c5f765a132e6ef9d988a2fec1eb7804acf4b6aab9f59188",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "23ed86c62d06901195c9fddc6e6d2a810bcd085e0c1ccc7261f45ffde7d6f35b",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21217,11 +21286,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "78105cf086ed7de1ae6c7e95d02c0660b6781c1849df24d261c22e2e3d1ad5a7",
+    "output_sha256": "a305848215e229ef22199c219db4da08b06d2f3a2ae51bc65e0f2cb3f05e7891",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/jokes/joke11.html",
-    "local_edition_sha256": "64d0159c74105409508b6ad4a752af1b42fa0886925b62801fe32857d83994ca",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "226cf51e7e98b562d726c54cbe8a412593f90b5fbe3bdf6752f41f4e814d5933",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21234,11 +21304,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "dfc37c6cbf2c1465ae0efe7e703f14efb13a165ed7f328fd3f9f55f3f8e602c3",
+    "output_sha256": "dbded13b9a5d32ca9746a4a36e21dd92f224ed6d0e6dba2f6d2b5ca0e87da180",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/jokes/joke12.html",
-    "local_edition_sha256": "9547970caaaf56d5c8ab474e62bcba493581df9066897afeb31b8f7a3bdcfd4d",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "3a7cc176114d1cdb2585858fc22b53c99c67e79b47c63d73a2364e7f02ece74b",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21251,11 +21322,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "f03eca242211cde9afcfb73bfecd37310898c463f206d8465fa90e511a12d759",
+    "output_sha256": "0ea6a4181b979ba0ee9fcc544f492404e414a1b22736bca0861c622321564798",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/jokes/joke2.html",
-    "local_edition_sha256": "e6344188da6ad5da74756b33478180504902d31c5d31bba1430dd8cdf2e56490",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "5689efdd63e53b7b222ceefb5cc4953554cd4b84192a9007c1c22b0aab2a971a",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21268,11 +21340,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "01afe9d771278baf40deca6fb540815ae7e85be83815368ce84718d730d596e0",
+    "output_sha256": "a005fc3d63be9f2b72e05122b754d30759be70044f568c86d220f2b5b3b90f34",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/jokes/joke3.html",
-    "local_edition_sha256": "3d4a9d616eec64d4e893330d0e2bbc58ba39218dfe46055d061ab6fb45364b4b",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "b81d5cad0b58132bb6bb82f2b6f50e6213ad4ef79a06fe98d6dbcaaebec3a600",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21285,11 +21358,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "4b428ad7cb4decf6639ba56f5561c67ff3b5c13f8492a9686f3daf75ee53d01a",
+    "output_sha256": "ee909f2b8171bf4664a15f771d4ca31d93d49c5cf8b05a2eb88eb69293b62e2a",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/jokes/joke4.html",
-    "local_edition_sha256": "b5e8c2edcc41c17d0dcb21637930a14d9d1b693d8120e49bbd6de4c0dc2278f0",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "b592e8e41fe4e056150c15a7e7a186698a5b5e75b476c505296a26a7e1ff7aeb",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21302,11 +21376,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "f3034dbc3c8fd2d0ace74a19b243c8bfd73fb8a46dac55f8ae8633f1d33a3150",
+    "output_sha256": "d42929b4cf10c1418ee397f894a7d32535858eaba74f1e3843dd930a444d0888",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/jokes/joke5.html",
-    "local_edition_sha256": "a2f86a68b59c544c7d1efcba05b83c4fd5d624e3bab9562ab237969716f039e1",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "e67e4c667d2c3e27af940fb55890882fe27df185384c69fb0147d6fd2aa0ca7e",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21319,11 +21394,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "1d4b24532cfffbe0ba1b0d1ff538c6b02883a36a4b3f54ee756066d3f4342959",
+    "output_sha256": "369d36d554d6ff8eb1d56416689160a79ee0c3452da776cec3338e67747188b5",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/jokes/joke6.html",
-    "local_edition_sha256": "17d9d783f8c7a505abd190415e4d318c349a130cbc60969a806a87af734f2e2f",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "8ee4968263e52384a6d842af6122ed480be484d254f3ba40d7fd9e482faffff1",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21336,11 +21412,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "a7314c95b5c25cb1ff21fa494a7b9f867b099a607257e30dfefe393e781ce8b4",
+    "output_sha256": "06cffb519be57c8541f84a4d1c11e70e4108ba0df9b80c2fb57b29246bcfb6fb",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/jokes/joke7.html",
-    "local_edition_sha256": "e93e58b8aff8d7fb16caa53ce3be4860b95afe79d2d113ca648f377b5d6c3616",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "624828b8257f1afcb9e9f0b68a5b7ea3386c1016dbdb9273e901e5649e6f2584",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21353,11 +21430,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "36094753acb6931a3365d729c0209c01371f93f27c00e5317176997ac5837e74",
+    "output_sha256": "5181d828a3c1f06fff06edde3c58421a0b9ba81ee7c1828c84fbc325a84c4b35",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/jokes/joke8.html",
-    "local_edition_sha256": "ff78a809ff8084c52cab6a44c844f35485b1720cabf662150ed336b769cb55f1",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "eddab7ed343a0b106073e3c0528b50f32b52fa2acef231cf5427200ee99fb67e",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21370,11 +21448,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "6f2e0b0b8d1d073348833d099d3898019ae1aacf174fc59d689413a87fd0673e",
+    "output_sha256": "e66560ecedc028310dcdfa2838a867d70dab240ee364ac26447bc33e4cfde17a",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/jokes/joke9.html",
-    "local_edition_sha256": "e2a1fb65be915175e11c2df6c098e0fc228e1a4a1a5ce034ffe9fed71f5bf0a0",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "56c8c0e572db62346c3b1216c37ad6de41cebf28793509f6fd086f36ad63b9da",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21387,11 +21466,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "512dc9af8e8bca660158257cdbf3c0054777dfb1c12ff36c7ef4ff586fb60d98",
+    "output_sha256": "2d7789e2b4c02e119012721a01aeb038e7b30a65ea181b20f1b4ea8258c920f4",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/kids/chandan.html",
-    "local_edition_sha256": "0457cdda66d1dc1c7813e2afe39b284bd63f8ba19702fff0b2b8d9fc8602b6fc",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "75b01cee9f6866f0aa93cc23a13893ebfd9c91fa7f836bb8c2f2d8be5f69ed2c",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21404,11 +21484,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "62964526e16576c5ccd0ebd01c9e42df91206728f97f0c869afc49939107859a",
+    "output_sha256": "407addefd425b11ccfda5d68fe4cc72fa0b2f7a4b907fce1477c17824e912f5b",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/kids/chandanart.html",
-    "local_edition_sha256": "607f8b48aa5f3f535e4e9cddb0a18ae1bca06316c64f03f5474d476bedc8c33b",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "bb60e721086a7a6123f7945eba265d65ea4bc7e3003a8157a1ba4bc5ee4a21e6",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21421,11 +21502,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "52efe7e7dd9332468d0c672509b478f7fab81b8aade22b5df6c79b4714bb15e2",
+    "output_sha256": "2e330e04b4eeabc3ba389ce6de3550e243e935a5b19b2d59c667010e9c4f41fe",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/kids/chandanpm.html",
-    "local_edition_sha256": "18045235fe092b0d5ef004e7812fe915a73f605aba3d89e33d8eda616ab2b7df",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "5db3b7e6be434aac3ce8c8931e5f19d90a2b9d669a7f603893c22b171a46f216",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21454,11 +21536,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "772f4202fd83a3b9d7b9a9f36be03c2bef33895196c01e330eb3d2dd8845a5dc",
+    "output_sha256": "c6acb5fd4aced5801727582f4c2e0629d3e22bd81f2b5ad3e1c9f82c4e18fe61",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/kids/kid.html",
-    "local_edition_sha256": "65c9c2d6cef4ab1c64d18d7a27ee05dce143ba0ebf1b92b90077a6e98a3f2c68",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "a8a4c4f9a48fb84a77291269a0dd571f93d3090f9781765b5f18ea083d5140d3",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21487,11 +21570,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "15a78ff7cbf195235df430047740b76952b37cc1eadae4d33ed8bf0a11fe2d88",
+    "output_sha256": "565879080be4339f57b243c51e172f245c4f25e7755d73ec8584fa468f57fddb",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/kids/kid1.html",
-    "local_edition_sha256": "dcf7ac4e36530d04f6b782439d7f6a3b525e493726d1a9cacaf7b376a1971d51",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "e6bb80f6c9a999af71dfa4459c8ef5f04af10ec58225eea5c9c8b739468baf25",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -21504,11 +21588,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "15a9d2bd156760a303d9495f0bfaa08def69e43d95f884329893590dba157c11",
+    "output_sha256": "1d8038a0a628b58eb0727538b0458bef6e7d62f555767d45016447eae1699345",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/kids/sambit.html",
-    "local_edition_sha256": "8c2c38bef6705c7f74b9f2eaf4b4e0f365676225d05fdba1ac6b384e2a403c4c",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "9e10a8793ba40d9768a5b1327ae4c4698167be53b08451ed3047223d5ba32021",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "asset",
@@ -23582,10 +23667,11 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "4c0423794fe4ff18067ec9f235ca81ca651a756aa1808a8553dbf95536000686",
+    "output_sha256": "64218c517cd9839b556c3f62773590f5c0349c52b77a65d44e9ca63ee722f562",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/OrissaNOriya.html",
-    "local_edition_sha256": "63e8d885823aa6e4a21d84cfe67a7bbf52a5bfec21031facef0b5d7e4cb7241a"
+    "local_edition_sha256": "44a2e1f2f775c1fd79fc6e01b2bfb5a8ca0749ab9321fa190bd348f6365f4026",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -23598,11 +23684,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "40213cd1bc8d3891bdcf7ad3b3cae6ccb796d42a3f35adf462dc522d30538caa",
+    "output_sha256": "aa4f18f98e62f609787f7c08be50d72a5b6aae704066c4b829c4dc39da626822",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/art.html",
-    "local_edition_sha256": "da4e113985b11994ace76448d263fb6075398f55c035a02ec02306d6e9a4bbdd",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "98cc35887b1ce4e6b2ebb76de5225447ecb0179314b445dae947c5e4929be3bf",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -23615,11 +23702,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "a79d9d89b909787fef17f9bed5894f4310bc2699f6e9b9db6f69546f828d8889",
+    "output_sha256": "3b03c5f717f3a2eebef4e2b5a83597f7a30f1035a23f3d093b6838dfa3b8cd1c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/beauty.html",
-    "local_edition_sha256": "88994f9ff6497c2c319c0c7fd0163ca7c92ef6cec0af9ac6331bb599f03d9674",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "2b7a6342d3fa2e80584ec653be47becabbb4adea7845af3ee76541bbbc61e80b",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -23632,11 +23720,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "787ccbbc17b27667bc6cf33e806fa60f6183c8c50f2a33511ee56222fd92dec0",
+    "output_sha256": "ef7f6a56344225a1bc5b2dca09cf470a2cea3cdc238685ce9dd402b42c429ff0",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/bhubaneswar.html",
-    "local_edition_sha256": "4420fc1135a62c537dddcc30607f4bf486842863a5f3bd73a6b0fad3938783d8",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "f000b5ecae39cffd8b0b46b0cf253f429de15097f6389a50e6f50511c7167dd2",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -23649,11 +23738,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "ad9100dc4bd3a5a15aecca3fddb0029a2784c6cb776a1a752e7477055434b6ad",
+    "output_sha256": "8e7cae2095d45dfac0462c22c004075dd477769b7fdf24d4c675463e69213daa",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/enclos.html",
-    "local_edition_sha256": "deaf93b7b4173cde80461711ea9a193a73d3ca9cbd6c2b4464ab37a150820943",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "c1f0718919a47fc648ca44d2f3ea8d28913d03929571ddbed3e263454979b936",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -23666,11 +23756,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "092809f2e46a8d4712496c620cd8ff0e813777a5ae41bf1ce046d6639cb92815",
+    "output_sha256": "77435c191dacd6cc73b69cd03e274dfb00f156b072ada03c2052df9c7c0ad268",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/future.html",
-    "local_edition_sha256": "a514fe1d890fbd6ea22764e3ee8995cb2bfefcd14af417723075b013f309bc7b",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "c210cc8c809eaedd97a63112ae0cf2f47bc1b37829bd8b3471b721ae345b513d",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -23683,11 +23774,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "f903259178dff0770f57f8ffc91af8c558eb4550ccda10d4fc3e68c46e371caf",
+    "output_sha256": "431aa350b8326708f24161d56c656e84994774fb6ec1200133f0ee94f62f6743",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/health.html",
-    "local_edition_sha256": "29efb0fdd0bdd0863d2318ec13028d59e82089afbd9f092c5be655b4a152a000",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "cfb73a0f463b92f0dcb5e09c2b30512c31f8e0431d9ab6c2ca2932d2deb43dae",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -23700,11 +23792,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "87b75da4284202048e0b6a276deec1f9801749e7286964f9d22dc6dacb49b5d9",
+    "output_sha256": "d33fe2008842710adbb7191c1244e01af375bc97c67cbbfb863ffb0aa4ef5161",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/indrec.html",
-    "local_edition_sha256": "418ccafe6addb26dfc546bd91c6f6e0c0a9e68f7ed960298131a46e445aeafcf",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "aa6735d379881fcbf67ca100b708ed6bb5a29b74dee8f89f30b176a94cc6da25",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -23717,11 +23810,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "4c4f90e6e00314c30afa2ea90611628d2787cfb15cf2f2e86ae277aa835782c3",
+    "output_sha256": "abf5c63d8dcb493ed32bd1f970f8acd7b25afdf304a522d1729bd0eb4923fe2f",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/ir.html",
-    "local_edition_sha256": "e94ab8539213dc23246034ba27d275e81c17b03c937a058b1842cb7b37b7d1bd",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "9a7a45db3ef2ed16c379b96d7fabd40a4b2109a91080e7e7daa5c7cf1d76750f",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "asset",
@@ -23824,11 +23918,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "0423f99dd553c9b9de0dd63c8d6c27a101c54bb118ffd50e5c769963b9beed27",
+    "output_sha256": "0bcb6a27f8ead15944666c68afb68f4904e011ace0251b2e82f277af73d78e9f",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/odiya.html",
-    "local_edition_sha256": "2c8d10a5ed3732f20a5443ae5cc8f2c3855c52d089cc652e479ff1d867f34eb2",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "15825039c0009e38f2f1a8c76bd43f64088a71ef6fdffb384758b4e906671c99",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -23857,11 +23952,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "ec9f4008ed2ddf0c9820d01934a3880248a30bf5473c33cc757f00b28a7a8496",
+    "output_sha256": "082f6bb523a8cb2102c201f3a03e9c8f253320b6f0099b384fbe7a841e1cf919",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/sahitya.html",
-    "local_edition_sha256": "b10584be82c80380c5b0c05a27497396a159cf592e08706726f77587026ae4fb",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "2afdbe5675884decb3e266bc9825e21c6f7591e99ab16c5990f4122f2be93edd",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -23890,11 +23986,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "247181462cf6af3403957e6ef1ea9d022433ab5491a4ecc788511de16cd7920f",
+    "output_sha256": "4ef9baf75454eefa8f6bb26af911aa434252339fe746d2852949a08b0ff3b5f8",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/temple.html",
-    "local_edition_sha256": "13daf590c8cad4782615d245d7f093af9f90697550e45d5f37171cb9e15a7dc3",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "7b77c6f3e17f8419bfe70a10d8137efdcc459b18aebf6d1cafbf24d42af1f507",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -23907,11 +24004,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "d5a2887dea816f398f2af5393a2b808e5f4d0d2711382a8fa764230577830c64",
+    "output_sha256": "9a813f7abd77815bc7b0c3cc227dab2e689353880dc9462ea03339d54743e61e",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/vasa.html",
-    "local_edition_sha256": "e0faadaaa5640f37e2421f25eb09bf2bbcc015c6165e5c46ca7936c142444375",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "c2179c5e40ce5a4498b9e60bb42f6cc02180970254b82f1534fdf024aca5890c",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -23924,11 +24022,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "34783832362185de284ecaf40b4d99daa01879b0f1438c5c7575b80d9b1e21eb",
+    "output_sha256": "261e95bb49fca700b36c4e6749fb7f3394036bdb8d4b45c0731f94033f885cdc",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/visacan.html",
-    "local_edition_sha256": "1a298bea4946c25c7f7a42b352a05bc1a765edf778caff25cec94f9b8a40a669",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "654fb9e510fe93f1aaa740fe83cc8612e7580d42f4f21e8d7694928e514530bd",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -23941,11 +24040,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "da64d4dea451bdfb54e99ae5cb67b9ed406a81c490a04fa4dbd236ef5342bce6",
+    "output_sha256": "a24bc2fdb79d7a5af59e75f658eb99ba73e17c7822085ceb3720d59ad22e3bdc",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/wild.html",
-    "local_edition_sha256": "b5a3543defbe708ef8bd08dbeac9daccdbe0b1e16073e6a984a45a2e06c1577c",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "79b95ae6c5117affd8ee05a5644c5c4c08d785537e9c5404777bb45dc5971ba9",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -24721,11 +24821,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "69c5acaba2e57515d964c293425200bf3654d278e8c19926587d9b6d2de29a68",
+    "output_sha256": "e137c2e33779676f8f953fac40553dd761dad0147c1ec0083df26da9e6e2b81a",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/odlink/coollink.html",
-    "local_edition_sha256": "0dd4edca77d4bb9e6ba3c0a526b56a44119e367f0c42587ff1122bbe487e30f0",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "92d0d015d05a32f23cb32203493467c308d1e198bec3dc14ed62995d07f55ffc",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -25009,11 +25110,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Original audio files are retained for download. Playback of obsolete AU and RealAudio formats depends on a suitable local player.",
     "original_url_inferred": false,
-    "output_sha256": "75f7e36038f7b92eb7c1f6140facfa8f51bb874614d7bfa281708f067f1acf7a",
+    "output_sha256": "44d43d6e998a48d2ff9c42a647ff8d98c8f1f61064879718c66aeee079f0a84d",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/odsongs/songs.html",
-    "local_edition_sha256": "5a19e0e95f4ebd59961cac992e8a2f62e757a6b2003393797ab46b424a085c2f",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "ac15f34f09d4deb579e33b547314f700504564f27b79c59aa94f84efee18d84c",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "asset",
@@ -25131,10 +25233,11 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "53177688186878cdff5cefd4474635cef066c923f0d5d5710ec1815c3f690dc6",
+    "output_sha256": "f932ddd8cd32fca8e747b8a5770f255b7aab27ded95a56030bac4783368034af",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/old_index/index_old1.html",
-    "local_edition_sha256": "6ceffef5d1aaecee6e0c7c65ae99e49be090deb13e59085d7de8c7847761d110"
+    "local_edition_sha256": "b6436df7136de30e50ac1cba2f6c1a7e3f1f055cceae5c20d7da39ceec4b55bc",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -25163,10 +25266,11 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "ba4272b28ab7cb8657b464ad89d3ea359d44cd0bade706dbd97435b5b9245792",
+    "output_sha256": "cd5e61a48ee010df2f865693586fb1c7249a25076653062e5f3e692edf27ec2f",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/old_index/index_old3.html",
-    "local_edition_sha256": "7f13189be89ea4e398673ba512c3b3b894700b382b59f09b87d121ba29a83cbd"
+    "local_edition_sha256": "f357767a38de8bc16dd91a46d0164ab5167633317be9ea73e3a5da5c298c1b08",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -25195,10 +25299,11 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "37c8a50c94d265b05c5710980caae495afc9a4be9a408ae45ea8f789a1ff3c79",
+    "output_sha256": "a625a4677f44a2ee7cfe277b0398527cec819dc430dec8196c7b2e37fcc592e8",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/old_index/index_old5.html",
-    "local_edition_sha256": "d629be019424e208857881f9dc8f88ffe1508a6688172d5c840e814eae06275a"
+    "local_edition_sha256": "c48ea4a68646e58e3e9c82fbefd2e10eb6a1a69bc85ccf337c61354a7ef87e60",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -25211,10 +25316,11 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "1032afcaf18f1d2751a3f09ab00d8a28571142b8ed7a29d1ef2ef9b23dcb61ae",
+    "output_sha256": "fcae4ab4b462b792ffe44c6a007cfb7ea7c34ad42adf5cff732df8ade8a7b25c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/old_index/index_old6.html",
-    "local_edition_sha256": "f74fbd9b69b88f5240e113f5211908b3806051403ac6becdb99ea199e94474f7"
+    "local_edition_sha256": "95baac90a8536ac3c17d4be798b1c90619e8dcc9d17bf96653c81e076d6f8950",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -26163,10 +26269,11 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "01e5faeb5a6652ec83733affe59ce12df6a3be17dbe0bb37de1e202747a774d3",
+    "output_sha256": "bf2658b23c149debb0a1276293efc14ecf6efbed4d9957f2d327ef3e107141de",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/old/index-100295.html",
-    "local_edition_sha256": "f5ac3cb26f2608ce3bcc7d64f4fb2b7d0dc879444e2791a9470b38ef12619773"
+    "local_edition_sha256": "dab676ef779e5b325a8041302d9c8263cd9eac49fcce6fb5474c5c302ec403a2",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -26179,10 +26286,11 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "448616fcadfeb95c43c0ed1ad7629d8754db6fdd76fdb3e4cb570c6178e02905",
+    "output_sha256": "e0bc5be4be6ccb4934e3af0dd261f7b3b0f31ab9472951c4b1e84dab7b7b3584",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/old/orissa0994.html",
-    "local_edition_sha256": "464ae938e0f6cb699c731d394debf2e2b092672cfb3260c6a983f165d4495d1c"
+    "local_edition_sha256": "49bdca8e672cbb3e6fb66d5e8e45801d30e2b8ffd17336db6af1ab9301a7518b",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -26195,10 +26303,11 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "0068fcb66f91736780ee8d54a076ba455975eefefe657bc891a68db2909b3d8e",
+    "output_sha256": "260e1c99f938bbd21e82001c7baf778a5f509b0eb20667a56890ee7820238461",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/old/orissa101694.html",
-    "local_edition_sha256": "0128d9f57ee0535798fbe080642995ff8ccf51efef67f91564f88574b94e0f03"
+    "local_edition_sha256": "eea74d899f4960abb31e46c985a968cb1000fb6c34827d203ba7bab8f8aaf9e1",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -26211,10 +26320,11 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "9cb63ffb90e2e9fe9c07558a25ac7da50404c4d9d0adf7b87e4fbd5bf53ebd22",
+    "output_sha256": "c5249cba4a0ec3d78832c4762b1d8dad507529d2c2b0a1bc28641f52191bc4f9",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/old/orissa1094.html",
-    "local_edition_sha256": "1e48dd25582495c4ab6c1c50cfb450b6643972540133caa1a41a7f44f6f03582"
+    "local_edition_sha256": "14caa9d9d79571287d58587e65f7c7e7369707b540da8ba4d2d0ecdcb61c8167",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "asset",
@@ -26597,11 +26707,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "f540cb453b035bbab2b5a400d7d0fd484fa6a09d6d956186bd05bc5ec5b3ff17",
+    "output_sha256": "2ce5d14cba74aafe04a61ee8f2ddf760edb7267a7299ab989b319c8021984aca",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/ornet/ornetfr.html",
-    "local_edition_sha256": "0ad6e0842a6a224cf437b339d1364eed71e0a0fd58439a9a67c1f783e7bbe65f",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "dc2ef027be5e90c2dfbe5e7871e6037c4597a2a6f8fd9abdfd705836d3d0b5ee",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -26630,11 +26741,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "4d06776193c5c5f9680b36d25696cf143be5058864641b5e016c94aaa8e9be0c",
+    "output_sha256": "0152ddc90026b8c719b79c962991aa2c7e6287fa7e8a0720b43070779502630e",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/people/dml1.html",
-    "local_edition_sha256": "b3b8a80b43583433ceee7a6970109d0768a9e0752e948cfec271f4a247f23ff8",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "c87dea20e85818e31b91cdc6d0a1ebbda3580c1646761a8ff977bf34150878d0",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -26647,11 +26759,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "76f07c84026f3c622cebcca7628023894e635b13accdb876413389bbd6490ae5",
+    "output_sha256": "83f5b1dd3d5888710a4ef8902b0ab8e57b07cef3728bcc448c5f3a36f0b308eb",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/people/dml2.html",
-    "local_edition_sha256": "a40f0d9d0e3f82832dd46a5afd6451e245aff30381c282e0b98c799ce34fbc2d",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "2740670d64f10f19d5990693b96082497b6c21016198bff5ac958e137b3a49bb",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -26664,11 +26777,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "fbad7718b03707e59a0c5925827b51ef2e1cf5a265d35db88fb245f9e3ed0644",
+    "output_sha256": "a9cce3737deff19856476ef3cf4e7d5db4887c64deb83d64ac700e03a2a1171c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/people/dml3.html",
-    "local_edition_sha256": "0f65156f4f1bd74e2de3b0c15b54872f062c47d2bbb8831052bfd05bbf73107f",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "5f5e31f3c96172174748360071f1e4fafe65c36becb98d7cd02ce44ca165621f",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -26681,11 +26795,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "22c99b43d8f41994e88dfcbe27f7fbe93c46c9ea02e0adc87ad2932beee63359",
+    "output_sha256": "b48d68987d397381cdd25c3c54c196be1219b5ac19be46f34a91ae07ffaed21c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/people/dml4.html",
-    "local_edition_sha256": "d5bc79f82c8bd65f46ff05f11c6b66c381f91b29c22867a15e5fa6ee1cd5301f",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "b21d24cbfea3037dede648bf9dceb93f20e32a59b394e76adcfad0d7b29715a8",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -26698,11 +26813,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "c674378e0426fc166ef532c290d9caa9d8f1337053e88493dca77b1b072c3f37",
+    "output_sha256": "6983d235efee0bc572a139c3c230371cc9e0804fb746db6d3cd4a4af4bce2b90",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/people/dml5.html",
-    "local_edition_sha256": "f4543ccd2b5f38ab2ee3253cd1c9cad02611b359d75e1ca82a5b42ee4694e8c3",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "ae8e41d8fe1a9d7e82a84bb53cd145c6e13ee1ddfabe9d623b443cad698e699f",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -26715,11 +26831,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "15e10071627b8eee2ef7e5373116b3664fa569075dc01dcd8bc9355266e3aa54",
+    "output_sha256": "76cb61bc6222a446f2254a247d6bbe91daefc7c568d7aa90cd315dc3f545663f",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/people/dml6.html",
-    "local_edition_sha256": "a66f2770dfffb35781f5e15e8bf3c4f9f05eb38e9fd2722cbc467ac5fe77009a",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "0ffba730d34c23ca89bd4b0be3e8c7a6cadb7e43b747987a64118bbb841f49b3",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -26748,11 +26865,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "073db4a04efbc26ef4e54633582c5e96403579f238a19a51a829770d857518ac",
+    "output_sha256": "6964771d4cac7a4d8af04c3e4516045172365ac5c9985616416bcbe6327ee2dd",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/people/prabodh.html",
-    "local_edition_sha256": "419a3e3ab6abeba9d23234919e9b97b42893951bc7bed7e31afd949913d18bdf",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "3d19b70937dad5700c76eefb9001c9e0fb618ce87af68bea0dec64c167a4be10",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -26781,11 +26899,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "81c6d50af37b25791a066bfdb33929caca1ae25ddc77654c88bdb125ea7969ce",
+    "output_sha256": "c8b8dcd3559ad86feb85e49a7c5466b14c86055171ce76220ccb0bd2e53772a9",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/people/sashi.html",
-    "local_edition_sha256": "643765571a266fa73e7e719c447b7e822b6723f52c046de0131d51e8dc774420",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "54ebc6d2098fd4b252700a537ede535ed36e1c30251a8bcdb5f16dd4e0812efe",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -26814,11 +26933,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "d3e9ec5f91ddbda2b9a040e88451f27349f24208e4345c3f40791315de5d0739",
+    "output_sha256": "6b584f465deb4ccbac6f7631b6b92a26dd9c0894498fa6fb6d49dd3e87efa9c4",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/personality/persack.html",
-    "local_edition_sha256": "fe4c1cc036552a65b8cfcdabaf17c81d5ec0329661385e61385a565c8150632a",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "8899abc2e4a9be7f845b09ebe2f924ab28ecd91249c5f98a5e0dd371a3d99f37",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -27134,11 +27254,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "65cddb49af2c75448da81292eb6cb2813a4534ef14eb3b8043dc705e8fb24a8c",
+    "output_sha256": "69da9de97ab5d970a34870d432a71509cdd7cbc560b2e5b598854d1718664986",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/personality/personality.html",
-    "local_edition_sha256": "e122ae9301d66f1a00af77d76574f3da854c776effad34878abeda9b0571f3cb",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "8c58b89e81ae5dec5e29532f5551bd3840cb681a48e1cd957ef770dd9051b31c",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -27167,11 +27288,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "4495cae2b80622c6d351d13b996dd8d1f2faa17add6351c36bdcaa952fc0dabc",
+    "output_sha256": "db54602bbf1637e96ecf9a0f4935a4530f8a1cd5f71c5aa9690283df4c41e992",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/poetry/poem1.html",
-    "local_edition_sha256": "c9f9f930aac24ceb81edf89cb8c72660a931a909cfb3b96f245484c3bb58e1c2",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "178f261884cc44cae3bf6a42a209f7beff85501abdb72067fdd49e247bd4cd30",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -27184,11 +27306,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "4ea739796544badfb57558b5b4bcb29e29c8b193292cd0d352611d838e9cb74d",
+    "output_sha256": "f3193ca2e45aec5a5751f108fe0a575e1a52a8e3ec9fcda702fe001af10fa0cb",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/poetry/poem2.html",
-    "local_edition_sha256": "5a222f339df801d55327d51050a327785150ba3375926f160313feb1dfe9e92d",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "aec5e32a0ce0567341400f2e822eb584c36e78180558905e7201cc3756526001",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -27201,11 +27324,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "7a60dccbe66502fc530fe11134fec44478f7ed62dc43fe6df310a9e4f59cd41e",
+    "output_sha256": "aa07708f9f126194cdbb81f704b78e381708cbc98792c7845ee4168f7b4a0cac",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/poetry/poem3.html",
-    "local_edition_sha256": "23467405a4d0ac830399582219edd0892023da2be8517f8b0912b0523c592ac1",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "1b4816eb04cd4fda5e2607e1202870affb2f84334ab5c586dc0c1e9607da0f7c",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -27218,11 +27342,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "eb63a4df5dc556d281e96e0cba54be9b9f0bcb81fec56aae77fa81311f814b20",
+    "output_sha256": "aec493ce24d0f5e62d79f3bfa6964bd6e220314151865b0f9225e67081bf064d",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/poetry/poem4.html",
-    "local_edition_sha256": "9fa27e4eac7bb1d60d8a9cb0a2df1b6bd8968e8c43f30d1f00927b5cbfcd908a",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "469e2dc41f7e3542d9c960a01bf2ea48a26037fc00f30f0281b357a0d7eb8dd6",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -27235,11 +27360,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "ee96e7f8fb98daa2ffd9c55ec5b950765dc9968b4081f14c41d223e31f2e6924",
+    "output_sha256": "7993cfe3e647a2d0411c57b4227323118694026f10f13ce24b2340a3224ab607",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/poetry/poem5.html",
-    "local_edition_sha256": "6f6d50aa0a36b0fa9ca0528c62b20afe5d6f6c68bfcee661c4e2fc136026268f",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "9e3660796d18ecf8c05179706d0cbac12e1510fbb3296de9e8a31c30b0cb2cfd",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -27252,11 +27378,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "389f9c05842c2e7bfca1c7f68c893d9c06dc51ece739585134e2800dd9a614e0",
+    "output_sha256": "99c8f7b49998be2a1d1819634e1a4889712ea176bcab57c97323cbd74956fa2d",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/poetry/poem6.html",
-    "local_edition_sha256": "b4a31f45a04497dba51cd3220e838e5912e8d8e8e867727e693c87823a1c9a93",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "db0335d302d0cef6063a11ab09ef4dc8568a8bb6004f911221301fc380572b14",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -27269,11 +27396,12 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "51fb37f3452c9f0f568ca935a7af45abb7088102fe70742d1a9b9ca566d485d1",
+    "output_sha256": "75e6677fc78caae07124137a0e855d15cac9b8e4ffdd98f067aad58d6e58c088",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/poetry/poem7.html",
-    "local_edition_sha256": "58a36d8f55879513914b1c702f868e19404efb252339994e499f0ba1aa9d08f8",
-    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "4d4dc7031a71aa0060e1c3b51c213cbe8d79d21ec13171de5b51d8380da0b068",
+    "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
   },
   {
     "kind": "page",
@@ -33896,5 +34024,162 @@
     "output_sha256": "ad98ed719d6e6037e1c15a4ecbfadf909536334274cd8f41159a2f8b00a43ea9",
     "local_source": "odiya/restored-motion/inner-pages.css",
     "local_edition_sha256": "ad98ed719d6e6037e1c15a4ecbfadf909536334274cd8f41159a2f8b00a43ea9"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-gaps/20000919233521-5e90535ae847.jpg",
+    "source": "restoration/qa/odiya-gap-recovery/raw/20000919233521-5e90535ae847.jpg",
+    "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/pictures/hcraft1.jpg",
+    "capture": "20000919233521",
+    "input_sha256": "faf6f3b3d0e9da4e944300881fe744b71c9579e0bbda1156b41ab0cabb158cd7",
+    "output_sha256": "faf6f3b3d0e9da4e944300881fe744b71c9579e0bbda1156b41ab0cabb158cd7",
+    "cdx_digest_verified": true,
+    "cdx_digest": "TH4D3N7PIG6ZQK3VECQ3B4AZTALIYYL5",
+    "recovery_note": "Fresh CDX query returned two digest variants at this timestamp; replay bytes match the second record.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "local_source": "odiya/recovered-gaps/20000919233521-5e90535ae847.jpg",
+    "local_edition_sha256": "faf6f3b3d0e9da4e944300881fe744b71c9579e0bbda1156b41ab0cabb158cd7"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-gaps/asato.jpg",
+    "source": "restoration/qa/odiya-gap-recovery/asato.jpg",
+    "original_url": "http://www.odiya.org:80/asato_trial/asato.jpg",
+    "capture": "20041220200455",
+    "input_sha256": "ebd896106f36c7f42bef510cecb823084ddcaa39e07b14de0489423724e1632a",
+    "output_sha256": "ebd896106f36c7f42bef510cecb823084ddcaa39e07b14de0489423724e1632a",
+    "cdx_digest_verified": true,
+    "cdx_digest": "LSBHOVJHUDRH6Z6Y4ZC4VG4JXDEXWNMK",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "local_source": "odiya/recovered-gaps/asato.jpg",
+    "local_edition_sha256": "ebd896106f36c7f42bef510cecb823084ddcaa39e07b14de0489423724e1632a"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/ornet/ornmain.html",
+    "source": "restoration/qa/odiya-gap-recovery/raw/20041015221522-39119602d1a3.html",
+    "original_url": "http://www.odiya.org:80/ornet/ornmain.shtml",
+    "capture": "20041015221522",
+    "input_sha256": "36b0410b77be5c8990d57647631b13d51d0dd2da541c36071d163119a0118329",
+    "output_sha256": "5aec5127a2d0c6e00cf7d03dc587e888600f0efb373c092ce334617228e60276",
+    "cdx_digest_verified": true,
+    "recovery_note": "2004 frame layout restored with the saved header and reading. No frames or Java run.",
+    "assembled_from": [
+      "MyCommunity/odiya.org/ornet/ornlogo.shtml",
+      "MyCommunity/odiya.org/ornet/ornetfr.shtml"
+    ],
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "local_source": "odiya/ornet/ornmain.html",
+    "local_edition_sha256": "fcbbc64696acd67483e7cae5ba10238ea161853df5fce3496f3e0b0e89e82a4c"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-gaps/20060117183525-joke-banner.jpg",
+    "source": "restoration/qa/odiya-gap-recovery/raw/20060117183525-joke-banner.jpg",
+    "original_url": "http://www.odiya.org:80/Applets/CuteBanner/gifs/frame1.jpg",
+    "capture": "20060117183525",
+    "input_sha256": "3465b57cd9b2033b3e84004bfe8261660aa2312f432c6addb686f85f1dd0689f",
+    "output_sha256": "3465b57cd9b2033b3e84004bfe8261660aa2312f432c6addb686f85f1dd0689f",
+    "cdx_digest_verified": true,
+    "cdx_digest": "WR3Q7EDLSPGX7LS4IOQV5CLLO4W25SFI",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "local_source": "odiya/recovered-gaps/20060117183525-joke-banner.jpg",
+    "local_edition_sha256": "3465b57cd9b2033b3e84004bfe8261660aa2312f432c6addb686f85f1dd0689f"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/jokes/index.html",
+    "source": "restoration/qa/odiya-gap-recovery/raw/20041015213515-427025660650.html",
+    "original_url": "http://www.odiya.org:80/jokes/index.shtml",
+    "capture": "20041015213515",
+    "input_sha256": "74a4d8fada520aeb9571568057003a3ad454b7800aa0f2a0c7569877b4a9391b",
+    "output_sha256": "a19decdde796fc170082b7d40aa57d9424d60202242c02d75f0cb536193a930f",
+    "cdx_digest_verified": true,
+    "recovery_note": "Original illustration and first banner message shown statically. Joke 6/12 link typos repaired using the saved labels and fallback links.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "local_source": "odiya/jokes/index.html",
+    "local_edition_sha256": "7d1054a9dcf6bfcc047df1c6e34782d89b76ec426fa8f96cecb17a8ff0e2b608"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-gaps/20010603034307-b237829cd329.gif",
+    "source": "restoration/qa/odiya-gap-recovery/raw/20010603034307-b237829cd329.gif",
+    "original_url": "http://www.cs.columbia.edu:80/~deba/gujurat/quake.gif",
+    "capture": "20010603034307",
+    "input_sha256": "190c1bfca626fb037c2530f88eaf5cb977c2ffa7798f47b486d8465c912e097e",
+    "output_sha256": "190c1bfca626fb037c2530f88eaf5cb977c2ffa7798f47b486d8465c912e097e",
+    "cdx_digest_verified": true,
+    "cdx_digest": "GOHU37TF2UUSRF5STUQ7J6LJSMTSKUUF",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "local_source": "odiya/recovered-gaps/20010603034307-b237829cd329.gif",
+    "local_edition_sha256": "190c1bfca626fb037c2530f88eaf5cb977c2ffa7798f47b486d8465c912e097e"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/15e9787d4d1dd3.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.odiya.org:80/odonline/chatpro/chatpro.cgi",
+    "capture": "",
+    "recovery_note": "Generated notice, not an original page.",
+    "output_sha256": "2cf3b52e88ff7292856486f9354b9df620811d2f045be6ec29f8f499aa491286",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "local_source": "odiya/unavailable/15e9787d4d1dd3.html",
+    "local_edition_sha256": "e64a0b86860aef5434f96bd8b31b926d203c440919a88553a81bc218b630bef6"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/index.html",
+    "source": "restoration/qa/odiya-gap-recovery/raw/20010202151100-7abe462c88f2.html",
+    "original_url": "http://www.odiya.org:80/odonline/index.shtml",
+    "capture": "20010202151100",
+    "input_sha256": "e9c14123e21fb9f1c7d8bd8319a49b56ae36124a0fedef9044f089502d201d00",
+    "output_sha256": "6100080e481006f71f395148ab89e9f710f421033c9aa4d9dd0370a47eb1d76a",
+    "cdx_digest_verified": true,
+    "recovery_note": "Original captured layout; historical online services remain inactive.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "local_source": "odiya/odonline/index.html",
+    "local_edition_sha256": "823ae6fee1cc475eab8e8142a4342c63045de0051c797c56b861b543d84c1e86"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-gaps/20000919233554-7eeda9fba6f1.gif",
+    "source": "restoration/qa/odiya-gap-recovery/raw/20000919233554-7eeda9fba6f1.gif",
+    "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/hpicture/fil8.gif",
+    "capture": "20000919233554",
+    "input_sha256": "9abf4c9ed1fd640c9a6dec730dc900dda81e9949a7e5c43f32c26783e30bd787",
+    "output_sha256": "9abf4c9ed1fd640c9a6dec730dc900dda81e9949a7e5c43f32c26783e30bd787",
+    "cdx_digest_verified": true,
+    "cdx_digest": "I7OOSKLFOI6RR2Y33B7YAGCNAW2AWN6Z",
+    "recovery_note": "Fresh CDX query returned two digest variants at this timestamp; replay bytes match the second record.",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "local_source": "odiya/recovered-gaps/20000919233554-7eeda9fba6f1.gif",
+    "local_edition_sha256": "9abf4c9ed1fd640c9a6dec730dc900dda81e9949a7e5c43f32c26783e30bd787"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/4ba762a28a1d89.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.odiya.org:80/odonline/wwwboard/index.html",
+    "capture": "",
+    "recovery_note": "Generated notice, not an original page.",
+    "output_sha256": "7681b80ca6a45716335ff626799bdc2e4c3c6c82e3f9b8da36067cfa5e3c053b",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "local_source": "odiya/unavailable/4ba762a28a1d89.html",
+    "local_edition_sha256": "c07f14f8fd734e2b4bfa10a35ae1a7ee260dbabfb1cabf29f31b0d4b0b697515"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/13167e0a09e372.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.odiya.org:80/odonline/forum/orissa/index.html",
+    "capture": "",
+    "recovery_note": "Generated notice, not an original page.",
+    "output_sha256": "bdaf329ce06c7a091081b2d2c89571942e7799b630909c42b928b1f5972631da",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "local_source": "odiya/unavailable/13167e0a09e372.html",
+    "local_edition_sha256": "73388228c8589e9d22bda721e60137eaf00c0941e8d4c437d022c30fb9ef4d6a"
   }
 ]
