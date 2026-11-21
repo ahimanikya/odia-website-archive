@@ -1,0 +1,13 @@
+
+BODY { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 10px;}
+ A:active { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 9pt; color: rgb(0,0,255); font-weight: bold; text-decoration: none ;}
+ A:link { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 9pt; color: rgb(51,153,255); font-weight: bold; text-decoration: none ;}
+ UL { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 10px;}
+ A:visited { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 9pt; color: rgb(51,153,255); font-weight: bold; text-decoration: none ;}
+ .TextObject { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 10px;}
+ H2 { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 16px; font-weight: bold;}
+ P { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 10px;}
+ H3 { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif;}
+ OL { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 10px;}
+ A:hover { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 9pt; color: rgb(0,102,204); font-weight: bold; text-decoration: none ;}
+ 

@@ -1,0 +1,3124 @@
+[
+  {
+    "kind": "asset",
+    "output": "_community-support/bandhu/About_Us_Hhighlighted_1.gif",
+    "source": "MyCommunity/BM06/About_Us_Hhighlighted_1.gif",
+    "original_url": "http://odiya.org/bm/2006/About_Us_Hhighlighted_1.gif",
+    "capture": "",
+    "input_sha256": "d442a086eac3c87173d6b284856ef43177314e43ebe4b9d2c723de7bf5ad610d",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "d442a086eac3c87173d6b284856ef43177314e43ebe4b9d2c723de7bf5ad610d",
+    "local_source": "bandhu/About_Us_Hhighlighted_1.gif",
+    "local_edition_sha256": "d442a086eac3c87173d6b284856ef43177314e43ebe4b9d2c723de7bf5ad610d"
+  },
+  {
+    "kind": "asset",
+    "output": "_community-support/bandhu/Contact_Us_Nregular_1.gif",
+    "source": "MyCommunity/BM06/Contact_Us_Nregular_1.gif",
+    "original_url": "http://odiya.org/bm/2006/Contact_Us_Nregular_1.gif",
+    "capture": "",
+    "input_sha256": "c2c51500e0f1bdaebc97f387375c58a77b659a889e5bde28106ebe70b886bbb7",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "c2c51500e0f1bdaebc97f387375c58a77b659a889e5bde28106ebe70b886bbb7",
+    "local_source": "bandhu/Contact_Us_Nregular_1.gif",
+    "local_edition_sha256": "c2c51500e0f1bdaebc97f387375c58a77b659a889e5bde28106ebe70b886bbb7"
+  },
+  {
+    "kind": "asset",
+    "output": "_community-support/bandhu/Events_Nregular_1.gif",
+    "source": "MyCommunity/BM06/Events_Nregular_1.gif",
+    "original_url": "http://odiya.org/bm/2006/Events_Nregular_1.gif",
+    "capture": "",
+    "input_sha256": "3742d6581f63b97b4d7732a8422c30850c89c7b1d97499d8ab056bb53d094ed8",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "3742d6581f63b97b4d7732a8422c30850c89c7b1d97499d8ab056bb53d094ed8",
+    "local_source": "bandhu/Events_Nregular_1.gif",
+    "local_edition_sha256": "3742d6581f63b97b4d7732a8422c30850c89c7b1d97499d8ab056bb53d094ed8"
+  },
+  {
+    "kind": "asset",
+    "output": "_community-support/bandhu/FAQ_Nregular_1.gif",
+    "source": "MyCommunity/BM06/FAQ_Nregular_1.gif",
+    "original_url": "http://odiya.org/bm/2006/FAQ_Nregular_1.gif",
+    "capture": "",
+    "input_sha256": "05ca1d79eca8777aae636e08ed61bed8e179db38943c0f95fb0a334385013a75",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "05ca1d79eca8777aae636e08ed61bed8e179db38943c0f95fb0a334385013a75",
+    "local_source": "bandhu/FAQ_Nregular_1.gif",
+    "local_edition_sha256": "05ca1d79eca8777aae636e08ed61bed8e179db38943c0f95fb0a334385013a75"
+  },
+  {
+    "kind": "asset",
+    "output": "_community-support/bandhu/Home_Nregular_1.gif",
+    "source": "MyCommunity/BM06/Home_Nregular_1.gif",
+    "original_url": "http://odiya.org/bm/2006/Home_Nregular_1.gif",
+    "capture": "",
+    "input_sha256": "cdf3cb8315fc5dff7cb89e935b3ecb7cf6736a8bed479e1805d3df9f656d2687",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "cdf3cb8315fc5dff7cb89e935b3ecb7cf6736a8bed479e1805d3df9f656d2687",
+    "local_source": "bandhu/Home_Nregular_1.gif",
+    "local_edition_sha256": "cdf3cb8315fc5dff7cb89e935b3ecb7cf6736a8bed479e1805d3df9f656d2687"
+  },
+  {
+    "kind": "asset",
+    "output": "_community-support/bandhu/Location_Nregular_1.gif",
+    "source": "MyCommunity/BM06/Location_Nregular_1.gif",
+    "original_url": "http://odiya.org/bm/2006/Location_Nregular_1.gif",
+    "capture": "",
+    "input_sha256": "2485916d1dbf0334549dde6d98f1fe7d467e5ad7f151a40fd9feb45679ce6ad4",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "2485916d1dbf0334549dde6d98f1fe7d467e5ad7f151a40fd9feb45679ce6ad4",
+    "local_source": "bandhu/Location_Nregular_1.gif",
+    "local_edition_sha256": "2485916d1dbf0334549dde6d98f1fe7d467e5ad7f151a40fd9feb45679ce6ad4"
+  },
+  {
+    "kind": "asset",
+    "output": "_community-support/bandhu/Los_Angeles_Nregular_1.gif",
+    "source": "MyCommunity/BM06/Los_Angeles_Nregular_1.gif",
+    "original_url": "http://odiya.org/bm/2006/Los_Angeles_Nregular_1.gif",
+    "capture": "",
+    "input_sha256": "a4a1b6e8038ee45e7a05470a6db110e98b750259272fb9997ec4a9582dfa6370",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "a4a1b6e8038ee45e7a05470a6db110e98b750259272fb9997ec4a9582dfa6370",
+    "local_source": "bandhu/Los_Angeles_Nregular_1.gif",
+    "local_edition_sha256": "a4a1b6e8038ee45e7a05470a6db110e98b750259272fb9997ec4a9582dfa6370"
+  },
+  {
+    "kind": "asset",
+    "output": "_community-support/bandhu/OBI_banner02.jpg",
+    "source": "MyCommunity/BM06/OBI_banner02.jpg",
+    "original_url": "http://odiya.org/bm/2006/OBI_banner02.jpg",
+    "capture": "",
+    "input_sha256": "23b33cf1825d901e50c3936541313910ca7ebcb1e9e4ce4e197d56583bf6d830",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "23b33cf1825d901e50c3936541313910ca7ebcb1e9e4ce4e197d56583bf6d830",
+    "local_source": "bandhu/OBI_banner02.jpg",
+    "local_edition_sha256": "23b33cf1825d901e50c3936541313910ca7ebcb1e9e4ce4e197d56583bf6d830"
+  },
+  {
+    "kind": "asset",
+    "output": "_community-support/bandhu/Registration_Nregular_1.gif",
+    "source": "MyCommunity/BM06/Registration_Nregular_1.gif",
+    "original_url": "http://odiya.org/bm/2006/Registration_Nregular_1.gif",
+    "capture": "",
+    "input_sha256": "d0c519dab71d57c98b27e985aff3fc3b6d5a1a22673c133e43d2b9669f7338e0",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "d0c519dab71d57c98b27e985aff3fc3b6d5a1a22673c133e43d2b9669f7338e0",
+    "local_source": "bandhu/Registration_Nregular_1.gif",
+    "local_edition_sha256": "d0c519dab71d57c98b27e985aff3fc3b6d5a1a22673c133e43d2b9669f7338e0"
+  },
+  {
+    "kind": "asset",
+    "output": "_community-support/bandhu/a_dd-banner02.gif",
+    "source": "MyCommunity/BM06/a_dd-banner02.gif",
+    "original_url": "http://odiya.org/bm/2006/a_dd-banner02.gif",
+    "capture": "",
+    "input_sha256": "d0dafded0e71b6baa762606339f61b386fc8b5e911a20be45bc430dc1922cbf4",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "d0dafded0e71b6baa762606339f61b386fc8b5e911a20be45bc430dc1922cbf4",
+    "local_source": "bandhu/a_dd-banner02.gif",
+    "local_edition_sha256": "d0dafded0e71b6baa762606339f61b386fc8b5e911a20be45bc430dc1922cbf4"
+  },
+  {
+    "kind": "asset",
+    "output": "_community-support/bandhu/site.css",
+    "source": "MyCommunity/BM06/site.css",
+    "original_url": "http://odiya.org/bm/2006/site.css",
+    "capture": "",
+    "input_sha256": "7a584ce1a3131661dd13734af1360fc394e7a4c0305fc2147de93119da1be664",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+    "local_source": "bandhu/site.css",
+    "local_edition_sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+  },
+  {
+    "kind": "asset",
+    "output": "_community-support/bandhu/spacer.gif",
+    "source": "MyCommunity/BM06/spacer.gif",
+    "original_url": "http://odiya.org/bm/2006/spacer.gif",
+    "capture": "",
+    "input_sha256": "548f2d6f4d0d820c6c5ffbeffcbd7f0e73193e2932eefe542accc84762deec87",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "548f2d6f4d0d820c6c5ffbeffcbd7f0e73193e2932eefe542accc84762deec87",
+    "local_source": "bandhu/spacer.gif",
+    "local_edition_sha256": "548f2d6f4d0d820c6c5ffbeffcbd7f0e73193e2932eefe542accc84762deec87"
+  },
+  {
+    "kind": "asset",
+    "output": "_community-support/bandhu/style.css",
+    "source": "MyCommunity/BM06/style.css",
+    "original_url": "http://odiya.org/bm/2006/style.css",
+    "capture": "",
+    "input_sha256": "7dbdb5897ae9815a879db41ca80dee96d563d5ca95171a0c8eac4bbefcd491a6",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "07c014a3560d5377c0cb5b07a7ffcbccaa743820c02db4fc230b67866467f6b8",
+    "local_source": "bandhu/style.css",
+    "local_edition_sha256": "07c014a3560d5377c0cb5b07a7ffcbccaa743820c02db4fc230b67866467f6b8"
+  },
+  {
+    "kind": "asset",
+    "output": "_community-support/local-archive-footer.css",
+    "source": "Local restoration footer stylesheet",
+    "original_url": "",
+    "capture": "",
+    "input_sha256": null,
+    "input_is_assembled": true,
+    "derived_from_pdf": false,
+    "recovery_note": "New archive footer styling, scoped to the footer; not original site CSS.",
+    "original_url_inferred": false,
+    "output_sha256": "b7e790e7ba047bd21ed007bf7b29162daf701bedc570b4a03e2b6db29299ae6f",
+    "local_source": "local-archive-footer.css",
+    "local_edition_sha256": "b7e790e7ba047bd21ed007bf7b29162daf701bedc570b4a03e2b6db29299ae6f"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20010410224031-6264214dc6fa4dfa.html",
+    "source": "archive/california-odia-network/raw/20010410224031-6264214dc6fa4dfa.html",
+    "original_url": "http://www.mycalnet.org:80/home/calnet.asp",
+    "capture": "20010410224031",
+    "input_sha256": "d43cfaa6af4fd4bd271348d22413a8a0116a3d93fdf4090b3484d9305f234b49",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "f7144a708e5add839ce82fd001a3541f11ac01cde108c3c18735cb2a5ced6a2d",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20010410224031-6264214dc6fa4dfa.html",
+    "local_edition_sha256": "3020a85ca41f70e89f020b7d4904e5d5c2ac4d29b20a31d9e0377e2ae8fbc01a"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20010410230403-1a8dafd27ca4dbfb.html",
+    "source": "archive/california-odia-network/raw/20010410230403-1a8dafd27ca4dbfb.html",
+    "original_url": "http://www.mycalnet.org:80/home/oriyasevaka.asp",
+    "capture": "20010410230403",
+    "input_sha256": "26f34ce31bece259c888cc1f4150a6eb3abb3600c33759e37b65918fde8eccde",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "0aad66b736affe8f3b0b522dc6f7cca06795d34dbd84de3d9ab616bf30b037c3",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20010410230403-1a8dafd27ca4dbfb.html",
+    "local_edition_sha256": "073fdb315792c88e45df92bd8deea99425e01e99e144667efd638bf94b760bbc"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20010410231400-29d7497a352e5ab3.html",
+    "source": "archive/california-odia-network/raw/20010410231400-29d7497a352e5ab3.html",
+    "original_url": "http://www.mycalnet.org:80/home/calnetinfo.asp",
+    "capture": "20010410231400",
+    "input_sha256": "85e6892ed4993e73b7433e8eb1b7ce6993bba76e2aecebb9f1280e41b255a472",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "4c59c32a45ba9c25d5dfdb108d133eabb42411ce24419f6941ed8b1ee88cb6b4",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20010410231400-29d7497a352e5ab3.html",
+    "local_edition_sha256": "4824c9b03ff9fb904725defa8207b4d87a6cea6027446f6994ab89e518c721b1"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20010418143307-6262b2a0435b98cc.html",
+    "source": "archive/california-odia-network/raw/20010418143307-6262b2a0435b98cc.html",
+    "original_url": "http://www.mycalnet.org:80/",
+    "capture": "20010418143307",
+    "input_sha256": "231a64ca67fec750f101087e504e72ca4b51462561d2269ac8b9fe4dcdf86da4",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "e9c916894c57912167d81f4c63e32a339422b8bb6ad6a491411e913868f9d409",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20010418143307-6262b2a0435b98cc.html",
+    "local_edition_sha256": "898e1d3dfed2c3f71c101361ecc0b4ecb23e6e7a6af29d6d8784e0ef5d7f9ae6"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20010418194504-7a42a7c9bf447ade.html",
+    "source": "archive/california-odia-network/raw/20010418194504-7a42a7c9bf447ade.html",
+    "original_url": "http://www.mycalnet.org:80/home/about.asp",
+    "capture": "20010418194504",
+    "input_sha256": "da61b99a026c8061744ab34c21ad08f4c9bea2a8cfa5f944b1c1805302d9efb6",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "02d5f1401306b75c3c52ec658126ff03f7381f4a771610678741f84dcd480516",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20010418194504-7a42a7c9bf447ade.html",
+    "local_edition_sha256": "82d8f0f892229b62be40e2d2ea04003ca9def8e0583956ca2b4e0dc6d1e48b67"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20010420070103-b9677dfd1d22ebd7.html",
+    "source": "archive/california-odia-network/raw/20010420070103-b9677dfd1d22ebd7.html",
+    "original_url": "http://www.mycalnet.org:80/home/adwithus.asp",
+    "capture": "20010420070103",
+    "input_sha256": "1a0c4cb30b26be93e00a0bd3f2c3301592a3de9c2b117bbedec1861c5214baf3",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "e537e11982018399e5027f44cc34a6b7af290fe462487d0b582e0942f2a90db7",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20010420070103-b9677dfd1d22ebd7.html",
+    "local_edition_sha256": "2aee29984ad6214619ab2a458329d51b3a4cb8efc5f1fbad4173def1dbfc38e4"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20010420071555-080701b1c78197e3.html",
+    "source": "archive/california-odia-network/raw/20010420071555-080701b1c78197e3.html",
+    "original_url": "http://www.mycalnet.org:80/home/contactus.asp",
+    "capture": "20010420071555",
+    "input_sha256": "56ec7f136eea5704f4f315202b8677a84fffdf6244709ec519ec4d4e8be55141",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "71b0eaa162f43c654bfe2f433eaf30db9bed5ad3ff2528153bea1218fb702551",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20010420071555-080701b1c78197e3.html",
+    "local_edition_sha256": "35ee4dbfa07a06ec5e12c14b38e1a31fe89815c20a95ea407b715a8888398a7a"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20010421021658-8bdcc085a6bd0ec6.html",
+    "source": "archive/california-odia-network/raw/20010421021658-8bdcc085a6bd0ec6.html",
+    "original_url": "http://www.mycalnet.org:80/home/hall2.asp",
+    "capture": "20010421021658",
+    "input_sha256": "903ac9c1b1e61b1a3ef653086c3bd7e7f043e67634d3ee89cf9bfd82d9bedf65",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "30f66d78029b66d12a8a7081b2c4e716cad0e78bee3dfb725c579dc478f8acd9",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20010421021658-8bdcc085a6bd0ec6.html",
+    "local_edition_sha256": "82b72bf32f39cecad80d23bcbaf12f95b7d3ca1bd38abc7ce09885be046066f0"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20010421022232-fc3affbf80644f86.html",
+    "source": "archive/california-odia-network/raw/20010421022232-fc3affbf80644f86.html",
+    "original_url": "http://www.mycalnet.org:80/home/tellafriend.asp",
+    "capture": "20010421022232",
+    "input_sha256": "7453f635f62bd213d54069692600bf6d5d09e7afdb13c3c21457a9ca17acad8a",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "ac80fda7fb63dcc916c51e32e0e841bc8315ea1f4164e3e410e4b1729607a257",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20010421022232-fc3affbf80644f86.html",
+    "local_edition_sha256": "0fc92f2320a51e20ff4b9b88b229fdd51c6e5e7a67e421ece330a2d5f24a4645"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20010421022341-6178c59016a5f636.html",
+    "source": "archive/california-odia-network/raw/20010421022341-6178c59016a5f636.html",
+    "original_url": "http://www.mycalnet.org:80/home/ornetinfo.asp",
+    "capture": "20010421022341",
+    "input_sha256": "b0f4bbacef68ee863ff48ab3543899361a429acc5f303ea465224ad9313d386c",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "55ca24ce3d325488e554ce04c067a6fcb646eebbafdafde8c372f23acb35c19d",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20010421022341-6178c59016a5f636.html",
+    "local_edition_sha256": "2e25dfdd66b945f822f565a31a87289595edabfca27d467085af7a70d1fdd9a9"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20010603041110-1a8175a43d92375a.gif",
+    "source": "archive/california-odia-network/raw/20010603041110-1a8175a43d92375a.gif",
+    "original_url": "http://www.mycalnet.org:80/image/calnet_logo.gif",
+    "capture": "",
+    "input_sha256": "0f9d6233cb5f2df7dc9a56d34ecfbb4cc4bf754b02dcdebec579faca8eed01bf",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "0f9d6233cb5f2df7dc9a56d34ecfbb4cc4bf754b02dcdebec579faca8eed01bf",
+    "local_source": "mycalnet/captures/20010603041110-1a8175a43d92375a.gif",
+    "local_edition_sha256": "0f9d6233cb5f2df7dc9a56d34ecfbb4cc4bf754b02dcdebec579faca8eed01bf"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20010603042227-bf4984453e10ffdb.jpg",
+    "source": "archive/california-odia-network/raw/20010603042227-bf4984453e10ffdb.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/jagaakhi.jpg",
+    "capture": "",
+    "input_sha256": "abfbc0c0dad55e93ec25bb0aa9e30f8bac9bc4e61e49f20f846229931a49ff27",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "abfbc0c0dad55e93ec25bb0aa9e30f8bac9bc4e61e49f20f846229931a49ff27",
+    "local_source": "mycalnet/captures/20010603042227-bf4984453e10ffdb.jpg",
+    "local_edition_sha256": "abfbc0c0dad55e93ec25bb0aa9e30f8bac9bc4e61e49f20f846229931a49ff27"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20010611073328-e888475add5c8e51.gif",
+    "source": "archive/california-odia-network/raw/20010611073328-e888475add5c8e51.gif",
+    "original_url": "http://www.mycalnet.org:80/image/nua.gif",
+    "capture": "",
+    "input_sha256": "70ca23b2a3a7e3f1117cb6b074edb97672c536d1265ada8ee813fd2004c9e6bc",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "70ca23b2a3a7e3f1117cb6b074edb97672c536d1265ada8ee813fd2004c9e6bc",
+    "local_source": "mycalnet/captures/20010611073328-e888475add5c8e51.gif",
+    "local_edition_sha256": "70ca23b2a3a7e3f1117cb6b074edb97672c536d1265ada8ee813fd2004c9e6bc"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20010611073555-505c0f831f713cfc.jpg",
+    "source": "archive/california-odia-network/raw/20010611073555-505c0f831f713cfc.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/orissaward.jpg",
+    "capture": "",
+    "input_sha256": "f6685c743180a16858f32fe24b679c50853373f18805dbdde63c28b71e7d7f93",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "f6685c743180a16858f32fe24b679c50853373f18805dbdde63c28b71e7d7f93",
+    "local_source": "mycalnet/captures/20010611073555-505c0f831f713cfc.jpg",
+    "local_edition_sha256": "f6685c743180a16858f32fe24b679c50853373f18805dbdde63c28b71e7d7f93"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20010611073604-d5e35c97837d66cd.jpg",
+    "source": "archive/california-odia-network/raw/20010611073604-d5e35c97837d66cd.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/spuja2001.jpg",
+    "capture": "",
+    "input_sha256": "4853003d74a99948bcfb80d8aa1e400e5d1d7f62130d9a77e7961d3de2f7d1a5",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "4853003d74a99948bcfb80d8aa1e400e5d1d7f62130d9a77e7961d3de2f7d1a5",
+    "local_source": "mycalnet/captures/20010611073604-d5e35c97837d66cd.jpg",
+    "local_edition_sha256": "4853003d74a99948bcfb80d8aa1e400e5d1d7f62130d9a77e7961d3de2f7d1a5"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20010611073613-3511d0720d04ce93.gif",
+    "source": "archive/california-odia-network/raw/20010611073613-3511d0720d04ce93.gif",
+    "original_url": "http://www.mycalnet.org:80/image/line.gif",
+    "capture": "",
+    "input_sha256": "ea9e214f2e420beace442fbeda491845ead7bc6077b9e18251f429752f3228b6",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "ea9e214f2e420beace442fbeda491845ead7bc6077b9e18251f429752f3228b6",
+    "local_source": "mycalnet/captures/20010611073613-3511d0720d04ce93.gif",
+    "local_edition_sha256": "ea9e214f2e420beace442fbeda491845ead7bc6077b9e18251f429752f3228b6"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20010611073820-c87e674a990b8629.jpg",
+    "source": "archive/california-odia-network/raw/20010611073820-c87e674a990b8629.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/newyear2001.jpg",
+    "capture": "",
+    "input_sha256": "b73b9e62151b89375f27b4f2a6a87d07071ac33532f342627e9b251c3f929884",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "b73b9e62151b89375f27b4f2a6a87d07071ac33532f342627e9b251c3f929884",
+    "local_source": "mycalnet/captures/20010611073820-c87e674a990b8629.jpg",
+    "local_edition_sha256": "b73b9e62151b89375f27b4f2a6a87d07071ac33532f342627e9b251c3f929884"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20010624141748-9410574773e30410.jpg",
+    "source": "archive/california-odia-network/raw/20010624141748-9410574773e30410.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/binaybhaibanner.jpg",
+    "capture": "",
+    "input_sha256": "4b7f7a7d57c622916bc2b648df387a3fe42526755870996e9f91aeed043e7e47",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "4b7f7a7d57c622916bc2b648df387a3fe42526755870996e9f91aeed043e7e47",
+    "local_source": "mycalnet/captures/20010624141748-9410574773e30410.jpg",
+    "local_edition_sha256": "4b7f7a7d57c622916bc2b648df387a3fe42526755870996e9f91aeed043e7e47"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20010719041134-c2bf1a0815eb426e.html",
+    "source": "archive/california-odia-network/raw/20010719041134-c2bf1a0815eb426e.html",
+    "original_url": "http://www.mycalnet.org:80/home/hall.asp",
+    "capture": "20010719041134",
+    "input_sha256": "1dd6a91750afbf2d14af374a2efef9bb9bff5de5618ec8a095138cfdd58b286b",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "c7fd989623ce55015e6210749e0a00288bd40d47cafc7e446f8677064d7426b1",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20010719041134-c2bf1a0815eb426e.html",
+    "local_edition_sha256": "22bf42cf7c49c41337e833230f6f70b4f7c619a9ff256e9eb1368ec5ad1aad7a"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20010911162025-38dda1c6aba56f77.gif",
+    "source": "archive/california-odia-network/raw/20010911162025-38dda1c6aba56f77.gif",
+    "original_url": "http://mycalnet.org:80/image/moorpark.gif",
+    "capture": "",
+    "input_sha256": "3cb348f3b76bdc83c038a3555dc4031176e1e46348facfc2b31ec635e1869904",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "3cb348f3b76bdc83c038a3555dc4031176e1e46348facfc2b31ec635e1869904",
+    "local_source": "mycalnet/captures/20010911162025-38dda1c6aba56f77.gif",
+    "local_edition_sha256": "3cb348f3b76bdc83c038a3555dc4031176e1e46348facfc2b31ec635e1869904"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20010911175223-f2dd36d4ec4ff4a5.jpg",
+    "source": "archive/california-odia-network/raw/20010911175223-f2dd36d4ec4ff4a5.jpg",
+    "original_url": "http://mycalnet.org:80/image/parade1.jpg",
+    "capture": "",
+    "input_sha256": "c6cebb8f32532fedac5ab60fe6dd83b8192237be9210d175dffaa9ad90eec92e",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "c6cebb8f32532fedac5ab60fe6dd83b8192237be9210d175dffaa9ad90eec92e",
+    "local_source": "mycalnet/captures/20010911175223-f2dd36d4ec4ff4a5.jpg",
+    "local_edition_sha256": "c6cebb8f32532fedac5ab60fe6dd83b8192237be9210d175dffaa9ad90eec92e"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20011024110944-cd00c2066b3170e6.gif",
+    "source": "archive/california-odia-network/raw/20011024110944-cd00c2066b3170e6.gif",
+    "original_url": "http://mycalnet.org:80/image/shermanoaks.gif",
+    "capture": "",
+    "input_sha256": "df21b7729e29e783a8d6a1d01677edb6ac1c10cc2d966bad4fb9e23cfc020174",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "df21b7729e29e783a8d6a1d01677edb6ac1c10cc2d966bad4fb9e23cfc020174",
+    "local_source": "mycalnet/captures/20011024110944-cd00c2066b3170e6.gif",
+    "local_edition_sha256": "df21b7729e29e783a8d6a1d01677edb6ac1c10cc2d966bad4fb9e23cfc020174"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20011113004740-e18964f2c95b4549.ico",
+    "source": "archive/california-odia-network/raw/20011113004740-e18964f2c95b4549.bin",
+    "original_url": "http://www.mycalnet.org:80/image/favicon3.ico",
+    "capture": "",
+    "input_sha256": "aebfa98fcd32d554b6664c30dfc6c81f68bda91c1bf15b2e81a7bc980e5b2e84",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "aebfa98fcd32d554b6664c30dfc6c81f68bda91c1bf15b2e81a7bc980e5b2e84",
+    "local_source": "mycalnet/captures/20011113004740-e18964f2c95b4549.ico",
+    "local_edition_sha256": "aebfa98fcd32d554b6664c30dfc6c81f68bda91c1bf15b2e81a7bc980e5b2e84"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20020620220252-fb3217beea63b6c1.gif",
+    "source": "archive/california-odia-network/raw/20020620220252-fb3217beea63b6c1.gif",
+    "original_url": "http://mycalnet.org:80/image/email.gif",
+    "capture": "",
+    "input_sha256": "d8d84565c4e330900675d8027a70493b5313a723b72506f3f3451867d2659202",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "d8d84565c4e330900675d8027a70493b5313a723b72506f3f3451867d2659202",
+    "local_source": "mycalnet/captures/20020620220252-fb3217beea63b6c1.gif",
+    "local_edition_sha256": "d8d84565c4e330900675d8027a70493b5313a723b72506f3f3451867d2659202"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20031213105845-48ef8e0509a14524.html",
+    "source": "archive/california-odia-network/raw/20031213105845-48ef8e0509a14524.html",
+    "original_url": "http://www.mycalnet.org:80/home/familyphoto.asp",
+    "capture": "20031213105845",
+    "input_sha256": "f6a8149989d53e11f12b140606790e6dace4a0878c633eabd7d777bfdca7af0b",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "ca48825a4c54a73f10d81a6dcbe52c3d22362521a99fdb2988290cc9623721eb",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20031213105845-48ef8e0509a14524.html",
+    "local_edition_sha256": "25754db93c85543db46ebfeeb8b7dfc47053e9e999d9aecb2e5100d5a8c881e8"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20040115132953-814e47a7d8ae7d1b.gif",
+    "source": "archive/california-odia-network/raw/20040115132953-814e47a7d8ae7d1b.gif",
+    "original_url": "http://www.mycalnet.org:80/image/Saraswati.gif",
+    "capture": "",
+    "input_sha256": "f1160314d05d2459b4ab3640831ae45ea69f9a2611d954f3e307a453996a81c8",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "f1160314d05d2459b4ab3640831ae45ea69f9a2611d954f3e307a453996a81c8",
+    "local_source": "mycalnet/captures/20040115132953-814e47a7d8ae7d1b.gif",
+    "local_edition_sha256": "f1160314d05d2459b4ab3640831ae45ea69f9a2611d954f3e307a453996a81c8"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20040115151252-4edf5cbc5f1e9d0a.jpg",
+    "source": "archive/california-odia-network/raw/20040115151252-4edf5cbc5f1e9d0a.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/gpuja2002_2s.jpg",
+    "capture": "",
+    "input_sha256": "4a0d3533e55f4d2ff413eae0a922671a812a872f5683c094116840d1bfbbfcef",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "4a0d3533e55f4d2ff413eae0a922671a812a872f5683c094116840d1bfbbfcef",
+    "local_source": "mycalnet/captures/20040115151252-4edf5cbc5f1e9d0a.jpg",
+    "local_edition_sha256": "4a0d3533e55f4d2ff413eae0a922671a812a872f5683c094116840d1bfbbfcef"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20040122044007-ff855e8acbfeb8c3.jpg",
+    "source": "archive/california-odia-network/raw/20040122044007-ff855e8acbfeb8c3.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/newyear2004.jpg",
+    "capture": "",
+    "input_sha256": "4d748c2b10a479b5b0d735101e87bf31d6da39a9fcb95d0d5b986abfed78eb34",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "4d748c2b10a479b5b0d735101e87bf31d6da39a9fcb95d0d5b986abfed78eb34",
+    "local_source": "mycalnet/captures/20040122044007-ff855e8acbfeb8c3.jpg",
+    "local_edition_sha256": "4d748c2b10a479b5b0d735101e87bf31d6da39a9fcb95d0d5b986abfed78eb34"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20040218102001-5dc2117e9ab1caf5.html",
+    "source": "archive/california-odia-network/raw/20040218102001-5dc2117e9ab1caf5.html",
+    "original_url": "http://www.mycalnet.org:80/home/EventsAndTask.asp",
+    "capture": "20040218102001",
+    "input_sha256": "ef488c96a236860cef0b1481013a95110b146c03d7e545ed9bfa0602cdcb6bf2",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "644cbb85f1f30f5499132a2fb30c30def1de5912ef1564bed5cc5b1e2d63a8e6",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20040218102001-5dc2117e9ab1caf5.html",
+    "local_edition_sha256": "486eb91d5c152b229451397e2e89ed8abe86cabe8a1b90c4f436a18ab5ef9e64"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20040218104346-87060f8ecab1c72f.html",
+    "source": "archive/california-odia-network/raw/20040218104346-87060f8ecab1c72f.html",
+    "original_url": "http://www.mycalnet.org:80/home/agent_bbsr.asp",
+    "capture": "20040218104346",
+    "input_sha256": "aead990cb324a330d5493a938dc5640808fd7e65a42df3d4100e60f9c30e3277",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "c60dd6f7aac6de28fe5cd0afd58bff552c88a1a8884485a1d304d63905a06704",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20040218104346-87060f8ecab1c72f.html",
+    "local_edition_sha256": "40134d51f46e44ecfe060ec025478f722606fc9512156b7fdb91d9008f43d063"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20040218121804-39a842d3f24219f6.html",
+    "source": "archive/california-odia-network/raw/20040218121804-39a842d3f24219f6.html",
+    "original_url": "http://www.mycalnet.org:80/home/pastevents.asp",
+    "capture": "20040218121804",
+    "input_sha256": "8240e644bea1fb55f008ae1129445d6a1ae8c384599fd425c3dec3f5710a797e",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "1355acb83159ebbb1eb3cf291999693b19859aaf7e851b2a44aa23644173caf7",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20040218121804-39a842d3f24219f6.html",
+    "local_edition_sha256": "381f78da4d9f33a15158b4af5ff9d8014c248d1bc0d6ab048e640d9dd2214697"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20040406085119-6897f1c3fd67eb9d.jpg",
+    "source": "archive/california-odia-network/raw/20040406085119-6897f1c3fd67eb9d.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/saraswatipuja2004_3.jpg",
+    "capture": "",
+    "input_sha256": "e546a2abc867779010382d2498c13482559392ccebade9f5c246ed37a3b05d35",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "e546a2abc867779010382d2498c13482559392ccebade9f5c246ed37a3b05d35",
+    "local_source": "mycalnet/captures/20040406085119-6897f1c3fd67eb9d.jpg",
+    "local_edition_sha256": "e546a2abc867779010382d2498c13482559392ccebade9f5c246ed37a3b05d35"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20040807224930-5e9caa861dca267d.jpg",
+    "source": "archive/california-odia-network/raw/20040807224930-5e9caa861dca267d.jpg",
+    "original_url": "http://mycalnet.org:80/image/gpuja2002_1s.jpg",
+    "capture": "",
+    "input_sha256": "f0d1704ebac855e9c6291748ebf2942dd6199c4243c7fe75b9da49e37bbafdf9",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "f0d1704ebac855e9c6291748ebf2942dd6199c4243c7fe75b9da49e37bbafdf9",
+    "local_source": "mycalnet/captures/20040807224930-5e9caa861dca267d.jpg",
+    "local_edition_sha256": "f0d1704ebac855e9c6291748ebf2942dd6199c4243c7fe75b9da49e37bbafdf9"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20040930075335-db4b2a9cf3415d9c.jpg",
+    "source": "archive/california-odia-network/raw/20040930075335-db4b2a9cf3415d9c.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/calnetbanner.jpg",
+    "capture": "",
+    "input_sha256": "92180704174cc69c73ffddcb15c9fd30f17239358469d0bcb7b23b779ef56b13",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "92180704174cc69c73ffddcb15c9fd30f17239358469d0bcb7b23b779ef56b13",
+    "local_source": "mycalnet/captures/20040930075335-db4b2a9cf3415d9c.jpg",
+    "local_edition_sha256": "92180704174cc69c73ffddcb15c9fd30f17239358469d0bcb7b23b779ef56b13"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20041016220639-4d3c7784af143223.jpg",
+    "source": "archive/california-odia-network/raw/20041016220639-4d3c7784af143223.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/sevak/mat1.jpg",
+    "capture": "",
+    "input_sha256": "4c83f5a3ac1e7db455656fa129366dbc1d6833abff0c32957f0cd7c42e524f89",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "4c83f5a3ac1e7db455656fa129366dbc1d6833abff0c32957f0cd7c42e524f89",
+    "local_source": "mycalnet/captures/20041016220639-4d3c7784af143223.jpg",
+    "local_edition_sha256": "4c83f5a3ac1e7db455656fa129366dbc1d6833abff0c32957f0cd7c42e524f89"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20041209092416-ab85a877de752f7c.jpg",
+    "source": "archive/california-odia-network/raw/20041209092416-ab85a877de752f7c.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/sevak/blanket2.jpg",
+    "capture": "",
+    "input_sha256": "11c593fce570e81db6866d4724759b1671ba8d89fe2cecb7c5611f05d9c0d2ca",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "11c593fce570e81db6866d4724759b1671ba8d89fe2cecb7c5611f05d9c0d2ca",
+    "local_source": "mycalnet/captures/20041209092416-ab85a877de752f7c.jpg",
+    "local_edition_sha256": "11c593fce570e81db6866d4724759b1671ba8d89fe2cecb7c5611f05d9c0d2ca"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20050209001028-9a76e175933a2761.jpg",
+    "source": "archive/california-odia-network/raw/20050209001028-9a76e175933a2761.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/sevak/kalahandi1.jpg",
+    "capture": "",
+    "input_sha256": "5c09a8618cb8b71d038b5dcfd86a486bdf9ecf0a4ec830ac58e0ac5b2a505ba4",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "5c09a8618cb8b71d038b5dcfd86a486bdf9ecf0a4ec830ac58e0ac5b2a505ba4",
+    "local_source": "mycalnet/captures/20050209001028-9a76e175933a2761.jpg",
+    "local_edition_sha256": "5c09a8618cb8b71d038b5dcfd86a486bdf9ecf0a4ec830ac58e0ac5b2a505ba4"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20051222141106-26c1e7e099a13d0c.gif",
+    "source": "archive/california-odia-network/raw/20051222141106-26c1e7e099a13d0c.gif",
+    "original_url": "http://www.mycalnet.org:80/image/mahabanner.gif",
+    "capture": "",
+    "input_sha256": "b053ec71dc65c2db5a05bd38cfc74a7979af100dd5e940b7c288470a7a509415",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "b053ec71dc65c2db5a05bd38cfc74a7979af100dd5e940b7c288470a7a509415",
+    "local_source": "mycalnet/captures/20051222141106-26c1e7e099a13d0c.gif",
+    "local_edition_sha256": "b053ec71dc65c2db5a05bd38cfc74a7979af100dd5e940b7c288470a7a509415"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20060619234803-9795a59c1a4bcb03.jpg",
+    "source": "archive/california-odia-network/raw/20060619234803-9795a59c1a4bcb03.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/konarkchakra6.jpg",
+    "capture": "",
+    "input_sha256": "d25df613a8d2d7bfd2c78649fa07c20363ac414f98d73a650f7737975ea1453a",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "d25df613a8d2d7bfd2c78649fa07c20363ac414f98d73a650f7737975ea1453a",
+    "local_source": "mycalnet/captures/20060619234803-9795a59c1a4bcb03.jpg",
+    "local_edition_sha256": "d25df613a8d2d7bfd2c78649fa07c20363ac414f98d73a650f7737975ea1453a"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20060820095157-41ef9fcf9077b058.jpg",
+    "source": "archive/california-odia-network/raw/20060820095157-41ef9fcf9077b058.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/ratha_2005.jpg",
+    "capture": "",
+    "input_sha256": "a92b1d43934f68ffbcdc774e1bf4facf8e8c985eefd9634cb01a01fcb366f978",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "a92b1d43934f68ffbcdc774e1bf4facf8e8c985eefd9634cb01a01fcb366f978",
+    "local_source": "mycalnet/captures/20060820095157-41ef9fcf9077b058.jpg",
+    "local_edition_sha256": "a92b1d43934f68ffbcdc774e1bf4facf8e8c985eefd9634cb01a01fcb366f978"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20070501002424-0a71b3222869f975.jpg",
+    "source": "archive/california-odia-network/raw/20070501002424-0a71b3222869f975.jpg",
+    "original_url": "http://www.mycalnet.org:80/image/sevaksbanner.jpg",
+    "capture": "",
+    "input_sha256": "f571f5194f1c2c0117eeca806d434ff110b80fe79b9349c627d2ff5314b323d9",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "f571f5194f1c2c0117eeca806d434ff110b80fe79b9349c627d2ff5314b323d9",
+    "local_source": "mycalnet/captures/20070501002424-0a71b3222869f975.jpg",
+    "local_edition_sha256": "f571f5194f1c2c0117eeca806d434ff110b80fe79b9349c627d2ff5314b323d9"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20080412065843-f72e6bee7d0ed823.html",
+    "source": "archive/california-odia-network/raw/20080412065843-f72e6bee7d0ed823.html",
+    "original_url": "http://www.mycalnet.org:80/calnet.asp",
+    "capture": "20080412065843",
+    "input_sha256": "a7bf82b70c2016e39d823a4322b24f271b21336652d3c454a5d6b6c952f16ce6",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "d9954a9353cc98f356254da9a885e25a5a1ab3034faec33fc664eadd1fd461dc",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20080412065843-f72e6bee7d0ed823.html",
+    "local_edition_sha256": "ae0b3de9e6fc88e309137ebf2411aad6af6872a92894cf3bb3b89223bfae2034"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20080718164857-4effea7401d96dbb.html",
+    "source": "archive/california-odia-network/raw/20080718164857-4effea7401d96dbb.html",
+    "original_url": "http://www.mycalnet.org/index.html",
+    "capture": "20080718164857",
+    "input_sha256": "56f4280c724bb3d0cc0d1087d53298622280574a2b6e13a04bbddad2459ca6f7",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "2e7ac3a0a459783f91714e75541c53b65f5276694de85af024d9ec004570f0ad",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20080718164857-4effea7401d96dbb.html",
+    "local_edition_sha256": "4d2cdb1b880c6f92cbcafc0770bed4b46ee8fb2c9d14bcd0817f479a9fedac40"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080720215902-9446242bf03573d7.jpg",
+    "source": "archive/california-odia-network/raw/20080720215902-9446242bf03573d7.jpg",
+    "original_url": "http://www.mycalnet.org/image/bar.jpg",
+    "capture": "",
+    "input_sha256": "b728cd4597565f2d44bda6121eafb88d190e26405dc37c499606eae1055b984a",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "b728cd4597565f2d44bda6121eafb88d190e26405dc37c499606eae1055b984a",
+    "local_source": "mycalnet/captures/20080720215902-9446242bf03573d7.jpg",
+    "local_edition_sha256": "b728cd4597565f2d44bda6121eafb88d190e26405dc37c499606eae1055b984a"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080720220029-753faeb797890869.jpg",
+    "source": "archive/california-odia-network/raw/20080720220029-753faeb797890869.jpg",
+    "original_url": "http://www.mycalnet.org/image/jagannath_sthapana.jpg",
+    "capture": "",
+    "input_sha256": "b63d995df9f4dfc091c6049b382f8ce579d4325dbd24e4a189609168e2b38c55",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "b63d995df9f4dfc091c6049b382f8ce579d4325dbd24e4a189609168e2b38c55",
+    "local_source": "mycalnet/captures/20080720220029-753faeb797890869.jpg",
+    "local_edition_sha256": "b63d995df9f4dfc091c6049b382f8ce579d4325dbd24e4a189609168e2b38c55"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20080729045005-2f2a0d418db1762a.html",
+    "source": "archive/california-odia-network/raw/20080729045005-2f2a0d418db1762a.html",
+    "original_url": "http://www.mycalnet.org/home/photoupload.asp",
+    "capture": "20080729045005",
+    "input_sha256": "810a5fd0dba0573c7a0b4c846eced270351527479a3b7be5d5eddb995bd2fe1f",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "9005ccf33eea3cf2c5cec4803964922af7ffe8458755a35457cc2f0b21f60887",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20080729045005-2f2a0d418db1762a.html",
+    "local_edition_sha256": "0554b049f1d51fa0c968d2293640142e90cdada6be54c0607ef1e54d11e493d8"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080729045035-797c0f7649e4bb70.jpg",
+    "source": "archive/california-odia-network/raw/20080729045035-797c0f7649e4bb70.jpg",
+    "original_url": "http://www.mycalnet.org/image/whitebar.jpg",
+    "capture": "",
+    "input_sha256": "3d5123c3546f645c5bd60e5dcb810003471ff1592d1dc696570911f5ca41ca07",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "3d5123c3546f645c5bd60e5dcb810003471ff1592d1dc696570911f5ca41ca07",
+    "local_source": "mycalnet/captures/20080729045035-797c0f7649e4bb70.jpg",
+    "local_edition_sha256": "3d5123c3546f645c5bd60e5dcb810003471ff1592d1dc696570911f5ca41ca07"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080729050312-7d1cdf22e4798d56.jpg",
+    "source": "archive/california-odia-network/raw/20080729050312-7d1cdf22e4798d56.jpg",
+    "original_url": "http://www.mycalnet.org/image/saraswatipuja2004_2.jpg",
+    "capture": "",
+    "input_sha256": "4ad896f033e453ca59d27e4ff83371f70bf20663505bf44793d5d9de90c4678a",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "4ad896f033e453ca59d27e4ff83371f70bf20663505bf44793d5d9de90c4678a",
+    "local_source": "mycalnet/captures/20080729050312-7d1cdf22e4798d56.jpg",
+    "local_edition_sha256": "4ad896f033e453ca59d27e4ff83371f70bf20663505bf44793d5d9de90c4678a"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080729050343-cb3693bf7d528785.jpg",
+    "source": "archive/california-odia-network/raw/20080729050343-cb3693bf7d528785.jpg",
+    "original_url": "http://www.mycalnet.org/image/newyear2007.jpg",
+    "capture": "",
+    "input_sha256": "f89a3e7cf0949d752372b10852713441d11118ce78b847705cccac4bef778e06",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "f89a3e7cf0949d752372b10852713441d11118ce78b847705cccac4bef778e06",
+    "local_source": "mycalnet/captures/20080729050343-cb3693bf7d528785.jpg",
+    "local_edition_sha256": "f89a3e7cf0949d752372b10852713441d11118ce78b847705cccac4bef778e06"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080729050448-75b1ad2a3f1f1418.jpg",
+    "source": "archive/california-odia-network/raw/20080729050448-75b1ad2a3f1f1418.jpg",
+    "original_url": "http://www.mycalnet.org/image/saraswatipuja2006_1.jpg",
+    "capture": "",
+    "input_sha256": "d7c1b547393f84e2dc2e753815f401c87664f2f2bbbf7c99aba0086b951d9e83",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "d7c1b547393f84e2dc2e753815f401c87664f2f2bbbf7c99aba0086b951d9e83",
+    "local_source": "mycalnet/captures/20080729050448-75b1ad2a3f1f1418.jpg",
+    "local_edition_sha256": "d7c1b547393f84e2dc2e753815f401c87664f2f2bbbf7c99aba0086b951d9e83"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080729050615-d2cccbe90989c6a4.jpg",
+    "source": "archive/california-odia-network/raw/20080729050615-d2cccbe90989c6a4.jpg",
+    "original_url": "http://www.mycalnet.org/image/saraswatipuja2006_2.jpg",
+    "capture": "",
+    "input_sha256": "1b5ee26165dbba568c0ccf27f330600c9933091d03fbc4afdceba6e918c3e8be",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "1b5ee26165dbba568c0ccf27f330600c9933091d03fbc4afdceba6e918c3e8be",
+    "local_source": "mycalnet/captures/20080729050615-d2cccbe90989c6a4.jpg",
+    "local_edition_sha256": "1b5ee26165dbba568c0ccf27f330600c9933091d03fbc4afdceba6e918c3e8be"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080729050725-7604a38ac394d9ee.jpg",
+    "source": "archive/california-odia-network/raw/20080729050725-7604a38ac394d9ee.jpg",
+    "original_url": "http://www.mycalnet.org/image/ganeshpuja2004.jpg",
+    "capture": "",
+    "input_sha256": "4544521ae26cfd4dec63a43acbe9d0f6ca6879fcb73897fce5ccb87c476557d7",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "4544521ae26cfd4dec63a43acbe9d0f6ca6879fcb73897fce5ccb87c476557d7",
+    "local_source": "mycalnet/captures/20080729050725-7604a38ac394d9ee.jpg",
+    "local_edition_sha256": "4544521ae26cfd4dec63a43acbe9d0f6ca6879fcb73897fce5ccb87c476557d7"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080730093352-50fc545f966c8f39.jpg",
+    "source": "archive/california-odia-network/raw/20080730093352-50fc545f966c8f39.jpg",
+    "original_url": "http://www.mycalnet.org/image/sevak/karamala1.jpg",
+    "capture": "",
+    "input_sha256": "a2fc6553a4ff49ba811d8ada9ba5c7d5ff2126e83891bb77e430f1b6bc6a032b",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "a2fc6553a4ff49ba811d8ada9ba5c7d5ff2126e83891bb77e430f1b6bc6a032b",
+    "local_source": "mycalnet/captures/20080730093352-50fc545f966c8f39.jpg",
+    "local_edition_sha256": "a2fc6553a4ff49ba811d8ada9ba5c7d5ff2126e83891bb77e430f1b6bc6a032b"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080730093508-143a4d576573d848.jpg",
+    "source": "archive/california-odia-network/raw/20080730093508-143a4d576573d848.jpg",
+    "original_url": "http://www.mycalnet.org/image/sevak/uchabali1.jpg",
+    "capture": "",
+    "input_sha256": "e95dabaf991b2ed51dc15474b7e7412aa848cd6022795f08a0b16f69181e425f",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "e95dabaf991b2ed51dc15474b7e7412aa848cd6022795f08a0b16f69181e425f",
+    "local_source": "mycalnet/captures/20080730093508-143a4d576573d848.jpg",
+    "local_edition_sha256": "e95dabaf991b2ed51dc15474b7e7412aa848cd6022795f08a0b16f69181e425f"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080810073741-ffdd5a3d9e0db280.jpg",
+    "source": "archive/california-odia-network/raw/20080810073741-ffdd5a3d9e0db280.jpg",
+    "original_url": "http://www.mycalnet.org/image/event.jpg",
+    "capture": "",
+    "input_sha256": "1bfd22b1dc640ab5ea695613a99caa81c76bccb3c35d3c3e502209521dfd04c3",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "1bfd22b1dc640ab5ea695613a99caa81c76bccb3c35d3c3e502209521dfd04c3",
+    "local_source": "mycalnet/captures/20080810073741-ffdd5a3d9e0db280.jpg",
+    "local_edition_sha256": "1bfd22b1dc640ab5ea695613a99caa81c76bccb3c35d3c3e502209521dfd04c3"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080810073928-7c5308216f8e73c3.jpg",
+    "source": "archive/california-odia-network/raw/20080810073928-7c5308216f8e73c3.jpg",
+    "original_url": "http://www.mycalnet.org/image/parade1big.jpg",
+    "capture": "",
+    "input_sha256": "efa4fe15ab86b3a7cb22933028a4b8e14ddacbd4395fe149932f8102fcf18905",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "efa4fe15ab86b3a7cb22933028a4b8e14ddacbd4395fe149932f8102fcf18905",
+    "local_source": "mycalnet/captures/20080810073928-7c5308216f8e73c3.jpg",
+    "local_edition_sha256": "efa4fe15ab86b3a7cb22933028a4b8e14ddacbd4395fe149932f8102fcf18905"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080810074104-8d04e6d6d2a18f9a.jpg",
+    "source": "archive/california-odia-network/raw/20080810074104-8d04e6d6d2a18f9a.jpg",
+    "original_url": "http://www.mycalnet.org/image/orissawardbig.jpg",
+    "capture": "",
+    "input_sha256": "fc12958ce33f38f83a4042866ea7dbeea804e190510780e94b3a669d20a72e02",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "fc12958ce33f38f83a4042866ea7dbeea804e190510780e94b3a669d20a72e02",
+    "local_source": "mycalnet/captures/20080810074104-8d04e6d6d2a18f9a.jpg",
+    "local_edition_sha256": "fc12958ce33f38f83a4042866ea7dbeea804e190510780e94b3a669d20a72e02"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080810074133-0f98e110dc0db531.jpg",
+    "source": "archive/california-odia-network/raw/20080810074133-0f98e110dc0db531.jpg",
+    "original_url": "http://www.mycalnet.org/image/newyear2001big.jpg",
+    "capture": "",
+    "input_sha256": "14e735c16a24c9ec66de600cb2c45aebffd148e8c9918a0fe7907ae451cb15ba",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "14e735c16a24c9ec66de600cb2c45aebffd148e8c9918a0fe7907ae451cb15ba",
+    "local_source": "mycalnet/captures/20080810074133-0f98e110dc0db531.jpg",
+    "local_edition_sha256": "14e735c16a24c9ec66de600cb2c45aebffd148e8c9918a0fe7907ae451cb15ba"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080810074210-7e34f2c5e54be29f.jpg",
+    "source": "archive/california-odia-network/raw/20080810074210-7e34f2c5e54be29f.jpg",
+    "original_url": "http://www.mycalnet.org/image/gpuja2002_1.jpg",
+    "capture": "",
+    "input_sha256": "427a4dc0ab092d0f5572fc72de7719e243b4f1ce285b28a49ae64ffa1bf42182",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "427a4dc0ab092d0f5572fc72de7719e243b4f1ce285b28a49ae64ffa1bf42182",
+    "local_source": "mycalnet/captures/20080810074210-7e34f2c5e54be29f.jpg",
+    "local_edition_sha256": "427a4dc0ab092d0f5572fc72de7719e243b4f1ce285b28a49ae64ffa1bf42182"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080810074254-59833052f036c76e.jpg",
+    "source": "archive/california-odia-network/raw/20080810074254-59833052f036c76e.jpg",
+    "original_url": "http://www.mycalnet.org/image/gpuja2002_2.jpg",
+    "capture": "",
+    "input_sha256": "c05e8d4913355548e787c9302e10c6b649ce1c6590adb7137a88edd4d372a0a9",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "c05e8d4913355548e787c9302e10c6b649ce1c6590adb7137a88edd4d372a0a9",
+    "local_source": "mycalnet/captures/20080810074254-59833052f036c76e.jpg",
+    "local_edition_sha256": "c05e8d4913355548e787c9302e10c6b649ce1c6590adb7137a88edd4d372a0a9"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20080810074613-66150c50fb623b83.jpg",
+    "source": "archive/california-odia-network/raw/20080810074613-66150c50fb623b83.jpg",
+    "original_url": "http://www.mycalnet.org/image/saraswati_2008.jpg",
+    "capture": "",
+    "input_sha256": "44af3965bd218fb6a2526d813ca09d51dfa82f1dcb8e11acee2b151f699124f7",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "44af3965bd218fb6a2526d813ca09d51dfa82f1dcb8e11acee2b151f699124f7",
+    "local_source": "mycalnet/captures/20080810074613-66150c50fb623b83.jpg",
+    "local_edition_sha256": "44af3965bd218fb6a2526d813ca09d51dfa82f1dcb8e11acee2b151f699124f7"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/captures/20080908055642-9a6560ccedf0c884.html",
+    "source": "archive/california-odia-network/raw/20080908055642-9a6560ccedf0c884.html",
+    "original_url": "http://www.mycalnet.org/home/calnet_finance.asp",
+    "capture": "20080908055642",
+    "input_sha256": "53b7f4bb1fca8236a65c2887a880b073356ad9cab3953f958debfb88d1bf723c",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "28fd588141413dfc727f810917f478a6e9a72c91135fb74a351b97307251e9b9",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/captures/20080908055642-9a6560ccedf0c884.html",
+    "local_edition_sha256": "087ceee07fb0d723504611814ecca092dacb777b82449e8b6a7a0a23097f2a1d"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20091012134937-b553eb250287b253.jpg",
+    "source": "archive/california-odia-network/raw/20091012134937-b553eb250287b253.jpg",
+    "original_url": "http://www.mycalnet.org/image/iasf.jpg",
+    "capture": "",
+    "input_sha256": "9dcaa969dfe1c021235fc031f349ac0f5228aabfedab66bb9810c3c0a32de02e",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "9dcaa969dfe1c021235fc031f349ac0f5228aabfedab66bb9810c3c0a32de02e",
+    "local_source": "mycalnet/captures/20091012134937-b553eb250287b253.jpg",
+    "local_edition_sha256": "9dcaa969dfe1c021235fc031f349ac0f5228aabfedab66bb9810c3c0a32de02e"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20091012135954-2047a067618f778d.jpg",
+    "source": "archive/california-odia-network/raw/20091012135954-2047a067618f778d.jpg",
+    "original_url": "http://www.mycalnet.org/image/newyear2008.jpg",
+    "capture": "",
+    "input_sha256": "becdf6f7b9e72eabfeb9b2500530dbcb5fbe2f34862172905e756cae18c0098a",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "becdf6f7b9e72eabfeb9b2500530dbcb5fbe2f34862172905e756cae18c0098a",
+    "local_source": "mycalnet/captures/20091012135954-2047a067618f778d.jpg",
+    "local_edition_sha256": "becdf6f7b9e72eabfeb9b2500530dbcb5fbe2f34862172905e756cae18c0098a"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20091012140027-2e15ca99639419db.jpg",
+    "source": "archive/california-odia-network/raw/20091012140027-2e15ca99639419db.jpg",
+    "original_url": "http://www.mycalnet.org/image/saraswati_2009.jpg",
+    "capture": "",
+    "input_sha256": "e1bc42abe6f36d7dfb11520f2c23af9e0d4c77c6de679342ec1733cb544b6cc3",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "e1bc42abe6f36d7dfb11520f2c23af9e0d4c77c6de679342ec1733cb544b6cc3",
+    "local_source": "mycalnet/captures/20091012140027-2e15ca99639419db.jpg",
+    "local_edition_sha256": "e1bc42abe6f36d7dfb11520f2c23af9e0d4c77c6de679342ec1733cb544b6cc3"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20110218065247-70d6fad346e97037.jpg",
+    "source": "archive/california-odia-network/raw/20110218065247-70d6fad346e97037.jpg",
+    "original_url": "http://www.mycalnet.org/image/silverbar.jpg",
+    "capture": "",
+    "input_sha256": "51c4b35ed5d2e77457d344c1c48188183619214f138868aae4e5a90706853036",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "51c4b35ed5d2e77457d344c1c48188183619214f138868aae4e5a90706853036",
+    "local_source": "mycalnet/captures/20110218065247-70d6fad346e97037.jpg",
+    "local_edition_sha256": "51c4b35ed5d2e77457d344c1c48188183619214f138868aae4e5a90706853036"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20150124023325-0232e231ff1bda1e.jpg",
+    "source": "archive/california-odia-network/raw/20150124023325-0232e231ff1bda1e.jpg",
+    "original_url": "http://mycalnet.org/image/calnetlogo.jpg",
+    "capture": "",
+    "input_sha256": "66eab659b5a2b5fdd666562c8fed3214e24462cde11856ea7d22065ba7887643",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "66eab659b5a2b5fdd666562c8fed3214e24462cde11856ea7d22065ba7887643",
+    "local_source": "mycalnet/captures/20150124023325-0232e231ff1bda1e.jpg",
+    "local_edition_sha256": "66eab659b5a2b5fdd666562c8fed3214e24462cde11856ea7d22065ba7887643"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20150124024257-24710ba6d483f57c.png",
+    "source": "archive/california-odia-network/raw/20150124024257-24710ba6d483f57c.bin",
+    "original_url": "http://mycalnet.org/home/register.png",
+    "capture": "",
+    "input_sha256": "d2e01297ab2ce9d7f1881eb1db2876e2d7c89982fe420b055b486cbd13d5cdc8",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "d2e01297ab2ce9d7f1881eb1db2876e2d7c89982fe420b055b486cbd13d5cdc8",
+    "local_source": "mycalnet/captures/20150124024257-24710ba6d483f57c.png",
+    "local_edition_sha256": "d2e01297ab2ce9d7f1881eb1db2876e2d7c89982fe420b055b486cbd13d5cdc8"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20150124043308-ec01a5617fd01ff0.jpg",
+    "source": "archive/california-odia-network/raw/20150124043308-ec01a5617fd01ff0.jpg",
+    "original_url": "http://mycalnet.org/image/HappyNewYear2015.jpg",
+    "capture": "",
+    "input_sha256": "75b5139dc6ffb863312fb888574040c56223e329173595505512f4701915363d",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "75b5139dc6ffb863312fb888574040c56223e329173595505512f4701915363d",
+    "local_source": "mycalnet/captures/20150124043308-ec01a5617fd01ff0.jpg",
+    "local_edition_sha256": "75b5139dc6ffb863312fb888574040c56223e329173595505512f4701915363d"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20150124043805-683b8ce3a0952fa3.css",
+    "source": "archive/california-odia-network/raw/20150124043805-683b8ce3a0952fa3.css",
+    "original_url": "http://mycalnet.org/home/home.css",
+    "capture": "",
+    "input_sha256": "52377318743982cab3cf151be4a6325784414ab256e93df9183f8cc019890a53",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "52377318743982cab3cf151be4a6325784414ab256e93df9183f8cc019890a53",
+    "local_source": "mycalnet/captures/20150124043805-683b8ce3a0952fa3.css",
+    "local_edition_sha256": "52377318743982cab3cf151be4a6325784414ab256e93df9183f8cc019890a53"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20150808233116-52a860c05ab83d19.jpg",
+    "source": "archive/california-odia-network/raw/20150808233116-52a860c05ab83d19.jpg",
+    "original_url": "http://mycalnet.org/image/rathayatra.jpg",
+    "capture": "",
+    "input_sha256": "446a4f779e5da79082640fe9d3ef15143f0c097d77c5c181e57c8aef2865b5d4",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "446a4f779e5da79082640fe9d3ef15143f0c097d77c5c181e57c8aef2865b5d4",
+    "local_source": "mycalnet/captures/20150808233116-52a860c05ab83d19.jpg",
+    "local_edition_sha256": "446a4f779e5da79082640fe9d3ef15143f0c097d77c5c181e57c8aef2865b5d4"
+  },
+  {
+    "kind": "asset",
+    "output": "mycalnet.org/captures/20160514094401-ad9a2495c5084071.png",
+    "source": "archive/california-odia-network/raw/20160514094401-ad9a2495c5084071.bin",
+    "original_url": "http://mycalnet.org/image/odia-sarawasti-stutee-sloka-scrap.png",
+    "capture": "",
+    "input_sha256": "74e42655e1f1d8970e802e9d957eb80460ebec0fa97b90c7ef49792ac5a65a51",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "",
+    "original_url_inferred": false,
+    "output_sha256": "74e42655e1f1d8970e802e9d957eb80460ebec0fa97b90c7ef49792ac5a65a51",
+    "local_source": "mycalnet/captures/20160514094401-ad9a2495c5084071.png",
+    "local_edition_sha256": "74e42655e1f1d8970e802e9d957eb80460ebec0fa97b90c7ef49792ac5a65a51"
+  },
+  {
+    "output": "mycalnet.org/guide.html",
+    "local_source": "mycalnet/guide.html",
+    "local_edition_sha256": "d8f16b49e33ebec1cddcfe293f5688ac2a025638e93b1214b1fd359f7ff92902",
+    "output_sha256": "eb1cce2ddc1740a8e6d57c7002e4603cd66476540d296031f9c4fd93f3d846af"
+  },
+  {
+    "kind": "page",
+    "output": "mycalnet.org/index.html",
+    "source": "archive/california-odia-network/raw/20010410224031-6264214dc6fa4dfa.html",
+    "original_url": "http://www.mycalnet.org/home/calnet.asp",
+    "capture": "20010410224031",
+    "input_sha256": "d43cfaa6af4fd4bd271348d22413a8a0116a3d93fdf4090b3484d9305f234b49",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "Original homepage HTML and layout retained. Artwork may come from separately dated captures; see the restoration record. Links are local and online services are inactive.",
+    "original_url_inferred": false,
+    "output_sha256": "e59c2124d92caf1c2c67b7d5629aa0a1a8f53150f2012277842f045a27ce0541",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_preview_artwork": "mycalnet/captures/20150124023325-0232e231ff1bda1e.jpg",
+    "local_source": "mycalnet/index.html",
+    "local_edition_sha256": "8845beaf1a9fe25ccc487c5f706074eb31b2f0f25c960f67f2c7abff034f7d1a"
+  },
+  {
+    "kind": "labelled_photo_alternative",
+    "output": "mycalnet.org/photos/saraswati-2001.html",
+    "source": "archive/california-odia-network/raw/20010611073604-d5e35c97837d66cd.jpg",
+    "output_sha256": "17113eb9797421800e2fc6b9a300e29612455b41710ba1ddc6ce1b175b84af3e",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "mycalnet/photos/saraswati-2001.html",
+    "local_edition_sha256": "1ced9a42a8ae3563aec2c89c4d190f9d232e32cf3e1e86695a089348f81c3c17"
+  },
+  {
+    "output": "mycalnet.org/unavailable/003f4aa9500b59.html",
+    "local_source": "mycalnet/unavailable/003f4aa9500b59.html",
+    "local_edition_sha256": "0516452a9b5ccad49e4aa865205ab4549ef2949971c469946c81883e1c8faa28",
+    "output_sha256": "66808da0248b1858886963d932b7d7a5f87ef31dae5ef7f61fd512549c0bf890"
+  },
+  {
+    "output": "mycalnet.org/unavailable/0254a34858deee.html",
+    "local_source": "mycalnet/unavailable/0254a34858deee.html",
+    "local_edition_sha256": "c43014620db20659274e507c85fb266011524b33276838647ffc70d15c88447b",
+    "output_sha256": "6d62de62bd3f8b5e01207d15be0277975c553340f7c5e1e710362c17d38666b6"
+  },
+  {
+    "output": "mycalnet.org/unavailable/02ee9c535b505d.html",
+    "local_source": "mycalnet/unavailable/02ee9c535b505d.html",
+    "local_edition_sha256": "0ee8f728246034c7709672ef8cea07dd109ae2a2c9949f1040f01f058a3413a4",
+    "output_sha256": "929db17bf9ae21cc6b171fb6819264d18ec3451b4f7028a9359b53e4e5620cc1"
+  },
+  {
+    "output": "mycalnet.org/unavailable/047687a6b5003c.html",
+    "local_source": "mycalnet/unavailable/047687a6b5003c.html",
+    "local_edition_sha256": "926f3df8197162936de24e2e05d01177e663243400c2018308945a995c7dd37c",
+    "output_sha256": "906c17823055d31d9ee153dad86248a156fe4f363d6fffe5e9914583443eac8d"
+  },
+  {
+    "output": "mycalnet.org/unavailable/04802e124048d7.html",
+    "local_source": "mycalnet/unavailable/04802e124048d7.html",
+    "local_edition_sha256": "b018a79618a41cb05446cd037d8969e95779c305b05d2901cc28ebdf0a71775b",
+    "output_sha256": "533ae516e3eff9474dacb85506f0b433fa03f8f6770d3b963fee8a65e7d99b51"
+  },
+  {
+    "output": "mycalnet.org/unavailable/054150c41321d8.html",
+    "local_source": "mycalnet/unavailable/054150c41321d8.html",
+    "local_edition_sha256": "d820235fd4d1bd9bc634f35bab5a962e49f3c97a2340a3dcc59b228b7a5171f3",
+    "output_sha256": "a7fdfc2491f8ed1a3c879585bc0868a0de0dd5dcaae6d749f1bb19f90f6acc7d"
+  },
+  {
+    "output": "mycalnet.org/unavailable/05c2dd5f9ea9b5.html",
+    "local_source": "mycalnet/unavailable/05c2dd5f9ea9b5.html",
+    "local_edition_sha256": "dcb6d7cb5c5024d1bcdf17a9f3c9116fb950f65fb9878a61c70de1c7d5404d42",
+    "output_sha256": "58de99c26ed2b575cfec93a560f899bf38604bd37aeeecb6f1c5de585f6c8596"
+  },
+  {
+    "output": "mycalnet.org/unavailable/05ca1c64326027.html",
+    "local_source": "mycalnet/unavailable/05ca1c64326027.html",
+    "local_edition_sha256": "59b053bc6e170a348d5dee895a0993b6433c5a2799a3489839a49c10605f6a87",
+    "output_sha256": "b88217ac2ab74c9f66e308ff8c48361d2aa77b490fa7cf93b83800f915d64dd3"
+  },
+  {
+    "output": "mycalnet.org/unavailable/064afd6d3b0860.html",
+    "local_source": "mycalnet/unavailable/064afd6d3b0860.html",
+    "local_edition_sha256": "84e2e66b66bd0d84ee432f5de0807973f21b359c96842dc6d720ce832890f6e1",
+    "output_sha256": "b76ce8f2974b413951711b0e485d26345ed16237d1c30fe364f16c44c0589560"
+  },
+  {
+    "output": "mycalnet.org/unavailable/0737a2caf7ad32.html",
+    "local_source": "mycalnet/unavailable/0737a2caf7ad32.html",
+    "local_edition_sha256": "15cfc8b4ba01fff500b95edfd72d13ce583098b3b27f71133137d28f489de8b9",
+    "output_sha256": "2d7f3500573e61b663c41b349aa87fc9a943102df679a2e14d34f8056492dad6"
+  },
+  {
+    "output": "mycalnet.org/unavailable/0950c074f4fe72.html",
+    "local_source": "mycalnet/unavailable/0950c074f4fe72.html",
+    "local_edition_sha256": "4f3715bbaed88e48a728eb3cc57ab03c524327d377e154909689e2bde2a74d1a",
+    "output_sha256": "8b68a94a27e474484c3e2af767ad422c8e82201dc754281334667e9396564714"
+  },
+  {
+    "output": "mycalnet.org/unavailable/0a158f1487f022.html",
+    "local_source": "mycalnet/unavailable/0a158f1487f022.html",
+    "local_edition_sha256": "e0a6d833468996bab09b64233c7a50347211f656ca50f2f04a983c4f1a0465e3",
+    "output_sha256": "d6f4e74ee6a6d297ae46eb2d7adfd1fd7c57019bbe470510e81195edb6c87bf5"
+  },
+  {
+    "output": "mycalnet.org/unavailable/0a29b084316366.html",
+    "local_source": "mycalnet/unavailable/0a29b084316366.html",
+    "local_edition_sha256": "9e9662b8825c1d2625c5f2f1a3cdbc85c08b75d84ddabda24241e3fbefc38509",
+    "output_sha256": "584602f10915a6e442ec742693350a9599d75db07cbccf1cd8c38165e10f84eb"
+  },
+  {
+    "output": "mycalnet.org/unavailable/0c725202adabcc.html",
+    "local_source": "mycalnet/unavailable/0c725202adabcc.html",
+    "local_edition_sha256": "fa2cbb2f2704199ebc10b3c93c08ea5bd0e4b4d36c10b3f982c8f705c1d4798e",
+    "output_sha256": "77f29a914d97128a8353b9d74f2b9851a7eec42a10d2ff35782609aa49cb14a0"
+  },
+  {
+    "output": "mycalnet.org/unavailable/0d0e7ff5ebb05a.html",
+    "local_source": "mycalnet/unavailable/0d0e7ff5ebb05a.html",
+    "local_edition_sha256": "e3bd0e4d087ed2ed6d448972f499c62be0bbcc294f045389e8c028c1b6446111",
+    "output_sha256": "8b61ae57c995be6327e95638780b091734089cfb6d36af52d2abe26265f6cd2b"
+  },
+  {
+    "output": "mycalnet.org/unavailable/0d0ff437a7001d.html",
+    "local_source": "mycalnet/unavailable/0d0ff437a7001d.html",
+    "local_edition_sha256": "6afdade3722e9e1eb092fdcfe911c523904dc209dbf850a7566cf7dcc2c7dc0d",
+    "output_sha256": "9490e204af81413adce58167365b8cd78a49ebf73cc61ceb1e7bdba9633bf6b9"
+  },
+  {
+    "output": "mycalnet.org/unavailable/0d2a22a56f85de.html",
+    "local_source": "mycalnet/unavailable/0d2a22a56f85de.html",
+    "local_edition_sha256": "540935d132a0a7b41bb85f2845297718001d019053d13ee966033d3c20be1400",
+    "output_sha256": "dd7607bedffbfecdb6856046312a1569469f9211d1167269d432ea1efca1585c"
+  },
+  {
+    "output": "mycalnet.org/unavailable/0f231ecb4c6e8e.html",
+    "local_source": "mycalnet/unavailable/0f231ecb4c6e8e.html",
+    "local_edition_sha256": "2c6f441e01cf88f7ca9e82f82f3ca1d708d6661cb66bc4586c69f08df9337e03",
+    "output_sha256": "3e6cf2217955da016b890a7588427d2b2ce32aa2599cbf0db9cce7007273418a"
+  },
+  {
+    "output": "mycalnet.org/unavailable/10c1da83467b11.html",
+    "local_source": "mycalnet/unavailable/10c1da83467b11.html",
+    "local_edition_sha256": "0458783392033a9786f79f28264c8a417591f6181387b79eee9a804aa7bf046f",
+    "output_sha256": "ed6316e663f24bfed2e5bee71cf75f9e07ce7d2b9b76c798edb1cf9c7c3a46c0"
+  },
+  {
+    "output": "mycalnet.org/unavailable/11378a4aa8d722.html",
+    "local_source": "mycalnet/unavailable/11378a4aa8d722.html",
+    "local_edition_sha256": "699cfcc064aa4801f25aa8b6b2a450dca9a90e0db27f74deff494659e44d7462",
+    "output_sha256": "d5a997a9263712789156e0f276e356f35986de2f6472f685fe324c10cd4baf11"
+  },
+  {
+    "output": "mycalnet.org/unavailable/122d7986677a8f.html",
+    "local_source": "mycalnet/unavailable/122d7986677a8f.html",
+    "local_edition_sha256": "086895541b16806b6b4d632bcdf6a692c82fb8341877754da56aa503bd49e374",
+    "output_sha256": "7f0b9fd83a47870bc3cd0c18883320872d9fa3a8d6c1d003813df29492d4d035"
+  },
+  {
+    "output": "mycalnet.org/unavailable/1257be30ee225a.html",
+    "local_source": "mycalnet/unavailable/1257be30ee225a.html",
+    "local_edition_sha256": "7bfbc5ea3628fb89175ced0e47fe5b959ef3d2b176bfdf9f511b4aa44182b843",
+    "output_sha256": "f50640a89632a271ad00cdaf1686b2530256749d3ab37b3746ddbf6368078a29"
+  },
+  {
+    "output": "mycalnet.org/unavailable/12644090d47c1b.html",
+    "local_source": "mycalnet/unavailable/12644090d47c1b.html",
+    "local_edition_sha256": "6695bc7cde8ad53f148e5e23c2551f2cb654a45595a06f2f4834222f740051ab",
+    "output_sha256": "71b3b7a26826fb5468c48acd7b3cee680bdda303e2c5fe4cc603d7113616cfee"
+  },
+  {
+    "output": "mycalnet.org/unavailable/127f2e5fcbfa9a.html",
+    "local_source": "mycalnet/unavailable/127f2e5fcbfa9a.html",
+    "local_edition_sha256": "117903144b425a8158b8955befd7e52508eed83bfa2a3a999293b34832fd1686",
+    "output_sha256": "4c15ba1c35271474caa3e937cf5381cbdab5bb8303a48c357633b7960ad779ef"
+  },
+  {
+    "output": "mycalnet.org/unavailable/1299952916b785.html",
+    "local_source": "mycalnet/unavailable/1299952916b785.html",
+    "local_edition_sha256": "6eff4bbf74073fedfb309af683c291d24736df3d0d056a96e9f64506a01a1b49",
+    "output_sha256": "f23b85f5f3774bdc3209a18c32f933affbcfde6b96785a1ea870b7a6535ea33c"
+  },
+  {
+    "output": "mycalnet.org/unavailable/13093ac9ef99b9.html",
+    "local_source": "mycalnet/unavailable/13093ac9ef99b9.html",
+    "local_edition_sha256": "107c3e638275b0fcb08bb0c8270d712873172d822a4bcc9c9f39b4f3291da5af",
+    "output_sha256": "40a32293c8fbadda16143cb4075f053b4cd7d26b3ad57f688a2421bbcbb92d90"
+  },
+  {
+    "output": "mycalnet.org/unavailable/132f80ec4450f0.html",
+    "local_source": "mycalnet/unavailable/132f80ec4450f0.html",
+    "local_edition_sha256": "ca03e65aa54739c356bf6312b93a65ded52bbd69ceb421c4b67d23bbb5555106",
+    "output_sha256": "d17c719d077e5bc22874e61f5e70df7111fc45110c6052ceadf003a7d8e7c143"
+  },
+  {
+    "output": "mycalnet.org/unavailable/1362a384491a9d.html",
+    "local_source": "mycalnet/unavailable/1362a384491a9d.html",
+    "local_edition_sha256": "109afa7ec6087bf67ee0806721250add74aa79d1a74fe1c482c22685b5ab2f8d",
+    "output_sha256": "3b1b09e8ddf3edac12a06f57ed60b4731de33db65f7ac049dd60ee7ed29d16a4"
+  },
+  {
+    "output": "mycalnet.org/unavailable/13aa0835960c07.html",
+    "local_source": "mycalnet/unavailable/13aa0835960c07.html",
+    "local_edition_sha256": "af2ce126f68fb12d31d03fcca8aab325267034bf68dd374892e5a0e3daffc8d4",
+    "output_sha256": "1352c8517e0ae6907a1d5e6237cd661bafb776620dfe470575030a6dd8fc1775"
+  },
+  {
+    "output": "mycalnet.org/unavailable/149f061cc85ca1.html",
+    "local_source": "mycalnet/unavailable/149f061cc85ca1.html",
+    "local_edition_sha256": "71dc2f18984b9a74e8f4a64bce630f1cad6c8619cb916f692948ff62d3e04e26",
+    "output_sha256": "fcb8184fadb640647dacebaf42a507b8f84bbbfde0d0d809bde6fa6d90652ad9"
+  },
+  {
+    "output": "mycalnet.org/unavailable/17a44a1c2375e2.html",
+    "local_source": "mycalnet/unavailable/17a44a1c2375e2.html",
+    "local_edition_sha256": "8786313a369aba7dec48010724421c5177ed1acfe800c608dd27a1ead67660b6",
+    "output_sha256": "95f7110c019063742a3aef2a5a274d14075d7c3e3be688438079a08327515a27"
+  },
+  {
+    "output": "mycalnet.org/unavailable/1b36700e579c81.html",
+    "local_source": "mycalnet/unavailable/1b36700e579c81.html",
+    "local_edition_sha256": "accb5e1943a37c7633e51590bb4c14f3029eed13192e217705fecd2fa8e5eb78",
+    "output_sha256": "9f3f1f00acbbf30ed0b0e68996ecb7dd6f7258991bac46d8609d5da26df958b1"
+  },
+  {
+    "output": "mycalnet.org/unavailable/1b4af0b18b1c02.html",
+    "local_source": "mycalnet/unavailable/1b4af0b18b1c02.html",
+    "local_edition_sha256": "15861664c42e2a44a7d92d7dfb6b9cac1719838738a9ddb2177bc977ea96b9bb",
+    "output_sha256": "26bc6951ff100744f2df31773448f1cc48d523cda33e7221ec007604fe5b89ea"
+  },
+  {
+    "output": "mycalnet.org/unavailable/1d1bf433c3e0ab.html",
+    "local_source": "mycalnet/unavailable/1d1bf433c3e0ab.html",
+    "local_edition_sha256": "d2d066fac3355b8e6940adca274a93537e2b72ba6f82f47b4b25b45e04436a61",
+    "output_sha256": "b10b2f41839e10a51040cfa12907cad62a7f08bc55103c0dd6912ee0a79ad035"
+  },
+  {
+    "output": "mycalnet.org/unavailable/1d423b3dad3913.html",
+    "local_source": "mycalnet/unavailable/1d423b3dad3913.html",
+    "local_edition_sha256": "0423a859596a66a0b99eccdfe4a8807397dc9abac9fc56414d1f9074dc0142e4",
+    "output_sha256": "9c357b3fd55904c7773fdfe67c335c7637f707a7f861d81060bd0110900a7287"
+  },
+  {
+    "output": "mycalnet.org/unavailable/1d475b3ddd0e03.html",
+    "local_source": "mycalnet/unavailable/1d475b3ddd0e03.html",
+    "local_edition_sha256": "2da3e9327cf2e040fd7a3ad8368a93ed6ec1992fcafd8b6b9355d240f81a9ff7",
+    "output_sha256": "e7b44a6ecdaccf7c8c1d74ea36b4a599e713db86c16447ed782a5b6fca206c62"
+  },
+  {
+    "output": "mycalnet.org/unavailable/1d640b13658cad.html",
+    "local_source": "mycalnet/unavailable/1d640b13658cad.html",
+    "local_edition_sha256": "cdfc46ec911311d826e5926ba740d4b0b3c16689bd6e1f1d84489edd3ce040c1",
+    "output_sha256": "aceb2a2b75dace54cdbc6bcb5dce093226cf2a39014bd69fa062d9a6be83f891"
+  },
+  {
+    "output": "mycalnet.org/unavailable/1e00c136527519.html",
+    "local_source": "mycalnet/unavailable/1e00c136527519.html",
+    "local_edition_sha256": "dd662f8c0905f6da7a939f7289c04b41639e139f6c7c208627b168412f51578f",
+    "output_sha256": "be63cbcfe85e877716077d7885957fc1c6815dcdce0767381f00d0f509aa7572"
+  },
+  {
+    "output": "mycalnet.org/unavailable/1e84de560a2b3b.html",
+    "local_source": "mycalnet/unavailable/1e84de560a2b3b.html",
+    "local_edition_sha256": "60995f882db5bb7b63c0e275b68cfa01c219ae79def23be0517d617d76a16d12",
+    "output_sha256": "9d822642c8ae604ccfcc181459225b17525848430e667fb8d48f051662aa7405"
+  },
+  {
+    "output": "mycalnet.org/unavailable/1ea6ec33575bca.html",
+    "local_source": "mycalnet/unavailable/1ea6ec33575bca.html",
+    "local_edition_sha256": "970ad58031135163b3ca86497875cb6eb4c205033bf1ea9a36603fb5c984a333",
+    "output_sha256": "34c2a4c5e840a6982c33257b555a221900a233044b901046603b0b3ff2f1cb3f"
+  },
+  {
+    "output": "mycalnet.org/unavailable/1f9a7a2bc947d5.html",
+    "local_source": "mycalnet/unavailable/1f9a7a2bc947d5.html",
+    "local_edition_sha256": "5f114f41cc02f58db2d4b819ed36d65bc2b757ebf8f71b0fd07b8e2bdc84014d",
+    "output_sha256": "a59857f63f68d64839c1c150018b629c595ad319798b23e6ec84dfa35c303fa3"
+  },
+  {
+    "output": "mycalnet.org/unavailable/1fe05f51ada130.html",
+    "local_source": "mycalnet/unavailable/1fe05f51ada130.html",
+    "local_edition_sha256": "00150d1d0cdb05c4e8825a26c4ffc8c83af544e2639dfd6835b67c5e58e637a2",
+    "output_sha256": "c1bcc8362e08f92054386383157d4e9b1207234ff62c19f0a4b4f6e73a035b49"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2144b36e383f66.html",
+    "local_source": "mycalnet/unavailable/2144b36e383f66.html",
+    "local_edition_sha256": "f63cd25e3f19c7804a781f09fa88feee0b9d0e3ae380ff298273f5d42e2bc6e0",
+    "output_sha256": "b1a42c9d98ffdff2f43e870e3ead4a224f96b659d84a41c2e97adb7d7f75b798"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2198207315d108.html",
+    "local_source": "mycalnet/unavailable/2198207315d108.html",
+    "local_edition_sha256": "11b65f8e70328f1f668372c5796aa210bfe798943aae54b4edd2d84051e51281",
+    "output_sha256": "6d73a0d9dd7ea63d6b4aba8ff7d8e37ad7d00cb8a2a19f1ee4d550b587fb9c99"
+  },
+  {
+    "output": "mycalnet.org/unavailable/22022528cc4689.html",
+    "local_source": "mycalnet/unavailable/22022528cc4689.html",
+    "local_edition_sha256": "066a531e0c84f5eb5c1cba3262b4fa39548ab17a29409b4cae355d9a47979958",
+    "output_sha256": "6fe236710ba1ecc93aa02594eb2801e376ec4fd109d1d00a325e063a57f46f6b"
+  },
+  {
+    "output": "mycalnet.org/unavailable/22790ec22e96a8.html",
+    "local_source": "mycalnet/unavailable/22790ec22e96a8.html",
+    "local_edition_sha256": "2020ad39602d4d67666c46c1377ec149e52648498b8031904426ec6be9ac27c1",
+    "output_sha256": "2ec41aad02e22fd8654753ba330e366fb9fcce9d6a5b594c9dd0bf8e0cab2c22"
+  },
+  {
+    "output": "mycalnet.org/unavailable/227e5fcd368e75.html",
+    "local_source": "mycalnet/unavailable/227e5fcd368e75.html",
+    "local_edition_sha256": "cf6dc873c728f5018384c6b79c50f369ed311c24527843be93dd4c71d119d10d",
+    "output_sha256": "07c32b0dc2dbbc8541735bfaf663863ee646adc9778247cdacaf43fe74f9447d"
+  },
+  {
+    "output": "mycalnet.org/unavailable/22c5d8bc7c574a.html",
+    "local_source": "mycalnet/unavailable/22c5d8bc7c574a.html",
+    "local_edition_sha256": "887108e01ac7e40e46dca478b423c0c6663fe417a87c8d7c4bff6e73d7280df1",
+    "output_sha256": "8f49ea927632514a52a06f0b9550636836cfbc5b46a4092f1081e17a9fe8a3e8"
+  },
+  {
+    "output": "mycalnet.org/unavailable/253926dff37307.html",
+    "local_source": "mycalnet/unavailable/253926dff37307.html",
+    "local_edition_sha256": "c620bd4eab600f43742abca8a6abee892f60da2981f4bd102a05b72cdfe6325f",
+    "output_sha256": "163333b5f79f14e9fc0d00703c0cb39b23f6271e5e77a5be5add2f8c5891b595"
+  },
+  {
+    "output": "mycalnet.org/unavailable/25898b84053068.html",
+    "local_source": "mycalnet/unavailable/25898b84053068.html",
+    "local_edition_sha256": "36ac5f8ddba94e48de1a9e166d025ad8dbb0d226168c36e27098c7685f4571a6",
+    "output_sha256": "28ca6e8ce09d6e9f5cd4c514c871f849e3f05a366aff702de1be17c0f50c655e"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2594118aac6ade.html",
+    "local_source": "mycalnet/unavailable/2594118aac6ade.html",
+    "local_edition_sha256": "554bf07d92c8e5e805ceeb09bb28763f7b8a0dd14dc0e67236794bef3c41fe23",
+    "output_sha256": "ad368d5e4d50e00a3233c76fbe275949bd1bb37d34e85d21f9ab7ee30b6b72dd"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2675cfe36b5860.html",
+    "local_source": "mycalnet/unavailable/2675cfe36b5860.html",
+    "local_edition_sha256": "4342ca80ba4d8ae40ed7b6fc6aa6a8631134930a585bbad58a90486c615a6253",
+    "output_sha256": "44725ace57001e5deafb00f6aed2b610de790adec1922f65e3af420641dac3ec"
+  },
+  {
+    "output": "mycalnet.org/unavailable/270ddf34f7b951.html",
+    "local_source": "mycalnet/unavailable/270ddf34f7b951.html",
+    "local_edition_sha256": "a9c60776d2f1c28271857dc7dd8ae00d5646fdfeda4148df2947bf731f5ec348",
+    "output_sha256": "2361d78d5cc05e0b6cd0dbb3f26974169fc7200ddbc14fcae260636760dd8cc5"
+  },
+  {
+    "output": "mycalnet.org/unavailable/27a8149650d587.html",
+    "local_source": "mycalnet/unavailable/27a8149650d587.html",
+    "local_edition_sha256": "0241aefb031a01fdbc836b5d1b2965a25a93e6f4a1e81f886c02fbaadc7ad461",
+    "output_sha256": "50b0b7752eac0089c91f5c1c493698bd60f1d138f2e705e38cbfc64640950c87"
+  },
+  {
+    "output": "mycalnet.org/unavailable/285c9d07f27176.html",
+    "local_source": "mycalnet/unavailable/285c9d07f27176.html",
+    "local_edition_sha256": "6c468524bd7561fb6c418f85f1106cd817d1e0458adcf5cf4bcb5d6dede6544f",
+    "output_sha256": "88f4a41fe58337cba4533e105ef7c87dcc3057236ecf93fa1b3de18e007f095c"
+  },
+  {
+    "output": "mycalnet.org/unavailable/296a8cc9679fa0.html",
+    "local_source": "mycalnet/unavailable/296a8cc9679fa0.html",
+    "local_edition_sha256": "4985a3db1a1b9c3b7e1b5f40b18980a39c5db5ba8e31a80952551e2ff2176778",
+    "output_sha256": "c9451349f1e2aa5e6d32c6d6e6f9b588b73cafbb1e6d863e04f0509708e8400a"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2a9092323cfe77.html",
+    "local_source": "mycalnet/unavailable/2a9092323cfe77.html",
+    "local_edition_sha256": "bd6d7a82f84229473a211abbb8a9b11b55c8f21bcdc393a67ad04f49637d033c",
+    "output_sha256": "a6be3c1dfd7a9352a0f66bd0ed7e1ff4459906cb9c03aaab3a1a243b63c74829"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2a9ba6ffcc7f04.html",
+    "local_source": "mycalnet/unavailable/2a9ba6ffcc7f04.html",
+    "local_edition_sha256": "8eed23efef9a405859931c707941fb370bbee42d74d45a0b2093fd7e816366ee",
+    "output_sha256": "9454869c90377a39043bd275910011d928a63df18387845606bb4c7bf544353d"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2ac36b6514d915.html",
+    "local_source": "mycalnet/unavailable/2ac36b6514d915.html",
+    "local_edition_sha256": "cfbd16d48c8b0077164265adf49f65ff1b7f7040f0facd3b644fe1e949a498fd",
+    "output_sha256": "69d2799ded015e7135fc9c6af29a95c4a04d6010beb72449debb14b0ef3e0a58"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2b26f00c8ac6d1.html",
+    "local_source": "mycalnet/unavailable/2b26f00c8ac6d1.html",
+    "local_edition_sha256": "cae2adae11559772fb619cc8ec337d59e18ae8d2ebffeb32b03ececd39ea32f6",
+    "output_sha256": "3780da504beec097313505837c333060c3f1750b7f9d7a6bdd0d974b10efb630"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2bf5c06d817c76.html",
+    "local_source": "mycalnet/unavailable/2bf5c06d817c76.html",
+    "local_edition_sha256": "5c9fa41b899decda0a9f72aeb628e22a6fb607741b6601071f73a1f29f30bc13",
+    "output_sha256": "a074e1ca49d7cbe96ca91f4e1c5756e7adcb586fe788d02c92457dbca68929b8"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2d1068979f5f68.html",
+    "local_source": "mycalnet/unavailable/2d1068979f5f68.html",
+    "local_edition_sha256": "3e73231b1666d23fadf6ed7c7c7bf90ff6b23add33f683b5576f080363322f5e",
+    "output_sha256": "d176fd38000c624744992a0f3312043a4c2af8889f54a8b87f05ca87ebfc2406"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2d39943c34d312.html",
+    "local_source": "mycalnet/unavailable/2d39943c34d312.html",
+    "local_edition_sha256": "6e8b910f1da572e79d72a72ea64d4a8abeb9738a8de9b1e10b4f58ebbda9644c",
+    "output_sha256": "6360ad2300d3ccd7ec2d8c6da4176e3c84949e5a754e131d9b46cb8223090317"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2e6e93e9042374.html",
+    "local_source": "mycalnet/unavailable/2e6e93e9042374.html",
+    "local_edition_sha256": "d70b4fe148f2c2f6f6fb44d62190d4c4e016f919588f1053e89f0feae74c8f68",
+    "output_sha256": "3aa9634442aae0156f8467477df622cd0fd1405074aaa3130d5d4898aa2162d7"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2edd2ea238bd64.html",
+    "local_source": "mycalnet/unavailable/2edd2ea238bd64.html",
+    "local_edition_sha256": "d7bc3c89d1a05cfe0090255061fc75950f5f05398152f9256a9ec1652de69a62",
+    "output_sha256": "d3988392dd751cc364f791d4fcc096a7e89f8686082789f2924d156af849bde2"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2f624bf694f9dc.html",
+    "local_source": "mycalnet/unavailable/2f624bf694f9dc.html",
+    "local_edition_sha256": "2e3a9646179ee100f338f4bc8fe510d937f219c8dbbae8128b59248e5c17fee4",
+    "output_sha256": "554977fc492282089617be762d45852269cfbb8b4c8a46a2f7be93f4babea953"
+  },
+  {
+    "output": "mycalnet.org/unavailable/2f9eafbcd97c9a.html",
+    "local_source": "mycalnet/unavailable/2f9eafbcd97c9a.html",
+    "local_edition_sha256": "363c224c55232a1b01d1f1651cd8d457f7f41dcf1f17eb90bee3e71fa0b96979",
+    "output_sha256": "ee36b38f74cbd251864ce5badee6f3c96605305c1ef6b933bde65364a17661f3"
+  },
+  {
+    "output": "mycalnet.org/unavailable/3001ef8de2d5b6.html",
+    "local_source": "mycalnet/unavailable/3001ef8de2d5b6.html",
+    "local_edition_sha256": "b1255e0153678d6817301d3a12084db2b89bb578bfbe1068ae781d2559ac1bff",
+    "output_sha256": "d532ebc0e40e98c79ff145930a2f154a27bf20b70a45c02965868cd597702219"
+  },
+  {
+    "output": "mycalnet.org/unavailable/30a2d7ec4731a9.html",
+    "local_source": "mycalnet/unavailable/30a2d7ec4731a9.html",
+    "local_edition_sha256": "39febc286664056642b936fb292dcfbc5e22c5a1f4a247a70b3034a6e1db09e5",
+    "output_sha256": "0b5d8f0ec47e24533053f0a77841c441f9c9e6c344078580fc44d34841af7345"
+  },
+  {
+    "output": "mycalnet.org/unavailable/311ecc5a5bcad0.html",
+    "local_source": "mycalnet/unavailable/311ecc5a5bcad0.html",
+    "local_edition_sha256": "dec520caa5ea6f00e31d579b31f96fc1738876b7d0e27bac660bc9db1859e04a",
+    "output_sha256": "f7ac93fc765291712608d8a1c0377b103bf455094f5dad2bd52a47ce97dbb627"
+  },
+  {
+    "output": "mycalnet.org/unavailable/34b6b4aeea4147.html",
+    "local_source": "mycalnet/unavailable/34b6b4aeea4147.html",
+    "local_edition_sha256": "0e4fa0d979c6a73a6c3387038481046f9d17e3fc904732fb49efe1022ff5aca8",
+    "output_sha256": "49058e0a85cd14f29bb0258b6ef65e98ba9ea84f8f0fc81c45bedc4355fa470a"
+  },
+  {
+    "output": "mycalnet.org/unavailable/353a572be58856.html",
+    "local_source": "mycalnet/unavailable/353a572be58856.html",
+    "local_edition_sha256": "3d22e3f30440a9ef4e4b478be9fcf44905b751e8252e233227354efe4f209d9e",
+    "output_sha256": "bba67de083ac518c7445e98536b8d713498a952b513fbe017e1a9094c2f03e49"
+  },
+  {
+    "output": "mycalnet.org/unavailable/360f39572e76b1.html",
+    "local_source": "mycalnet/unavailable/360f39572e76b1.html",
+    "local_edition_sha256": "da167bac0b359804c7c2166a55523106eb2815e67d351596002f9a215fa1b117",
+    "output_sha256": "db5f8a22bc93a664a1ecf69e126cf6475bbe873f1c9b33e21cf48c7fe830bbe5"
+  },
+  {
+    "output": "mycalnet.org/unavailable/3663e465a48121.html",
+    "local_source": "mycalnet/unavailable/3663e465a48121.html",
+    "local_edition_sha256": "901925341562ef7ab2b93bf6d61b9bc6284cf1eabab8282729dc8df36e566109",
+    "output_sha256": "f7594cc6b357ea49fa39e66df7e3aeec22aabb2d679f15e75a763873502aa9ba"
+  },
+  {
+    "output": "mycalnet.org/unavailable/37514d02a7fe5b.html",
+    "local_source": "mycalnet/unavailable/37514d02a7fe5b.html",
+    "local_edition_sha256": "04f943e372dbe175852bef6301071faee7d18fb05fc44f9574e2e1dfcf1c292b",
+    "output_sha256": "84a162076bc7d211c53588f816257dcab06202843da1bdd7f805b6be3df2f04b"
+  },
+  {
+    "output": "mycalnet.org/unavailable/37c33cfba5f5d1.html",
+    "local_source": "mycalnet/unavailable/37c33cfba5f5d1.html",
+    "local_edition_sha256": "f9d009050fc34b450d756bf27cd1d03299a5ee0bfb5fac8e4cf7ea22362c09c8",
+    "output_sha256": "be2e5fbacbf0228906c65a00fa7f31fdb4b2716aac418ea7668d3b928c468676"
+  },
+  {
+    "output": "mycalnet.org/unavailable/38030f70adffd2.html",
+    "local_source": "mycalnet/unavailable/38030f70adffd2.html",
+    "local_edition_sha256": "346672425ef36e52552c67e7785ef7921534e68a64897bcf3e38b6e78b691ee0",
+    "output_sha256": "cb2bbcd839362cd1b3e61ba05584b05ce52692177c78adde93a5e1f4e87c05ce"
+  },
+  {
+    "output": "mycalnet.org/unavailable/3864a63a011926.html",
+    "local_source": "mycalnet/unavailable/3864a63a011926.html",
+    "local_edition_sha256": "e3c13353ee93418678045075016d522f3f417b3c07376e8b7892548849d44bde",
+    "output_sha256": "14f0ac78624014c3c1a5b47ebb4d762e120457d266d5ec1e8c4492143f357bae"
+  },
+  {
+    "output": "mycalnet.org/unavailable/387d607c7b68ae.html",
+    "local_source": "mycalnet/unavailable/387d607c7b68ae.html",
+    "local_edition_sha256": "6eb27f52b7ca874b431a3d655623b83a1d3f5b313a965dcf9e00f6dd947588ac",
+    "output_sha256": "53010cd9f044886184d4f98dab9ebd4ccc5a87fa25b1df9e128ca3e419728085"
+  },
+  {
+    "output": "mycalnet.org/unavailable/3907e3c0b00cde.html",
+    "local_source": "mycalnet/unavailable/3907e3c0b00cde.html",
+    "local_edition_sha256": "2df14ecb87a65a224104f6d2bc03394d715ee1fbae85f405057b8beb451c93fd",
+    "output_sha256": "5eac5d434191022ccf37b1e94b7452c57c683ed0be2235c3bc647324b174f510"
+  },
+  {
+    "output": "mycalnet.org/unavailable/3939ed45e826be.html",
+    "local_source": "mycalnet/unavailable/3939ed45e826be.html",
+    "local_edition_sha256": "584ed9df1e76835f5b2ffea75e05a7e7897736041c93f922c3753d7f2b277ab5",
+    "output_sha256": "bcd75fd8606497d2effc5122df7192588b6c2aa7d7a93a39128bc71b631c1578"
+  },
+  {
+    "output": "mycalnet.org/unavailable/3adbc7b5601069.html",
+    "local_source": "mycalnet/unavailable/3adbc7b5601069.html",
+    "local_edition_sha256": "4245b3d7ea9b61293bba8286c2e66f916850b5c625daa2cf32151991615248da",
+    "output_sha256": "8a6d26ac22267a078798beb26d560c764f44207646f1fd5a94dffed6349f1b3d"
+  },
+  {
+    "output": "mycalnet.org/unavailable/3c4ad29f678ff2.html",
+    "local_source": "mycalnet/unavailable/3c4ad29f678ff2.html",
+    "local_edition_sha256": "16f2de2ea8711cc7a7062b2cd513e719f570e0f35b87e3d2d9a75278491c2d05",
+    "output_sha256": "d343333c8c24e6dcb564ce0e06be31f369111c3b4a8983bf3fe870a5da818e0e"
+  },
+  {
+    "output": "mycalnet.org/unavailable/3db7123d476d9a.html",
+    "local_source": "mycalnet/unavailable/3db7123d476d9a.html",
+    "local_edition_sha256": "deb2c71c7a9aee4db6010e0c8866ed2dc11afb1d99428b54be808ecb5e096b37",
+    "output_sha256": "47e93608f0e3832361c1dd5433459391c3539d52f3d818fdbcbb3d40b2cb9160"
+  },
+  {
+    "output": "mycalnet.org/unavailable/3eac0869cf099e.html",
+    "local_source": "mycalnet/unavailable/3eac0869cf099e.html",
+    "local_edition_sha256": "099069058a52e709282d010daa3338ef79f4113c92f5ab1ff1947b9be221750f",
+    "output_sha256": "2b0ee322272c909480c02e6841541726289e53bc0dccf709f89edfc4fd939fd0"
+  },
+  {
+    "output": "mycalnet.org/unavailable/3eb3152b8dd05e.html",
+    "local_source": "mycalnet/unavailable/3eb3152b8dd05e.html",
+    "local_edition_sha256": "e1c0046f195e7843aabfe2f9cbfb716d5cecf909f50619ae5093101f04878745",
+    "output_sha256": "46d15d8a536b388fd219b31da54222c08979c86b3aa049f2ac3aa1767d0313ed"
+  },
+  {
+    "output": "mycalnet.org/unavailable/406a750ecc8554.html",
+    "local_source": "mycalnet/unavailable/406a750ecc8554.html",
+    "local_edition_sha256": "c498ff7518cec449bb32f3f1ed28f31031fb238b76025a3b3afdf98936b34be7",
+    "output_sha256": "9005e567fc536d49b6031c4e17b4c1f32662a02f88fd7e538da76e76f21a3ffe"
+  },
+  {
+    "output": "mycalnet.org/unavailable/42740b72cf0282.html",
+    "local_source": "mycalnet/unavailable/42740b72cf0282.html",
+    "local_edition_sha256": "8e13fdac7e872650abaa7b4dfe977820a1b3d2aea61bd7f80f75905c5c24fe21",
+    "output_sha256": "f353e24c296f71909d6e8a10d5845db58213fef6f52813558b03caf3878d637d"
+  },
+  {
+    "output": "mycalnet.org/unavailable/436f6fe10a4af0.html",
+    "local_source": "mycalnet/unavailable/436f6fe10a4af0.html",
+    "local_edition_sha256": "993234f9b63d73f2378e91ef7a724286f15496f5bd0208956e62e88733c593eb",
+    "output_sha256": "bd0291b4fcba02ccbae3f5781aefef4be5861beaa8a0d001401076597f03dc80"
+  },
+  {
+    "output": "mycalnet.org/unavailable/437e7e7b2d9c2f.html",
+    "local_source": "mycalnet/unavailable/437e7e7b2d9c2f.html",
+    "local_edition_sha256": "7ba30ea04a8bc9cadd9363f6bcf56b59876d3c26d29f11da5bb8758d08f11443",
+    "output_sha256": "a5802e1eae2f216970ac9d57763af29776efa5e2e221be0a1d340c67f98d2f1a"
+  },
+  {
+    "output": "mycalnet.org/unavailable/43b7d1f479fe04.html",
+    "local_source": "mycalnet/unavailable/43b7d1f479fe04.html",
+    "local_edition_sha256": "2b129093b58d37b0a97c41ff57ee7b7d11f3e92cc9b9f2dffa19f92d08753638",
+    "output_sha256": "067b21c252c584f0bebd5c9905b252a720608db67218b914e7efa3a29dc67bda"
+  },
+  {
+    "output": "mycalnet.org/unavailable/4608e063b55b49.html",
+    "local_source": "mycalnet/unavailable/4608e063b55b49.html",
+    "local_edition_sha256": "bdd48548c5ccdc8c8fcfbc617285aa80c561ed7d204cc14734efba766a0bc333",
+    "output_sha256": "81b41a18260f79602360971da07fe568a0ab2154027fb6cecab2cb32bdda1bb4"
+  },
+  {
+    "output": "mycalnet.org/unavailable/471b7c0583633c.html",
+    "local_source": "mycalnet/unavailable/471b7c0583633c.html",
+    "local_edition_sha256": "5bb3a4973c1920c915e555606572a828b892b7f34dadcb74e9aff219aa10bd54",
+    "output_sha256": "f03d9ebf1f4931593ff9c4c6b1dbcd48fba95a6733fbd62c4298b4ed69a331bc"
+  },
+  {
+    "output": "mycalnet.org/unavailable/480b6ba3ad96c5.html",
+    "local_source": "mycalnet/unavailable/480b6ba3ad96c5.html",
+    "local_edition_sha256": "57b71e76841f5501e0e44eac008d7cc8b1da1558f95ed527c6b1e22f11054107",
+    "output_sha256": "76fcfce7f45ef1e9132420b1afa981747e4e8ae137c167faeb467ddbaa0dd9a3"
+  },
+  {
+    "output": "mycalnet.org/unavailable/4a003d7816398d.html",
+    "local_source": "mycalnet/unavailable/4a003d7816398d.html",
+    "local_edition_sha256": "9a5bc1db324f4b839e1e47701dd984f3f653195c6ecd2884345683c12006ab83",
+    "output_sha256": "a11bb648a234ca007ffb4e1834aeb6da688feac7fc4bc0658a46cae93a310f09"
+  },
+  {
+    "output": "mycalnet.org/unavailable/4a2d6bd70738d0.html",
+    "local_source": "mycalnet/unavailable/4a2d6bd70738d0.html",
+    "local_edition_sha256": "7229adaaf34067a71471c7880bfd77433a33c3d997b043bf2d0c3f3623fbfd5f",
+    "output_sha256": "919d5098137bca97bd71656734a04ad13bb75ccc28e9fa640a943e4c6b637b09"
+  },
+  {
+    "output": "mycalnet.org/unavailable/4f62b1561ef065.html",
+    "local_source": "mycalnet/unavailable/4f62b1561ef065.html",
+    "local_edition_sha256": "9176e6a1f488da6c6db6c1a7434a53e4448ea3630275ac3eb7de810408f555c6",
+    "output_sha256": "e3f84d718fe98d3902d54decbfd438dd8915af1860fc8a0626061e3ace1eface"
+  },
+  {
+    "output": "mycalnet.org/unavailable/4fadb03ffaa8bb.html",
+    "local_source": "mycalnet/unavailable/4fadb03ffaa8bb.html",
+    "local_edition_sha256": "87966c3f458cbabb24228e5b6612dc5ff534926fb2ef354a93e98a115bc95109",
+    "output_sha256": "52369d59e9436f8ee741f966b3ff1f07d5561bb5149913ff77d2fa04f4a4bbdb"
+  },
+  {
+    "output": "mycalnet.org/unavailable/4fe6b2465cc0ef.html",
+    "local_source": "mycalnet/unavailable/4fe6b2465cc0ef.html",
+    "local_edition_sha256": "290124eb8c35a6c1759f9b98270fba08bdc89ea149ca9bd9025c3c46dcf73633",
+    "output_sha256": "d5b28d6f17f1f87b3b4fd8acb33c998633264a154e612729bd243f67695e64bd"
+  },
+  {
+    "output": "mycalnet.org/unavailable/50558f4d6ff3b4.html",
+    "local_source": "mycalnet/unavailable/50558f4d6ff3b4.html",
+    "local_edition_sha256": "928ffa9e342ec62462489cd091642934835c01ab43909d749c4c5204bab74703",
+    "output_sha256": "d8cd321e02a3977cfde10d536f2d9eebefc1322fc0f9f87b7cdd5122907d5d04"
+  },
+  {
+    "output": "mycalnet.org/unavailable/50e64e6623cf69.html",
+    "local_source": "mycalnet/unavailable/50e64e6623cf69.html",
+    "local_edition_sha256": "384343612417ec5c9d594c293a218970f800864b58503bc02fc424a3e058153a",
+    "output_sha256": "6e06f479d05ef001025966aa32f9bedc52f3a56eb3e0a3e4fbc38d80591135b7"
+  },
+  {
+    "output": "mycalnet.org/unavailable/50ef0c54fcb017.html",
+    "local_source": "mycalnet/unavailable/50ef0c54fcb017.html",
+    "local_edition_sha256": "50d64d254a57788bdab60eaad889cfebb2e9063fe7e283cc636ce603a3a346f0",
+    "output_sha256": "958cec89dad972d1043ad40886e4f1eec72dc433584cdb2a09252fb3ad3fb341"
+  },
+  {
+    "output": "mycalnet.org/unavailable/52a7f3caa0a27f.html",
+    "local_source": "mycalnet/unavailable/52a7f3caa0a27f.html",
+    "local_edition_sha256": "9a75a2dc3278ea6f3f57982d8943f610c4b56bd3fcd06eb68fd3a885d31ddbd5",
+    "output_sha256": "662125b115c3aaa6e1eeca154b8b16cfac9bdbf52ab8e7e63cb9b2a46f23f569"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5466ffb153c5c7.html",
+    "local_source": "mycalnet/unavailable/5466ffb153c5c7.html",
+    "local_edition_sha256": "e2ff7d6d5bbe5cdf68d74380b57a97b2e12b2d237a08a7b12efdc015c943b1a7",
+    "output_sha256": "c91c9d14a7bb94f5cd1ac66e2831772ef6e74e26968b3efb5dd3b56fa50122bc"
+  },
+  {
+    "output": "mycalnet.org/unavailable/566fade687bd21.html",
+    "local_source": "mycalnet/unavailable/566fade687bd21.html",
+    "local_edition_sha256": "31dd960a61bfff3191fb765c54136632fb87772ef1c237fbbdefa8d4951a078f",
+    "output_sha256": "05f309bbcb8e03a3986e362e4cd933c15f52131551a03b534556cea9f2d983ca"
+  },
+  {
+    "output": "mycalnet.org/unavailable/56871a4eecede3.html",
+    "local_source": "mycalnet/unavailable/56871a4eecede3.html",
+    "local_edition_sha256": "dae8d7ddeca44e8b2ee70bcc80503aa6e6948b9d52890eed2afc22d4ae6655be",
+    "output_sha256": "d0c99f970ece5e0d9fe86bdfccb8552d034d6dd5274f31b9c0ba0f74948e9bdb"
+  },
+  {
+    "output": "mycalnet.org/unavailable/56ec2b87cfe8b7.html",
+    "local_source": "mycalnet/unavailable/56ec2b87cfe8b7.html",
+    "local_edition_sha256": "852b296e3f23ab5cc9498491b537f93ef2379b6a1cadeac69dec3fc7f1b968ea",
+    "output_sha256": "5e9617c25bd3c722bd81313d0ad8cf2c803e95fb4d2e9fa7722ca3c434bba835"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5712a22735213b.html",
+    "local_source": "mycalnet/unavailable/5712a22735213b.html",
+    "local_edition_sha256": "e89c31b78f939083f508e3e57e732dc6fee5e04a70c596d630a64cc3b876978d",
+    "output_sha256": "02f36ea6bd39f55d2607e914652a9d65da25e867c4f8e9767573d8049a46fcd6"
+  },
+  {
+    "output": "mycalnet.org/unavailable/571d133e8ce5eb.html",
+    "local_source": "mycalnet/unavailable/571d133e8ce5eb.html",
+    "local_edition_sha256": "34ae8b38d256dbb4a1d92eba186dd206b6088488819c942e88c42f01a1cbdb78",
+    "output_sha256": "dd14dc08335345f5cfbfdaa68d977a4b783dbe20de35c66b8b2ab5c9ecaa62f4"
+  },
+  {
+    "output": "mycalnet.org/unavailable/578711cf581d05.html",
+    "local_source": "mycalnet/unavailable/578711cf581d05.html",
+    "local_edition_sha256": "2c4c1cef42f0b7d0651d4ce41d0b035b8eb3975ac7182fee550b8d75bae9376d",
+    "output_sha256": "b2b7da386464bc912e4430959c69e598196ec2c85cc2619d1c8a2b33f1626025"
+  },
+  {
+    "output": "mycalnet.org/unavailable/57e2804f552d9d.html",
+    "local_source": "mycalnet/unavailable/57e2804f552d9d.html",
+    "local_edition_sha256": "98668341054be302cc17dde7e4bd93de5732c393fb145e7a4ef7e87b2cfc54bb",
+    "output_sha256": "c7e50c5b27e3e83db3384035c904ae7e38790ffa2b60b4b5643e5b7d02cbf73d"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5885a4a7efa7e3.html",
+    "local_source": "mycalnet/unavailable/5885a4a7efa7e3.html",
+    "local_edition_sha256": "789b3de2fc8493ccbc840740c91be14cb9a9905bf16be199f1e360d06b8f7c71",
+    "output_sha256": "b798e17a717e65e13477f47133e870e7700075cca7bbd6bade950eaf342c15a4"
+  },
+  {
+    "output": "mycalnet.org/unavailable/588a2528f4638e.html",
+    "local_source": "mycalnet/unavailable/588a2528f4638e.html",
+    "local_edition_sha256": "054e7a2d87f869b4a01712e6f84a0fee0b2206ed9ed6394f996aab173a56a89a",
+    "output_sha256": "477ab96cd3b805a5a8b31fefd09805de8b356717f16fd0807abea4b7b9691bb1"
+  },
+  {
+    "output": "mycalnet.org/unavailable/594333b0308a8f.html",
+    "local_source": "mycalnet/unavailable/594333b0308a8f.html",
+    "local_edition_sha256": "8e2f73ee719d561f0c5a92d875f88ca953380cc5e214393cef02f08af99e3107",
+    "output_sha256": "facca1e36c315f1f47ca39acff51aaef254b88b1092b22ba84cb4461eb9cc2af"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5a39cba58f37a7.html",
+    "local_source": "mycalnet/unavailable/5a39cba58f37a7.html",
+    "local_edition_sha256": "59b67e4dd89380173b54c103eefd11d86ab374750bc8d6b13b4e04075a809cf7",
+    "output_sha256": "eb0e63c1d5f09a1f607a682524e97d41904263198f52ac1ee02699108fbd0ced"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5a8d65ddc4b8f6.html",
+    "local_source": "mycalnet/unavailable/5a8d65ddc4b8f6.html",
+    "local_edition_sha256": "11fbe0b0c89b9835a10d3454c255092f8ed5e518da4719119de9870227e2bf2c",
+    "output_sha256": "055232d9c378b1a909061cf1566e9be058b1ddd53737fdd77ccce2d4368d4511"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5af066fa8e808e.html",
+    "local_source": "mycalnet/unavailable/5af066fa8e808e.html",
+    "local_edition_sha256": "9f540bccbf1cb118959c5adf3259a07f365bff2f8d90df022ce828c059f6177c",
+    "output_sha256": "050af86190cbd3d6fadd944ae4846809a612315e21a14f3b7871accfaaee2fe5"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5b21d760c0407d.html",
+    "local_source": "mycalnet/unavailable/5b21d760c0407d.html",
+    "local_edition_sha256": "a9fab39f0c0e0dc924706cf3513033b35e555d874549d6cc2ea1375e30088063",
+    "output_sha256": "0ac87c2940c3b4e030dcbe720fac175237e9d54e6567dfc33b0ff19704f45ab7"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5b8c091e822754.html",
+    "local_source": "mycalnet/unavailable/5b8c091e822754.html",
+    "local_edition_sha256": "5e59ffb46c006ad1576513c8534a13943bd625fb2d3d792892eb599a91d66507",
+    "output_sha256": "95d3859ee9ec2a5ad8e8b4932932e30f838f4edfbba1d4db6c14ffe4793091c1"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5c0c8bb209c93d.html",
+    "local_source": "mycalnet/unavailable/5c0c8bb209c93d.html",
+    "local_edition_sha256": "fe5ca6dada86fc3b8138210ba08d2eba7495cd802d0119ff49f7ac406fc80a4e",
+    "output_sha256": "d877cddc3d904ab8ab713fad210f317d2d2abcbb9f6d03cdd088fc6e56e906db"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5ca4fafee19cba.html",
+    "local_source": "mycalnet/unavailable/5ca4fafee19cba.html",
+    "local_edition_sha256": "d259cf83b9e1fad0118d72080d6a698618ad2c2fc74ee9ac10a2063083baf060",
+    "output_sha256": "66fe64603495bff3b5f4d395847904849b1f07a81729c2a1e3be6b81fcdcbbdb"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5ceedf80df5045.html",
+    "local_source": "mycalnet/unavailable/5ceedf80df5045.html",
+    "local_edition_sha256": "6670284e8dccd94bda7ba306e311c0b517aed3066806660065293bcbc68641a9",
+    "output_sha256": "38154639a098bd73f3ec1255f3553e2c77f10acf940e8e5a6a2250201e6daeb6"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5d9ca4d7f5f75f.html",
+    "local_source": "mycalnet/unavailable/5d9ca4d7f5f75f.html",
+    "local_edition_sha256": "f1c6fb1c46afe5a52b131efae6c2356dd8f3d9ca104b420957b3c474f8b16384",
+    "output_sha256": "74fc91c144a6470fa4bbef3f1f10497e1ad34b2440c6903649a04fd24a0bb09d"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5e94eb9781244c.html",
+    "local_source": "mycalnet/unavailable/5e94eb9781244c.html",
+    "local_edition_sha256": "0e434696120610ed921d6668cee657441c58afb101caed9089fcbf661fb6a4d5",
+    "output_sha256": "02de4d6d740852bb09fb584ce0dcc46d672972452be7f5c9b06b17af0f981da7"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5eb6905f28bf29.html",
+    "local_source": "mycalnet/unavailable/5eb6905f28bf29.html",
+    "local_edition_sha256": "9c3dc15c10d3b3b327e418ce7440abffabaae3d0f13e624640d6bea297b2fcf1",
+    "output_sha256": "9bc4369c160003d1ad71cf985c8c708f0f90ea003505b6ccc1b68d9fa539b4cb"
+  },
+  {
+    "output": "mycalnet.org/unavailable/5fcf35ae468e11.html",
+    "local_source": "mycalnet/unavailable/5fcf35ae468e11.html",
+    "local_edition_sha256": "7a46b3bc32b1fb6d70dd9215a9648d6080b5f8924c1c1ce95b674e6d31b96e89",
+    "output_sha256": "1c35529d32ab91d705d8d3df7f690d0e8c4c7f38d1b2cb7b11eb266ad402338a"
+  },
+  {
+    "output": "mycalnet.org/unavailable/615c1f435b8685.html",
+    "local_source": "mycalnet/unavailable/615c1f435b8685.html",
+    "local_edition_sha256": "f9363c774b4cc1f2fb97ce08b3bcf3703bb23409ccb00e5631a22562f1af2137",
+    "output_sha256": "a6fb3270bdc073b1e26134f429f1819d84f905e44428db9300cc3c75c3d405c9"
+  },
+  {
+    "output": "mycalnet.org/unavailable/62c13221bd6b4d.html",
+    "local_source": "mycalnet/unavailable/62c13221bd6b4d.html",
+    "local_edition_sha256": "658ee9092ec9afa13f85e4d30841cbc8d0f669df46d4ba13a96c6671e2a2e5ae",
+    "output_sha256": "c26b03811c346d555c11e0169cf9331602c8f07d983c6588660dc591a9861d08"
+  },
+  {
+    "output": "mycalnet.org/unavailable/6498856d110655.html",
+    "local_source": "mycalnet/unavailable/6498856d110655.html",
+    "local_edition_sha256": "ff8d4b8a2e46f88b3829a133286df6a350c61329446a04df4d96867fceb4c130",
+    "output_sha256": "154a33d29c246455a3e13b64c6df7020661d567e48da3a0feef00d6af252f188"
+  },
+  {
+    "output": "mycalnet.org/unavailable/64c5dde7bf7e3e.html",
+    "local_source": "mycalnet/unavailable/64c5dde7bf7e3e.html",
+    "local_edition_sha256": "5d415bba8b5f32c84d8e7f4518d1764387f1053f6a52743f5f59c840844312d1",
+    "output_sha256": "66d03bf7f5ca18330aad3709e5464909f1b69ac677fa97ec78d52653d9c29e3e"
+  },
+  {
+    "output": "mycalnet.org/unavailable/64f3dda342b7e5.html",
+    "local_source": "mycalnet/unavailable/64f3dda342b7e5.html",
+    "local_edition_sha256": "643149376863126a52301aa53d8b3b7a0e4af270887a594942d6f4bec4694ff8",
+    "output_sha256": "e631e0f2452f280fa42b14a4f863bbd35c232261eeb382cebf4667eb5c48fd24"
+  },
+  {
+    "output": "mycalnet.org/unavailable/651cfdd4cb8f8b.html",
+    "local_source": "mycalnet/unavailable/651cfdd4cb8f8b.html",
+    "local_edition_sha256": "e69849dd9739e1a5e5c2205e68d6e8f6a8e318cb3f2028fec2d268c10347fb90",
+    "output_sha256": "19117ccaeb6502f517489feb372a11ec02e1e13be04c22f6222cbd2fa5fb7c73"
+  },
+  {
+    "output": "mycalnet.org/unavailable/657a8658774b65.html",
+    "local_source": "mycalnet/unavailable/657a8658774b65.html",
+    "local_edition_sha256": "d5918497910442b53884db1ffbb0d31e401f7773b2ea3a928c261571afae5187",
+    "output_sha256": "4783f6190efaf956200f5f900dfaeeb035641e6a196b7708afcafb1f6b6da15c"
+  },
+  {
+    "output": "mycalnet.org/unavailable/6797e7f1d64e0d.html",
+    "local_source": "mycalnet/unavailable/6797e7f1d64e0d.html",
+    "local_edition_sha256": "a16180f3e60e0d9d61af6995be055e8178beadcee7c647126c966fab9dcddf17",
+    "output_sha256": "0f6221154645a0414fe2b4aa29bf7ef377a388599e99f5639c904a4da0d07a62"
+  },
+  {
+    "output": "mycalnet.org/unavailable/67aa62f2939cbb.html",
+    "local_source": "mycalnet/unavailable/67aa62f2939cbb.html",
+    "local_edition_sha256": "1a7966bc5380110ca5f5bf32b6a99f499d8f9e6aefb5ecadfa7e004c8e76f476",
+    "output_sha256": "ced313a2a23466a4483ba9df30840adf0cffa5d8d86969722d4f087bdea063ca"
+  },
+  {
+    "output": "mycalnet.org/unavailable/6c282527042a5d.html",
+    "local_source": "mycalnet/unavailable/6c282527042a5d.html",
+    "local_edition_sha256": "6a1a0962c3d06f8df8069026ef5568144d7e8db98aec3ae12bf90133798ce6a0",
+    "output_sha256": "011b6ad944aea65673cf38dae70d1da3b7735448eb3c2a9bc30229242d1ba2ed"
+  },
+  {
+    "output": "mycalnet.org/unavailable/6c9e265c77967e.html",
+    "local_source": "mycalnet/unavailable/6c9e265c77967e.html",
+    "local_edition_sha256": "b4e414c2f20841a2d386305571e32b5960943147731733f267e1bb0e9ad7b012",
+    "output_sha256": "fad03d0772f843f7a137751aa2ae4c55184ee1b4b89e4a686b4802238f7781a2"
+  },
+  {
+    "output": "mycalnet.org/unavailable/6cf830ac59f89a.html",
+    "local_source": "mycalnet/unavailable/6cf830ac59f89a.html",
+    "local_edition_sha256": "d0a201b25b7cef7ff56183291b4e049ba66389c4bac54b212c64ddb2375ca84f",
+    "output_sha256": "61b6f203b9a7da3c3784493b5737076a2849349e5cb609d8157cd5979fe6b4d8"
+  },
+  {
+    "output": "mycalnet.org/unavailable/6fa68fb3e11331.html",
+    "local_source": "mycalnet/unavailable/6fa68fb3e11331.html",
+    "local_edition_sha256": "92be8917b1b8ccdba17ae7e3bf30cb3f5c7f31bb4191a5a66de743f1a5d4ca5f",
+    "output_sha256": "62221c11c73702d693a5a17bbc51e01ec1458d0ca70c1ec856b1e58f7314c74d"
+  },
+  {
+    "output": "mycalnet.org/unavailable/7028a2d2e4318d.html",
+    "local_source": "mycalnet/unavailable/7028a2d2e4318d.html",
+    "local_edition_sha256": "ade3e5ffd3d046638dfdb2ffb9eef20c0a3b610b5fa170c600be71f8a1be1908",
+    "output_sha256": "686b83365757deb15349e22d019c3cdf56497890bb13c2519a18b20ff4a29a88"
+  },
+  {
+    "output": "mycalnet.org/unavailable/7181916836ec39.html",
+    "local_source": "mycalnet/unavailable/7181916836ec39.html",
+    "local_edition_sha256": "038d1136e381a04c80ef1a4ea8af292023bbaba047989458f0f4289cf8e7be4c",
+    "output_sha256": "0980d9e3219c4ee2b9660dfcf1bd08a3e71377123f3d783f9c75afd97a657b37"
+  },
+  {
+    "output": "mycalnet.org/unavailable/719b18532b4e03.html",
+    "local_source": "mycalnet/unavailable/719b18532b4e03.html",
+    "local_edition_sha256": "0438eb61ff095de0a4c300deb4707bfc7531de457002704162f82921a2f6f990",
+    "output_sha256": "5410b563d32f07b8889ef7620df34d58e48b54d06b9fef9a4ac3f95c0a5f1ec5"
+  },
+  {
+    "output": "mycalnet.org/unavailable/71c9f08962d4ec.html",
+    "local_source": "mycalnet/unavailable/71c9f08962d4ec.html",
+    "local_edition_sha256": "21c7bf233236b248d749904c7cf0769572d909fe331dc6c212db7f13b06eb8dd",
+    "output_sha256": "bf1d1e6a78becc07eeeabd65ea8096e9570e8a1d06f47afd9da61384d6f0027b"
+  },
+  {
+    "output": "mycalnet.org/unavailable/736b8751083075.html",
+    "local_source": "mycalnet/unavailable/736b8751083075.html",
+    "local_edition_sha256": "60638831dbaf60dd278b56aa8f762a4fadba02ea847cee7b0da43cef35ca51dc",
+    "output_sha256": "0e050eabb3e1e6b5c08f1158202997cebea9c5a194234302e495441532b74048"
+  },
+  {
+    "output": "mycalnet.org/unavailable/74a613c3c3f190.html",
+    "local_source": "mycalnet/unavailable/74a613c3c3f190.html",
+    "local_edition_sha256": "5c4c01fe87ae11432439873a4a6c4b2920a8ccc1ebc259f889568c57fb978099",
+    "output_sha256": "3ee8db84af6f8b919d6d6ad4723d40f8c68950d54325604aff6ac24651cc08e5"
+  },
+  {
+    "output": "mycalnet.org/unavailable/77e01a4ed3af26.html",
+    "local_source": "mycalnet/unavailable/77e01a4ed3af26.html",
+    "local_edition_sha256": "a2cec4bd12e1c3144c380989f1aaf6fcf0f0377b3cbfcf59fb55326a3f69fa22",
+    "output_sha256": "2e1f72dce5d9ed982283f364ea29e88048e9d6a6568af687c3b90d920eedfda7"
+  },
+  {
+    "output": "mycalnet.org/unavailable/7834d110920db4.html",
+    "local_source": "mycalnet/unavailable/7834d110920db4.html",
+    "local_edition_sha256": "d493a1e4a0771034472a67154d1ae8e3637d76c5a0ffc4f84f55c6df310ec82f",
+    "output_sha256": "1f15681199c65647fc4c25d1769d52235eb9d4ad4dd815063f45303378449e38"
+  },
+  {
+    "output": "mycalnet.org/unavailable/7c5e61e2e3803b.html",
+    "local_source": "mycalnet/unavailable/7c5e61e2e3803b.html",
+    "local_edition_sha256": "4623f2151c9bf298ab9ef5fed86c79f39642e74137799ecd61dd590f20fb7a59",
+    "output_sha256": "99e5f551e50287afb0b8c9fb132ea893078f0fa07b19ec7eec23628de04c17a6"
+  },
+  {
+    "output": "mycalnet.org/unavailable/7da154bcfd0982.html",
+    "local_source": "mycalnet/unavailable/7da154bcfd0982.html",
+    "local_edition_sha256": "3e973172a78501f6c2845a618dc3e4237a14fae4bf360ef8728393ba09a7699a",
+    "output_sha256": "d7fe3ec219ccf5d91d2a264f2c55d83a885af558a2614bb35e9cf7a8740c9689"
+  },
+  {
+    "output": "mycalnet.org/unavailable/7e58186c126800.html",
+    "local_source": "mycalnet/unavailable/7e58186c126800.html",
+    "local_edition_sha256": "57880d11ccad918a867c19b1bbaa368f9dc16d612bda2b0f362167d9f75bf711",
+    "output_sha256": "d6c3f53e96ed02ae6bc199d8c71962035be45b77fa583c51e6107a10355fce0a"
+  },
+  {
+    "output": "mycalnet.org/unavailable/7e5d92556013e1.html",
+    "local_source": "mycalnet/unavailable/7e5d92556013e1.html",
+    "local_edition_sha256": "97b0c4884052890c29f4b8459a864fb667323ed14f38431facc6369809415570",
+    "output_sha256": "126cc3df25c4157e0da0a289bb605f05333e23d4b1120281eb158862d47d4dcf"
+  },
+  {
+    "output": "mycalnet.org/unavailable/7e7245f789f890.html",
+    "local_source": "mycalnet/unavailable/7e7245f789f890.html",
+    "local_edition_sha256": "4d8f2949e44a58edbbe93d43f76da764f14e40bf2c80a864a143bde72341966f",
+    "output_sha256": "77c9d0c5ab2de5f862f02b586bf4409816e64a1415e2589206c72750457a65f1"
+  },
+  {
+    "output": "mycalnet.org/unavailable/830a150e6636db.html",
+    "local_source": "mycalnet/unavailable/830a150e6636db.html",
+    "local_edition_sha256": "6faccbe66c04a9cd69f496911bbf24ed51f540aade617bc5e6de19d1bccbd7ac",
+    "output_sha256": "5f351907b067d48c73b27d3afc8074755fdcb81a5a30fc8fbb6897281b93802e"
+  },
+  {
+    "output": "mycalnet.org/unavailable/86c5279f71eb20.html",
+    "local_source": "mycalnet/unavailable/86c5279f71eb20.html",
+    "local_edition_sha256": "79bf623e50195b20f77b6a8023918224460834f244c2d3d1f66b36b8afc6144c",
+    "output_sha256": "218ca17d584f7b6e46d85e06979db1489ee36cd0f7857ff7cee7493ac5c3764f"
+  },
+  {
+    "output": "mycalnet.org/unavailable/8762c4dc761850.html",
+    "local_source": "mycalnet/unavailable/8762c4dc761850.html",
+    "local_edition_sha256": "e0061c2c3ab6280799106a82a2b45a485114dae484120d0a7b7d438b1fa7db0d",
+    "output_sha256": "e24a410be75253bb3e816d247757e93d9cecdb71d1789cd65718eda0c5f0c3e7"
+  },
+  {
+    "output": "mycalnet.org/unavailable/87bcb929a3e1c7.html",
+    "local_source": "mycalnet/unavailable/87bcb929a3e1c7.html",
+    "local_edition_sha256": "b205c9ba21fed870e755fa95ae1bfcdafdd1967c2110858eae1d1ae8ff7fed6f",
+    "output_sha256": "97914283fe26b331f06a5dfc93e81d2406c5339992acbc1c05d0f670f19d9d28"
+  },
+  {
+    "output": "mycalnet.org/unavailable/87cef16b1d0c4a.html",
+    "local_source": "mycalnet/unavailable/87cef16b1d0c4a.html",
+    "local_edition_sha256": "e77e0e7092f1c04fb3796a621661ea9a15b26e2866af5cbb78a7b58ced5a083a",
+    "output_sha256": "4282219225180dfd25d49e088027a71885d525a73c36b0afcb4c6936405df281"
+  },
+  {
+    "output": "mycalnet.org/unavailable/88b59286a19533.html",
+    "local_source": "mycalnet/unavailable/88b59286a19533.html",
+    "local_edition_sha256": "1a0582ebe0d1d060d7650b28094117ffba3799209c51a862b917a90fe824d01a",
+    "output_sha256": "dc4ebce83147dd15b4dfc2a0e089913ebdf4aeedc97154e2c70e20c6dd079981"
+  },
+  {
+    "output": "mycalnet.org/unavailable/8900d7871ed64b.html",
+    "local_source": "mycalnet/unavailable/8900d7871ed64b.html",
+    "local_edition_sha256": "fa9f3cb5c8b0de840518b90dc0da3152d3f8044733205ae28e7b7b5510fde9eb",
+    "output_sha256": "7808199c98d9d67f42873fce45e89348794e97f1581c8218aa1b993249709529"
+  },
+  {
+    "output": "mycalnet.org/unavailable/8bae044a997792.html",
+    "local_source": "mycalnet/unavailable/8bae044a997792.html",
+    "local_edition_sha256": "050fbe79ab5fcc0bd0479d52b86cf82c3d87846e20dee811edf62fe201b50b28",
+    "output_sha256": "a360cb13a719e2b9fdaa4141dad348b17b93a27b24c3c5386e26a1a514f9befb"
+  },
+  {
+    "output": "mycalnet.org/unavailable/8cebffba6a644a.html",
+    "local_source": "mycalnet/unavailable/8cebffba6a644a.html",
+    "local_edition_sha256": "63cd3b0693201a1092d9ef075c15adbb2b4bc14160dc21a80452f2ae0ed6f24b",
+    "output_sha256": "80623a99aeda16a68b83ddba4c532de02c4b937dc1cb7d04489a5920fdb4c787"
+  },
+  {
+    "output": "mycalnet.org/unavailable/8cf3f6ffa026f5.html",
+    "local_source": "mycalnet/unavailable/8cf3f6ffa026f5.html",
+    "local_edition_sha256": "3883e1aeff93ab89ba8b45259abb57346c831c388970119dfd71fed370831321",
+    "output_sha256": "79e79ac9bcfd98ec833501abc58b47009410afa3499e45a70913d4f23751c936"
+  },
+  {
+    "output": "mycalnet.org/unavailable/8d9edd48ded8bf.html",
+    "local_source": "mycalnet/unavailable/8d9edd48ded8bf.html",
+    "local_edition_sha256": "ebe4cba022c4a2db25fff9c6785d77694ca7883711630337cfe91d59b37d4117",
+    "output_sha256": "eaa9837059519fa69efcc1864d187c7952c5bf92f3142c43a511bddeada70200"
+  },
+  {
+    "output": "mycalnet.org/unavailable/8dd3476c5d735e.html",
+    "local_source": "mycalnet/unavailable/8dd3476c5d735e.html",
+    "local_edition_sha256": "dc800642e29ac2306d636b3c706d443942ef0f5391dad0a45ba4a15027478a87",
+    "output_sha256": "405e5e0659ba5cf1e125562681d9fc3c4ebbdac639f42892e8ffefe90fa02feb"
+  },
+  {
+    "output": "mycalnet.org/unavailable/904f35e85d86c9.html",
+    "local_source": "mycalnet/unavailable/904f35e85d86c9.html",
+    "local_edition_sha256": "314fe5881fe7e8116487c3f3d40ca7486c7e370bdf6cf12797dfe0b0c5a7b185",
+    "output_sha256": "ac0748eed3e0a16f97064c24e5850d5cb08da2aec52241ec1eb4c7fd8db11989"
+  },
+  {
+    "output": "mycalnet.org/unavailable/9096a3de02e55a.html",
+    "local_source": "mycalnet/unavailable/9096a3de02e55a.html",
+    "local_edition_sha256": "8a18081314d6493aade63abcb0836a1c53bee0c13afec625e1c3053a92088d65",
+    "output_sha256": "5e7898b55dc561f3057995fc546ee92ea95c545fdd55b48bc53f159a864d864c"
+  },
+  {
+    "output": "mycalnet.org/unavailable/91542a1fd52800.html",
+    "local_source": "mycalnet/unavailable/91542a1fd52800.html",
+    "local_edition_sha256": "f61d49787d0301826d2ea69ada142bbcfc007c71c9c10c850f50689300afb43c",
+    "output_sha256": "935ff144646f6523ec714c760d016474d023895c62caad15ab688127d8c00f98"
+  },
+  {
+    "output": "mycalnet.org/unavailable/91894a1d636b9f.html",
+    "local_source": "mycalnet/unavailable/91894a1d636b9f.html",
+    "local_edition_sha256": "2f2d20673d8ecaf982c285a06fcca028108f109c8e74ede5bf3ff64ed2344047",
+    "output_sha256": "0c65a688fa721c2892ef0af419a2abb70558bfa3043ffabd72760ab636137bcb"
+  },
+  {
+    "output": "mycalnet.org/unavailable/91ca5cbde9b604.html",
+    "local_source": "mycalnet/unavailable/91ca5cbde9b604.html",
+    "local_edition_sha256": "5cc0d500711672bcafb86631d37d149a173b41820cd1153aba1dc5bd5c064113",
+    "output_sha256": "77b522a0e7a14e2ac46096a5c05928ff8bec81702b6ddfa43093ca4c312ed1a2"
+  },
+  {
+    "output": "mycalnet.org/unavailable/92d2ab5e29099e.html",
+    "local_source": "mycalnet/unavailable/92d2ab5e29099e.html",
+    "local_edition_sha256": "0dde0c8ddd8f48209f313483789d8f0eeea44800f16c942fa892cc5ab204cfbf",
+    "output_sha256": "24738f42caa2cb2cbc1066918ca611f313889ffa076c08a8e205efd139153813"
+  },
+  {
+    "output": "mycalnet.org/unavailable/94e0e92e1ddd81.html",
+    "local_source": "mycalnet/unavailable/94e0e92e1ddd81.html",
+    "local_edition_sha256": "029816fa6da5d61a826947b60dd453e42b5c10886a9946742e33ba3b1b2446b4",
+    "output_sha256": "002d76d6e05347a99266745d2cfd50f849167758dca968cc01f2a743117f3949"
+  },
+  {
+    "output": "mycalnet.org/unavailable/95291d7019b470.html",
+    "local_source": "mycalnet/unavailable/95291d7019b470.html",
+    "local_edition_sha256": "b3bc67f74ae8343dae9879e52df1e4cd5b4d76cf2c8b7eac26d3e2f7008da192",
+    "output_sha256": "99d1365b5181cf71a1b60f6246cadda754bd351b983f8a698e5f11dbecc55451"
+  },
+  {
+    "output": "mycalnet.org/unavailable/9913a0f0539547.html",
+    "local_source": "mycalnet/unavailable/9913a0f0539547.html",
+    "local_edition_sha256": "ef3e2bcbd52bdda3e7d758e64a5acd70f6b2a5b090b26857f2df15d5bfefe583",
+    "output_sha256": "9565fffd0dee942bb582187ef9e7e3604883e645244d9941e8aba2db504a5ebd"
+  },
+  {
+    "output": "mycalnet.org/unavailable/997391b06f5013.html",
+    "local_source": "mycalnet/unavailable/997391b06f5013.html",
+    "local_edition_sha256": "2d81e644180ec53b22741d02cbad7c8e391c0e574477442fd6f73ecfa066665f",
+    "output_sha256": "b496182cedf56b33472af2988d10faf0d3dbbc3203a3133d50ae490eb9df3dfa"
+  },
+  {
+    "output": "mycalnet.org/unavailable/9a4bc1d4df8503.html",
+    "local_source": "mycalnet/unavailable/9a4bc1d4df8503.html",
+    "local_edition_sha256": "cea1650b823c56a84ce542530761e014db692d583d271629727473bf3009ffc9",
+    "output_sha256": "c6e9908a10b403fa75e8c582d9ac54c58be82e51342652c86aca3ec1bc44c0c9"
+  },
+  {
+    "output": "mycalnet.org/unavailable/9a80f97a33ba19.html",
+    "local_source": "mycalnet/unavailable/9a80f97a33ba19.html",
+    "local_edition_sha256": "92e372e14d6c5e5201667492ae0182c0a4ab5d0f0c4b14a1bb81d6c5fefc4bb6",
+    "output_sha256": "7a4a41fb1a92039cd8e6b073029a67aee980f07aa723bbbf325c5d83d9a545e7"
+  },
+  {
+    "output": "mycalnet.org/unavailable/9ab957b8a799ba.html",
+    "local_source": "mycalnet/unavailable/9ab957b8a799ba.html",
+    "local_edition_sha256": "40f9b2242eadad8fbceaab63a5fac5949e0078a2e65ab315037b3585a8e705ba",
+    "output_sha256": "c468a353ec7bb223557c4a54307d624a43d58f29ff8125e4089eaa21303309a5"
+  },
+  {
+    "output": "mycalnet.org/unavailable/9d93d332f72a31.html",
+    "local_source": "mycalnet/unavailable/9d93d332f72a31.html",
+    "local_edition_sha256": "a565899fa7da72a8086fd98ed694f98c102c88ce5f6614101620a595d00a9bec",
+    "output_sha256": "5ff7545bc74188ee48d46fa1cfbfa8244b7b4be6c6695b04da1bff799a4bdd1c"
+  },
+  {
+    "output": "mycalnet.org/unavailable/9eac2c2f1ed95a.html",
+    "local_source": "mycalnet/unavailable/9eac2c2f1ed95a.html",
+    "local_edition_sha256": "adabfa4f2dafe5db27898de2d3dcf422890328204d54180b0514e948244e1c7d",
+    "output_sha256": "350c9218cdd73ee62a3839c7da7666e6b603f3936ad1e7c7060cbe8e86c571f8"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a13cbae314ba3a.html",
+    "local_source": "mycalnet/unavailable/a13cbae314ba3a.html",
+    "local_edition_sha256": "678b13ffd3aeafc80ad667ef2aa06a213a72c1116119a25cc77958332c580698",
+    "output_sha256": "a79fe82c1e69655000f77435f235d504636233bb78278dc52cb5a0157a03fe0b"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a318fe850cb01f.html",
+    "local_source": "mycalnet/unavailable/a318fe850cb01f.html",
+    "local_edition_sha256": "02a8551408ebd7e93f68296547b5201992760f551e100c6efaf1e57d3a18fbbc",
+    "output_sha256": "aad5e5e5b21ce9e0389cc9eccf985aa7c818e974495ce221d7326d66a88d3be9"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a45ee69a3abe6c.html",
+    "local_source": "mycalnet/unavailable/a45ee69a3abe6c.html",
+    "local_edition_sha256": "17f81b8908c0a8b53d83067af416c83f075963851911596be42cedf22414b7ea",
+    "output_sha256": "a6f1e3c5d8cafed051be94eacb52bfed2b2f53a24acd63208cddfe17b0a7f861"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a616163b8f01db.html",
+    "local_source": "mycalnet/unavailable/a616163b8f01db.html",
+    "local_edition_sha256": "eca58c3597560b96260f1403c95934e033a84b5ecca896b622f89cc7874f13d0",
+    "output_sha256": "102e52a96701faffca3e107c52b275f7e7f01138e0a1d77af3edc6fc65b391ff"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a63dcaa15ae31b.html",
+    "local_source": "mycalnet/unavailable/a63dcaa15ae31b.html",
+    "local_edition_sha256": "00f6389bc82a8dff26385dcedc717cd0dfd2ca2a1e42dbbd64c1c3fc8c085cb8",
+    "output_sha256": "e8b21778c3d926f2dafdac225a159f9ee544f3a3d308dac5cffad6d4237c643f"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a63feeb85d8a65.html",
+    "local_source": "mycalnet/unavailable/a63feeb85d8a65.html",
+    "local_edition_sha256": "681107702827935b6b1762a0943aa1aba98b7c4a03b3934a95f31699f93572c3",
+    "output_sha256": "b6ee2172f97a82e653aee1e807e0d3b37f284f5305f6a75142eb7f8fc0e5437e"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a648a17fcdb810.html",
+    "local_source": "mycalnet/unavailable/a648a17fcdb810.html",
+    "local_edition_sha256": "e7ffc85b6c85acc232de3c8a67068540f294d5186c553cc080d59c3a3bf52800",
+    "output_sha256": "aa0e6dabb5c514cd4e4700b6c96d7c21f09f7b13c06e80f7cffe54b7f9b4a78c"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a70982757ef031.html",
+    "local_source": "mycalnet/unavailable/a70982757ef031.html",
+    "local_edition_sha256": "4af49c20b5e2b66659ddac8785a16a4fb5b3759a661ac80cf0ec1f5a22d4ef7c",
+    "output_sha256": "ed1052fe3b9acc0ccf4df9e580f19ed469699b39451c656e8504e65099a7a2ad"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a72058047f7ac7.html",
+    "local_source": "mycalnet/unavailable/a72058047f7ac7.html",
+    "local_edition_sha256": "2cf0cf9b14b7c5ea5fbef64498730707d0fcc31921c12a5d2eae262afc05bc8b",
+    "output_sha256": "864aa3945cef39acb7e603635e7cc15b92bec6e63ddf948b1e75014beee3774a"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a7c5aa5f4b7db4.html",
+    "local_source": "mycalnet/unavailable/a7c5aa5f4b7db4.html",
+    "local_edition_sha256": "57d60f7902bb8fbbe87cd5babfaef3484bf0ca4ddd9b42dc589cb9401d8a7cda",
+    "output_sha256": "1b907e31f110c44fa098ccdc12ed0d9542c1f1bd465749b35f13eb24ab956d06"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a860055709affc.html",
+    "local_source": "mycalnet/unavailable/a860055709affc.html",
+    "local_edition_sha256": "0c15b8a88e8442f1825f2ead63e35b90b094d842aea62d2ab19533290c9747c4",
+    "output_sha256": "ae32fa0fb5244d78dbba6c979258d17f689a65469cb177e8c3eee050353a7797"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a872adfb27d111.html",
+    "local_source": "mycalnet/unavailable/a872adfb27d111.html",
+    "local_edition_sha256": "5a385878e2a4e540220193066187df3ccb39fcefa5e8424c65d539b364d2745c",
+    "output_sha256": "d30626eeef406661c4e1b1d6bf3d92f2c362a4f98301b1ef14ae52e5ca738f9e"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a8b78bff773aae.html",
+    "local_source": "mycalnet/unavailable/a8b78bff773aae.html",
+    "local_edition_sha256": "895a0119c76bbbda712f016eaf810e884ba29afa17aeefbf519e9ef3ef2f654b",
+    "output_sha256": "258ce2972f1c44a63c182f8f85fb4723532bf817ed8811f25f0f0b6ced53c11d"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a8db72efd6f7a1.html",
+    "local_source": "mycalnet/unavailable/a8db72efd6f7a1.html",
+    "local_edition_sha256": "cda47fa1ac661aa1fdab9cac9c68b38a0dba00171b67f7c41368856327604ea8",
+    "output_sha256": "2421b430a0b2cd06620125a1101b519e497382a5efa8963e3ede0c906ca1ac04"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a952f81d84fee9.html",
+    "local_source": "mycalnet/unavailable/a952f81d84fee9.html",
+    "local_edition_sha256": "f959a5209b580df3b6401878614fe0f05bc77935bc681edd476379ecb04e350c",
+    "output_sha256": "ecbe4efbc5c6d4bc5a19e8e89f74536593bc9d2d2709e7e59e3bb88799cb96c9"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a9b19c8f7e30d7.html",
+    "local_source": "mycalnet/unavailable/a9b19c8f7e30d7.html",
+    "local_edition_sha256": "61bb3984d6e77fc02f9e1ec8ba865509a0dc251345fa0061515c94552fbf4fd5",
+    "output_sha256": "c1076c59ab085e6f84c156e2460cb1b7936b1166164ab7b4765a6fe264f1b4cd"
+  },
+  {
+    "output": "mycalnet.org/unavailable/a9b83256eea9b7.html",
+    "local_source": "mycalnet/unavailable/a9b83256eea9b7.html",
+    "local_edition_sha256": "2969b29ae96a50d0894d36685f02a0c2671bcfa1a8b743233090a3e235f01959",
+    "output_sha256": "b286cf5357c290cdb32012a08057df40464d12fcdd7a5b26fa0096ac327e7dff"
+  },
+  {
+    "output": "mycalnet.org/unavailable/ab13a33524a42a.html",
+    "local_source": "mycalnet/unavailable/ab13a33524a42a.html",
+    "local_edition_sha256": "e0ee21e012a21897c25f3d30d0ce5d04fcef5485a359bca4e7e0de5d84c2dfc6",
+    "output_sha256": "74da647d43cb259c04e2d8354929f54b4a37771b2900c6a5a2dcf0a47452a4c7"
+  },
+  {
+    "output": "mycalnet.org/unavailable/ac086129bfd28c.html",
+    "local_source": "mycalnet/unavailable/ac086129bfd28c.html",
+    "local_edition_sha256": "883df17fd2bb8c3d4accfe0f8e822c28809328ad655fc7c8ed385800c751c292",
+    "output_sha256": "cfdfc605227830d0f07a27417c6d801ae09f79ac0085cc306c2d60ffbff1324d"
+  },
+  {
+    "output": "mycalnet.org/unavailable/aef6f5c3bdeadc.html",
+    "local_source": "mycalnet/unavailable/aef6f5c3bdeadc.html",
+    "local_edition_sha256": "0612dadf7639b4c07809e02dc507c2dd1c6fe70fc7b88c347e1fbf5711713cff",
+    "output_sha256": "e207f664f47743986dcf871b064b3c0a641250e47b11d45c097058c6e10ce8f5"
+  },
+  {
+    "output": "mycalnet.org/unavailable/afc04b0ace70c3.html",
+    "local_source": "mycalnet/unavailable/afc04b0ace70c3.html",
+    "local_edition_sha256": "cb623c1077bcb4d3d902e2a2cd5e4b37be4ca94cc9bb79ca4bf0aaa7ef0b4ad9",
+    "output_sha256": "f1fdddcad9c2e46f6648245268a079788d2209c901e4c90df1a22d87a9da82a6"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b0936141ece2b0.html",
+    "local_source": "mycalnet/unavailable/b0936141ece2b0.html",
+    "local_edition_sha256": "fb27c6548ec07933390e4ebb5dfaf14e8d9a748bb7ac5d6d0d46ac5910a9eb9d",
+    "output_sha256": "78d4e19fdda93f7e8b4e7d9a4604744e1b87d2d42ad886d36639d6b8aaf4e743"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b0dc7998d13812.html",
+    "local_source": "mycalnet/unavailable/b0dc7998d13812.html",
+    "local_edition_sha256": "aee22611c7f36e48233d8ce1b49d90a013fd03989e0c0136cf5941857973fe0a",
+    "output_sha256": "b4159b48562eaa754e5df4bfa3c4a75c66e3b9144c4680fc978bba73eb636c5f"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b1221c02f9bd6a.html",
+    "local_source": "mycalnet/unavailable/b1221c02f9bd6a.html",
+    "local_edition_sha256": "4ad75f6f44dc0cc9b3accd5580b2d13e9c6d8a5c044f9ae60038d510504f8ba5",
+    "output_sha256": "6446fcaea5105924164999d2298ec50f0e0c32e1f8fce96ad623f151c08102f2"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b13aeaf0f91fd8.html",
+    "local_source": "mycalnet/unavailable/b13aeaf0f91fd8.html",
+    "local_edition_sha256": "c531ec441f06293261c52a79abee6c567ed82e31c264bad80eb8d86b58d2c732",
+    "output_sha256": "551d4bc7826760956284a41714e4382c070105a614c8b02815b3cc87bdc15754"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b1647a6958b8d5.html",
+    "local_source": "mycalnet/unavailable/b1647a6958b8d5.html",
+    "local_edition_sha256": "525e80605314130e0e0ac631a8d80fa8c8e6c0a11ec5c990cbe71de3a1662a0d",
+    "output_sha256": "318b252f6c094bba7d70daa2a0cd4a3d05dc700d77cddeeb932829d4265c4e95"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b36d13f036e093.html",
+    "local_source": "mycalnet/unavailable/b36d13f036e093.html",
+    "local_edition_sha256": "b37af2eae75276c8d961d832f5d0231aa58d20226a3687e4178830b15c88439e",
+    "output_sha256": "342b157b7998c2ababc143de40cebd5ce2612f63fe7463199428fb5702198806"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b3843888d70488.html",
+    "local_source": "mycalnet/unavailable/b3843888d70488.html",
+    "local_edition_sha256": "f805c406a4baab2d65884fb44ab81fd69cfff1abc00d2466d6547c388a0c4d66",
+    "output_sha256": "f4dba46139a7fce57c5172779f9aee9f6bcc29dbbf173ea60734504b086501e8"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b686b49c59d864.html",
+    "local_source": "mycalnet/unavailable/b686b49c59d864.html",
+    "local_edition_sha256": "83c1d41424457295e0a758fc260f0d2537d7c350de06b0f82869a8b9408f00f8",
+    "output_sha256": "4128850f7188f1f5478717710eb5b24194628cf9814e633379510d263adedf65"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b689d28cee0883.html",
+    "local_source": "mycalnet/unavailable/b689d28cee0883.html",
+    "local_edition_sha256": "47291b8316a732f021e3344f0f6d9735a5bf65690263fa9813fc129e6ac11fd3",
+    "output_sha256": "73b55b6e1001e1c28b453b5999d3abf978066273e942d347bdd3ee6f8f2fec17"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b6e3051844a27c.html",
+    "local_source": "mycalnet/unavailable/b6e3051844a27c.html",
+    "local_edition_sha256": "c9c2923c18c6eb7a733e2167b8907bb465337b1e297bc2088df8d6d819b67507",
+    "output_sha256": "8f4603d9084e9e2afad335ec9dd3ceff6f9f546e838b8b29a28f290947c6d269"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b7310a78472f74.html",
+    "local_source": "mycalnet/unavailable/b7310a78472f74.html",
+    "local_edition_sha256": "ca8c34a6e0e9675b834d7022b1037a45b62e8773ac3e348ed3d1cccbefd2104e",
+    "output_sha256": "a8abf7b54cd37d74c45c81c6ee67890b392c41d85f46a671e623eec5b5cb605c"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b7601b65fa83bb.html",
+    "local_source": "mycalnet/unavailable/b7601b65fa83bb.html",
+    "local_edition_sha256": "4351b890b184789b8fe70bcaf85b7af1d9792c540631a3a9283318dad5785284",
+    "output_sha256": "83d3fa62f2cefe1feec2abd47dd802843b3c1f9a1a506d1ca4bcb430c95257a0"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b77942005899e5.html",
+    "local_source": "mycalnet/unavailable/b77942005899e5.html",
+    "local_edition_sha256": "ed4a6e871ddf08efe6b686f63bf0c05d1e842dcfa6d128f98a1a5677cd5ed6ad",
+    "output_sha256": "0c56bb4957fb8530ecee31c99222c6359e358ee375b92c54ae8f58b7e174e578"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b92346e8b5e5f1.html",
+    "local_source": "mycalnet/unavailable/b92346e8b5e5f1.html",
+    "local_edition_sha256": "ecc40c42b8920293ae6bedf1a465cf6b170a9a7db81d0c4eb258a599a2ec0a51",
+    "output_sha256": "ab7bc74839123ce0899b86ca52c44f38d844794053df58ede1114a76b4215e06"
+  },
+  {
+    "output": "mycalnet.org/unavailable/b96cf1595d8f17.html",
+    "local_source": "mycalnet/unavailable/b96cf1595d8f17.html",
+    "local_edition_sha256": "8fc6cda87bbbb8f3b1ee1240f0f2cd45c5a4d14f87f70799105edfb3203b4350",
+    "output_sha256": "4e448092b06b9314252befd5577145639e7d7211969af9ce13077c5366a69eeb"
+  },
+  {
+    "output": "mycalnet.org/unavailable/ba3b713a52e19f.html",
+    "local_source": "mycalnet/unavailable/ba3b713a52e19f.html",
+    "local_edition_sha256": "bbee7b3eae7c362f8a088e6836915df38e81f44c99726250e53fdb074d2dfc76",
+    "output_sha256": "50b32675dfa73b71bd959b45aaa3dd483f9c588c39102b54a5f102173bb582a5"
+  },
+  {
+    "output": "mycalnet.org/unavailable/baecc9efdaada5.html",
+    "local_source": "mycalnet/unavailable/baecc9efdaada5.html",
+    "local_edition_sha256": "3ef1d95d291f55077e80802f48ad2cf6c325c1bf12915f340990fd1574269da4",
+    "output_sha256": "562ba8f1f3b65e42fc4a82e80e9d94218e40aa8ad2b638e78b8b08a138dcd52f"
+  },
+  {
+    "output": "mycalnet.org/unavailable/bb2953cc31e1c4.html",
+    "local_source": "mycalnet/unavailable/bb2953cc31e1c4.html",
+    "local_edition_sha256": "bce5e05def7d96b5ea6634a5df4762a6ad1a8c0328dbde8c27a4c8eab4327793",
+    "output_sha256": "9eb9c0cd51601dab7fcc38a1a451b3ff68feeca812e799de16c13b1c344c30cc"
+  },
+  {
+    "output": "mycalnet.org/unavailable/bbb528f1ab5b74.html",
+    "local_source": "mycalnet/unavailable/bbb528f1ab5b74.html",
+    "local_edition_sha256": "92d03fbf4ac0b07b2cf39ce08594d29451babd5162cf7eaf576b259c7d49af24",
+    "output_sha256": "22d17b98cb17e908d196e52d845c894e46c539b97303f6ddfd8a889323dcf60b"
+  },
+  {
+    "output": "mycalnet.org/unavailable/bcc3154c7a0fee.html",
+    "local_source": "mycalnet/unavailable/bcc3154c7a0fee.html",
+    "local_edition_sha256": "56f11fab7a4cb987bd2929758fe9f9c2577351b197e246a17b4b1e5ca27bc969",
+    "output_sha256": "be61574dba1eee5e116356357613af6dcb57fa0ce5de56e773dce5e95a1af378"
+  },
+  {
+    "output": "mycalnet.org/unavailable/bd908c057188de.html",
+    "local_source": "mycalnet/unavailable/bd908c057188de.html",
+    "local_edition_sha256": "c89c7b5247106e88473268fd6673e73cb764535aeccfef929d5fb22208df9f55",
+    "output_sha256": "2556af89ee87e930b12a18a332298f593e4967a475c03cf50398d673e52c7d4d"
+  },
+  {
+    "output": "mycalnet.org/unavailable/bd90ca140fde10.html",
+    "local_source": "mycalnet/unavailable/bd90ca140fde10.html",
+    "local_edition_sha256": "b55db6d553ee65bfcdd371ea2f055a232d6b3c96012afaa5361261f5b43b0154",
+    "output_sha256": "f83ed655167b405a383496190b7bfb755cf55f414daa89c909a51bfc68c2f66e"
+  },
+  {
+    "output": "mycalnet.org/unavailable/bed2c649afd215.html",
+    "local_source": "mycalnet/unavailable/bed2c649afd215.html",
+    "local_edition_sha256": "f256d037290dc99d4dc3cd06c07416fc9eee45df10fb10710516267e4c980e88",
+    "output_sha256": "4428a37235e361192f21f5c6bb912394f9ed25b2cbc5fe007d5c2364310eccea"
+  },
+  {
+    "output": "mycalnet.org/unavailable/bf472b4c1e4ede.html",
+    "local_source": "mycalnet/unavailable/bf472b4c1e4ede.html",
+    "local_edition_sha256": "247d283875bc1a9caf234cd6329d4364d39666d6db16f7137db7651772d28c07",
+    "output_sha256": "ea144b62588e463b2f803f77927858578b57a47619b904181b4f27498a88b203"
+  },
+  {
+    "output": "mycalnet.org/unavailable/c11d70c9bbb48e.html",
+    "local_source": "mycalnet/unavailable/c11d70c9bbb48e.html",
+    "local_edition_sha256": "e3ab2abd68e5a345cd43d6d199c9928199465e0aa63e495cff5a56377a2b7e35",
+    "output_sha256": "9d8f399074b5fe48f49a5ea5af4f8daccd531c4ae5e545e9cde7071239dd53b0"
+  },
+  {
+    "output": "mycalnet.org/unavailable/c3a6c7bbf2d356.html",
+    "local_source": "mycalnet/unavailable/c3a6c7bbf2d356.html",
+    "local_edition_sha256": "b0a4f32f0a91825bcc6e90dd8985396ad19c47d5ed16a71781cfb14d4e79120d",
+    "output_sha256": "21395d528f552d2b4c468fdc1a957889ef1b1d04ed94ae617b963fe2951ce848"
+  },
+  {
+    "output": "mycalnet.org/unavailable/c41059c2e161fa.html",
+    "local_source": "mycalnet/unavailable/c41059c2e161fa.html",
+    "local_edition_sha256": "99364df1991c3874c37256a9088d03026a4360f75242b63521c2dde6f6819a99",
+    "output_sha256": "d1ee5b88993379f20ca74ded9e4deee560e258143a5a608cd10804a6897c6dc7"
+  },
+  {
+    "output": "mycalnet.org/unavailable/c4c438a94902a1.html",
+    "local_source": "mycalnet/unavailable/c4c438a94902a1.html",
+    "local_edition_sha256": "9b8086f79b22393a31121e09f0477389c7914146928a233ecd9f26343b9d3fa3",
+    "output_sha256": "d9d815e6ffdba8e06ece07305967e87e249de59d75603885d4e2c1b34e5e61a3"
+  },
+  {
+    "output": "mycalnet.org/unavailable/c69b2554eee7ad.html",
+    "local_source": "mycalnet/unavailable/c69b2554eee7ad.html",
+    "local_edition_sha256": "a0090293655c73cd9bdf1a8cbaa99f9fd48fb138a53c90aae4f2e6d162d949bc",
+    "output_sha256": "30bfd0d80a1337e387ac952f43979e0d67e69c47f43fff4d8ee7663e452dfcd1"
+  },
+  {
+    "output": "mycalnet.org/unavailable/c6fb3d6e650d99.html",
+    "local_source": "mycalnet/unavailable/c6fb3d6e650d99.html",
+    "local_edition_sha256": "0e21e255b4b4a59e13248af60fdb65473745e2aa493e64c698d0b65ef30c6fef",
+    "output_sha256": "714407e328c121ccab4cece275f271c7d11831cd58f68f0bb2bee1ef90c51359"
+  },
+  {
+    "output": "mycalnet.org/unavailable/c8d12d95ddbb89.html",
+    "local_source": "mycalnet/unavailable/c8d12d95ddbb89.html",
+    "local_edition_sha256": "7c3840fa012e315f626fd7529db840db4acb0db296065e9e3dbd577667fc3c4e",
+    "output_sha256": "d10ba8063af5d3e7812445affd700eef502455e3ffd42bd6fc29d4e2f3220f83"
+  },
+  {
+    "output": "mycalnet.org/unavailable/c8fae6ad5239c1.html",
+    "local_source": "mycalnet/unavailable/c8fae6ad5239c1.html",
+    "local_edition_sha256": "b853a84f75f93333a4b8d708593b9cebd088b9b8b81c128e1d3b1659b88ec661",
+    "output_sha256": "8db14893f03b023c34a64ddb280b7228bf9fa76efc8d074e42d6a52ebec6e3f6"
+  },
+  {
+    "output": "mycalnet.org/unavailable/c986664e578607.html",
+    "local_source": "mycalnet/unavailable/c986664e578607.html",
+    "local_edition_sha256": "9b87edc3f5bcae0ad5721cb6145c3f9eb0873f7525fffa32fdc3f1552bf08e51",
+    "output_sha256": "345e34fb6660b3aa2993c984a7202df848ec48ceba5a7914c0c2f577d45a7cda"
+  },
+  {
+    "output": "mycalnet.org/unavailable/c9d385b472f144.html",
+    "local_source": "mycalnet/unavailable/c9d385b472f144.html",
+    "local_edition_sha256": "76ba5bf8db2dbfaf359124d51ef314f7a0fed3cc58fcc626d9cdf4c35d532cc7",
+    "output_sha256": "dca27d4506bcc674a9113ae205393f96d7a609de61582219b4b8ed81f83e6bfd"
+  },
+  {
+    "output": "mycalnet.org/unavailable/c9e1b7fd0e8fb5.html",
+    "local_source": "mycalnet/unavailable/c9e1b7fd0e8fb5.html",
+    "local_edition_sha256": "c7906efd88e0aef1d5f22d35045fd5b77d13b7a5ad840375a2298a9dccba2156",
+    "output_sha256": "004ed11a60f86e60f085ac10ec41e18d5780964eaa8f7edf44d0a5553aafa237"
+  },
+  {
+    "output": "mycalnet.org/unavailable/ca68bc4c5678f5.html",
+    "local_source": "mycalnet/unavailable/ca68bc4c5678f5.html",
+    "local_edition_sha256": "916bdf436f9bf9479722da147ce5a7b60df0f64f63c6adc781eb9f4a97560b10",
+    "output_sha256": "b3bd92be225d209858b5be96a2850252f67b0ecb385a69373a44e2a546e57e0c"
+  },
+  {
+    "output": "mycalnet.org/unavailable/cad298e5b287b3.html",
+    "local_source": "mycalnet/unavailable/cad298e5b287b3.html",
+    "local_edition_sha256": "78d26c322f4d8df4d18394d3ae62cb7c5f2557b216a40086578f7a85d439319f",
+    "output_sha256": "2b9c3cfad15605afd768d5f075b3ba7226a2dd9da2402874884fb0eaa52d5635"
+  },
+  {
+    "output": "mycalnet.org/unavailable/cb107081557bc6.html",
+    "local_source": "mycalnet/unavailable/cb107081557bc6.html",
+    "local_edition_sha256": "1f396d75bf9a9e463582e9541b0b808ca24f3bc3c635f78c8e1252aa090d5299",
+    "output_sha256": "ec8c792765ade3ec4808c6ca62f8dff0995d871cfab8a6f3160166157d07cd1d"
+  },
+  {
+    "output": "mycalnet.org/unavailable/cb64bbfc42a6af.html",
+    "local_source": "mycalnet/unavailable/cb64bbfc42a6af.html",
+    "local_edition_sha256": "08503468be596a1c92958cf4459bc575b2e292bac7c4436d6a8ca5004e39c661",
+    "output_sha256": "781dc11e9e17a6a1ada57921120620d9528261c8fb70bb1cafd2ff95690befdf"
+  },
+  {
+    "output": "mycalnet.org/unavailable/cbb446308b6185.html",
+    "local_source": "mycalnet/unavailable/cbb446308b6185.html",
+    "local_edition_sha256": "671f6d929bc44fe1b820e74b1f5166d4c19b68fb48aec7a9ed4020966dfac647",
+    "output_sha256": "dea24d207ed9a7a32223a97f4a596d9c4db1ee7bc155f265de692a694271be3f"
+  },
+  {
+    "output": "mycalnet.org/unavailable/cc119f2ca94e71.html",
+    "local_source": "mycalnet/unavailable/cc119f2ca94e71.html",
+    "local_edition_sha256": "198ac3bb8cfdd6f91c15a6a1d72d5dd0c2036e481e47ced9526461e02c19be1a",
+    "output_sha256": "819bd52fc1f91fca93dd0b9b3170ff7dcef1bce0acedbeddc304959ab89e4410"
+  },
+  {
+    "output": "mycalnet.org/unavailable/cc142474c58fd7.html",
+    "local_source": "mycalnet/unavailable/cc142474c58fd7.html",
+    "local_edition_sha256": "9b09a5751da06e7cf46acccdab9486bd8d021ccc9bfedf9e285253e9f480a3e9",
+    "output_sha256": "0d5a6a9bade024b566b37d381327d94def6032de5deff087b6759e261a101b2e"
+  },
+  {
+    "output": "mycalnet.org/unavailable/cfaf23deda5942.html",
+    "local_source": "mycalnet/unavailable/cfaf23deda5942.html",
+    "local_edition_sha256": "f9a882a12d1b36e2171bad8bc1f5125e4e14de5f79904c931418830a9b7a5a37",
+    "output_sha256": "26cab58520c9defa423faeccd2ce38b3b9372866530a990da0ca7d4a37c301d3"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d04050c26f45b8.html",
+    "local_source": "mycalnet/unavailable/d04050c26f45b8.html",
+    "local_edition_sha256": "b872fb0a1f21994f2d8f6734c13c0bf55a7eec64cffa087fae59b285ba5784f1",
+    "output_sha256": "c3ef3f7d9a94778ee595d8bc12b62e00443d471464be8dcb768cf59fd28fe3e7"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d0939eaf4cf748.html",
+    "local_source": "mycalnet/unavailable/d0939eaf4cf748.html",
+    "local_edition_sha256": "0278cc1531c8abc4ef2f35876db98d803738176b0d084a7aa8fc8221f559dbf3",
+    "output_sha256": "ea31221dda9ef02fbfdd1fd3aae2c590492a0731b93145252308b98e28d614d0"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d153e5c3d5a111.html",
+    "local_source": "mycalnet/unavailable/d153e5c3d5a111.html",
+    "local_edition_sha256": "27e52029907a0dacdcb11cc9e0d66f1d5065172b2145be7e9f45a198e791629e",
+    "output_sha256": "12ac883d076149eb1864be1c4cb8cd46904508ae201350b7e33cb830229f5e7f"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d26865186f940f.html",
+    "local_source": "mycalnet/unavailable/d26865186f940f.html",
+    "local_edition_sha256": "f1468dd05869675300d55868c044be5927385a90abbbada58777b694723211f8",
+    "output_sha256": "bb2c761880a4723d81635a56300d30230a764c770f7c0e7ab08414defa727811"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d2afac26ac42df.html",
+    "local_source": "mycalnet/unavailable/d2afac26ac42df.html",
+    "local_edition_sha256": "7696ad9071fac6bba648b9977106e350acfa5740e6b071b1e80415a10636bf50",
+    "output_sha256": "be5c3bc1bcac18a050103037d486392604903264fbe249c0f757663e53e180a3"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d325eb356bebab.html",
+    "local_source": "mycalnet/unavailable/d325eb356bebab.html",
+    "local_edition_sha256": "eff90549eb5eb6b90c7c1b4d554b1e20399ef4adaf55fd4dec41a95add51ed33",
+    "output_sha256": "ef28f524876e5fc8d739f13763281a688e6c91eb7ca2ae1fa501fa039fb9ecd4"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d33f9d386f330e.html",
+    "local_source": "mycalnet/unavailable/d33f9d386f330e.html",
+    "local_edition_sha256": "f5a772a9f14bc4c39b52e9af017a3cc071909a5fdf170725ac2def359c19f8b4",
+    "output_sha256": "623e8280e37579ecc4a6357a5a491de1ade8d40890872c2483b39c06acbb97c1"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d38ebaa2caeddb.html",
+    "local_source": "mycalnet/unavailable/d38ebaa2caeddb.html",
+    "local_edition_sha256": "f5b9be30ccd35d97f02bf66067d77a9374d7bfc0286ea25d5ea3d903fecb3659",
+    "output_sha256": "6d18aa713641d31c506411c31957ceb030ca6176bda0435c36fdc6516681821e"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d3f1de7b110108.html",
+    "local_source": "mycalnet/unavailable/d3f1de7b110108.html",
+    "local_edition_sha256": "1f6bfaaee30b5869ef97aa59ba46359b861b2ac12560d37511ac6dc9a99fc0a4",
+    "output_sha256": "7dba23c9c2c12d0d6933de6465c26577e2bec1af2c3287e7fbda3055b4df9f63"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d51870ed951042.html",
+    "local_source": "mycalnet/unavailable/d51870ed951042.html",
+    "local_edition_sha256": "d811f57075468b966c227d8107a2c9a9ae0aa9295dd683a2c51f6d068c9f64bb",
+    "output_sha256": "23c20f191d39088433c81508f5f28da4b1e32b61472dd7f97ddfe06e447633ac"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d577a855c793ba.html",
+    "local_source": "mycalnet/unavailable/d577a855c793ba.html",
+    "local_edition_sha256": "1ac6cfd27de92483e24a090841d9373d2d7d6de2ba767f5b0c53411375059ca0",
+    "output_sha256": "8d53ed5669a2ebfdbd6606586ca2730b5c8f81b4c245b33df1aca56b6ce5f136"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d6d6880e6d2891.html",
+    "local_source": "mycalnet/unavailable/d6d6880e6d2891.html",
+    "local_edition_sha256": "29c6c8f1289b5082cf9fa673f59370a838283f2a67806e0abfabe882643d52c7",
+    "output_sha256": "5f8842226ed4cce11014a1887b09332e3f5269e407cf44ca596bf28a9ee2ba9b"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d7769ce0ca23a3.html",
+    "local_source": "mycalnet/unavailable/d7769ce0ca23a3.html",
+    "local_edition_sha256": "911d60c09fa32853483479bb5bf23b0e2c2336a2b885bca28a4ad2b999e574d7",
+    "output_sha256": "f498273b02c8ce94d7b211f0fdcabd853d0c64f641116f206dd8609e940661c7"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d8064a3cec2628.html",
+    "local_source": "mycalnet/unavailable/d8064a3cec2628.html",
+    "local_edition_sha256": "7fd233c3cbde47707ad6b07c1bd9fd862260b4ed1aefa61a5e76422ac8778103",
+    "output_sha256": "54c93e5289364a64b1243a965b1d3d7f80acf1999a20e2985e1e1bd6ae58a7fa"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d8f88cb0a90830.html",
+    "local_source": "mycalnet/unavailable/d8f88cb0a90830.html",
+    "local_edition_sha256": "941f4b72b9d12722032cec740778e31039d9eba97430c94a4d6e6ee8e2e7a298",
+    "output_sha256": "3d83fc7be902fa6a994f50cd42e9c8910406aeb9a1242fb1797391fc23dede43"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d984f70d727cca.html",
+    "local_source": "mycalnet/unavailable/d984f70d727cca.html",
+    "local_edition_sha256": "2b210c54b008fdcb94685fc0e3bccfff2c2f508674c447a6a883b27d2e38449b",
+    "output_sha256": "549434c107e537df7f6d1578a0156f4c21b1624490476d77f347a1013f8372a4"
+  },
+  {
+    "output": "mycalnet.org/unavailable/d98bbaace868eb.html",
+    "local_source": "mycalnet/unavailable/d98bbaace868eb.html",
+    "local_edition_sha256": "6528c6f5b984aa265906b744cd9a98bb9a727a941f94dbaca1cd613dad4b3e0b",
+    "output_sha256": "1489a98512be2403287222c147d168b95f18f7d3cc81f2888e4420bdb7c6341f"
+  },
+  {
+    "output": "mycalnet.org/unavailable/db8e0180b8b64e.html",
+    "local_source": "mycalnet/unavailable/db8e0180b8b64e.html",
+    "local_edition_sha256": "90656b9b83b125f84ba84eb64422a191d0005297e58337d308c2c55ad0972bb0",
+    "output_sha256": "864d6be812e62d8ff7affc37afe6637c40badd10bbdd8af5655cf93e97b0e1f4"
+  },
+  {
+    "output": "mycalnet.org/unavailable/dc857330b94c5f.html",
+    "local_source": "mycalnet/unavailable/dc857330b94c5f.html",
+    "local_edition_sha256": "beaa24737a0568aae0304a36688242bcdea0f581c8b42439c6e760e650087f1c",
+    "output_sha256": "04f9dd8e04b605705bd544c25afa3aad533ee84142564540569b09bd0755bd21"
+  },
+  {
+    "output": "mycalnet.org/unavailable/dee750a8f0355c.html",
+    "local_source": "mycalnet/unavailable/dee750a8f0355c.html",
+    "local_edition_sha256": "0c0f092fd3d090581028d342da95fb2056c7bad24e5efbeb6f1ffbbdc1de4194",
+    "output_sha256": "33c80bba658bde03102c5233d80874def7c4b17a625f6884aff258db7edd829f"
+  },
+  {
+    "output": "mycalnet.org/unavailable/e11079c15d8cf4.html",
+    "local_source": "mycalnet/unavailable/e11079c15d8cf4.html",
+    "local_edition_sha256": "b378525c11728de70feae98159196cc01db6f9be06191b2bb5926dc54e751523",
+    "output_sha256": "9b4bc0b364adc75e7ea0f0c2c3224de4e4436b96f107c73a08f0669c2f48e4a2"
+  },
+  {
+    "output": "mycalnet.org/unavailable/e19514fd9f8d73.html",
+    "local_source": "mycalnet/unavailable/e19514fd9f8d73.html",
+    "local_edition_sha256": "00f3389f12818c0c58fa83625e534b25e961a8bc2085345a5c40ad35ccd391eb",
+    "output_sha256": "7a361fd4e4f28668ebb74b3da2aba8b3a3729ca52f5c1394b4bef2368df241f4"
+  },
+  {
+    "output": "mycalnet.org/unavailable/e1c92fa74deaa3.html",
+    "local_source": "mycalnet/unavailable/e1c92fa74deaa3.html",
+    "local_edition_sha256": "bb80be11d965586543204123ed7c1e0c379a05e801ee1e6531b2d18afeabd607",
+    "output_sha256": "2aba33ae8512e6d180672a3904ea1dd728a7e22a653d596c963ac0ef982ce32f"
+  },
+  {
+    "output": "mycalnet.org/unavailable/e25631c3e6dcac.html",
+    "local_source": "mycalnet/unavailable/e25631c3e6dcac.html",
+    "local_edition_sha256": "d076dfe6a0bc4a5cb670f88976c3df8a5e4b0e3f4b176284f9af06956aeb13a0",
+    "output_sha256": "28416c3ac3ac87189caa293cb9e8b1ac2cc57220dfb86e9bff8b44244c84b6ea"
+  },
+  {
+    "output": "mycalnet.org/unavailable/e5ff01c76a7edb.html",
+    "local_source": "mycalnet/unavailable/e5ff01c76a7edb.html",
+    "local_edition_sha256": "ebec6007fb1ea75d64e134a8906f8fef7af2319c4a36a09ff8e4532786a5653d",
+    "output_sha256": "e498876c27ffec76af2d5ba67ba706d6e27c2c0f6e5c2307584775bc5723489c"
+  },
+  {
+    "output": "mycalnet.org/unavailable/e64264354d0fe8.html",
+    "local_source": "mycalnet/unavailable/e64264354d0fe8.html",
+    "local_edition_sha256": "ff6b35b031fa02a8946313f4b62ec180e687748b33bcf7cadf86ebdca4a25608",
+    "output_sha256": "14d26d61e7d5541f7779f8356b9bc9827626e290e642e197ed2a6c3c63f7c51c"
+  },
+  {
+    "output": "mycalnet.org/unavailable/e8f1d3ebea08a2.html",
+    "local_source": "mycalnet/unavailable/e8f1d3ebea08a2.html",
+    "local_edition_sha256": "8400c9163e9c29f730bfdf3ea8a65ccd8d6cda75f8ea9851030af655188e6748",
+    "output_sha256": "f1c0eed4d8e04bad8c856fa5c8ee5b92a57c8e05a7ed9a58d9d1607c4f2b6700"
+  },
+  {
+    "output": "mycalnet.org/unavailable/ecff73b770ed6a.html",
+    "local_source": "mycalnet/unavailable/ecff73b770ed6a.html",
+    "local_edition_sha256": "4d12ccdfb15a73010f6a7bb8df2ed6a91c3406268642c7166dfe44903daf54fa",
+    "output_sha256": "d469c45735c98652e16ae6b92d4a0fa96a16a413f879abd8c9442b38f97d06e4"
+  },
+  {
+    "output": "mycalnet.org/unavailable/ed6a1a5ab15f4a.html",
+    "local_source": "mycalnet/unavailable/ed6a1a5ab15f4a.html",
+    "local_edition_sha256": "3142f9e4534d01ce9d0bb04aade92d0036e455f9c10431a1b48592c2d668e46b",
+    "output_sha256": "aa2c0e47d3696cac8d0ed31c90430c9bf49bc1ec4412b6a347abffa42b1f25d5"
+  },
+  {
+    "output": "mycalnet.org/unavailable/ef86562a85c5f0.html",
+    "local_source": "mycalnet/unavailable/ef86562a85c5f0.html",
+    "local_edition_sha256": "b223814018030631eebf1a5a32d2a591c969325cea9b7df41e2d62e3591b0458",
+    "output_sha256": "d539ae6cbcd0e5ae20667ffdafb727389cab78d7ccba8c0dabf745ab59c499c0"
+  },
+  {
+    "output": "mycalnet.org/unavailable/eff1c32c59f337.html",
+    "local_source": "mycalnet/unavailable/eff1c32c59f337.html",
+    "local_edition_sha256": "ecca9bbec88ad7692e0f3992399be75cd35c4b3e60ea168649a52382a3093085",
+    "output_sha256": "402b820145022168f69f6d1b27ea79b0242f1a273b127b95db1d0096571ad071"
+  },
+  {
+    "output": "mycalnet.org/unavailable/f07cb1fdcc8fcd.html",
+    "local_source": "mycalnet/unavailable/f07cb1fdcc8fcd.html",
+    "local_edition_sha256": "3c65075eb408bc9614c6f40527a894bc6edb2b90e84c586655448b39b337f698",
+    "output_sha256": "e48caa919210e76ac642c807d08afff7f810cdf0947a63d4acf632a50d3e6033"
+  },
+  {
+    "output": "mycalnet.org/unavailable/f0de0bf009f7f6.html",
+    "local_source": "mycalnet/unavailable/f0de0bf009f7f6.html",
+    "local_edition_sha256": "08bfca38acba1e457be7bbb15a457e40ed7a4c21e91601a09fd8b8d7588c38c5",
+    "output_sha256": "f43437a7ed74a7a61aaf88c7d3aec714ec502c8ac6c9c51b206dfd37828a6ac6"
+  },
+  {
+    "output": "mycalnet.org/unavailable/f279016b9467d5.html",
+    "local_source": "mycalnet/unavailable/f279016b9467d5.html",
+    "local_edition_sha256": "6f89a21800d1e7ec11c3e97f2ef83a975b2872059e762873e48aa9134105f098",
+    "output_sha256": "3e35d0cffc2d28674f5c3eba5b2dc21b63f5a728b8ef02b19b3817ba049e6a81"
+  },
+  {
+    "output": "mycalnet.org/unavailable/f43aed33a2a580.html",
+    "local_source": "mycalnet/unavailable/f43aed33a2a580.html",
+    "local_edition_sha256": "f0a350101d84686692d3ad0bca4a60bf8a04ec2664eea921e9e06b92fee5682e",
+    "output_sha256": "509bf941ab57a2db0ff6e554b7f74718e6d638a6d5386b19a361fd99c2259369"
+  },
+  {
+    "output": "mycalnet.org/unavailable/f59a0c635fb645.html",
+    "local_source": "mycalnet/unavailable/f59a0c635fb645.html",
+    "local_edition_sha256": "4189bd55c1f064aac07f6fb114799f08e673bc34f4969086cfb4ec0160800f91",
+    "output_sha256": "3631e8c7c462a16d882da92b9fba0973313791a7bacbfd2ba84b9ad78ab0db46"
+  },
+  {
+    "output": "mycalnet.org/unavailable/f60bd7cf1859b7.html",
+    "local_source": "mycalnet/unavailable/f60bd7cf1859b7.html",
+    "local_edition_sha256": "cc939eaa56e7dda3ce34f4b35a48671d8c1d32d3109cb546015fd63a1a0b74dd",
+    "output_sha256": "ce125c0e80a505b09319e7c68fbdf877c601d56aa0c8fcdd2bb9390883f5bd15"
+  },
+  {
+    "output": "mycalnet.org/unavailable/f626c42e0198cf.html",
+    "local_source": "mycalnet/unavailable/f626c42e0198cf.html",
+    "local_edition_sha256": "6bf47296339ab82dc02d83edde44dc47e634789c9ace032ca30b1fdc0fc38cf1",
+    "output_sha256": "92695729bb9a0bc5c4370148e954fb934afc301d16de424a295da2c0bb952f13"
+  },
+  {
+    "output": "mycalnet.org/unavailable/f637d7ad00f8ba.html",
+    "local_source": "mycalnet/unavailable/f637d7ad00f8ba.html",
+    "local_edition_sha256": "290385ebdcfd75b32df24dca46d550c96985750d77e730e20668c22f241b2a49",
+    "output_sha256": "32566ffb61e7ad4d05929716221278fa57d49d0cf7018e48d376b48fff7fab71"
+  },
+  {
+    "output": "mycalnet.org/unavailable/f723c5254e8dc8.html",
+    "local_source": "mycalnet/unavailable/f723c5254e8dc8.html",
+    "local_edition_sha256": "d729acf44ed829d8331dc0bf38c70df0a4216609ececadf2a3559f7d632a4bda",
+    "output_sha256": "dc182a1c9060b39fce935ccfe000d600cb1115925fd05290ac56a25b6ead062b"
+  },
+  {
+    "output": "mycalnet.org/unavailable/f80d3089f73630.html",
+    "local_source": "mycalnet/unavailable/f80d3089f73630.html",
+    "local_edition_sha256": "0e0b42f67a9eef351a4f30bd0166c228c9cac52c89d318b8044e060e358da9c3",
+    "output_sha256": "2d771972b88ced36eff630f9f586b8a90e84625d860f1314d2f897db35272662"
+  },
+  {
+    "output": "mycalnet.org/unavailable/f906c48cc6afab.html",
+    "local_source": "mycalnet/unavailable/f906c48cc6afab.html",
+    "local_edition_sha256": "91a2593460562465d711e51cca1ecae6ee0a639d47f9f00fca5019fa4c246b9e",
+    "output_sha256": "b7ac78716efbeab4707ffea216575d46ec38591aabe5022fb48f67dd4369bf1c"
+  },
+  {
+    "output": "mycalnet.org/unavailable/f9241d959bd215.html",
+    "local_source": "mycalnet/unavailable/f9241d959bd215.html",
+    "local_edition_sha256": "a0af09c743d586ae37a5be07aead92493d29453820d49599d104dec39dc1c8f2",
+    "output_sha256": "e9f1777b24bb1833e62668cfc6a3d3845aebab20ec1f0870d8991d9b584022c7"
+  },
+  {
+    "output": "mycalnet.org/unavailable/fb6f403edadc26.html",
+    "local_source": "mycalnet/unavailable/fb6f403edadc26.html",
+    "local_edition_sha256": "2e6862c725bcc58856955449919385ca412e1309435ff4a0ef664ef0fa6809b7",
+    "output_sha256": "04e604a600ebefa0d293f4b561d7681e4afafb80b89a61a22c85f1885b4d1857"
+  },
+  {
+    "output": "mycalnet.org/unavailable/fbca5469c68325.html",
+    "local_source": "mycalnet/unavailable/fbca5469c68325.html",
+    "local_edition_sha256": "7e5d8ffffb177c09c8ef544d46ceff9ba5a8bd98385c3c1c42ba38dd3065ca85",
+    "output_sha256": "f14c796ad1c3e5d85875f23b5d6d422503db60c2e57f05989d3e113e1afae397"
+  },
+  {
+    "output": "mycalnet.org/unavailable/fc1264b93bab32.html",
+    "local_source": "mycalnet/unavailable/fc1264b93bab32.html",
+    "local_edition_sha256": "244eb334c6f74f0a29806269338ae55dbbd9169542c6850b06aa6e41d5ec57ca",
+    "output_sha256": "a860e22dcb2120f74126c45397c772f4179494c40c01f43b9c7c4e0c82059570"
+  },
+  {
+    "output": "mycalnet.org/unavailable/fc2b2e2fea1cff.html",
+    "local_source": "mycalnet/unavailable/fc2b2e2fea1cff.html",
+    "local_edition_sha256": "74c066eaff4ed8c0b90b74fc30532e342f53d535de91e6a7f79258c2050e57b2",
+    "output_sha256": "6712867c3c40e88c6c0144501e37bd668da9ca204d20c5a58fcef9974f9e9dc1"
+  },
+  {
+    "output": "mycalnet.org/unavailable/ff276092a267a5.html",
+    "local_source": "mycalnet/unavailable/ff276092a267a5.html",
+    "local_edition_sha256": "1eeb8c0d69f414ccbd2cbbea74c33448e2b07a223e7e2a153e6ccf99b28c81d6",
+    "output_sha256": "bc6fe5212abbbbf7eb6dd027f5253cced1ed32a5ed5bcce66c81a3b517d8e3dc"
+  },
+  {
+    "output": "mycalnet.org/unavailable/ff5a3b74f2157f.html",
+    "local_source": "mycalnet/unavailable/ff5a3b74f2157f.html",
+    "local_edition_sha256": "20924bd2345e6f7b13dc301bda077655fcf31fcfba50cfcbb3f12812f7cd1c13",
+    "output_sha256": "b7e88de9b90e78718954547e894b6d632bc726cd2bb14bc2ab9a8efb5e9f6732"
+  },
+  {
+    "output": "mycalnet.org/unavailable/ffb1760d214bb6.html",
+    "local_source": "mycalnet/unavailable/ffb1760d214bb6.html",
+    "local_edition_sha256": "0cbf0fa29cb850406fc0ee3f605e7fde36d3b623e018edd0696ffd915325bec2",
+    "output_sha256": "20f376dcf129aa0a1dd5fe15508c709d2b92801ae0b425f067a7c8bd54fda2e6"
+  },
+  {
+    "output": "mycalnet.org/unavailable/ffb3f6ee0b542b.html",
+    "local_source": "mycalnet/unavailable/ffb3f6ee0b542b.html",
+    "local_edition_sha256": "874e31335592d45b96c6b44d6b276694fa7036ce019e3ec07666e2f3048ffa27",
+    "output_sha256": "815031688686b19e389143cff1ac7bce7325f49e3019c83187a0384c73f97ab2"
+  },
+  {
+    "output": "mycalnet.org/unavailable/ffd8d4d762a3fd.html",
+    "local_source": "mycalnet/unavailable/ffd8d4d762a3fd.html",
+    "local_edition_sha256": "68f8416c84a110998f7074f469f84533dd88ca7e97d0a2ce8228fb449ea3f872",
+    "output_sha256": "813b3fdf1567a82f04da86b85c484694364e9b6468c60078edc316bb9dab1db9"
+  },
+  {
+    "output": "_community-support/restore.css",
+    "local_source": "restore.css",
+    "local_edition_sha256": "89d846fc41cd927ef764cb42d2608d01e94838ba041f4446dcd4b2a4e145ba48",
+    "output_sha256": "89d846fc41cd927ef764cb42d2608d01e94838ba041f4446dcd4b2a4e145ba48"
+  },
+  {
+    "output": "mycalnet.org/archive-notes.html",
+    "source": "Publication availability note",
+    "output_sha256": "2bb410fb9d783611867a81c0673d1ae8b6e6ad7377412c141302d1e3ecab31b6"
+  }
+]

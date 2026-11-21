@@ -1,0 +1,26 @@
+/* Restoration navigation stays below the historical page. */
+.archive-footer{clear:both;box-sizing:border-box;max-inline-size:900px;margin:32px auto 0;padding:18px 20px 24px;border-top:1px solid #ddd;background:transparent;color:#555;font:14px/1.6 Arial,sans-serif;text-align:center}
+.archive-footer nav{display:flex;flex-wrap:wrap;flex-wrap:balance;justify-content:center;gap:6px 20px}
+.archive-footer a,.archive-footer a:visited{font:inherit!important;color:#45545b!important;text-decoration:underline!important;text-underline-offset:3px}
+.archive-footer a:hover{color:#222!important}
+.archive-footer a:focus-visible{outline:2px solid #8b3536;outline-offset:4px}
+.archive-footer p{margin:10px 0 0;font:inherit;color:inherit}
+.archive-footer .archive-source{margin:10px 0 0;padding:0;background:transparent;color:inherit;font:inherit;text-align:center}
+.archive-footer .archive-source .restore-note{padding:10px 0;margin:0;background:transparent;color:inherit;font:inherit}
+.archive-footer .archive-source summary{cursor:pointer}
+.archive-footer .archive-page-notes{margin:0;min-width:0}
+.archive-footer .archive-page-notes>summary{cursor:pointer;text-decoration:underline;text-underline-offset:3px;color:#45545b}
+.archive-footer .archive-page-notes>summary:focus-visible{outline:2px solid #8b3536;outline-offset:4px}
+.archive-footer .archive-page-notes[open]{flex-basis:100%}
+.archive-footer .page-notes-content{max-width:800px;margin:16px auto 0;text-align:left;overflow-wrap:anywhere;font:14px/1.6 Arial,sans-serif}
+.archive-footer .page-notes-content h2{font:600 16px/1.5 Arial,sans-serif;margin:18px 0 8px}
+.archive-footer .page-notes-content p{margin:10px 0}
+.archive-footer .page-notes-content details{margin:12px 0}
+.archive-footer .page-notes-content nav{display:block}
+.archive-footer .page-notes-content .restore-note{font:inherit;background:transparent;padding:0;color:inherit}
+.archive-reading-title{position:absolute!important;width:1px;height:1px;padding:0!important;margin:-1px!important;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+
+.archive-footer.archive-footer-dark{color:#ddd;border-top-color:#555}
+.archive-footer.archive-footer-dark a,.archive-footer.archive-footer-dark a:visited,.archive-footer.archive-footer-dark .archive-page-notes>summary{color:#d6e4eb!important}
+.archive-footer.archive-footer-dark a:hover{color:#fff!important}
+.archive-footer.archive-footer-dark summary:focus-visible,.archive-footer.archive-footer-dark a:focus-visible{outline-color:#ffd780}

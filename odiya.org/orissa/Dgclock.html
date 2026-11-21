@@ -1,0 +1,299 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8"><title>Dgclock in Java | Restored archive</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; font-src 'self'; media-src 'self'; script-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'; require-trusted-types-for 'script'"><meta name="referrer" content="no-referrer"><link rel="stylesheet" href="../../_community-support/restore.css"><style>@font-face{font-family:'OR-TTSarala';src:url("../restored-fonts/ORSR0ntt.ttf") format('truetype')}</style><link rel="stylesheet" href="../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head>
+<body bgcolor="#ffffff" text="#000000" link="#ff0000" vlink="#0000ff" alink="#00ff00" class="restore-faithful"><div class="restore-body">
+<h2>Dgclock in Java (1.0 applet)</h2>
+<b>Version 2.1</b>
+<p>
+<b>Initial Release:</b> Dec 05, 1995
+<br>
+<b>Latest Release:</b> March 16, 1996
+</p><p>
+This is a simple digital clock written in <a href="../unavailable/17b49886474281.html">Java</a>. This clock can display time and date of
+any place in world. The time can be displayed in 12 hour or 24 hour format.
+You will need a java capable browser like <a href="../unavailable/298b6f062871d9.html">netscape</a> in order to view the clock.
+I tested the applet on Solaris 2.3 and Microsoft NT 3.51 with applet viewer
+and netscape 2.01. 
+</p><p>
+This applet uses double-buffering technique, therefore, you should not see
+any flickering at all.
+</p><h3>Examples</h3>
+<hr>
+<center>
+- It may take some time to transfer -
+</center>
+<p>
+</p><center>
+<table>
+<tr>
+<td>
+    <b>My Time:</b>
+</td>
+<td>
+    
+</td>
+<td>
+    <b>Your time:</b>
+</td>
+<td>
+    
+</td>
+<td>
+    <b>Berlin:</b>
+</td>
+<td>
+    
+</td>
+</tr>
+<tr>
+<td>
+    <b>Dhaka:</b>
+</td>
+<td>
+    
+</td>
+<td>
+    <b>New York:</b>
+</td>
+<td>
+    
+</td>
+<td>
+    <b>London:</b>
+</td>
+<td>
+    
+</td>
+</tr>
+</table>
+</center>
+<hr width="50%">
+<h3>What's new</h3>
+<ul type="square">
+<li> Using 
+<a href="../unavailable/e73cb8913c7a1c.html">
+MediaTracker</a> class to avoid incremental display of digit images.
+That is, the time will be displayed after all the images are loaded completely.
+Suggested by <a href="../unavailable/9017385c5f674b.html">Jim Graham</a>
+<p>
+</p></li><li> The clock can be displayed without frame (default is to use frame).
+<p>
+</p></li><li> The clock can be stopped by clicking a mouse button on the applet.
+Clicking again will restart the clock.
+<p>
+</p></li><li> Displays "Loading image.." message at netscape's status area while the
+images are being loaded. 
+</li></ul>
+<h3>How to use it</h3>
+<blockquote>
+If you want to use this applet in your web page, 
+you have to download the archive first. Then, you have to extract the
+necessary files from the archive. The archive is available in 3 formats,
+<i>gzipped tar, unix compressed tar</i> and <i>zipped</i>
+archive. Download <b>any one</b>
+of the archives depending on what kind of decompressor you have.
+<p>
+Download
+</p><p>
+</p><ul>
+<i>
+<li>
+<a href="../unavailable/b81703ef9ef845.html">
+gzipped tar (jdgclock2.1.tar.gz)</a>
+<br>
+<font size="-1">
+[If you do not have gzip/gunzip, it is available at <a href="../unavailable/f041f0f4559edb.html"><b>prep.ai.mit.edu</b>]</a>.
+</font>
+<br>
+or
+<br>
+</li><li>
+<a href="../unavailable/61a25f3540171e.html">
+unix compressed tar archive (jdgclock2.1.tar.Z)</a>
+<br>
+or
+<br>
+</li><li>
+<a href="../unavailable/6129c9dc1f6bcc.html">
+zipped archive (jdgclk.zip)</a>
+</li></i>
+</ul>
+
+<b>Please consider NOT running the applet remotely from this machine.</b>
+<p>
+After downloading, copy the archive to your
+<i>public_html</i> directory (or wherever you keep your home pages). 
+</p><p>If you downloaded the gzipped version,
+at the shell prompt, type:
+</p><pre>
+    gunzip &lt; jdgclock2.1.tar.gz | tar xvf -
+      or
+    gzip -d &lt; jdgclock2.1.tar.gz | tar xvf -
+</pre>
+If you downloaded the unix compressed version, at the shell prompt, type:
+<pre>
+    uncompress jdgclock2.1.tar.Z
+    tar -xvf jdgclock2.1.tar
+</pre>
+If you downloaded the zipped version, type:
+<pre>
+    unzip -d jdgclk.zip
+</pre>
+The -d switch makes sure that it creates the <b>jimages</b> directory and
+put the digit images inside it. If you are using some other kind of
+unzipping software, make sure it creates the jimages directory.
+<p>
+<b>You do not need to compile the code in order to use it</b>. 
+Dgclock comes with
+pre-compiled class <i>Dgclock.class</i>. If you want to play with the
+source, please look at 
+<a href="../unavailable/a29cafac4aafb0.html"><i>Dgclock.java</i></a>.
+</p><p>
+Now, from your web page, call the applet as below:
+</p><pre>
+    <font color="brown">
+    &lt;applet code="Dgclock.class" width=100 height=30&gt;&lt;/applet&gt;
+    </font>
+</pre>
+This will show the visitor's time in 24 hour format. To display the time in
+12 hour format, use:
+<pre>
+    <font color="brown">
+    &lt;applet code="Dgclock.class" width=100 height=30&gt;
+    &lt;param name="TimeFormat" value="%I"&gt;
+    &lt;/applet&gt;
+    </font>
+</pre>
+To display your time, you have to know your timezone offset from GMT. For
+example, if you live in New York, your timezone offset is 5 hours east of
+Greenwich meridian. Note, offset is negative for east and positive for west.
+<p>
+For New York:
+</p><pre>
+    <font color="brown">
+    &lt;applet code="Dgclock.class" width=100 height=30&gt;
+    &lt;param name="TZ" value="GMT-0500"&gt;
+    &lt;/applet&gt;
+    </font>
+</pre>
+<p>
+Note, you can not use just -5, you must use the four digit offset starting
+with GMT+ or GMT-. If your
+timezone offset is 4 hours, 30 minutes west of Greenwich meridian, the param
+line will be:
+</p><pre>
+    <font color="brown">
+    &lt;param name="TZ" value="GMT+0430"&gt;
+    </font>
+</pre>
+To display GMT, the param line will be:
+<pre>
+    <font color="brown">
+    &lt;param name="TZ" value="GMT+0000"&gt;
+    </font>
+</pre>
+To display date with time:
+<pre>
+    <font color="brown">
+    &lt;applet code="Dgclock.class" width=100 height=30&gt;
+    &lt;param name="TZ" value="GMT-0500"&gt;
+    &lt;param name="ShowDate" value="yes"&gt;
+    &lt;/applet&gt;
+    </font>
+</pre>
+<p>
+If you do not want to display the frame around the clock, use:
+</p><pre>
+    <font color="brown">
+    &lt;applet code="Dgclock.class" width=89 height=20&gt;
+    &lt;param name="ShowFrame" value="no"&gt;
+    </font>
+</pre>
+Note the line:
+<pre>
+    &lt;applet code="Dgclock.class" <b>width=89 height=20</b>&gt;
+</pre>
+That is, when you do not want to display the frame, you must use the
+<b>width</b> and <b>height</b> as above.
+<p>
+If you move the mouse cursor on the clock while it is running, the version
+information is displayed on netscape's status area. If you do not want this,
+use:
+</p><pre>
+    <font color="brown">
+    &lt;param name="ShowVersion" value="no"&gt;
+    </font>
+</pre>
+</blockquote>
+<h3>Acknowledgment</h3>
+<blockquote>
+Inspired by <a href="../unavailable/23a6de21778dd4.html">World
+TIme</a> applet and
+<a href="../unavailable/ae1730c1f2738c.html">Clock2</a>
+applet.
+</blockquote>
+<p>
+</p><h3>Copyright</h3>
+<blockquote>
+This applet is in the public domain. Do anything you like with it. It would
+be nice but not required if you give me the credit for it.<b>If you are using
+this applet, please let me know.</b>
+Bug reports, suggestions are always welcome!
+</blockquote>
+<p>
+</p><h3>Frequently Asked Question(s)</h3>
+<blockquote>
+<b>
+<font color="brown">
+1. I followed your instructions exactly, but the clock does not show up.
+Instead it shows a solid rectangle. What's wrong?
+</font>
+</b>
+<p>
+Several things may cause this problem:
+</p><ol>
+<li> File permission problem. Change the mode of the files accordingly:
+<pre>
+    chmod 644 Dgclock.class
+    chmod 755 jimages
+    chmod 644 jimages/*.gif
+</pre>
+If you see the message
+<font color="brown">
+    Loading images...please wait!
+</font>
+at netscape's status message area for ever, this is an indication that the
+image loading is failed possibly because it could not find the images or
+the images are not readable.
+<p>
+</p></li><li> You are using an old version of web browser. This is a 1.0 applet, 
+therefore, you must have netscape 2.0+.
+<p>
+</p></li><li> Your unzip'ng software did not create the <b>jimages</b>
+directory for images,
+instead it copied all digit images to current working directory. This applet
+expects the digit images in <b>jiamges</b> directory.
+</li></ol>
+</blockquote>
+Enjoy!
+<hr>
+<font size="-1">
+Muhammad A Muquit
+<br>
+SEMCOR, Inc.
+<br>
+Warminster, PA 18974
+</font>
+<br>
+<br>
+<font color="brown">Last updated: March 16, 1996.</font>
+<center>
+<a href="../unavailable/d726a898018a56.html">
+<span class="restore-missing" alt="">[Unrecovered image: http://warm.semcor.com/cgi-bin/Count22.cgi?df=javac.dat|dd=D|ft=2|pad=F]</span></a>
+</center>
+<p>
+<a href="../unavailable/0f9d5f9429c923.html"><b>[Homepage]</b></a>
+</p></div><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../index.html">Home</a><a href="../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Original: http://odiya.org/orissa/Dgclock.html<br>Source: MyCommunity/odiya.org/orissa/Dgclock.html</p><p><a href="../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body>
+</html>

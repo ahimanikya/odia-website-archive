@@ -1,0 +1,32 @@
+body {
+	background:#ffffff;
+}
+.event_block {
+	border:0px solid green;
+	margin:0;
+	height: 100%;
+	padding:2px;
+	font: normal 14px Verdana, Arial;
+	float:left;
+}
+.event_header {
+	font: bold large Verdana, Arial;
+	padding-bottom:10px;
+}
+
+.event_location {
+	float:left;
+	padding-top:10px;
+}
+.event_intro {
+	float:left;
+	width:600px;
+	border:0px solid red;
+}
+.event_image {
+	float:left;
+}
+
+.clear {
+    clear: both;
+}
