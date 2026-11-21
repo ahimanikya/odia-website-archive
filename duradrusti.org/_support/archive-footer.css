@@ -1,0 +1,10 @@
+/* Restoration navigation stays below the historical page. */
+.archive-footer{clear:both;box-sizing:border-box;max-inline-size:900px;margin:32px auto 0;padding:18px 20px 24px;border-top:1px solid #ddd;background:transparent;color:#555;font:14px/1.6 Arial,sans-serif;text-align:center}
+.archive-footer nav{display:flex;flex-wrap:wrap;flex-wrap:balance;justify-content:center;gap:6px 20px}
+.archive-footer a,.archive-footer a:visited{font:inherit!important;color:#45545b!important;text-decoration:underline!important;text-underline-offset:3px}
+.archive-footer a:hover{color:#222!important}
+.archive-footer a:focus-visible{outline:2px solid #8b3536;outline-offset:4px}
+.archive-footer p{margin:10px 0 0;font:inherit;color:inherit}
+.archive-footer .archive-source{margin:10px 0 0;padding:0;background:transparent;color:inherit;font:inherit;text-align:center}
+.archive-footer .archive-source .restore-note{padding:10px 0;margin:0;background:transparent;color:inherit;font:inherit}
+.archive-footer .archive-source summary{cursor:pointer}
