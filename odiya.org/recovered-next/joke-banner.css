@@ -1,0 +1,60 @@
+/* Original panels/messages/settings; modern approximations of unavailable Java effects. */
+.restored-joke-banner{position:relative;width:270px;height:320px;background:white;overflow:hidden;text-align:center}
+.restored-joke-banner .joke-panel{position:absolute;inset:0;opacity:0;pointer-events:none}
+.restored-joke-banner .joke-panel:first-child{opacity:1}
+.restored-joke-banner img{display:block;width:270px;height:320px}
+.restored-joke-banner .joke-message{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:flex-start;font-family:Arial,sans-serif;font-weight:normal;line-height:normal;white-space:pre-line;overflow:hidden}
+.banner-motion>summary{cursor:pointer;list-style:none;text-decoration:underline}
+.banner-motion .pause-label,.banner-motion[open] .play-label{display:none}
+.banner-motion[open] .pause-label{display:inline}
+@media(prefers-reduced-motion:reduce){.banner-motion{display:none}}
+
+@keyframes joke-panel-1{0%,0.00000%{opacity:0}0.00100%,19.67113%{opacity:1}19.67213%,100%{opacity:0}}
+@keyframes joke-message-1{0%,100%{opacity:0;transform:scale(.01)}0.00100%{opacity:0;transform:scale(.01)}3.27869%,16.39344%{opacity:1;transform:none}19.67113%{opacity:0;transform:scale(.01)}}
+@media(prefers-reduced-motion:no-preference){
+.restored-joke-banner .joke-panel-1{animation:joke-panel-1 30.5s linear infinite;animation-play-state:paused}
+.restored-joke-banner .joke-panel-1 .joke-message{animation:joke-message-1 30.5s linear infinite;animation-play-state:paused}
+body:has(#joke-banner-motion[open]) .restored-joke-banner .joke-panel-1,body:has(#joke-banner-motion[open]) .restored-joke-banner .joke-panel-1 .joke-message{animation-play-state:running}
+}
+@keyframes joke-panel-2{0%,19.67213%{opacity:0}19.67313%,31.14654%{opacity:1}31.14754%,100%{opacity:0}}
+@keyframes joke-message-2{0%,100%{opacity:0;transform:translateY(100%)}19.67313%{opacity:0;transform:translateY(100%)}22.95082%,27.86885%{opacity:1;transform:none}31.14654%{opacity:0;transform:translateY(-100%)}}
+@media(prefers-reduced-motion:no-preference){
+.restored-joke-banner .joke-panel-2{animation:joke-panel-2 30.5s linear infinite;animation-play-state:paused}
+.restored-joke-banner .joke-panel-2 .joke-message{animation:joke-message-2 30.5s linear infinite;animation-play-state:paused}
+body:has(#joke-banner-motion[open]) .restored-joke-banner .joke-panel-2,body:has(#joke-banner-motion[open]) .restored-joke-banner .joke-panel-2 .joke-message{animation-play-state:running}
+}
+@keyframes joke-panel-3{0%,31.14754%{opacity:0}31.14854%,42.62195%{opacity:1}42.62295%,100%{opacity:0}}
+@keyframes joke-message-3{0%,100%{opacity:0;transform:scale(3)}31.14854%{opacity:0;transform:scale(3)}34.42623%,39.34426%{opacity:1;transform:none}42.62195%{opacity:0;transform:scale(1)}}
+@media(prefers-reduced-motion:no-preference){
+.restored-joke-banner .joke-panel-3{animation:joke-panel-3 30.5s linear infinite;animation-play-state:paused}
+.restored-joke-banner .joke-panel-3 .joke-message{animation:joke-message-3 30.5s linear infinite;animation-play-state:paused}
+body:has(#joke-banner-motion[open]) .restored-joke-banner .joke-panel-3,body:has(#joke-banner-motion[open]) .restored-joke-banner .joke-panel-3 .joke-message{animation-play-state:running}
+}
+@keyframes joke-panel-4{0%,42.62295%{opacity:0}42.62395%,59.01539%{opacity:1}59.01639%,100%{opacity:0}}
+@keyframes joke-message-4{0%,100%{opacity:0;transform:scale(.01)}42.62395%{opacity:0;transform:scale(.01)}45.90164%,55.73770%{opacity:1;transform:none}59.01539%{opacity:0;transform:scale(.01)}}
+@media(prefers-reduced-motion:no-preference){
+.restored-joke-banner .joke-panel-4{animation:joke-panel-4 30.5s linear infinite;animation-play-state:paused}
+.restored-joke-banner .joke-panel-4 .joke-message{animation:joke-message-4 30.5s linear infinite;animation-play-state:paused}
+body:has(#joke-banner-motion[open]) .restored-joke-banner .joke-panel-4,body:has(#joke-banner-motion[open]) .restored-joke-banner .joke-panel-4 .joke-message{animation-play-state:running}
+}
+@keyframes joke-panel-5{0%,59.01639%{opacity:0}59.01739%,75.40884%{opacity:1}75.40984%,100%{opacity:0}}
+@keyframes joke-message-5{0%,100%{opacity:0;transform:translateX(-100%)}59.01739%{opacity:0;transform:translateX(-100%)}62.29508%,72.13115%{opacity:1;transform:none}75.40884%{opacity:0;transform:scale(.01)}}
+@media(prefers-reduced-motion:no-preference){
+.restored-joke-banner .joke-panel-5{animation:joke-panel-5 30.5s linear infinite;animation-play-state:paused}
+.restored-joke-banner .joke-panel-5 .joke-message{animation:joke-message-5 30.5s linear infinite;animation-play-state:paused}
+body:has(#joke-banner-motion[open]) .restored-joke-banner .joke-panel-5,body:has(#joke-banner-motion[open]) .restored-joke-banner .joke-panel-5 .joke-message{animation-play-state:running}
+}
+@keyframes joke-panel-6{0%,75.40984%{opacity:0}75.41084%,86.88425%{opacity:1}86.88525%,100%{opacity:0}}
+@keyframes joke-message-6{0%,100%{opacity:0;transform:scale(.01)}75.41084%{opacity:0;transform:scale(.01)}78.68852%,83.60656%{opacity:1;transform:none}86.88425%{opacity:0;transform:scale(.01)}}
+@media(prefers-reduced-motion:no-preference){
+.restored-joke-banner .joke-panel-6{animation:joke-panel-6 30.5s linear infinite;animation-play-state:paused}
+.restored-joke-banner .joke-panel-6 .joke-message{animation:joke-message-6 30.5s linear infinite;animation-play-state:paused}
+body:has(#joke-banner-motion[open]) .restored-joke-banner .joke-panel-6,body:has(#joke-banner-motion[open]) .restored-joke-banner .joke-panel-6 .joke-message{animation-play-state:running}
+}
+@keyframes joke-panel-7{0%,86.88525%{opacity:0}86.88625%,99.99900%{opacity:1}100.00000%,100%{opacity:0}}
+@keyframes joke-message-7{0%,100%{opacity:0;transform:translateX(100%)}86.88625%{opacity:0;transform:translateX(100%)}90.16393%,96.72131%{opacity:1;transform:none}99.99900%{opacity:0;transform:scale(.01)}}
+@media(prefers-reduced-motion:no-preference){
+.restored-joke-banner .joke-panel-7{animation:joke-panel-7 30.5s linear infinite;animation-play-state:paused}
+.restored-joke-banner .joke-panel-7 .joke-message{animation:joke-message-7 30.5s linear infinite;animation-play-state:paused}
+body:has(#joke-banner-motion[open]) .restored-joke-banner .joke-panel-7,body:has(#joke-banner-motion[open]) .restored-joke-banner .joke-panel-7 .joke-message{animation-play-state:running}
+}

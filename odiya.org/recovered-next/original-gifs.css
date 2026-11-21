@@ -1,0 +1,9 @@
+/* Native GIF bytes remain original; the still is their first frame. */
+.recovered-original-gif{display:inline-block;position:relative;line-height:0}
+.recovered-original-gif .gif-still{display:block}
+.recovered-original-gif .gif-moving{display:none;position:absolute;inset:0}
+.original-gif-motion>summary{cursor:pointer;list-style:none;text-decoration:underline}
+.original-gif-motion .hide-label,.original-gif-motion[open] .show-label{display:none}
+.original-gif-motion[open] .hide-label{display:inline}
+@media(prefers-reduced-motion:no-preference){body:has(#original-gif-motion[open]) .recovered-original-gif .gif-moving{display:block}}
+@media(prefers-reduced-motion:reduce){.original-gif-motion{display:none}}
