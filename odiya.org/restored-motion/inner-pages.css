@@ -1,0 +1,11 @@
+/* Geometry and colours follow the saved buttonMenu applet parameters. */
+.original-button-menu{display:grid;grid-template-columns:repeat(5,1fr);grid-template-rows:repeat(3,1fr);gap:1px;box-sizing:border-box;background:#000;width:550px;height:120px;font-family:Arial,sans-serif;font-weight:bold;font-size:12px;line-height:normal;text-align:center}
+.original-button-menu[style*="--menu-ink:yellow"]{--menu-light:yellow;--menu-dark:#b2b200}
+.original-button-menu>a,.original-button-menu>a:visited{display:flex;align-items:center;justify-content:center;box-sizing:border-box;white-space:nowrap;background:#800000;color:var(--menu-ink,#bfbfbf);border:var(--menu-bevel,3px) solid;border-color:var(--menu-light,white) var(--menu-dark,#858585) var(--menu-dark,#858585) var(--menu-light,white);text-decoration:none;font:inherit;margin:0;padding:0}
+.original-button-menu>a:hover,.original-button-menu>a:focus-visible{color:white;border-color:#b2b2b2 white white #b2b2b2}
+.original-button-menu>a:active{border-color:#858585 white white #858585}
+.original-button-menu>a:focus-visible{outline:2px solid white;outline-offset:-4px}
+.inner-rollover{position:relative;display:inline-block;vertical-align:baseline;line-height:0}
+.inner-rollover>img{display:block}
+.inner-rollover>.inner-rollover-on{position:absolute;inset:0;width:100%;height:100%;opacity:0}
+a:hover .inner-rollover>.inner-rollover-on,a:focus-visible .inner-rollover>.inner-rollover-on{opacity:1}
