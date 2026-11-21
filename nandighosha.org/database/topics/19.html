@@ -1,0 +1,32 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>How to use StringBuffer  “Efficiently”?</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>How to use StringBuffer  “Efficiently”?</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/10.html">Java - Tips Of The Day</a></p><h2>Opening post</h2><p>Asha · 2001-02-13 13:20:05</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">In this tip I thought of focusing on how to use Java API efficiently to
+improve the performance. As many of us know that &amp;#8220;String concatenation via
+the &amp;quot;+&amp;quot; operator is one of the most convenient things to do in Java&amp;#8221;. It is
+also one of the most expensive, in terms of memory and performance if we do
+not use it properly.
+The useful tip we found almost all java performance enhancement article is
+use String- Buffer to concatenate Strings like
+
+        StringBuffer temp = new StringBuffer( );
+        temp.append(&amp;#8220;My name is Asha&amp;#8221;);
+        temp.append(&amp;#8220;I am a Java Develpoer &amp;#8220;);
+        temp.append(myString); -&amp;#224;myString would be holding of  a big Text
+        temp.toString();
+
+Here is the whole point  when the StringBuffer Object is constructed the
+size of the buffer is ALWAYS set to 16 characters so there is Absolutely no
+benefit of  StringBuffer rather more overhead in doubling the buffer size
+and copying the Old data .
+
+I would suggest, initialize approximate size at the Construction of StringBuffer which would give us the real performance.
+
+        StringBuffer temp = new StringBuffer(400 ); -&amp;gt; this is the deal
+        temp.append(&amp;#8220;My name is Asha&amp;#8221;);
+        temp.append(&amp;#8220;I am a Java Develpoer &amp;#8220;);
+        temp.append(myString); -&amp;gt;myString would be holding of  a big Text
+        temp.toString();
+
+
+
+Asha Balasubramanyan
+http://www.ammu.org
+</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 19</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

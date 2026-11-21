@@ -1,0 +1,29 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>How to execute NT system command in Java?</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>How to execute NT system command in Java?</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/10.html">Java - Tips Of The Day</a></p><h2>Opening post</h2><p>Asha · 2001-04-17 18:00:08</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">A direct method or class that will allow you to read NT system properties does not exist. However, it can be done as follows: Write a simple batch command file with a dos command to echo the value of the environment variable to a text file, then read the content of the file using methods from File and FileReader classes.
+
+import java.io.*;
+public class rtl
+{
+   public static void main(String args[])
+   {
+      String command=&amp;#8220;c:\\gp.bat&amp;#8221;;
+        Runtime rt = Runtime.getRuntime();
+      try
+      {
+        rt.exec(cmd);
+      }
+      catch (IOException e)
+      {
+         System.out.println(e);
+      }
+   }
+}
+The file gp.bat
+=======
+echo %PATH% &amp;gt;&amp;gt; path.txt
+
+
+Now, using the File and File Reader classes, you can read the file path.txt and determine the NT system properties.
+
+Asha Balasubramanyan
+http://www.ammu.org
+</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 95</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

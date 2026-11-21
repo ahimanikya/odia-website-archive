@@ -1,0 +1,29 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Some useful Thread terminology</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Some useful Thread terminology</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/10.html">Java - Tips Of The Day</a></p><h2>Opening post</h2><p>Asha · 2001-04-06 14:19:53</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Java makes working with threads relatively straight forward. However, there are situations, or anomalies that can arise due to improper design of a thread-based code. The following provides you with a list of terms and definitions for such situations. 
+
+&lt;u&gt;Thread Deadlock&lt;/u&gt;
+Deadlock occurs when some threads are blocked to acquire resources held by other blocked threads. A deadlock may arise due to a dependence between two or more threads that request resources and two or more threads that hold those resources. 
+In Java, thread deadlock can occur: 
+1. When two threads call Thread.join() on one another. 
+2. When two threads use nested synchronized blocks to lock two objects and the blocks lock the same objects in different order. 
+
+&lt;u&gt;Thread Livelock&lt;/u&gt;
+Livelock occurs when all threads are blocked, or are otherwise unable to proceed due to unavailability of required resources, and the non-existence of any unblocked thread to make those resources available. 
+In Java, thread livelock can occur: 
+1. When all the threads in a program execute Object.wait(0) on an object with zero parameter. The program is live-locked and cannot proceed until one or more threads call Object.notify() or Object.notifyAll() on the relevant objects. Because all the threads are blocked, neither call can be made. 
+2. When all the threads in a program are stuck in infinite loops. 
+
+&lt;u&gt;Thread Starvation&lt;/u&gt;
+Starvation occurs when one thread cannot access the CPU because one or more other threads are monopolizing the CPU. 
+In Java, thread starvation can be caused by setting thread priorities inappropriately. A lower-priority thread can be starved by higher-priority threads if the higher-priority threads do not yield control of the CPU from time to time. 
+
+&lt;u&gt;Thread Thrashing&lt;/u&gt;
+Thrashing occurs when a program makes little-to-no progress because threads perform excessive context switching. This may leave little or no time for the application (or applet) code to execute. 
+
+&lt;u&gt;Thread Death&lt;/u&gt;
+Thread death occurs when the Thread.stop() method is called on a running thread. This causes the virtual machine to throw the ThreadDeath exception and eventually terminate the thread. 
+
+&lt;u&gt;Thread Leak&lt;/u&gt;
+Thread leak occurs when resources are not reclaimed because a thread was created, but not run.
+
+Asha Balasubramanyan
+http://www.ammu.org</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 80</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

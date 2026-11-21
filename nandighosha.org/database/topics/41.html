@@ -1,0 +1,21 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Is it necessary to declare a private method final?</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Is it necessary to declare a private method final?</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/10.html">Java - Tips Of The Day</a></p><h2>Opening post</h2><p>Asha · 2001-02-16 14:07:12</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">In Today&#x27;s tip i can discuss &amp;quot;Where can i really improve the performance using &amp;quot;final&amp;quot; keyword,can i in private methods?
+
+I have seen most of the java performance articles suggest us to declare methods as final to increase the performance or the way you can optimize your code.
+
+The main points i can think of is&lt;ul&gt;
+&lt;li&gt;private methods cannot be overridden by subclasses &lt;/li&gt;
+&lt;li&gt;final methods cannot be overridden by subclasses &lt;/li&gt;
+&lt;li&gt;final methods allow for faster code when compiled with optimizations on (javac -O) &lt;/li&gt;
+&lt;/ul&gt;
+
+Why not declare all private methods as final? 
+Subclasses may not override private methods by design. Furthermore, the final keyword tells the compiler that subclasses may not override a method regardless of its access level. Since private already implies that a subclass may not override a method, declaring a private method to be final is redundant. Making the declaration won&#x27;t cause problems, but it won&#x27;t accomplish anything either, since privates are automatically considered final. 
+So the answer is, there is no need to declare private methods as final. 
+
+Do most compilers treat private methods as final? 
+yes, all compilers will treat private methods as final. 
+
+Please note my discussion only applies to methods not members(Private final member variables are treated differently )
+
+Asha Balasubramanyan
+http://www.ammu.org</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 41</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

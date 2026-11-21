@@ -1,0 +1,297 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>How to use Log4J ? Walk thru the working sample...</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>How to use Log4J ? Walk thru the working sample...</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/4.html">General</a></p><h2>Opening post</h2><p>administrator · 2001-02-12 17:45:36</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">How to use Log4J ?
+==============
+
+Create the instance of MyLog class and pass the Configfile path and class name (name you are going to use this), as shown:
+ 
+ package com.test;
+ public class xyz {  
+           MyLog log = MyLog.getInstance(&amp;quot;configfile path&amp;quot;,xyz.class.getName());           
+  }
+
+ Now you can use instance of MyLog.method name to log the messages, like:
+
+        log.warn(&amp;quot;Warning Messages&amp;quot;);
+
+ the output of this log will be :
+
+ &amp;#8220;2001-01-11 20:18:54,30710 ERROR com.test.xyz  - Warning Message&amp;#8221;
+
+* The only disadvantage of this method is while creating the instance of MyLog; you have to pass the confilefile path and class name, every time.
+* You can get rid of passing the config file path every time, if you follow the following alternate way of   creating the MyLog instance
+
+Alternate Way
+==========
+
+Now lets use a Singleton class called ConfigManager , which, creates the instance of MyLog, so you can  create the instance of this ConfigManager as shown:
+
+   ConfigManager configMgr = ConfigManager.getInstance();
+
+ -Now we can use all the static methods wrapped in MyLog as,
+
+   	configMgr.log.info(&amp;quot;Information Message&amp;quot;);
+
+ -The output of this log will be:
+
+&amp;#8220; 2001-01-12 16:13:44,47260   WARN com.test.log.ConfigManager-Information Message&amp;#8221;
+
+
+
+
+
+
+Sample Files
+=========
+
+1. config.lcf
+=========
+
+# Title:        cofig.lcf&amp;lt;p&amp;gt;
+# Description:  This is configuration file for logging module which is
+#                        being referenced in LogClient.
+# 
+# Copyright:    Copyright (c) Ahimanikya Satapathy&amp;lt;p&amp;gt;
+# @author :      Ahimanikya Satapathy
+
+# An  log4j configuration file that outputs to System.out corresponging to Appender A1.
+# The output info consists of date in ISO8601 format,relative time, priority,
+# thread name,category name,  and the message  in  that order.
+
+# The root category uses the appender called A1 and A2. 
+# The root category assumes the default priority for root
+# which is DEBUG in log4j. The root category is the only category that
+# has a default priority. All other categories do not have a default
+# priority. in which case the priority is inherited from the
+# hierarchy.
+
+#to display the details of the config file settings
+#log4j.configDebug=true 
+
+log4j.rootCategory=DEBUG, A1,A2,A3
+
+# A1 is set to be a FileAppender which outputs to System.out. 
+
+log4j.appender.A1=org.apache.log4j.FileAppender
+log4j.appender.A1.File=System.out
+
+# A1 uses PatternLayout.
+
+log4j.appender.A1.layout=org.apache.log4j.PatternLayout
+
+# The conversion pattern uses format specifiers. 
+
+log4j.appender.A1.layout.ConversionPattern=%d %-4r %-5p [%t]%c (%3x) - %m%n
+
+#Set options for appender named &amp;quot;A2&amp;quot; 
+# A2 should be a RollingFileAppender, with maximum file size of 1 MB 
+# using at most one backup file. A2&#x27;s layout is TTCC, using the
+# ISO8061 date format with context printing enabled. 
+ log4j.appender.A2=org.apache.log4j.RollingFileAppender 
+ log4j.appender.A2.File=logfile
+ log4j.appender.A2.MaxFileSize=1MB 
+ log4j.appender.A2.MaxBackupIndex=1 
+ log4j.appender.A2.layout=org.apache.log4j.TTCCLayout 
+ log4j.appender.A2.layout.ContextPrinting=enabled 
+ log4j.appender.A2.layout.DateFormat=ISO8601 
+
+ log4j.appender.A2.layout=org.apache.log4j.PatternLayout
+ log4j.appender.A2.layout.ConversionPattern=%d%-4r %-5p [%t]%c (%3x) - %m\n 
+
+
+# Set options for appender named &amp;quot;A3&amp;quot;. 
+# Appender &amp;quot;A3&amp;quot; will be a SyslogAppender
+ 
+log4j.appender.A3=org.apache.log4j.net.SyslogAppender 
+
+# The syslog daemon resides on 172.20.2.98 ****change this *****
+ log4j.appender.A3.SyslogHost= 172.20.2.98
+
+# A3&#x27;s layout is a PatternLayout, using the conversion pattern 
+# %r %-5p %c{2} %M.%L %x - %m\n. Thus, the log output will 
+# include the date in ISO8601 format,
+# the relative time since the start of the application in 
+# milliseconds, followed by the priority of the log request, 
+# followed by the two rightmost components of the category name, 
+# followed by the callers method name, followed by the line number, 
+# the nested disgnostic context and finally the message itself. 
+# Refer to the documentation of PatternLayout for further information 
+# on the syntax of the ConversionPattern key.
+ 
+log4j.appender.A3.layout=org.apache.log4j.PatternLayout
+log4j.appender.A3.layout.ConversionPattern=%d%-4r %-5p[%t] %c(%3x) - %m\n 
+
+2. ConfigManager.java
+====================
+
+/**
+ * Title:        ConfigManager&amp;lt;p&amp;gt;
+ * Description:  This class is sigleton and Thread safe which 
+ *               is used to get Instance of MyLog by passing
+ *               the configfile .All user can get instance of 
+ *               ConfigManager and use all the static methods
+ *               wrapped in MyLog.
+ * Copyright:    (c) Ahimanikya Satapathy&amp;lt;p&amp;gt;
+ * @author Ahimanikya Satapathy
+**/
+
+package com.test.log;
+
+import org.apache.log4j.*;
+import org.apache.log4j.net.*;
+import java.util.*;
+import javax.mail.Multipart;
+
+public class ConfigManager {
+
+    private static ConfigManager instance = null;
+    public static MyLog log =null;
+
+    protected ConfigManager(){}
+
+    public static ConfigManager getInstance(){
+       if (instance == null) {
+         synchronized(ConfigManager.class) {
+         if (instance == null) {
+           instance = new ConfigManager();
+           // use the full qualified path for 
+           // configuration file for (config.lcf)
+           log = MyLog.getInstance(&amp;quot;C:\\test\\log\\config.lcf&amp;quot;,
+ConfigManager.class.getName());
+          }
+       }
+     }
+     return instance;
+ }
+
+}
+
+3. LogClient.java
+=============
+
+/**
+ * Title:        LogClient&amp;lt;p&amp;gt;
+ * Description:  This is Client which demonstrate how to use logging module
+ *               It demonstrate how to use static methods of MyLog class
+ *               
+ * Copyright:    (c) Ahimanikya Satapathy&amp;lt;p&amp;gt;
+ * @author 	     Ahimanikya Satapathy
+ *
+ **/
+package com.test.log;
+
+import org.apache.log4j.*;
+import org.apache.log4j.net.*;
+import java.util.*;
+
+
+public class LogClient {
+
+      public static void main(String[] args) {
+
+        ConfigManager configManager = ConfigManager.getInstance();
+        // configManager.log.setPriority(Priority.INFO);
+        NDC.push(&amp;quot;LogClient Thread&amp;quot;);
+
+        configManager.log.info(&amp;quot;Entering the info method of  Application ...#..$&amp;quot;);
+        configManager.log.error(&amp;quot;Entering the error method of  Application&amp;quot;);
+        configManager.log.warn(&amp;quot;Entering the warn method of  Application&amp;quot;);
+        configManager.log.debug(&amp;quot;Entering the debug method of  Application&amp;quot;);
+
+        //The emergency method will invoke the FATAL priority which is  above the ERROR priority.
+        // configManager.log.emergency(&amp;quot;Entering the emergency with FATAL priority.&amp;quot;);
+
+      }
+}
+
+
+4. MyLog.java ( Wrapper for Log4j )
+==================================
+
+/**
+ * Title:        MyLog&amp;lt;p&amp;gt;
+ * Description:  This class wraps all the static 
+ *               methods required for logging module
+ * Copyright:    (c) Ahimanikya Satapathy&amp;lt;p&amp;gt;
+ * @author 	     Ahimanikya Satapathy 
+ *
+ **/
+
+package com.test.log;
+
+import org.apache.log4j.*;
+import java.util.*;
+
+public class MyLog {
+
+    private static MyLog instance = null;
+    private static Category cat   =  null;
+
+    public static final int FILE     = 470;
+    public static final int SYSLOG   = 471;
+    public static final int PRINTER  = 472;
+    public static final int CONSOLE  = 473;
+    public static final int DATABASE = 474;
+
+    protected MyLog() { }
+
+    public static MyLog getInstance() {
+        if (instance == null) {
+            instance = new MyLog();
+        }
+        return instance;
+    }
+
+    public static MyLog getInstance(String fileName,String objName) {
+        if (instance == null) {
+            instance = new MyLog();
+            PropertyConfigurator.configure(fileName);
+            cat = Category.getInstance(objName);
+        }
+        return instance;
+    }
+
+    public static void doConfigure(String fileName, String objName) {
+        PropertyConfigurator.configure(fileName);
+        cat = Category.getInstance(objName);
+    }
+
+    public static void setPriority(Priority prot) {
+            cat.setPriority(prot);
+    }
+
+    public static void addAppenderMode(Appender appender) {
+            cat.addAppender(appender);
+    }
+
+    public static void debug(String Message)    {
+        if(cat.isDebugEnabled())  {
+           cat.debug(Message);
+        }
+    }
+
+    public static void info(String Message) {
+        if(cat.isInfoEnabled())  {
+           cat.info(Message);
+        }
+    }
+
+    public static void warn(String Message) {
+        cat.warn(Message);
+    }
+
+    public static void error(String Message) {
+        cat.error(Message);
+    }
+
+    public static void emergency(String Message){
+        cat.fatal(Message);
+    }
+}
+
+
+==========
+
+Save all the above .java files along with .lcf file in one given directory, compile all the java file , make sure the out put directory is there in your classpath and then run the test client (java com.test.log.LogClient)
+
+
+Ahimanikya Satapathy
+http://www.ammu.org/kuku</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 9</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

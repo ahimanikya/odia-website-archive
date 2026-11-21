@@ -1,0 +1,26 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Log4j  for Java offers fast, efficient log service</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Log4j  for Java offers fast, efficient log service</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/4.html">General</a></p><h2>Opening post</h2><p>administrator · 2001-02-12 17:03:47</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Log4j API for Java offers fast, efficient log services and delivers control over logging.
+
+Log4j, an open source project, allows developers to control which log statements are output with arbitrary granularity. It&#x27;s fully configurable at runtime by using external configuration files. Best of all, log4j has a gentle learning curve. Beware: judging from user feedback, it is also quite addictive. Project founder Ceki G&amp;#252;lc&amp;#252; describes the log4j API, its unique features, and its design rationale. 
+
+With log4j it is possible to enable logging at runtime without modifying the application binary. The log4j package is designed so that these statements can remain in shipped code without incurring a heavy performance cost. Logging behavior can be controlled by editing a configuration file, without touching the application binary.
+
+Logging equips the developer with detailed context for application failures. On the other hand, testing provides quality assurance and confidence in the application. Logging and testing should not be confused. They are complementary. When logging is wisely used, it can prove to be an essential tool.
+
+One of the distinctive features of log4j is the notion of inheritance in categories. Using a category hierarchy it is possible to control which log statements are output at arbitrarily fine granularity but also great ease. This helps reduce the volume of logged output and minimize the cost of logging.
+
+The target of the log output can be a file, an OutputStream, a java.io.Writer, a remote log4j server, a remote Unix Syslog daemon or even a NT Event logger.
+
+On a 233 MHz ThinkPad running JDK 1.1.7B, it costs about 46 nano-seconds to determine if that statement should be logged or not. Actual logging is also quite fast, ranging from 79 micro-seconds using the SimpleLayout, 164 micro-seconds using the TTCCLayout and around a millisecond when printing exceptions. The performance of the PatternLayout is almost as good as the dedicated layouts, except that it is a lot more flexible.
+
+Log4J Web Site : http://jakarta.apache.org/log4j/doc/index.html
+
+Short introduction to log4j: 
+http://jakarta.apache.org/log4j/doc/manual.html
+
+Download the complete package including full source code: 
+http://jakarta.apache.org/log4j/doc/download.html
+
+
+
+Ahimanikya Satapathy
+http://www.ammu.org/kuku</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 8</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

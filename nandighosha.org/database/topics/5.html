@@ -1,0 +1,38 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Storing database result sets</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Storing database result sets</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/2.html">Java - Basic</a></p><h2>Opening post</h2><p>administrator · 2001-02-12 02:36:56</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Question: Which is the preferred collection class to use for storing
+database result sets?
+
+Answer :
+
+When retrieving database results, the best collection implementation to 
+use
+is the LinkedList. The benefits include:
+	* Retains the original retrieval order
+	* Has quick insertion at the head/tail
+	* Doesn&#x27;t have an internal size limitation like a Vector
+	  where when the size is exceeded a new internal structure is created
+	  (or you have to find out size beforehand to size properly)
+	* Permits user-controlled synchronization unlike the pre-Collections 
+Vector
+	  which is always synchronized
+
+Basically:
+
+ResultSet result = stmt.executeQuery(&amp;quot;...&amp;quot;);
+List list = new LinkedList();
+while(result.next()) {
+  list.add(result.getString(&amp;quot;col&amp;quot;));
+}
+
+If there are multiple columns in the result set, you&#x27;ll have to combine 
+them
+into their own data structure for each row. Arrays work well for that 
+as you
+know the size, though a custom class might be best so you can convert 
+the
+contents to the proper type when extracting from databse, instead of 
+later.
+
+
+
+Ahimanikya Satapathy
+http://www.ammu.org/kuku</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 5</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

@@ -1,0 +1,50 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Java performance tuning tips</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Java performance tuning tips</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/10.html">Java - Tips Of The Day</a></p><h2>Opening post</h2><p>Asha · 2001-05-22 12:07:57</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">
+With java becoming more popular than anything else in the IT industry, people are becoming increasingly aware of its shortcomings. One of them is its performance. Since it is object-oriented, good coding practices go a long way in improving the performance of your java application. Here are a few hints in that direction. 
+
+1. Use Inheritance and Polymorphism with interfaces to improve code reuse. For eg. Connection interface for JDBC related stuff which isolates JDBC driver implementations. 
+
+2. Use buffering when writing to and reading from files &amp; streams. Avoid writers/readers if you are dealing with only ASCII characters. You can use streams instead, which are faster. Avoid premature flushing of buffers. 
+
+3. Recycle objects wherever possible. It is cheaper than creating new objects each time. 
+
+4. Factor out constant computations from loops. In case of Servlets, push one time computations into the init() method. 
+
+5. Strings 
+
+5a. Use StringBuffer when dealing with mutable strings especially when there is a lot of string concatenations. If possible, try to initialize the StringBuffer with proper size. 
+
+5b. Don&#x27;t waste your time converting usage of String to StringBuffer in case of appending String constants, since the compiler will do it for you. 
+
+5c. Comparison of two string objects is faster if they differ in length. 
+
+5d. Avoid converting Strings to bytes and back. 
+
+5e. Be careful while using StringTokenizer. Write your own if your delimiter is a character or your delimiter is a string &amp; there is a chance of a part of it occuring in the string itself. 
+
+5f. Use charAt() instead of StartsWith() in case you are looking for a single character within a String. 
+
+6. Avoid creating extra objects. Always try to minimize the number of objects you create in your java programs. 
+
+7. Don&#x27;t trace trivial methods. 
+
+8. Avoid premature object creation. Creation should be as close to the actual place of use as possible. 
+
+9. Avoid initializing twice. 
+
+10.Don&#x27;t try to zero out buffer contents at all. It is never required. 
+
+11.Purge obsolete code every now and then (to improve readability). This may be the result of code modifications over a period of time, which would have resulted in large chunks of commented code. 
+
+12.Be careful about the order of evaluation of expressions with OR and AND conditions. I case of OR, try to place conditions which have greater probability of evaluating to TRUE first, whereas in case of AND, place conditions which have greater probability of evaluating to FALSE first. 
+
+13.Use ArrayList in case you don&#x27;t need your operations on Vector to be synchronized. The reason being all the methods in Vector are synchronized, by default. 
+
+14.Minimize JNI calls in your code. 
+
+15.Minimize calls to Date and related classes. 
+
+Contents provided by : http://www.javaperformancetuning.com/tips.shtml
+
+Asha Balasubramanyan
+http://www.ammu.org
+</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 185</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

@@ -1,0 +1,25 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Which Integer statement works best?</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Which Integer statement works best?</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/10.html">Java - Tips Of The Day</a></p><h2>Opening post</h2><p>Asha · 2001-02-15 13:11:09</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Today&#x27;s tip I am curious to discuss about the performance of following two statements?
+
+	(1) &lt;i&gt; Integer.valueOf(&amp;quot;7&amp;quot;).intValue();&lt;/i&gt; 
+	(2) &lt;i&gt; Integer.parseInt(&amp;quot;7&amp;quot;);&lt;/i&gt; 
+
+This is one of my favorite java coding level performance enhancement. 
+
+Let&#x27;s consider the first statement and decompose it a bit,
+&lt;i&gt; 
+	Integer temp_integer = Integer.valueOf(&amp;quot;7&amp;quot;);
+	int temp_int = temp_integer.intValue(); 
+&lt;/i&gt; 
+
+Breaking the code helps me to find out what&#x27;s going on: when you call &lt;i&gt; Integer.valueOf(&amp;quot;7&amp;quot;); &lt;/i&gt; --&amp;gt; Integer parses String &amp;quot;7&amp;quot; and uses the parsed value to instantiate and initialize an Integer instance. &lt;i&gt; temp_integer.intValue();&lt;/i&gt;  retrieve int value from the instance.
+
+There is no need to parse 2nd statement &lt;i&gt; Integer.parseInt(&amp;quot;7&amp;quot;);&lt;/i&gt; 
+
+The only difference between the two lines is that the first example instantiates an extra Integer instance.Object instantiation can be expensive for you. But if you needed to use the Integer instance later then be sure to use &lt;i&gt; valueOf()&lt;/i&gt; .
+
+
+
+
+
+Asha Balasubramanyan
+http://www.ammu.org</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 36</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

@@ -1,0 +1,34 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Differences between interface &amp;  abstract class</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Differences between interface &amp;  abstract class</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/2.html">Java - Basic</a></p><h2>Opening post</h2><p>administrator · 2001-03-06 14:13:42</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">&lt;h3&gt;What are the differences between an interface and an abstract class? &lt;/h3&gt;
+
+Some use a semantic distinction: an abstract superclass models the &amp;quot;is&amp;quot; relationship, while an interface models the &amp;quot;has&amp;quot; relationship. The rule would be, if it&#x27;s a subtype, inherit; otherwise, implement. 
+
+But, in the absence of real-world characteristics to distinguish the objects from their properties and parents, that becomes a circular argument. In this case, you have to look at the practical differences in Java (compared with C++). 
+
+Most differences between interfaces and abstract classes stem from three characteristics: 
+&lt;ul&gt;
+&lt;li&gt;	Both define method signatures that a derived class will have. &lt;/li&gt;
+&lt;li&gt;	An abstract class can also define a partial implementation. &lt;/li&gt;
+&lt;li&gt;	A class can implement many interfaces, but inherit from only one class. &lt;/li&gt;
+&lt;/ul&gt;
+
+In greater detail, these topics are: 
+
+	&lt;b&gt;Method signatures&lt;/b&gt; Both interfaces and abstract classes permit one to treat the derived-type class as the derived-from-type class. Both define a set of available methods in a way that can be enforced by the type-checking mechanism. This is typically used to permit different (derived) types to behave in the same way (as what they are derived from - i.e., they all support particular methods). For example, all java.* types can be printed as Strings because Object, the superclass of all java.* types, has a toString() method. Similarly, all types that implement the Observer interface can be passed an Observable to signal when an event has occurred. This permits an algorithm or service to operate on different (derived) types as if they were the same (derived-from) type. 
+
+This mechanism supports not only polymorphism (one object treated as another), but differentiation. In either case, the (derived) types can implement the method in the way appropriate to that type. However, you&#x27;re not likely to override inherited functionality, but you must implement interface methods, so if you expect significant differentiation, then an interface might be warranted. 
+
+Finally, this mechanism supports a weak variant of access control. Only inherited methods are available to callers who only have a reference to the superclass or interface type. It&#x27;s weak because they can attempt a narrowing cast if they know their target type. Nonetheless, it reduces some complexity. 
+
+	&lt;b&gt;Inheriting&lt;/b&gt; implementation Inheriting an implementation is useful where the code should be shared. This happens where derived types vary the functionality only a little bit, or where a complex set of method interfaces can through mutual reference be implemented with relatively few methods that can be implemented by derived types. You can also reuse code by having your class use or keep an object of another type that implements that code, but that doesn&#x27;t permit your callers to treat you in a particular way. To both &amp;quot;get&amp;quot; functionality and to be treated &amp;quot;as&amp;quot; the superclass are the essentials of the type/subtype relationship.
+ 
+	&lt;b&gt;Java&#x27;s rule of single inheritance&lt;/b&gt; Java differs from C++ in permitting only single inheritance. This makes for some difficult choices, if you would like to share combinations of inherited functionality and polymorphism from more than one source. However, it does reinforce the notion of inheritance as a subtyping (is) relationship, and implicitly that type relationships form a tree rather than a network. 
+
+Other differences to consider: 
+&lt;ul&gt;
+&lt;li&gt;	Abstract class implementations may include fields &lt;/li&gt;
+&lt;li&gt;	Interfaces may include final data members &lt;/li&gt;
+&lt;li&gt;	It is slightly slower to call an implemented method via an interface reference. There is an even smaller penalty for calling a superclass method via a subclass reference (i.e., where the subclass does not override the method). There is almost no penalty for calling a subclass method via a superclass reference. (All are compared to a direct method call, i.e., calling the derived class method via a derived class reference).&lt;/li&gt;
+&lt;/ul&gt;
+
+Ahimanikya Satapathy
+http://www.ammu.org/kuku</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 54</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

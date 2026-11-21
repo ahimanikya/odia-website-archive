@@ -1,0 +1,57 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Refactoring Technique : Extract Method</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Refactoring Technique : Extract Method</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/3.html">Object Oriented Design</a></p><h2>Opening post</h2><p>Asha · 2001-02-27 21:15:29</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Extract Method is my first choice of doing Refactoring. 
+
+When I see a method that is too long or doing a sequence of operations that needs comment to understand the purpose.I then fragment the code into its own method.
+The benefits could be 
+&lt;ul&gt;
+&lt;li&gt;It increases the chances that other methods can use a method when it is finely grained. &lt;/li&gt;
+&lt;li&gt;When you see the higher level methods ,it does the logic like a sequenece of comments.&lt;/li&gt;
+&lt;li&gt;Overriding is easier&lt;/li&gt;
+&lt;li&gt; It improves clarity&lt;/li&gt;
+&lt;/ul&gt;
+
+for example : 
+&lt;pre id=code&gt;&lt;font face=courier size=2 id=code&gt; 
+public void validateRequest(HttpServeletRequest req,...){
+     isValidMerchantId(...);
+     isSecureKeyValid(...);
+     isCertificateValid(...);
+     ...
+}
+&lt;/font id=code&gt;&lt;/pre id=code&gt; 
+
+Instead of dumming everytthing in one method ,i can fragment the method like this.This increases the flexibility of updating the validation to different implementation logic. I could easily update something in isSecureKeyValid() without affecting the container method. We can say this as method level abstraction.
+
+The key for this refactoring technique is the semantic distance between the method name and the method body.If extracing improves clarity then we can go for this.
+
+In the above example validateRequest(...) method name is having quite a bit semantic distance from the validating a Certificate. validateRequest is more generic so it is good to extract the inner logic and give a good name for that. Like isCertificateValid(...); 
+
+One more common place I use extract method is &amp;quot;printing object state&amp;quot;. This would be helpful to debug the object state when you invoke some operations on that.Write a method called displayAll() and print all the members of the object. call this method in any of the business methods(operations).e.g
+
+&lt;pre id=code&gt;&lt;font face=courier size=2 id=code&gt; 
+Class Account{
+   private PK acct_id;
+   private Money balance;
+   private long acct_no;
+
+   public Money someBusinessMethod(...){
+          displayAll();
+          // logic here
+   }
+   
+    public boolean moreBusinessMethod(){
+           displayAll();
+           //logic here
+     }
+
+    public void display(){
+        YourLogger.print(acct_id);
+        YourLogger.print(balance.toString());
+        YourLogger.print(acct_no);
+    }
+}
+&lt;/font id=code&gt;&lt;/pre id=code&gt; 
+
+Asha Balasubramanyan
+http://www.ammu.org
+
+Edited by - asha on February 27 2001  9:27:33 PM</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 53</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

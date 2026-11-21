@@ -1,0 +1,100 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Command dispatching in Java</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Command dispatching in Java</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/2.html">Java - Basic</a></p><h2>Opening post</h2><p>administrator · 2001-02-12 18:41:27</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Command dispatching
+
+In C and C++, programmers often use a set of global functions and function pointers to represent a series of commands or operations and then dispatch to them via a table. For example: 
+
+
+
+   #include &amp;lt;stdio.h&amp;gt;
+   
+   void func1() {printf(&amp;quot;func1\n&amp;quot;);}
+   
+   void func2() {printf(&amp;quot;func2\n&amp;quot;);}
+   
+   typedef void (*fp)(void);
+   
+   fp funcs[] = {&amp;amp;func1, &amp;amp;func2, 0};
+   
+   int main()
+   {
+      int i = 0;
+      
+      while (funcs[i])
+         funcs[i++]();
+      return 0;
+   }
+
+
+Java, though, does things differently. It doesn&#x27;t use pointers and doesn&#x27;t have global functions. Instead, Java uses a technique of creating and referencing object instances through which the objects call a method known to be implemented by an object of a given type. 
+
+How does the technique work in practice? Consider this example: 
+
+
+
+interface Action {
+  public void doit();
+}
+
+class func1 implements Action {
+  public void doit() {System.out.println(&amp;quot;func1&amp;quot;);}
+}
+
+class func2 implements Action {
+  public void doit() {System.out.println(&amp;quot;func2&amp;quot;);}
+}
+
+public class call {
+  private static Action alist[] = {
+    new func1(),
+    new func2()
+  };
+
+  public static void main(String args[])
+  {
+    for (int i = 0; i &amp;lt; alist.length; i++)
+      alist[i].doit();
+  }
+
+}
+
+
+In this example, an interface Action is defined, and any class that implements the interface must define a method doit (this notion, by the way, is basic to the meaning of interfaces). Objects of the class can be referred to with a reference to the implemented interface name type, so that a reference of type Action can refer to an object of a class that implements Action. 
+
+In C++ programming Action would be a base class, with func1 and func2 being derived classes, and object manipulation would be performed via a base class pointer. With Java, an Action reference supports a similar manipulation, although Action is not a superclass of func1 and func2. 
+
+The Java technique given here sometimes goes by the name &amp;quot;method wrappers,&amp;quot; and is quite different from the C/C++ approach. There are some tradeoffs, of course, as to which approach works the best in a given situation. 
+
+A second example 
+
+Another example of the method wrappers technique is used fairly often in the Abstract Windowing Toolkit (AWT). Consider the following: 
+
+
+
+import java.awt.*;
+import java.awt.event.*;
+
+public class buttonlistener implements ActionListener {
+
+  public void actionPerformed(ActionEvent e)
+  {
+    System.exit(0);
+  }
+
+  public static void main(String args[])
+  {
+    Frame f = new Frame(&amp;quot;testing&amp;quot;);
+    Button b = new Button(&amp;quot;OK&amp;quot;);
+    b.addActionListener(new buttonlistener());
+    f.add(b);
+    f.pack();
+    f.setVisible(true);
+  }
+
+}
+
+
+The example creates a frame and adds an OK button to it. When the button is selected, the program terminates. An action listener is added to the button. The action listener is guaranteed to implement a method actionPerformed, because an instance of buttonlistener implements the ActionListener interface. Selecting the button results in a call to the action listener for the button. 
+
+Finally, the listeners concept is extremely important in the AWT. The underlying basis of listeners involves implementing specified interfaces and thereby guaranteeing that a listener will be able to respond to a particular known method invocation on it.
+
+Ahimanikya Satapathy
+http://www.ammu.org/kuku</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 15</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

@@ -1,0 +1,37 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Image uploading through servlet</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Image uploading through servlet</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/6.html">Java - GUI/JSP/Servlet</a></p><h2>Opening post</h2><p>Gayatri · 2001-04-08 23:42:28</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Hi,
+ I&#x27;m facing some problems while uploading an image file in servlet.The image&#x27;s picture quality is getting spoiled.Can anyone help me how to regain the resolution of the image.
+thank u
+
+software Programmer</div><section id="reply-10"><h2>Reply 10</h2><p>Asha · 2001-04-11 15:47:09</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">I am not clear about what caused your problem.
+
+Basically, you would have to do the following steps to send the image:
+&lt;i&gt;
+Use response.setContentType(&amp;quot;image/gif&amp;quot;) to tell the browser what the content type of the response is going to be
+
+Use response.setContentLength(...) to tell the browser how many bytes it will be getting (i.e. the length of the image in bytes)
+
+Use response.getOutputStream() to grab an output stream that goes back to the browser
+
+Write the bytes of the image to the output stream
+
+Flush the output stream.&lt;/i&gt;
+
+Check if you are missing any of the above step. Your image tag might be having wrong width and height.
+
+Asha Balasubramanyan
+http://www.ammu.org
+
+Edited by - asha on April 11 2001  3:50:49 PM</div></section><section id="reply-12"><h2>Reply 12</h2><p>rameshs · 2001-04-17 23:49:43</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">There must be some problem in image file. Your image file size be as small as possible.
+At the same time it should look good also.
+Ramesh
+
+Ramesh Chandra Sahoo</div></section><section id="reply-18"><h2>Reply 18</h2><p>Asha · 2001-04-18 22:57:52</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">&lt;BLOCKQUOTE id=quote&gt;&lt;font size=1 face=&quot;Verdana, Arial, Helvetica&quot; id=quote&gt;quote:&lt;hr height=1 noshade id=quote&gt;
+There must be some problem in image file. Your image file size be as small as possible.
+At the same time it should look good also.
+&lt;hr height=1 noshade id=quote&gt;&lt;/BLOCKQUOTE id=quote&gt;&lt;/font id=quote&gt;&lt;font face=&quot;Verdana, Arial, Helvetica&quot; size=2 id=quote&gt;
+
+I guess you are addressing a totally different problem. Here the concern is w/ to Java Servlet uploading an Image. The Image gets corrupted in the process of uploading in Servlet. This is different from a Html page displaying an Image.
+
+Asha Balasubramanyan
+http://www.ammu.org
+</div></section><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 91, 10, 12, 18</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

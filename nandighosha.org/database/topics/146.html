@@ -1,0 +1,61 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Displaying Windows Bitmap (*.bmp) file in VC++</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Displaying Windows Bitmap (*.bmp) file in VC++</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/21.html">Visual C++ Programming</a></p><h2>Opening post</h2><p>skpradhan · 2001-04-29 11:23:42</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Here is an explanation for how to display a bitmap file in VC++. You could display a bitmap file in VC++ in different ways. I have given two sample codes below.
+
+1. You can import the .bmp file to the project resource as a bitmap and use that resource to display it.
+
+This is something like statically displaying a bitmap, as the bitmap itself is included in the project and hence in the application EXE file too.
+
+2. Dynamically loading a bitmap file on-fly, and displaying it.
+
+I have given two sample codes below for both of the above methods. For testing the sample code you can create a simple SDI project in VC++ and copy the codes to OnDraw() function of your view class.
+ 	 
+Sample code for method 1:
+CBitmap bmp;
+//Load the bitmap from resource(ex : IDB_BITMAP1)
+	bmp.LoadBitmap(IDB_BITMAP1);
+	
+//get the bitmap header info
+	BITMAP bm;
+	bmp.GetBitmap(&amp;bm);
+	
+//create a temporary memory DC
+	CDC mdc;
+	mdc.CreateCompatibleDC(pDC);
+	mdc.SelectObject(&amp;bmp);
+
+	//Use CDC::BitBlt() or StretchBlt(); to draw. Here I have used BitBlt() here
+	//If  you want to enhance/reduce the bitmap display use StretchBlt()
+	pDC-&gt;BitBlt(0,0,bm.bmWidth,bm.bmHeight,&amp;mdc,0,0,SRCCOPY);
+	//delete the temp DC when finished
+mdc.DeleteDC();
+
+NOTE: for this method you need to first import your bitmap file to the project resource.
+Sample code for method 2:
+	//load the bitmap directly from file
+	HBITMAP hBitmap = (HBITMAP) ::LoadImage(AfxGetInstanceHandle(),
+	&quot;C:\\winnt\\winnt.bmp&quot;,IMAGE_BITMAP,0,0,LR_LOADFROMFILE);
+
+	//attach it to a CBitmap object 
+	CBitmap bmp;
+	if(hBitmap)
+	{
+		bmp.Attach(hBitmap);
+	}
+	//get the bitmap header info
+	BITMAP bm;
+	bmp.GetBitmap(&amp;bm);
+	
+//create a temporary memory DC
+	CDC mdc;
+	mdc.CreateCompatibleDC(pDC);
+	mdc.SelectObject(&amp;bmp);
+
+	//Use CDC::BitBlt() or StretchBlt(); here i have used BitBlt() here
+	pDC-&gt;BitBlt(0,0,bm.bmWidth,bm.bmHeight,&amp;mdc,0,0,SRCCOPY);
+	//delete the temp DC when finished
+	mdc.DeleteDC();
+
+Regards
+SKP
+
+
+Santanu Kumar Pradhan</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 146</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

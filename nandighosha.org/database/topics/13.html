@@ -1,0 +1,30 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Reference Objects and Garbage Collection</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Reference Objects and Garbage Collection</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/2.html">Java - Basic</a></p><h2>Opening post</h2><p>administrator · 2001-02-12 18:25:28</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Performance is one of the major architectural goal many organization, So I will recommend to use Soft Reference when, you don&#x27;t know in advance whether you are going to reuse the object, but you might reuse it. In this scenario if you keep reference to the object, thinking you might reuse it, could possible that your application will never use it again. in that case you will cause a memory leak. Soft Reference helps the garbage collector to claim if memory in heap is going low, GC claims the oldest one first. The Rule is &amp;quot;Before throwing the OutOfMemoryException, GC has to clean all the Soft Reference &amp;quot;. This way programmers headache is less and at the same time we can achieve an optimization in this regard.
+
+go thru the following link to explore more detail.
+
+http://developer.java.sun.com/developer/technicalArticles/ALT/RefObj/
+
+
+
+Ahimanikya Satapathy
+http://www.ammu.org/kuku</div><section id="reply-1"><h2>Reply 1</h2><p>Asha · 2001-02-14 10:52:09</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Where you can possibly use Reference Objects?
+
+The best place is &amp;quot;caching or Object pooling&amp;quot;.
+
+Let me share one of the place i used.In my project I need to cache processed response and give back to the same similar requests( :) the goal is to increase the performance of my project).Let us assume i am getting 5 concurrent requests and the hits to my project would be 1000 per hour.
+If i cache all the responses in memory then i will end up with out of memory within no time. To solve this problem i wrapped the Response object in reference like this
+
+ SoftReference ref = new SoftReference(response));
+ cache(ref);
+
+This way I am instructing the GC that it can recollect the SoftReferences when it finds shortage of memory.
+
+I only thing is your program should awrae of this cocept. How i did that ?mmm
+If the process do not find the response in cache then i provided alternative way to get the response.It could be processing the real work flow or some other way.
+
+Enough said .
+
+
+Asha Balasubramanyan
+http://www.ammu.org
+</div></section><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 13, 1</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

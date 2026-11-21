@@ -1,0 +1,37 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>What is HRESULT in COM?</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>What is HRESULT in COM?</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/21.html">Visual C++ Programming</a></p><h2>Opening post</h2><p>skpradhan · 2001-02-24 03:44:33</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">COM uses HRESULT for reporting success / failure status of COM methods to clients.
+For example, COM methods like QueryInterface(), CoCreateInstance(), etc.., all returns an HRESULT.
+Well from its name it is obvious to think that an HRESULT is a &amp;quot;Handle to a Result&amp;quot;. But it&#x27;s not, instead of thinking it as a &amp;quot;Handle to Result&amp;quot;, just think it as &amp;quot;Here&#x27;s the Result&amp;quot;.
+So HRESULT is a 32-bit value with a specific format (divided into 3 different fields, shown below) is interpreted as a result.
+
+--------------------------------------------
+|31|30-16(Facility code)|15-0( Return code  |
+--------------------------------------------
+The most significant bit (31st bit) reports whether the function call succeeded or failed.The right most 16 bits contains the return code what the function returs, and the middle 15 bits contains more information about the type and origin of the return code. This is also called as Facility code. It is important to note here that this special design of HRESULT allows to return multiple success as well as multiple failure codes.
+
+By convention, successful return codes begin with an S_, while failure codes begin with an E_.Some of the commonly used return codes are given and described below.
+
+S_OK			: This means function succeeded and a boolean true is returned. But S_OK is defined 0,in contrary to traditional c/c++ programming principles.
+S_FALSE			: This means function failed and a boolean false is returned. But S_FALSE is defined 1.
+E_UNEXPECTED		: Unexpected failure.
+E_NOTIMPL		: Method is not implemented.
+E_NOINTERFACE		: Generally QueryInterface() returns this when a requested interface is not supported by the component.
+E_OUTOFMEMORY		: Component can not allocate required memory.
+E_FAIL			: Unspecified failure.
+
+The facility code identifies the part of the operating system that can return the return code.The currently defined facility codes are listed below: 
+
+FACILITY_WINDOWS		8  
+FACILITY_STORAGE		3
+FACILITY_SSPI			9
+FACILITY_RPC			1
+FACILITY_WIN32			7
+FACILITY_CONTROL		10
+FACILITY_NULL			0
+FACILITY_ITF			4
+FACILITY_DISPATCH		2
+FACILITY_CART			11 
+
+All the facility codes except FACILITY_ITF identify return codes that are defined by COM and are universal. FACILITY_ITF identify return codes that are specific to the interface that returns the code.
+
+
+Santanu Kumar Pradhan</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 46</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

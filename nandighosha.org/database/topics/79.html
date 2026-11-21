@@ -1,0 +1,41 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Identify Atomic and Non-Atomic Operations</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Identify Atomic and Non-Atomic Operations</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/10.html">Java - Tips Of The Day</a></p><h2>Opening post</h2><p>Asha · 2001-04-06 14:09:18</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">In Java, the reading and writing of 32-bit or smaller quantities are guaranteed to be atomic. By atomic we mean each action takes place in one step and cannot be interrupted. Thus, when we have multithreaded applications, the read and write operations are thread-safe and need not be made synchronized. 
+
+For example, the following code is thread safe: 
+&lt;pre id=code&gt;&lt;font face=courier size=2 id=code&gt;
+public class ThreadSafe
+{
+    private int x;
+    public void setX(int x)
+    {
+         this.x = x;
+    }
+}&lt;/font id=code&gt;&lt;/pre id=code&gt;
+
+However, we should be careful to note that the guarentee applies only to reading and writing. For eg. check the following code snippet:
+&lt;pre id=code&gt;&lt;font face=courier size=2 id=code&gt; 
+public void increment()
+{
+        ++this.value;
+}&lt;/font id=code&gt;&lt;/pre id=code&gt;
+ 
+Although the above code looks to be atomic operation, it is not. The above instruction actually consists of three instructions:
+&lt;i&gt;
+1) Read current setting of &#x27;value&#x27;.
+2) Increment the setting.
+3) Write the new setting back.
+&lt;/i&gt;
+Thus, the above code is not thread-safe. To add to the problem, this mistake is not very easily caught during testing due to two reasons: 
+&lt;i&gt;
+1) Threading bugs are difficult to detect and are time consuming. 
+2) This code might translate into a single instruction on some CPUs and thus work correctly. The problem might arise when tested with other JVMs. 
+&lt;/i&gt;
+The above code can be made threadsafe by simply synchronizing the code as follows: 
+&lt;pre id=code&gt;&lt;font face=courier size=2 id=code&gt;
+public synchronized void increment()
+{
+        ++this.value;
+}&lt;/font id=code&gt;&lt;/pre id=code&gt;
+
+Asha Balasubramanyan
+http://www.ammu.org
+</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 79</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

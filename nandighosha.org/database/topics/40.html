@@ -1,0 +1,34 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Database Progamming ( Java or Native)</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Database Progamming ( Java or Native)</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/7.html">Database programming</a></p><h2>Opening post</h2><p>ssabat · 2001-02-16 06:28:10</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Can we use Java as universal programming
+language for all databases? I have heard that Oracle/Sybase/Informix/Microsoft have
+their own native falvors to program
+interface respective databases.
+
+Sunil Sabat</div><section id="reply-5"><h2>Reply 5</h2><p>Arun Patnaik · 2001-02-16 12:45:25</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Yes. Java can be used as universal programming language for all databases.
+
+There are one or more JDBC drivers are available for each database vendor, and depending on the underlying database you
+can load the required JDBC driver at runtime.
+So at development time you CAN be database independent.
+
+However, note that if you use any Database specific feature that is not directly supported by JDBC in way of specialized SQL syntax etc then you will be tied down to that specific database vendor till you can 
+replace the database specific code.
+
+To give an example, Sybase provides a &amp;quot;compute [by]&amp;quot; clause as a part of T-SQL which is the Sybase specific SQL extension. This clause is very heavily used by the sybase financial sector customers. If you use this in your SQL then you will be database dependent. 
+
+Similarly, Oracle provides a &amp;quot;connect by&amp;quot; clause which is Oracle specific so if you use that in your Java programs you will be Oracle dependent.     
+
+In a separate post I will write about how to deal with a case where you need to run your application on multiple databases and you still want to use database specific features.
+
+Thanks
+
+&lt;BLOCKQUOTE id=quote&gt;&lt;font size=1 face=&quot;Verdana, Arial, Helvetica&quot; id=quote&gt;quote:&lt;hr height=1 noshade id=quote&gt;
+Can we use Java as universal programming
+language for all databases? I have heard that Oracle/Sybase/Informix/Microsoft have
+their own native falvors to program
+interface respective databases.
+
+Sunil Sabat
+&lt;hr height=1 noshade id=quote&gt;&lt;/BLOCKQUOTE id=quote&gt;&lt;/font id=quote&gt;&lt;font face=&quot;Verdana, Arial, Helvetica&quot; size=2 id=quote&gt;
+
+Arun Patnaik
+Staff S/w Engineer II
+Sybase Inc</div></section><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 40, 5</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

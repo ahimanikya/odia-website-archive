@@ -20962,7 +20962,7 @@
     "derived_from_pdf": false,
     "recovery_note": "Original homepage HTML and layout retained. Artwork may come from separately dated captures; see the restoration record. Links are local and online services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "ba46b0fb76c56b66999b3b46b54b13c911349f13c2ffa672accf53e8a1ca9539",
+    "output_sha256": "bf03855ec4c7a6bb8297aee59472f015f38352681c5c47a9ed378f9783bd982d",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_preview_artwork": "odiya/images/mrgodisa3.gif",
     "local_source": "odiya/index.html",
@@ -20979,7 +20979,7 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "98b6e2740dc8be6f2fbb93b46029a2bff8efb7625c6070bb11d71cac361aafb8",
+    "output_sha256": "ef66442dd686366a4d34e9481340d262e93fb80abd70a266b9098522dcc07c03",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/indexold.html",
     "local_edition_sha256": "b34fa401f35bcb5577a635976feb12bdf15a5b10e6f9fef93615fc1a33f2f217"

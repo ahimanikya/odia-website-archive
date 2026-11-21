@@ -1,0 +1,87 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Exception Handling</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Exception Handling</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/10.html">Java - Tips Of The Day</a></p><h2>Opening post</h2><p>Padma · 2001-04-17 20:08:14</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Exception handling is interesting to understand to write proper code.
+
+Java&#x27;s exception mechanism provides a structured way to perform a go-to from the place where an error occurs to the code that knows how to handle the error.
+
+Exceptions extends from Throwable and it has two direct sub classes; Exceptions and Error.
+
+Exceptions are a result of abnormal conditions that can often be handled by some catcher in the stack. If it is not caught, it could result in ending the process.
+
+Exceptions versus errors
+Errors are usually thrown for more serious problems, such as OutOfMemoryError, that may not be so easy to handle. In general, code you write should throw only exceptions, not errors. Errors are usually thrown by the methods of the Java API, or by the Java virtual machine itself.
+
+It is possible to use java-defined exceptions or create new exception extending the  java.lang.Exceptions class.
+
+
+Here is a method doSomething in some class throws and IllegalArgumentException exception . 
+
+Sample Code Block 1
+doSomething(String s) throws IllegalArgumentException
+{
+	if (s &amp;gt; 100 )
+	   throw new IllegalArgumentException(&amp;#8220;Expected Patameter is invalid  &amp;#8221;+s);
+}
+
+Sample Code Block 2
+try 
+{
+	doSomething(150) // it throws IllegalArgumentException
+}
+catch(IllegalArgumentException e)
+{
+System.out.println(&amp;#8220;Invalid Argument &amp;#8221;+ e);
+}
+
+Above example how you can catch an exception. See the following example, shows how it catch the RunTimeException. But in this case second catch clause would never be reached. 
+
+Sample Code Block 3
+try 
+{
+	doSomething(150) // it throws IllegalArgumentException
+}
+catch(RunTimeException r)
+{
+System.out.println(&amp;#8220;Invalid Argument &amp;#8221;+ r);
+}
+catch(IllegalArgumentException e)
+{
+System.out.println(&amp;#8220;Invalid Argument &amp;#8221;+ e);
+}
+
+The reason is the IllegalArgumentException is a subclass of a RunTimeException.
+The rule here is subclass catch clauses must precede superclass catch clauses. 
+
+Then what is the Checked vs Unchecked exceptions
+Checked Exception 
+somee subclass of Exception or Exception itself, excluding class RuntimeException and its subclasses. 
+If a checked exception is throwing , you will need to declare the exception in your method&#x27;s throws clause see the sample code block 1. Client programmers that calls call method that throws the exception will then need to either catch and handle the exception within the body of their methods, or declare the exception in the throws clause of their methods. Making an exception checked forces client programmers to deal with the possibility that the exception will be thrown. 
+Unchecked Exception
+ RuntimeException and any of its subclasses. Class Error and its subclasses also are unchecked, but when throwing an exception we need focus on Exceptions. 
+If an unchecked exception is throwing, client programmers can decide whether to catch or disregard the exception, just as with checked exceptions. With an unchecked exception, however, the compiler doesn&#x27;t force client programmers either to catch the exception or declare it in a throws clause. In fact, client programmers may not even know that the exception could be thrown. Either way, client programmers are less likely to think about what they should do in the event of an unchecked exception than they are in the case of an checked exception. 
+&amp;#183;	When you throw an exception and if you feel client programmers should consciously decide how to handle, throw a checked exception. 
+
+
+
+
+
+
+
+Padma</div><section id="reply-35"><h2>Reply 35</h2><p>Asha · 2001-04-27 15:01:59</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">&lt;h3&gt;Use exceptions where you really need them&lt;/h3&gt;
+
+&lt;b&gt;Exceptions not only have high basic cost, but their presence can hurt compiler analysis.&lt;/b&gt;
+
+Just as it can be more difficult for people to read code that has try-catch blocks, it is more difficult for a compiler to analyze such code. In terms of legibility, however, try-catch blocks can actually be beneficial, because they describe the types of problem situations the software is expected to manage and how it is expected to manage them. This mechanism allows you to deal with problems as close to their source as you choose. At runtime, the presence of try-catch blocks doesn&#x27;t significantly affect performance -- except when an exception occurs. In such situations, however, you must handle the exception anyway, so the cost is tolerable. 
+
+Only when the situation is truly exceptional should you use this mechanism, though you may be tempted to throw exceptions simply to take advantage of their control-flow aspects. A good use of this mechanism would be to throw an exception if a file could not be found; a poor use would be to throw an exception with the name of a file that had been found. In the former case, the cost of the mechanism would only be incurred when the app was unable to proceed normally; in the latter case the cost would be incurred all the time without any added benefit. 
+
+&lt;BLOCKQUOTE id=quote&gt;&lt;font size=1 face=&quot;Verdana, Arial, Helvetica&quot; id=quote&gt;quote:&lt;hr height=1 noshade id=quote&gt;
+Java&#x27;s exception mechanism provides a structured way to perform a go-to from the place where an error occurs to the code that knows how to handle the error.
+
+Exceptions are a result of abnormal conditions that can often be handled by some catcher in the stack. If it is not caught, it could result in ending the process.
+
+when you throw an exception and if you feel client programmers should consciously decide how to handle, throw a checked exception. 
+&lt;hr height=1 noshade id=quote&gt;&lt;/BLOCKQUOTE id=quote&gt;&lt;/font id=quote&gt;&lt;font face=&quot;Verdana, Arial, Helvetica&quot; size=2 id=quote&gt;
+
+Asha Balasubramanyan
+http://www.ammu.org
+
+Edited by - asha on April 27 2001  3:03:08 PM</div></section><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 96, 35</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

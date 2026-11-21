@@ -1,0 +1,90 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Observer Pattern - How to Propagate Changes?</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Observer Pattern - How to Propagate Changes?</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/3.html">Object Oriented Design</a></p><h2>Opening post</h2><p>Padma · 2001-04-20 20:03:50</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Observer Pattern
+
+Suppose you want to propagate some changes to client. How can you do it? 
+
+There is a pattern we can apply for that. This is the observer pattern.
+
+This define a one-to many dependency between objects so that when one-object changes state, all its dependents are notified and updated automatically.
+
+How can we do it?
+
+Define a Subject class that maintains a list of Observers that are interested in changes in the subject. Whenever the subject changes, sends an update message to each of the observers of that subject. 
+
+Example:
+
+Lets take a system that is required to configure. This can be done using property files. 
+Suppose we have a component that loads the configuration from properties files and rest of the client components (of the configuration component) get the properties from the configuration components. That is fine. 
+
+Next, there is a requirement to change the configuration on the fly. Then we have to find out a way to accomplish this. Apply observer pattern.
+
+Forcus should be to 
+&amp;#183;	develop the objects separately, to minimize coupling (what they know about eachother) and increase reuse (using one without the other). 
+Solution
+Provide an interface 
+&amp;#183;	subscribing to receiving notifications. 
+&amp;#183;	unsubscribing to stop receiving notifications. 
+&amp;#183;	querying the configuration, so that observers can get the information they need. 
+&amp;#183;	receiving the notifications from the subject. 
+Example
+Following methods should implement in ConfigComponent. All the subscribers need to hold by the ConfigComponent. Remove them when they unsubscribe.
+ConfigComponent.java
+// Clients register to receive notifications.
+subscribe(ConfigListenerInterface o)
+{ }
+// Clients unregistere to stop receiving notifications.
+unsubscribe(ConfigListenerInterface o)
+{ }
+//Clients make Quires
+query(String property)
+{ }
+// Config components
+notify()
+{}
+
+//ConfigComponent refresh the configuration
+refresh()
+{
+// update configuration
+notify();
+}
+
+ConfigListenerInterface.java
+Update();
+
+All the clients who need to receive the notification required subscribe to ConfigComponent. Those clients need to implements the ConfigListenerInterface
+
+Consequences
+&amp;#183;	Low coupling because the subject does not need to know exactly what information the observers need. 
+&amp;#183;	The number of observers per subject and the number of subjects per observer can vary at run-time. 
+&amp;#183;	Efficiency may suffer because of spurious notifications. 
+
+When notifying, there may be a thing to consider. For example, it may need to notify only if there is an effect from change to the client. May be need to get the lock for the object before notifying, if change may cause a problem if it happens when client component in the middle some process. So, there may other condition to think depending on the requirement of the notification.
+
+
+
+
+Padma</div><section id="reply-26"><h2>Reply 26</h2><p>Arun Patnaik · 2001-04-23 13:07:46</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Just a note of clarification.
+
+All this works for single VM cases. 
+If the system consists of multiple VMs
+think about using JMS along with Message 
+Beans(sotr of a distributed Observer Pattern).
+
+Thanks
+- Arun
+
+Arun Patnaik
+Staff S/w Engineer II
+Sybase Inc</div></section><section id="reply-31"><h2>Reply 31</h2><p>administrator · 2001-04-25 10:48:57</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">&lt;BLOCKQUOTE id=quote&gt;&lt;font size=1 face=&quot;Verdana, Arial, Helvetica&quot; id=quote&gt;quote:&lt;hr height=1 noshade id=quote&gt;
+All this works for single VM cases. If the system consists of multiple VMs think about using JMS along with Message Beans(sort of a distributed Observer Pattern).
+&lt;hr height=1 noshade id=quote&gt;&lt;/BLOCKQUOTE id=quote&gt;&lt;/font id=quote&gt;&lt;font face=&quot;Verdana, Arial, Helvetica&quot; size=2 id=quote&gt;
+
+Regardless of number of VMs Observer Pattern works in all cases.
+
+My understanding is regardless of what technology one will use, if the observer can able to notify all its dependents by any means (e.g. RMI, JMS); Observer pattern can still be applied in a distributed environment. 
+
+The location of the object should be abstracted and depending on the platform, developers can choose a suitable way of communication if objects are distributed.
+
+
+Ahimanikya Satapathy
+http://www.ammu.org/kuku</div></section><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 110, 26, 31</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

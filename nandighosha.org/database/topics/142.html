@@ -1,0 +1,72 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>How does the compiler handle constructors?</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>How does the compiler handle constructors?</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/10.html">Java - Tips Of The Day</a></p><h2>Opening post</h2><p>Asha · 2001-04-27 14:52:05</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">If, when defining a class, we don&#x27;t define its constructor, the compiler implicitly assigns one. However, if we do define a constructor, the compiler interprets this as function overriding and does not flash an error. But if this is the case, why do I receive a compiler error in example 3 below? 
+
+&lt;pre id=code&gt;&lt;font face=courier size=2 id=code&gt;
+
+Example 1: 
+
+class x {
+
+   int x,y;
+   public void x( ) { // The compiler considers this method overriding.
+   }
+
+}
+
+public static void main(String arg[]) {
+   x x1=new x() // No error.
+}
+&lt;/font id=code&gt;&lt;/pre id=code&gt;
+
+&lt;pre id=code&gt;&lt;font face=courier size=2 id=code&gt;Example 2: 
+
+class x {
+
+   int x,y;
+   public x( ) { // The compiler considers this method overloading.
+   }
+   public x( int a, int b ) { // The compiler considers this method overloading.
+       x = a;
+       y= b;
+   }
+}
+
+public static void main(String arg[])
+{
+   x x1=new x() // No error
+   x x1=new x( 5, 6 ) // No error
+}&lt;/font id=code&gt;&lt;/pre id=code&gt;
+
+&lt;pre id=code&gt;&lt;font face=courier size=2 id=code&gt;Example 3: 
+
+class x {
+
+   int x,y;
+   public x( int a, int b ) {
+       x = a;
+       y= b;
+   }
+}
+
+public static void main(String arg[])
+{
+   x x1=new x() // Why is there an error here?
+   x x1=new x( 5, 6 ) // No error
+}
+&lt;/font id=code&gt;&lt;/pre id=code&gt;
+
+First, if you do not define any constructors, Java will insert a default no-arguments constructor of the form: 
+&lt;pre id=code&gt;&lt;font face=courier size=2 id=code&gt;public \(){
+   super();
+}&lt;/font id=code&gt;&lt;/pre id=code&gt;
+
+Second, if you declare constructors, what you see is what you get. This means that if you don&#x27;t explicitly declare a no-arguments constructor but declare some other constructor, you will only get the constructor that you do explicitly define. This is why you see an error in example 3. Since you&#x27;ve never declared a no-arguments constructor but did define another type of constructor, Java does not insert a no-arguments constructor. 
+
+For example 3 to work you must also explicitly declare the no-arguments constructor: 
+&lt;pre id=code&gt;&lt;font face=courier size=2 id=code&gt; public x(){
+   super();
+}&lt;/font id=code&gt;&lt;/pre id=code&gt;
+
+Asha Balasubramanyan
+http://www.ammu.org
+
+Edited by - asha on April 27 2001  2:55:00 PM</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 142</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

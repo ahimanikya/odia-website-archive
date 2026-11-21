@@ -1,0 +1,27 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Is &#x27;Runnable&#x27; means a Thread?</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Is &#x27;Runnable&#x27; means a Thread?</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/10.html">Java - Tips Of The Day</a></p><h2>Opening post</h2><p>Asha · 2001-04-04 18:04:57</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">You may come across some situations where implementing a Runnable may have some advantages over extending Thread. If the class you are going to multi-thread is already extending another class, you have to implement the java.lang.Runnable interface, which is obvious.
+
+What may not be obvious is that a Runnable is not a thread. A Runnable is a class like any other class in Java. For a Runnable to become a Thread, you have to feed your Runnable to an actual java.lang.Thread object. 
+&lt;pre id=code&gt;&lt;font face=courier size=2 id=code&gt;
+public class ARunnable implements Runnable 
+{ 
+. . . 
+public void run() 
+{ 
+/* the code to run threaded goes here */ 
+} 
+... 
+} 
+&lt;/font id=code&gt;&lt;/pre id=code&gt;
+
+Then you do: 
+&lt;pre id=code&gt;&lt;font face=courier size=2 id=code&gt;
+Runnable myRunnable = new ARunnable(); 
+Thread myThread = new Thread (myRunnable); 
+myThread.start(); 
+&lt;/font id=code&gt;&lt;/pre id=code&gt;
+
+Your code in the run() method of the Runnable will run threaded, but since a Runnable is not a thread, you can run the Runnable in a non-multi-threaded mode by explicitly calling its run method. This is a handy way for tracing the logic of the code in your Runnable before running it multi-threaded.
+
+Asha Balasubramanyan
+http://www.ammu.org
+</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 74</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

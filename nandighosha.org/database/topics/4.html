@@ -1,0 +1,103 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>Traverse all the elements of a vector</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>Traverse all the elements of a vector</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/2.html">Java - Basic</a></p><h2>Opening post</h2><p>administrator · 2001-02-12 02:35:58</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">Question  What&#x27;s the fastest way to traverse all the elements of a 
+Vector?
+
+Answer  :
+
+If speed is of the essence, do not use a Vector. Instead, use an 
+ArrayList.
+All accesses to a Vector are synchronized, whether you need it or not. 
+If
+you know you aren&amp;#8217;t accessing the structure from multiple threads, the
+ArrayList will be much faster.
+
+With that said, what about if you need to stay with a Vector? There are 
+at
+least four ways to traverse through all the elements of a Vector:
+
+	Using a for loop and accessing each element with elementAt(index) or
+get(index)
+	Using an Emumeration
+	Using an Iterator
+	Using an Enumeration/Iterator, but relying on an exception to catch 
+ending
+
+Of the four, there are neglible differences in performance. While 
+looping
+through to a specific index is a little faster, you lose the 
+flexibility of
+changing to another data structure at a later time. With the 
+Enumeration /
+Iterator approach, there is the added cost to create the
+Enumeration/Iterator to walk through. With the exception approach, you 
+are
+relying on NoSuchElementException to be thrown to catch the ending of 
+the
+walk through. While creating the exception takes time, this approach 
+avoids
+the repeated test of hasMoreElement(). As the structure gets larger,
+avoiding the test condition can save lots of time.
+
+The fastest means to sequence though the members of a Vector: get a 
+copy of
+the elements in an array and sequence through the array. This results 
+in
+either synchronized calls, after which there is not any method overhead 
+at
+all:
+
+    Object[] elements = vector.toArray();  // JDK 1.2
+
+    or
+
+    Object[] elements;
+    synchronized (vector) {  // needed if concurrently accessed
+        elements = new Object[vector.size()];
+        vector.copyInto(elements);
+    }
+
+Further, if you know the types of the elements in the Vector, you can 
+put
+the copy of the elements in an array of the known type and eliminate 
+the
+casting overhead necessary to cast the Object references to the known 
+type.
+
+JDK 1.1:
+
+    MyType[] elements;
+    synchronized (vector) {  // needed if concurrently accessed
+        elements = new MyType[vector.size()];
+        vector.copyInto(elements);
+    }
+JDK 1.2:
+
+    MyType[] elements = new MyType[vector.size()];
+    elements = (MyType[])vector.toArray(elements);
+
+Note that while System.arraycopy() still needs to check the types of 
+the
+objects when copying between arrays of different types, the check is
+performed much more efficiently than performing the cast operation on 
+each
+element individually.
+
+Getting an array of elements is faster than the other suggested 
+approaches
+for vectors of more than a few elements. Although it does incur the 
+overhead
+of instantiating a copy of the array and copying the elements, these
+operations generally take much less time than the repeated 
+synchronization.
+As an added benefit (usually at least, depends on what you&#x27;re trying to 
+do)
+the process of iterating through the elements is predictable even in 
+the
+presence of other threads which modify the vector. (You can also 
+achieve
+this using any of the other techniques by placing the code that 
+sequences
+the vector in a block synchronized on the Vector object.)
+
+
+Ahimanikya Satapathy
+http://www.ammu.org/kuku</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 4</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

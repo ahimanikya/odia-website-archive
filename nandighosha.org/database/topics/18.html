@@ -1,0 +1,77 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><title>How to Prevent JSP or Servlet pages being cached ?</title><link rel="stylesheet" href="../../../_community-support/restore.css"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css?v=b7e790e7ba04"></head><body class="restore-collection"><main class="restore-wrap"><p class="restore-kicker">Local database reading edition</p><h1>How to Prevent JSP or Servlet pages being cached ?</h1><p class="restore-note">Reconstructed from database records, not a captured original forum layout. Dates and display names are retained as recorded; timezone and real-world identity are not inferred. Historical advice, contact details and offers are not current. Original markup is shown as inert text.</p><p><a href="../index.html">Forum index</a> · <a href="../forums/6.html">Java - GUI/JSP/Servlet</a></p><h2>Opening post</h2><p>administrator · 2001-02-12 18:58:31</p><div style="white-space:pre-wrap;overflow-wrap:anywhere">
+How do I prevent the output of my JSP or Servlet pages from being cached by the browser?
+
+You will need to set the appropriate HTTP header attributes to prevent the dynamic content output by the JSP page from being cached by the browser. 
+
+Just execute the following scriptlet at the beginning of your JSP pages to prevent them from being cached at the browser. You need both the statements to take care of some of the older browser versions. 
+
+&amp;lt;%
+response.setHeader(&amp;quot;Cache-Control&amp;quot;,&amp;quot;no-store&amp;quot;); //HTTP 1.1
+response.setHeader(&amp;quot;Pragma&amp;quot;,&amp;quot;no-cache&amp;quot;); //HTTP 1.0
+response.setDateHeader (&amp;quot;Expires&amp;quot;, 0); //prevents caching at the proxy server
+%&amp;gt;
+
+However, please note that there are some problems with disabling page caching under IE 5.0 due to the unique buffering requirements of the browser. Please see the Microsoft knowledge base for details:
+
+http://support.microsoft.com/support/kb/articles/Q222/0/64.ASP
+http://support.microsoft.com/support/kb/articles/Q234/2/47.ASP
+
+-------------feedback--------
+I used the above code and it worked for correctly by not caching the html page. But it still cached the image in the page. 
+This is what i am doing: The user will be able to upload a image using a page that i am currently constructing. I am using the &amp;quot;file&amp;quot; input component. As soon as the user finishes the selection of the image and presses &amp;quot;ok&amp;quot; the form will be submitted to the jsp that produced this page (using &amp;quot;onpropertychange&amp;quot; or &amp;quot;onchange&amp;quot; event). So the same page will be generated again but this time with the new image. I tried using this page a couple of times.. But i am still getting one of the previously selected images sometimes (it might work the first time i submit or sometimes even the second time bu eventually it gives me an old image)... and when i see the info of that page (in netscape - right click and select &amp;quot;info&amp;quot;) it shows me that the image is cached. 
+
+--------- feedback --------------
+ 
+I think it&#x27;s a Netscape bug... Netscape&#x27;s caching has always been really lame.
+Another technique that can help is to add a bogus, random parameter to the image URL, like 
+
+&amp;lt;img src=&amp;quot;image.gif?bogus=&amp;lt;%=System.currentTimeMillis()%&amp;gt;&amp;quot;&amp;gt;
+or, in a Servlet, 
+out.print(&amp;quot;&amp;lt;img src=&#x27;image.gif?bogus=&amp;quot; + System.currentTimeMillis() + &amp;quot;&#x27;&amp;gt;&amp;quot;);
+
+------ feedback------------
+ 
+I suspect that the first header shown above would be better as &amp;quot;no-cache&amp;quot; instead of &amp;quot;no-store&amp;quot;. I haven&#x27;t tested this, but is based on info from O&#x27;Reilly&#x27;s &amp;quot;Webmaster in a Nutshell&amp;quot;
+ 
+------ feedback------------
+
+The image is a separate request from the JSP page. I.e., you need to specify the headers when returning the actual image file. 
+
+I too have always used &amp;quot;no-cache&amp;quot;. Basically, &amp;quot;no-cache&amp;quot; in the response tells the cache that it should still validate the submission before releasing a cached copy. The &#x27;no-store&#x27; seems to say that the response should never be stored at all. So, &amp;quot;no-store&amp;quot; is supposed to be a more extreme version of &amp;quot;no-cache&amp;quot; but since it&#x27;s relatively new (in web time anyways :-), I&#x27;m not sure how widely it is supported. Check out section 14.9 in RFC 2616 for more details.
+
+------ feedback------------
+
+I quite understand when you say that &amp;quot;The image is a separate request from the JSP page&amp;quot; since the browser did not cache the html page (which i had expired) but still cached the image! 
+But now, how do i specify the headers for the image alone, in the jsp? 
+
+Btw... i did solve the problem but writing another servlet that would read the image from the hard disk and stream it out to the jsp. So where my image was previously, now is a servlet that returns the image. 
+
+------ feedback------------
+ 
+I believe you can add NOSAVE to the &amp;lt;IMG&amp;gt; tag to have it not be cached.
+
+------ feedback------------
+
+The solution doesn&#x27;t seem to work for me. I have the following situation. This is a multi-part transaction spanning 3 pages. The information from one page to another is incrementally populated in a Bean. Some summary information is displayed on each page. When the user first enters the form, all information is blank. When she goes to the second form, and for some reason presses the back button, the first page is displayed but the info is all blank. In other words, the browser seems to have cached the page (it is not displaying the info from the populated bean)
+ 
+------ feedback------------
+
+Apache has a configuration option allowing you to create a file containing header information that will be added to the response for a static file. I can&#x27;t remember what the naming convention is, but it&#x27;s something like &amp;quot;foo.html&amp;quot; -&amp;gt; &amp;quot;foo.meta&amp;quot;
+
+------ feedback------------
+ 
+Is there a solution to disable page caching in IE 5 browsers?
+ 
+&amp;lt;%
+response.setHeader(&amp;quot;Cache-Control&amp;quot;,&amp;quot;no-store&amp;quot;);
+response.setHeader(&amp;quot;Pragma&amp;quot;,&amp;quot;no-cache&amp;quot;); 
+response.setDateHeader (&amp;quot;Expires&amp;quot;, 0); 
+%&amp;gt;
+
+I&#x27;ve included the above scriplet in my JSP pages. It works fine on Netcape 4.7 but it does NOT work at all on IE 5.5 , once the user has logged off from my JSP applications, without closing the IE5.5 browser , the visited page still can be viewed by clicking the &amp;quot;back&amp;quot; button of IE 5.5. 
+
+Does anybody have any solution on this? My JSP applications are critical since they are reporting some accounting data and it&#x27;s very important not to let others view the data by simply clicking back once the user has logged off without closing the browser.
+
+
+Ahimanikya Satapathy
+http://www.ammu.org/kuku</div><h2>Source notes</h2><p><code>MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</code><br>Table: FORUM_TOPICS + FORUM_REPLY · record IDs: 18</p></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Source: MyCommunity/nandighosha.org.zip!/forum/tools/snitz_forums_2000.mdb</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>
