@@ -1,7 +1,10 @@
 /* Static reconstruction of surviving magazine menus. */
 .legacy-reader{margin:0;background:#fff;color:#222;font:12px/1.5 Verdana,Arial,sans-serif}
 .legacy-reader .restore-wrap{max-width:1100px;padding:16px 12px;margin:auto}
-.legacy-shell{display:grid;grid-template-columns:180px minmax(0,1fr);gap:18px;align-items:start}
+.legacy-reader:not(.legacy-late) .restore-wrap{max-width:none;padding:0}
+.legacy-shell{display:grid;grid-template-columns:200px minmax(0,1fr);gap:0;align-items:stretch;min-block-size:100vh}
+.legacy-shell>.legacy-menu{background:#FFCC33;box-sizing:border-box;padding:8px 12px}
+.legacy-shell>.legacy-content{box-sizing:border-box;padding:16px 24px}
 .legacy-content{min-width:0}
 .legacy-menu{text-align:center;font:12px/1.5 Verdana,Arial,sans-serif;padding:8px 0}
 .legacy-menu a,.legacy-menu a:visited{font-weight:bold;font-size:12px;color:gray;text-decoration:none}
@@ -27,4 +30,4 @@
 .legacy-2007-01{background:#e5d2c4}
 .legacy-2007-01 .restore-wrap{max-width:940px}
 .legacy-reader .reading-details{margin-top:16px;color:#555;font-size:12px}
-@media(max-width:680px){.legacy-shell{grid-template-columns:minmax(0,1fr);gap:12px}.legacy-menu{padding:0}.legacy-menu .legacy-brand img{max-width:125px}.legacy-menu .legacy-brand{margin-bottom:8px}.legacy-menu .legacy-cover,.legacy-menu .legacy-index{display:inline-block;margin:0 10px}.legacy-menu .legacy-turns{margin-top:6px}.legacy-reader .restore-wrap{padding:10px 8px}}
+@media(max-width:680px){.legacy-shell{grid-template-columns:minmax(0,1fr);gap:12px;min-block-size:0}.legacy-shell>.legacy-content{padding:0 8px}.legacy-menu{padding:0}.legacy-menu .legacy-brand img{max-width:125px}.legacy-menu .legacy-brand{margin-bottom:8px}.legacy-menu .legacy-cover,.legacy-menu .legacy-index{display:inline-block;margin:0 10px}.legacy-menu .legacy-turns{margin-top:6px}.legacy-reader .restore-wrap{padding:10px 8px}}
