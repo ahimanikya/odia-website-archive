@@ -20962,11 +20962,12 @@
     "derived_from_pdf": false,
     "recovery_note": "Original homepage HTML and layout retained. Artwork may come from separately dated captures; see the restoration record. Links are local and online services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "bf03855ec4c7a6bb8297aee59472f015f38352681c5c47a9ed378f9783bd982d",
+    "output_sha256": "7fb6a6e90880d95ace24d45a758c5818d12b73b2cfa0666105420fc9f5050495",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_preview_artwork": "odiya/images/mrgodisa3.gif",
     "local_source": "odiya/index.html",
-    "local_edition_sha256": "4d8cae2cca0ef17c307a61b3070f004d615a1156e2191f2b58408c4e719f75d1"
+    "local_edition_sha256": "d625d882db6f4607e3240a25f25d41be06bbf8312b007a88f2a52e3c66498938",
+    "motion_restoration": "Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Circlet banner: image and animation still missing."
   },
   {
     "kind": "page",
@@ -20979,10 +20980,11 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "ef66442dd686366a4d34e9481340d262e93fb80abd70a266b9098522dcc07c03",
+    "output_sha256": "01c6ea40be90d5dfbcdd735c08f82afd4faf6f1ff8041817b5027d294fe98e3b",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/indexold.html",
-    "local_edition_sha256": "b34fa401f35bcb5577a635976feb12bdf15a5b10e6f9fef93615fc1a33f2f217"
+    "local_edition_sha256": "679f84153685cb4732a3e2f1c261ecb1c170c7d49e39b5282c21953c78dde9a8",
+    "motion_restoration": "Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Circlet banner: image and animation still missing."
   },
   {
     "kind": "page",
@@ -33296,5 +33298,41 @@
     "output": "odiya.org/archive-notes.html",
     "source": "Publication availability note",
     "output_sha256": "ba48bdca23dbe2d324844e7ce1a57f272709171f6e33210f516e03d56d5d44c4"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/restored-motion/clock.js",
+    "source": "MyCommunity/odiya.org/indexold.html and Applets/Chakadola/Chakadola.java and Applets/ClockAnlg/billsClock.java",
+    "original_url": "",
+    "capture": "",
+    "input_is_assembled": true,
+    "recovery_note": "Modern reconstruction; not a recovered historical binary. Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Circlet banner: image and animation still missing.",
+    "output_sha256": "55a1129e81134a05657d46a1f1d1ac3d12574db5fbacecc4044314db8a2b0654",
+    "local_source": "odiya/restored-motion/clock.js",
+    "local_edition_sha256": "55a1129e81134a05657d46a1f1d1ac3d12574db5fbacecc4044314db8a2b0654"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/restored-motion/chakadola.svg",
+    "source": "MyCommunity/odiya.org/indexold.html and Applets/Chakadola/Chakadola.java and Applets/ClockAnlg/billsClock.java",
+    "original_url": "",
+    "capture": "",
+    "input_is_assembled": true,
+    "recovery_note": "Modern reconstruction; not a recovered historical binary. Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Circlet banner: image and animation still missing.",
+    "output_sha256": "8a49aa188fbeea7f0e783fcad5f2efde4f5496f48b4db0e7789b2ae2add89604",
+    "local_source": "odiya/restored-motion/chakadola.svg",
+    "local_edition_sha256": "8a49aa188fbeea7f0e783fcad5f2efde4f5496f48b4db0e7789b2ae2add89604"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/restored-motion/rollovers.css",
+    "source": "MyCommunity/odiya.org/indexold.html and Applets/Chakadola/Chakadola.java and Applets/ClockAnlg/billsClock.java",
+    "original_url": "",
+    "capture": "",
+    "input_is_assembled": true,
+    "recovery_note": "Modern reconstruction; not a recovered historical binary. Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Circlet banner: image and animation still missing.",
+    "output_sha256": "d56cac6183df56be7d60acd6ae602e321ec7c2f5d97f6b0bba14e3cafd5a791c",
+    "local_source": "odiya/restored-motion/rollovers.css",
+    "local_edition_sha256": "d56cac6183df56be7d60acd6ae602e321ec7c2f5d97f6b0bba14e3cafd5a791c"
   }
 ]

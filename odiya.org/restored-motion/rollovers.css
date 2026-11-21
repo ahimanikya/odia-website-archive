@@ -1,0 +1,7 @@
+/* Instant swaps use the original artwork and original hover pairs. */
+.original-rollover{position:relative;display:inline-block;vertical-align:baseline;line-height:0}
+.original-rollover>img{display:block}
+.original-rollover>.rollover-on{position:absolute;inset:0;width:100%;height:100%;opacity:0}
+a:hover .original-rollover>.rollover-on,a:focus-visible .original-rollover>.rollover-on{opacity:1}
+.archive-footer #clock-motion{font:inherit;color:inherit;background:transparent;border:1px solid currentColor;border-radius:3px;padding:3px 7px;cursor:pointer}
+.archive-footer #clock-motion[hidden]{display:none}
