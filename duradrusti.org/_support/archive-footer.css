@@ -8,3 +8,14 @@
 .archive-footer .archive-source{margin:10px 0 0;padding:0;background:transparent;color:inherit;font:inherit;text-align:center}
 .archive-footer .archive-source .restore-note{padding:10px 0;margin:0;background:transparent;color:inherit;font:inherit}
 .archive-footer .archive-source summary{cursor:pointer}
+.archive-footer .archive-page-notes{margin:0;min-width:0}
+.archive-footer .archive-page-notes>summary{cursor:pointer;text-decoration:underline;text-underline-offset:3px;color:#45545b}
+.archive-footer .archive-page-notes>summary:focus-visible{outline:2px solid #8b3536;outline-offset:4px}
+.archive-footer .archive-page-notes[open]{flex-basis:100%}
+.archive-footer .page-notes-content{max-width:800px;margin:16px auto 0;text-align:left;overflow-wrap:anywhere;font:14px/1.6 Arial,sans-serif}
+.archive-footer .page-notes-content h2{font:600 16px/1.5 Arial,sans-serif;margin:18px 0 8px}
+.archive-footer .page-notes-content p{margin:10px 0}
+.archive-footer .page-notes-content details{margin:12px 0}
+.archive-footer .page-notes-content nav{display:block}
+.archive-footer .page-notes-content .restore-note{font:inherit;background:transparent;padding:0;color:inherit}
+.archive-reading-title{position:absolute!important;width:1px;height:1px;padding:0!important;margin:-1px!important;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
