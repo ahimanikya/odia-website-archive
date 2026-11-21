@@ -3047,13 +3047,25 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "425612e52141bd364e287e8103834acf2c299f61b8e81c44f13fafd792f4cd2e",
+    "output_sha256": "394c4471477d47c00bfbda8ad19e5f0331158a10d860a21fedc88b9f6998b36c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/art.html",
-    "local_edition_sha256": "5420e6659c764880a9d26b15808de60310e2c592e8d1865bf0cb3a1bffbf29e6",
+    "local_edition_sha256": "ee38bbfd92937943545bac4130541d8029bd5f68a96305594a3c14b5e75a475b",
     "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
-    "recovery_stage": "odiya-recovery-next"
+    "recovery_stage": "odiya-recovery-next",
+    "early_image_recovery": {
+      "original_image_url": "http://www.arc.umn.edu:80/~misra/gifs/sari.jpg",
+      "capture": "19970714155002",
+      "image_sha256": "3cc498a8a4528f4e6a6116edc449b8c51e08bd6d2cf5491702f0d626a7032e6b",
+      "image": "odiya/recovered-early-gaps/sari.jpg",
+      "placement": "../gifs/sari.jpg",
+      "dimensions": [
+        234,
+        247
+      ],
+      "sizing": "Intrinsic image dimensions; earliest preserved portrait HTML has no explicit dimensions."
+    }
   },
   {
     "kind": "page",
@@ -6911,11 +6923,23 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "5fe3666610fe0679ffc1a609a5fd96898d6c4f33d70ea4e8cc40e3803a52fbd6",
+    "output_sha256": "04ba030387c3c0f379a33126405e633935c0bf0e033a8f0126bc212a61c3482e",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/captures/1997-minnesota-home.html",
-    "local_edition_sha256": "c7e48bc0e288444030d9b9306fc7fe1fae438429eb049b180c793f4ea547edca",
-    "recovery_stage": "odiya-recovery-next"
+    "local_edition_sha256": "9bf34027efce68d2dd19919d0ee9a701eb99da52bae159045cc3ca552bc64772",
+    "recovery_stage": "odiya-recovery-next",
+    "early_image_recovery": {
+      "original_image_url": "http://www.arc.umn.edu:80/Images/ahpcrc-logo.gif",
+      "capture": "19970714072123",
+      "image_sha256": "695ee3eb0969e540c2fdf24c49d2ecd56d9e4f7d7d5f167703a8dab4ef36baf5",
+      "image": "odiya/recovered-early-gaps/ahpcrc-logo.gif",
+      "placement": "http://www.arc.umn.edu/Images/ahpcrc-logo.gif",
+      "dimensions": [
+        269,
+        57
+      ],
+      "sizing": "Intrinsic image dimensions; earliest preserved portrait HTML has no explicit dimensions."
+    }
   },
   {
     "kind": "page",
@@ -23778,13 +23802,25 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "19864e0e378c44618986e742621a225acebbb371f20ed3cb8d7baba845e2c232",
+    "output_sha256": "85c64aad262285e5c09fc7dc140b299d379731e3f33b921f11a00b12147e5adc",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/art.html",
-    "local_edition_sha256": "a4b298e70d50ecb4907e2fc09d1593725488dfbed9474b6475cab5a053d4ee51",
+    "local_edition_sha256": "bdf1af75a4ea7b2acd45c81ef6dc5649540c9d3cce3709e5b0e496081e269d31",
     "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
-    "recovery_stage": "odiya-recovery-next"
+    "recovery_stage": "odiya-recovery-next",
+    "early_image_recovery": {
+      "original_image_url": "http://www.arc.umn.edu:80/~misra/gifs/sari.jpg",
+      "capture": "19970714155002",
+      "image_sha256": "3cc498a8a4528f4e6a6116edc449b8c51e08bd6d2cf5491702f0d626a7032e6b",
+      "image": "odiya/recovered-early-gaps/sari.jpg",
+      "placement": "../gifs/sari.jpg",
+      "dimensions": [
+        234,
+        247
+      ],
+      "sizing": "Intrinsic image dimensions; earliest preserved portrait HTML has no explicit dimensions."
+    }
   },
   {
     "kind": "page",
@@ -27065,11 +27101,23 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "0cf8e52b29df5d210a4875b829c39ee20a627871d1c15f1b2fe813113f6053cf",
+    "output_sha256": "84e39a44aa1132b9b1b7b9c9ee94f992dff9636260ef5e35264fc407edb5b358",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/personality/perslink/Hariprasad.html",
-    "local_edition_sha256": "25fc5e794e2f2e71a93321112e9f4c04f96e0cc2e4bce91d7ca906eb4e74b106",
-    "inner_page_restoration": "Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "b4a21065951ea66f80c8a016df7f21dd8b7f3087ba16ad1095752316757b2f51",
+    "inner_page_restoration": "Historical home links reconnect to the restored homepage.",
+    "early_image_recovery": {
+      "original_image_url": "http://www.arc.umn.edu:80/~misra/perslink/hariprasad.gif",
+      "capture": "19970310063336",
+      "image_sha256": "43aa869667c751d4069df50bf168e0c60cbd357f21f8320269f785c4ab10233b",
+      "image": "odiya/recovered-early-gaps/hariprasad.gif",
+      "placement": "./hariprasad.gif",
+      "dimensions": [
+        326,
+        313
+      ],
+      "sizing": "Intrinsic image dimensions; earliest preserved portrait HTML has no explicit dimensions."
+    }
   },
   {
     "kind": "page",
@@ -27183,11 +27231,23 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "000fe4b81e6306f60e3711e2903b530b8674377b4982fb0e63ce5787046ea40e",
+    "output_sha256": "6086a5b9f106266ef783fb7aea65783a78d06ccc3babfa96ec6596223f0833f6",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/personality/perslink/jm.html",
-    "local_edition_sha256": "4321a7e7bc0081758516abab8230bb33bc1e4fb16b8f0cf16802d184cc19a4e1",
-    "inner_page_restoration": "Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "db733f2f83b432c28cd12114647db0310161f89759e882f82390c0f21b1aaaec",
+    "inner_page_restoration": "Historical home links reconnect to the restored homepage.",
+    "early_image_recovery": {
+      "original_image_url": "http://www.arc.umn.edu:80/~misra/perslink/jm.jpg",
+      "capture": "19970714105117",
+      "image_sha256": "6f7ddeeed16785a84cd39dd82fad808b6d515ea6bdd8a4b0b4ed6b87ec6679be",
+      "image": "odiya/recovered-early-gaps/jm.jpg",
+      "placement": "./jm.jpg",
+      "dimensions": [
+        216,
+        207
+      ],
+      "sizing": "Intrinsic image dimensions; earliest preserved portrait HTML has no explicit dimensions."
+    }
   },
   {
     "kind": "asset",
@@ -27215,11 +27275,23 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "16f5e4b00c4902f068795a1478f3dcbbc7426e9dd05f1ae9f1c418607c6f5496",
+    "output_sha256": "a128c32a5a4b00f0d41eea842a2b86e3b378aeb1a15197e4901945e78991d3ff",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/personality/perslink/kbdash.html",
-    "local_edition_sha256": "0a6419bf8001ab4fe9664933c7801f02cf427ce704140eb2a00bf8d75330a55c",
-    "inner_page_restoration": "Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "05dc64ef8fe1412a70b05abe889555581814d999e5b2d15ef26380b356334c80",
+    "inner_page_restoration": "Historical home links reconnect to the restored homepage.",
+    "early_image_recovery": {
+      "original_image_url": "http://www.arc.umn.edu:80/~misra/perslink/kbdash.jpg",
+      "capture": "19970714105223",
+      "image_sha256": "e16002a2adc93ccfc610850b225d538f83f7b133d59c3bf48891dcc95a17165e",
+      "image": "odiya/recovered-early-gaps/kbdash.jpg",
+      "placement": "kbdash.jpg",
+      "dimensions": [
+        235,
+        289
+      ],
+      "sizing": "Intrinsic image dimensions; earliest preserved portrait HTML has no explicit dimensions."
+    }
   },
   {
     "kind": "page",
@@ -37847,5 +37919,75 @@
     },
     "local_source": "odiya/restored-motion/circlet.mjs",
     "local_edition_sha256": "aee9d75f57368314bcca17c345170d8c64dc6d9a3422874d0eb3d24da1fa9847"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-early-gaps/sari.jpg",
+    "source": "restoration/qa/odiya-heading-gaps-next/raw/19970714155002-f6c05df1c844.jpg",
+    "original_url": "http://www.arc.umn.edu:80/~misra/gifs/sari.jpg",
+    "capture": "19970714155002",
+    "input_sha256": "3cc498a8a4528f4e6a6116edc449b8c51e08bd6d2cf5491702f0d626a7032e6b",
+    "output_sha256": "3cc498a8a4528f4e6a6116edc449b8c51e08bd6d2cf5491702f0d626a7032e6b",
+    "cdx_digest_verified": true,
+    "cdx_digest": "FGWS5EODGRGJJQUR37TVDGFRHBI4Z3XR",
+    "recovery_note": "Original 1997 Wayback image, bytes unchanged.",
+    "local_source": "odiya/recovered-early-gaps/sari.jpg",
+    "local_edition_sha256": "3cc498a8a4528f4e6a6116edc449b8c51e08bd6d2cf5491702f0d626a7032e6b"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-early-gaps/hariprasad.gif",
+    "source": "restoration/qa/odiya-heading-gaps-next/raw/19970310063336-d74e05c00bcd.gif",
+    "original_url": "http://www.arc.umn.edu:80/~misra/perslink/hariprasad.gif",
+    "capture": "19970310063336",
+    "input_sha256": "43aa869667c751d4069df50bf168e0c60cbd357f21f8320269f785c4ab10233b",
+    "output_sha256": "43aa869667c751d4069df50bf168e0c60cbd357f21f8320269f785c4ab10233b",
+    "cdx_digest_verified": true,
+    "cdx_digest": "RLNV2M2LFEKGUNFDS3UMCV2YXBQM5DIU",
+    "recovery_note": "Original 1997 Wayback image, bytes unchanged.",
+    "local_source": "odiya/recovered-early-gaps/hariprasad.gif",
+    "local_edition_sha256": "43aa869667c751d4069df50bf168e0c60cbd357f21f8320269f785c4ab10233b"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-early-gaps/jm.jpg",
+    "source": "restoration/qa/odiya-heading-gaps-next/raw/19970714105117-9cf059d8bb9c.jpg",
+    "original_url": "http://www.arc.umn.edu:80/~misra/perslink/jm.jpg",
+    "capture": "19970714105117",
+    "input_sha256": "6f7ddeeed16785a84cd39dd82fad808b6d515ea6bdd8a4b0b4ed6b87ec6679be",
+    "output_sha256": "6f7ddeeed16785a84cd39dd82fad808b6d515ea6bdd8a4b0b4ed6b87ec6679be",
+    "cdx_digest_verified": true,
+    "cdx_digest": "KA6G2U4LLQMGCJUVZTJ7JCHXAF4TLFM5",
+    "recovery_note": "Original 1997 Wayback image, bytes unchanged.",
+    "local_source": "odiya/recovered-early-gaps/jm.jpg",
+    "local_edition_sha256": "6f7ddeeed16785a84cd39dd82fad808b6d515ea6bdd8a4b0b4ed6b87ec6679be"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-early-gaps/kbdash.jpg",
+    "source": "restoration/qa/odiya-heading-gaps-next/raw/19970714105223-71f8b7c3102d.jpg",
+    "original_url": "http://www.arc.umn.edu:80/~misra/perslink/kbdash.jpg",
+    "capture": "19970714105223",
+    "input_sha256": "e16002a2adc93ccfc610850b225d538f83f7b133d59c3bf48891dcc95a17165e",
+    "output_sha256": "e16002a2adc93ccfc610850b225d538f83f7b133d59c3bf48891dcc95a17165e",
+    "cdx_digest_verified": true,
+    "cdx_digest": "BNUSOJ7FOGTKVJV3NCEKRTEQOUHLRY57",
+    "recovery_note": "Original 1997 Wayback image, bytes unchanged.",
+    "local_source": "odiya/recovered-early-gaps/kbdash.jpg",
+    "local_edition_sha256": "e16002a2adc93ccfc610850b225d538f83f7b133d59c3bf48891dcc95a17165e"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-early-gaps/ahpcrc-logo.gif",
+    "source": "restoration/qa/odiya-heading-gaps-next/raw/19970714072123-111b01247c29.gif",
+    "original_url": "http://www.arc.umn.edu:80/Images/ahpcrc-logo.gif",
+    "capture": "19970714072123",
+    "input_sha256": "695ee3eb0969e540c2fdf24c49d2ecd56d9e4f7d7d5f167703a8dab4ef36baf5",
+    "output_sha256": "695ee3eb0969e540c2fdf24c49d2ecd56d9e4f7d7d5f167703a8dab4ef36baf5",
+    "cdx_digest_verified": true,
+    "cdx_digest": "S7VAB6GT44VR4GGAKKMDO74EAGHWPPDF",
+    "recovery_note": "Original 1997 Wayback image, bytes unchanged.",
+    "local_source": "odiya/recovered-early-gaps/ahpcrc-logo.gif",
+    "local_edition_sha256": "695ee3eb0969e540c2fdf24c49d2ecd56d9e4f7d7d5f167703a8dab4ef36baf5"
   }
 ]
