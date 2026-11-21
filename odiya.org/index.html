@@ -74,7 +74,7 @@ A:link IMG { text-decoration: none }
 
  
 
-<meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; font-src 'self'; media-src 'self'; script-src 'sha256-VaESnoETSgVlfUah8dGsPRJXTbX7rOzEBEMU24orBlQ='; object-src 'none'; base-uri 'none'; form-action 'none'; require-trusted-types-for 'script'"><meta name="referrer" content="no-referrer"><link rel="stylesheet" href="../_community-support/restore.css"><style>@font-face{font-family:'OR-TTSarala';src:url("restored-fonts/ORSR0ntt.ttf") format('truetype')}</style><link rel="stylesheet" href="../_community-support/local-archive-footer.css?v=b7e790e7ba04"><!-- Archive link preview -->
+<meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; font-src 'self'; media-src 'self'; script-src 'sha256-VaESnoETSgVlfUah8dGsPRJXTbX7rOzEBEMU24orBlQ=' 'sha256-runXX1c2gxS8yhfDRRcNjGTcbZo0IodNDrPSTaH6mEc='; object-src 'none'; base-uri 'none'; form-action 'none'; require-trusted-types-for 'script'"><meta name="referrer" content="no-referrer"><link rel="stylesheet" href="../_community-support/restore.css"><style>@font-face{font-family:'OR-TTSarala';src:url("restored-fonts/ORSR0ntt.ttf") format('truetype')}</style><link rel="stylesheet" href="../_community-support/local-archive-footer.css?v=b7e790e7ba04"><!-- Archive link preview -->
 <meta name="description" content="The restored Odia Home Page, preserving its original artwork, community links and historical pages. Read-only historical archive.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Odia Home Page — My Odiya Homepage">
@@ -94,7 +94,7 @@ A:link IMG { text-decoration: none }
 <!-- End archive link preview -->
 <link rel="stylesheet" href="restored-motion/rollovers.css">
 <script src="restored-motion/clock.js" integrity="sha256-VaESnoETSgVlfUah8dGsPRJXTbX7rOzEBEMU24orBlQ=" defer></script>
-</head>
+<script type="module" src="restored-motion/circlet.mjs" integrity="sha256-runXX1c2gxS8yhfDRRcNjGTcbZo0IodNDrPSTaH6mEc="></script><style>#circlet-motion{font:inherit;color:inherit;background:transparent;border:1px solid currentColor;border-radius:3px;padding:3px 7px;cursor:pointer}#circlet-motion[hidden]{display:none}</style></head>
 
 
 
@@ -136,7 +136,7 @@ A:link IMG { text-decoration: none }
 <tr>
 <td align="center">
 	<p align="center">
-	<font face="Arial,Verdana,Helvetica"><!-- Restored original artwork --><img src="restored-motion/chakadola.svg" width="200" height="100" alt="Jagannath eyes"><br><br><img src="recovered-gaps/asato.jpg" width="350" height="50" alt="Asato ma sad gamaya — original Odia banner">
+	<font face="Arial,Verdana,Helvetica"><!-- Restored original artwork --><img src="restored-motion/chakadola.svg" width="200" height="100" alt="Jagannath eyes"><br><br><span id="circlet-container" style="display:inline-block;width:350px;height:50px;line-height:0;content-visibility:auto;contain-intrinsic-size:350px 50px"><img id="circlet-still" src="recovered-gaps/asato.jpg" width="350" height="50" alt="Asato ma sad gamaya — original Odia banner"><canvas id="circlet-preview" width="350" height="50" role="img" aria-label="Asato ma sad gamaya — original Odia image in a rotating ribbon" hidden>Asato ma sad gamaya.</canvas></span>
 		
 	</font>
 	</p>
@@ -428,4 +428,4 @@ Last updated on :  <br>
 
 
 </center></td></tr>
-</table></font></div><footer class="archive-footer archive-footer-dark"><nav aria-label="Archive navigation"><a href="index.html">Home</a><a href="guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p data-gap-recovery="true">Missing artwork recovered from verified Wayback captures. Original Asato banner shown statically.</p><p>Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill’s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC−08:30). Banner image recovered from Wayback; the Circlet animation remains unavailable.</p><p>Original: http://odiya.org/indexold.html<br>Source: MyCommunity/odiya.org/indexold.html</p><p><a href="provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only <button id="clock-motion" type="button" hidden>Pause clock</button></p></footer></body></html>
+</table></font></div><footer class="archive-footer archive-footer-dark"><nav aria-label="Archive navigation"><a href="index.html">Home</a><a href="guide.html">Pages</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p data-gap-recovery="true">Missing artwork recovered from verified Wayback captures. Original Asato image retained.</p><p>Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill’s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC−08:30). Asato: original image with a browser recreation of Circlet 1.0 (Nakagawa Masami, 1999); exact historical version unverified.</p><p>Original: http://odiya.org/indexold.html<br>Source: MyCommunity/odiya.org/indexold.html</p><p><a href="provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only <button id="circlet-motion" type="button" hidden>Play Asato</button> <button id="clock-motion" type="button" hidden>Pause clock</button></p></footer></body></html>

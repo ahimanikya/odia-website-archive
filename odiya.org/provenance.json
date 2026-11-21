@@ -21263,14 +21263,35 @@
     "derived_from_pdf": false,
     "recovery_note": "Original homepage HTML and layout retained. Artwork may come from separately dated captures; see the restoration record. Links are local and online services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "dd67210986c849eb6f503c541315ffb35e4f2e92b6c5e45676e2bacf9b91c748",
+    "output_sha256": "0d583f5122cf88afac175a25affc3bde4a346131be7c1478b5871c4c3e749fc1",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_preview_artwork": "odiya/images/mrgodisa3.gif",
     "local_source": "odiya/index.html",
-    "local_edition_sha256": "d96bd3a75938cdf5fc3467600cdfc5127028980d853aad4bd670fcb94e7a9389",
-    "motion_restoration": "Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Banner image recovered; Circlet animation remains unavailable.",
+    "local_edition_sha256": "6db1882a305844e82b62d3000a6b93fef75ba6f33366b538510e543fb4908afd",
+    "motion_restoration": "Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Asato: original image with a browser recreation of Circlet 1.0 (Nakagawa Masami, 1999); exact historical version unverified.",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
-    "recovery_stage": "odiya-recovery-next"
+    "recovery_stage": "odiya-recovery-next",
+    "circlet_restoration": {
+      "reference_class_sha256": "41c12abb84dfb4f834462e6a12f08a6e28af99dde5bd996bb7f070f04eb7342a",
+      "original_image_sha256": "ebd896106f36c7f42bef510cecb823084ddcaa39e07b14de0489423724e1632a",
+      "source_html": "archive/mycommunity/selected/odiya.org/indexold.html",
+      "reference_urls": [
+        "https://www.geocities.ws/lik21hk/Circlet.class",
+        "https://www.geocities.ws/dolcezza_usa/Circlet.class"
+      ],
+      "settings": {
+        "width": 350,
+        "height": 50,
+        "type": 2,
+        "background": "FFFF00",
+        "merge_percent": 50,
+        "source_pixels_per_step": 1,
+        "step_ms": 20
+      },
+      "note": "Asato: original image with a browser recreation of Circlet 1.0 (Nakagawa Masami, 1999); exact historical version unverified.",
+      "legacy_java_executed": false,
+      "pixel_verified_frames": 7
+    }
   },
   {
     "kind": "page",
@@ -21283,13 +21304,34 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "255646b0fc7bfa75b7b28547ef548b1943663a1a1640e29cdf1b521d119c6c6a",
+    "output_sha256": "a244a451f3e0fd41a647c89d5df666bacd5c676e5f1fb999e79ded7bf8e18284",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/indexold.html",
-    "local_edition_sha256": "3c564d35636744520af0314f3ed89201c0ea1a45090c6228d03f65af13665cd9",
-    "motion_restoration": "Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Banner image recovered; Circlet animation remains unavailable.",
+    "local_edition_sha256": "774d19a4d0aa89a702f7d90244e1eb1b58343c4afd0f4469f4631c08435e930c",
+    "motion_restoration": "Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Asato: original image with a browser recreation of Circlet 1.0 (Nakagawa Masami, 1999); exact historical version unverified.",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
-    "recovery_stage": "odiya-recovery-next"
+    "recovery_stage": "odiya-recovery-next",
+    "circlet_restoration": {
+      "reference_class_sha256": "41c12abb84dfb4f834462e6a12f08a6e28af99dde5bd996bb7f070f04eb7342a",
+      "original_image_sha256": "ebd896106f36c7f42bef510cecb823084ddcaa39e07b14de0489423724e1632a",
+      "source_html": "archive/mycommunity/selected/odiya.org/indexold.html",
+      "reference_urls": [
+        "https://www.geocities.ws/lik21hk/Circlet.class",
+        "https://www.geocities.ws/dolcezza_usa/Circlet.class"
+      ],
+      "settings": {
+        "width": 350,
+        "height": 50,
+        "type": 2,
+        "background": "FFFF00",
+        "merge_percent": 50,
+        "source_pixels_per_step": 1,
+        "step_ms": 20
+      },
+      "note": "Asato: original image with a browser recreation of Circlet 1.0 (Nakagawa Masami, 1999); exact historical version unverified.",
+      "legacy_java_executed": false,
+      "pixel_verified_frames": 7
+    }
   },
   {
     "kind": "page",
@@ -37776,5 +37818,34 @@
     "recovery_note": "Early Asato ticker recreated from saved settings and recovered code; font sizing and timing approximated.",
     "local_source": "odiya/restored-motion/asato-ticker.css",
     "local_edition_sha256": "567a598fbe6ab3a78c38be0b1981213cb9634b5897063025f75fc70082634086"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/restored-motion/circlet.mjs",
+    "source": "tools/circlet-preview.mjs",
+    "output_sha256": "aee9d75f57368314bcca17c345170d8c64dc6d9a3422874d0eb3d24da1fa9847",
+    "circlet_restoration": {
+      "reference_class_sha256": "41c12abb84dfb4f834462e6a12f08a6e28af99dde5bd996bb7f070f04eb7342a",
+      "original_image_sha256": "ebd896106f36c7f42bef510cecb823084ddcaa39e07b14de0489423724e1632a",
+      "source_html": "archive/mycommunity/selected/odiya.org/indexold.html",
+      "reference_urls": [
+        "https://www.geocities.ws/lik21hk/Circlet.class",
+        "https://www.geocities.ws/dolcezza_usa/Circlet.class"
+      ],
+      "settings": {
+        "width": 350,
+        "height": 50,
+        "type": 2,
+        "background": "FFFF00",
+        "merge_percent": 50,
+        "source_pixels_per_step": 1,
+        "step_ms": 20
+      },
+      "note": "Asato: original image with a browser recreation of Circlet 1.0 (Nakagawa Masami, 1999); exact historical version unverified.",
+      "legacy_java_executed": false,
+      "pixel_verified_frames": 7
+    },
+    "local_source": "odiya/restored-motion/circlet.mjs",
+    "local_edition_sha256": "aee9d75f57368314bcca17c345170d8c64dc6d9a3422874d0eb3d24da1fa9847"
   }
 ]
