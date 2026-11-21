@@ -1,0 +1,19 @@
+/* Source: NavigatorTicker, captured 2000-10-27; original speed 6 px/100 ms.
+   TimesRoman metrics varied by Java platform; browser font sizing/timing approximated. */
+.asato-ticker{box-sizing:border-box;width:500px;height:40px;position:relative;background:rgb(155,55,55);padding:4px 5px;margin:0 auto;text-align:left}
+.asato-ticker::before{content:"";position:absolute;inset:2px;border:2px outset rgb(155,55,55);pointer-events:none}
+.asato-viewport{height:32px;overflow:hidden}
+.asato-ticker .asato-message{display:block;color:rgb(100,200,100);font:bold 14px/16px "Times New Roman",Times,serif;text-decoration:none}
+.asato-ticker .asato-message:visited{color:rgb(100,200,100)}
+.asato-ticker:hover .asato-message,.asato-ticker:focus-within .asato-message{color:rgb(0,255,0)}
+.asato-ticker:focus-within{outline:2px solid white;outline-offset:2px}
+.asato-motion>summary{cursor:pointer;list-style:none;text-decoration:underline}
+.asato-motion .pause-label,.asato-motion[open] .play-label{display:none}
+.asato-motion[open] .pause-label{display:inline}
+@keyframes asato-scroll{from{transform:translateX(495px)}to{transform:translateX(-100%)}}
+@media(prefers-reduced-motion:no-preference){
+ .asato-ticker .asato-message{width:max-content;white-space:nowrap;font-size:24px;line-height:32px;animation:asato-scroll 22.1s steps(221,end) infinite;animation-play-state:paused}
+ body:has(#asato-motion[open]) .asato-message{animation-play-state:running}
+ body .asato-ticker:focus-within .asato-message{animation:none;transform:none;font-size:14px;line-height:16px;white-space:normal;width:auto}
+}
+@media(prefers-reduced-motion:reduce){.asato-motion{display:none}}

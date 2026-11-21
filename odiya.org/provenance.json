@@ -6928,12 +6928,18 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "9f7a266979a921a13793f02aa18c104942e25da7640f165123da2a35876dbad1",
+    "output_sha256": "680de6429f5360436cb1d97a0b8efa9510ab00b18ff7df099c583ef33a75ec0c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/captures/1998-columbia-home.html",
-    "local_edition_sha256": "813d9f81c958d1f6af3c14049240de7211a3365e0062e0e9b8030e48b736463a",
+    "local_edition_sha256": "051c9d15838cc12ab5c72bfab221941a317267c9ffeca59def5f771fb860eb59",
     "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive.",
-    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "asato_ticker": {
+      "source": "archive/first-odia-home-page/raw/1998-columbia-home.html",
+      "class_capture": "https://web.archive.org/web/20001027191706id_/http://www.cs.columbia.edu:80/~deba/Applets/NavigatorTicker/NavigatorTicker.class",
+      "class_sha256": "6c7d8fba705077cac58d513f5a3465c9263736fab7bad6651347c07c19b6083c",
+      "reconstruction": "Early Asato ticker recreated from saved settings and recovered code; font sizing and timing approximated."
+    }
   },
   {
     "kind": "page",
@@ -6962,12 +6968,18 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "48f2ec9ced639da277c60cba916f31f28ca46b200146a96d13a54d97dcf4b5be",
+    "output_sha256": "1aa3f295c2479b57492320f0bb6545fa580baefa27fa3ceb6e165c0167f789c4",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/captures/1999-columbia-home.html",
-    "local_edition_sha256": "3a33551b13ab92f9e4625c94f0c3e26fa017914c8c7d513bbc55e6096f5b9507",
+    "local_edition_sha256": "18184d43b51eb3a7d39b8870ef64615020566a2f4f2dd411cee92af64d9c5594",
     "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive.",
-    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "asato_ticker": {
+      "source": "archive/first-odia-home-page/raw/1999-columbia-home.html",
+      "class_capture": "https://web.archive.org/web/20001027191706id_/http://www.cs.columbia.edu:80/~deba/Applets/NavigatorTicker/NavigatorTicker.class",
+      "class_sha256": "6c7d8fba705077cac58d513f5a3465c9263736fab7bad6651347c07c19b6083c",
+      "reconstruction": "Early Asato ticker recreated from saved settings and recovered code; font sizing and timing approximated."
+    }
   },
   {
     "kind": "page",
@@ -7110,11 +7122,17 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "8a10b30d8d29ae80105087e6d5f5b48bdcbf85865e1e7768bceecaa2e607d460",
+    "output_sha256": "8c32f9685f059a6a1b3ec1a0d3710db1a8e4f2f435f75036be2cbb1f5df0c850",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/captures/2001-home.html",
-    "local_edition_sha256": "e4fb1d66c03ea41bd8fad9ec076cc8cad1735ae40a89754e5836a3e3c8b13b77",
-    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
+    "local_edition_sha256": "c8deabe8d8710c125fc5cf117902e17f6684af80429204e25e65e8d7bb473c2a",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "asato_ticker": {
+      "source": "archive/first-odia-home-page/raw/2001-home.html",
+      "class_capture": "https://web.archive.org/web/20001027191706id_/http://www.cs.columbia.edu:80/~deba/Applets/NavigatorTicker/NavigatorTicker.class",
+      "class_sha256": "6c7d8fba705077cac58d513f5a3465c9263736fab7bad6651347c07c19b6083c",
+      "reconstruction": "Early Asato ticker recreated from saved settings and recovered code; font sizing and timing approximated."
+    }
   },
   {
     "kind": "page",
@@ -25272,11 +25290,17 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "cd5e61a48ee010df2f865693586fb1c7249a25076653062e5f3e692edf27ec2f",
+    "output_sha256": "19be7f48e846fef1458bf119b020ca5c2cd0cee47b9fa1e7b40763a9d6a26324",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/old_index/index_old3.html",
-    "local_edition_sha256": "f357767a38de8bc16dd91a46d0164ab5167633317be9ea73e3a5da5c298c1b08",
-    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
+    "local_edition_sha256": "358072b78b926f2a942210e7a9430373a489499aeb59cc9fefd3489929049cba",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "asato_ticker": {
+      "source": "archive/mycommunity/selected/odiya.org/old_index/index_old3.html",
+      "class_capture": "https://web.archive.org/web/20001027191706id_/http://www.cs.columbia.edu:80/~deba/Applets/NavigatorTicker/NavigatorTicker.class",
+      "class_sha256": "6c7d8fba705077cac58d513f5a3465c9263736fab7bad6651347c07c19b6083c",
+      "reconstruction": "Early Asato ticker recreated from saved settings and recovered code; font sizing and timing approximated."
+    }
   },
   {
     "kind": "page",
@@ -37701,5 +37725,16 @@
     "cdx_digest_verified": true,
     "local_source": "odiya/recovered-next/19961223050357-ba7942e40667.gif",
     "local_edition_sha256": "89f23e1eb85e554eb2d26aabb371e63ed55827363df0aceaddcd26cdff251c64"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/restored-motion/asato-ticker.css",
+    "source": "Source-based CSS reconstruction",
+    "original_url": "",
+    "capture": "",
+    "output_sha256": "567a598fbe6ab3a78c38be0b1981213cb9634b5897063025f75fc70082634086",
+    "recovery_note": "Early Asato ticker recreated from saved settings and recovered code; font sizing and timing approximated.",
+    "local_source": "odiya/restored-motion/asato-ticker.css",
+    "local_edition_sha256": "567a598fbe6ab3a78c38be0b1981213cb9634b5897063025f75fc70082634086"
   }
 ]
