@@ -1,0 +1,30 @@
+/* Static reconstruction of surviving magazine menus. */
+.legacy-reader{margin:0;background:#fff;color:#222;font:12px/1.5 Verdana,Arial,sans-serif}
+.legacy-reader .restore-wrap{max-width:1100px;padding:16px 12px;margin:auto}
+.legacy-shell{display:grid;grid-template-columns:180px minmax(0,1fr);gap:18px;align-items:start}
+.legacy-content{min-width:0}
+.legacy-menu{text-align:center;font:12px/1.5 Verdana,Arial,sans-serif;padding:8px 0}
+.legacy-menu a,.legacy-menu a:visited{font-weight:bold;font-size:12px;color:gray;text-decoration:none}
+.legacy-menu a:hover{color:red}
+.legacy-menu .legacy-brand{display:block;margin-bottom:18px}
+.legacy-menu .legacy-brand img{display:block;margin:0 auto 4px;max-width:168px;height:auto}
+.legacy-menu .legacy-index,.legacy-menu .legacy-cover{display:block}
+.legacy-menu .legacy-turns{margin:0;white-space:nowrap}
+.legacy-menu [aria-disabled=true]{color:#999}
+.legacy-reader .dd-page{margin:0}
+.legacy-reader .dd-page> a>img{border:0}
+.legacy-reader .dd-page figcaption,.legacy-reader .restore-note,.legacy-reader .dd-note{font:12px/1.5 Verdana,Arial,sans-serif}
+.legacy-reader .restore-note{margin:0 0 12px;padding:8px;background:#f6f6f6;color:#555}
+.legacy-reader .dd-note h2{font-size:16px}
+.legacy-reader .dd-toc-list{font-size:12px}
+.legacy-reader .dd-numbers{font-size:12px}
+.legacy-reader h1.reader-title{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.legacy-reader .legacy-art-nav{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:24px;margin:12px 0}
+.legacy-art-nav img{vertical-align:middle;border:0;max-width:100%;height:auto}
+.legacy-art-nav [aria-disabled=true]{opacity:.35}
+.legacy-late{background:#eee}
+.legacy-late .restore-wrap{max-width:790px}
+.legacy-2007-01{background:#e5d2c4}
+.legacy-2007-01 .restore-wrap{max-width:940px}
+.legacy-reader .reading-details{margin-top:16px;color:#555;font-size:12px}
+@media(max-width:680px){.legacy-shell{grid-template-columns:minmax(0,1fr);gap:12px}.legacy-menu{padding:0}.legacy-menu .legacy-brand img{max-width:125px}.legacy-menu .legacy-brand{margin-bottom:8px}.legacy-menu .legacy-cover,.legacy-menu .legacy-index{display:inline-block;margin:0 10px}.legacy-menu .legacy-turns{margin-top:6px}.legacy-reader .restore-wrap{padding:10px 8px}}
