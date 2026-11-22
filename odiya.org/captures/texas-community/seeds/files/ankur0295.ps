@@ -1,0 +1,3119 @@
+%!PS-Adobe-3.0
+%%BoundingBox: (atend)
+%%Pages: (atend)
+%%PageOrder: (atend)
+%%DocumentFonts: (atend)
+%%Creator: Frame 4.0
+%%DocumentData: Clean7Bit
+%%EndComments
+%%BeginProlog
+%
+% Frame ps_prolog 4.0, for use with Frame 4.0 products
+% This ps_prolog file is Copyright (c) 1986-1993 Frame Technology
+% Corporation.  All rights reserved.  This ps_prolog file may be
+% freely copied and distributed in conjunction with documents created
+% using FrameMaker, FrameBuilder and FrameViewer as long as this 
+% copyright notice is preserved.
+%
+% Frame products normally print colors as their true color on a color printer
+% or as shades of gray, based on luminance, on a black-and white printer. The
+% following flag, if set to True, forces all non-white colors to print as pure
+% black. This has no effect on bitmap images.
+/FMPrintAllColorsAsBlack             false def
+%
+% Frame products can either set their own line screens or use a printer's 
+% default settings. Three flags below control this separately for no 
+% separations, spot separations and process separations. If a flag
+% is true, then the default printer settings will not be changed. If it is
+% false, Frame products will use their own settings from a table based on
+% the printer's resolution.
+/FMUseDefaultNoSeparationScreen      true  def
+/FMUseDefaultSpotSeparationScreen    true  def
+/FMUseDefaultProcessSeparationScreen false def
+%
+% For any given PostScript printer resolution, Frame products have two sets of 
+% screen angles and frequencies for printing process separations, which are 
+% recomended by Adobe. The following variable chooses the higher frequencies
+% when set to true or the lower frequencies when set to false. This is only
+% effective if the appropriate FMUseDefault...SeparationScreen flag is false.
+/FMUseHighFrequencyScreens true def
+%
+% PostScript Level 2 printers contain an "Accurate Screens" feature which can
+% improve process separation rendering at the expense of compute time. This 
+% flag is ignored by PostScript Level 1 printers.
+/FMUseAcccurateScreens true def
+%
+% The following PostScript procedure defines the spot function that Frame
+% products will use for process separations. You may un-comment-out one of
+% the alternative functions below, or use your own.
+%
+% Dot function
+/FMSpotFunction {abs exch abs 2 copy add 1 gt 
+		{1 sub dup mul exch 1 sub dup mul add 1 sub }
+		{dup mul exch dup mul add 1 exch sub }ifelse } def
+%
+% Line function
+% /FMSpotFunction { pop } def
+%
+% Elipse function
+% /FMSpotFunction { dup 5 mul 8 div mul exch dup mul exch add 
+%		sqrt 1 exch sub } def
+%
+%
+/FMversion (4.0) def 
+/FMLevel1 /languagelevel where {pop languagelevel} {1} ifelse 2 lt def
+/FMPColor
+	FMLevel1 {
+		false
+		/colorimage where {pop pop true} if
+	} {
+		true
+	} ifelse
+def
+/FrameDict 400 dict def 
+systemdict /errordict known not {/errordict 10 dict def
+		errordict /rangecheck {stop} put} if
+% The readline in PS 23.0 doesn't recognize cr's as nl's on AppleTalk
+FrameDict /tmprangecheck errordict /rangecheck get put 
+errordict /rangecheck {FrameDict /bug true put} put 
+FrameDict /bug false put 
+mark 
+% Some PS machines read past the CR, so keep the following 3 lines together!
+currentfile 5 string readline
+00
+0000000000
+cleartomark 
+errordict /rangecheck FrameDict /tmprangecheck get put 
+FrameDict /bug get { 
+	/readline {
+		/gstring exch def
+		/gfile exch def
+		/gindex 0 def
+		{
+			gfile read pop 
+			dup 10 eq {exit} if 
+			dup 13 eq {exit} if 
+			gstring exch gindex exch put 
+			/gindex gindex 1 add def 
+		} loop
+		pop 
+		gstring 0 gindex getinterval true 
+		} bind def
+	} if
+/FMshowpage /showpage load def
+/FMquit /quit load def
+/FMFAILURE { 
+	dup = flush 
+	FMshowpage 
+	/Helvetica findfont 12 scalefont setfont
+	72 200 moveto
+	show FMshowpage 
+	FMquit 
+	} def 
+/FMVERSION {
+	FMversion ne {
+		(Frame product version does not match ps_prolog!) FMFAILURE
+		} if
+	} def 
+/FMBADEPSF { 
+	(PostScript Lang. Ref. Man., 2nd Ed., H.2.4 says EPS must not call X              )
+	dup dup (X) search pop exch pop exch pop length 
+	4 -1 roll 
+	putinterval 
+	FMFAILURE
+	} def
+/FMLOCAL {
+	FrameDict begin
+	0 def 
+	end 
+	} def 
+/concatprocs
+	{
+	/proc2 exch cvlit def/proc1 exch cvlit def/newproc proc1 length proc2 length add array def
+	newproc 0 proc1 putinterval newproc proc1 length proc2 putinterval newproc cvx
+}def
+FrameDict begin 
+/FMnone 0 def
+/FMcyan 1 def
+/FMmagenta 2 def
+/FMyellow 3 def
+/FMblack 4 def
+/FMcustom 5 def
+/FrameNegative false def 
+/FrameSepIs FMnone def 
+/FrameSepBlack 0 def
+/FrameSepYellow 0 def
+/FrameSepMagenta 0 def
+/FrameSepCyan 0 def
+/FrameSepRed 1 def
+/FrameSepGreen 1 def
+/FrameSepBlue 1 def
+/FrameCurGray 1 def
+/FrameCurPat null def
+/FrameCurColors [ 0 0 0 1 0 0 0 ] def 
+/FrameColorEpsilon .001 def	
+/eqepsilon {		
+	sub dup 0 lt {neg} if
+	FrameColorEpsilon le
+} bind def
+/FrameCmpColorsCMYK { 
+	2 copy 0 get exch 0 get eqepsilon {
+		2 copy 1 get exch 1 get eqepsilon {
+			2 copy 2 get exch 2 get eqepsilon {
+				3 get exch 3 get eqepsilon
+			} {pop pop false} ifelse
+		}{pop pop false} ifelse
+	} {pop pop false} ifelse
+} bind def
+/FrameCmpColorsRGB { 
+	2 copy 4 get exch 0 get eqepsilon {
+		2 copy 5 get exch 1 get eqepsilon {
+			6 get exch 2 get eqepsilon
+		}{pop pop false} ifelse
+	} {pop pop false} ifelse
+} bind def
+/RGBtoCMYK { 
+	1 exch sub 
+	3 1 roll 
+	1 exch sub 
+	3 1 roll 
+	1 exch sub 
+	3 1 roll 
+	3 copy 
+	2 copy 
+	le { pop } { exch pop } ifelse 
+	2 copy 
+	le { pop } { exch pop } ifelse 
+	dup dup dup 
+	6 1 roll 
+	4 1 roll 
+	7 1 roll 
+	sub 
+	6 1 roll 
+	sub 
+	5 1 roll 
+	sub 
+	4 1 roll 
+} bind def
+/CMYKtoRGB { 
+	dup dup 4 -1 roll add 						  
+	5 1 roll 3 -1 roll add 						  
+	4 1 roll add 								  
+	1 exch sub dup 0 lt {pop 0} if 3 1 roll 	  
+	1 exch sub dup 0 lt {pop 0} if exch 	      
+	1 exch sub dup 0 lt {pop 0} if exch	  		  
+} bind def
+/FrameSepInit {
+	1.0 RealSetgray
+} bind def
+/FrameSetSepColor { 
+	/FrameSepBlue exch def
+	/FrameSepGreen exch def
+	/FrameSepRed exch def
+	/FrameSepBlack exch def
+	/FrameSepYellow exch def
+	/FrameSepMagenta exch def
+	/FrameSepCyan exch def
+	/FrameSepIs FMcustom def
+	setCurrentScreen	
+} bind def
+/FrameSetCyan {
+	/FrameSepBlue 1.0 def
+	/FrameSepGreen 1.0 def
+	/FrameSepRed 0.0 def
+	/FrameSepBlack 0.0 def
+	/FrameSepYellow 0.0 def
+	/FrameSepMagenta 0.0 def
+	/FrameSepCyan 1.0 def
+	/FrameSepIs FMcyan def
+	setCurrentScreen	
+} bind def
+ 
+/FrameSetMagenta {
+	/FrameSepBlue 1.0 def
+	/FrameSepGreen 0.0 def
+	/FrameSepRed 1.0 def
+	/FrameSepBlack 0.0 def
+	/FrameSepYellow 0.0 def
+	/FrameSepMagenta 1.0 def
+	/FrameSepCyan 0.0 def
+	/FrameSepIs FMmagenta def
+	setCurrentScreen
+} bind def
+ 
+/FrameSetYellow {
+	/FrameSepBlue 0.0 def
+	/FrameSepGreen 1.0 def
+	/FrameSepRed 1.0 def
+	/FrameSepBlack 0.0 def
+	/FrameSepYellow 1.0 def
+	/FrameSepMagenta 0.0 def
+	/FrameSepCyan 0.0 def
+	/FrameSepIs FMyellow def
+	setCurrentScreen
+} bind def
+ 
+/FrameSetBlack {
+	/FrameSepBlue 0.0 def
+	/FrameSepGreen 0.0 def
+	/FrameSepRed 0.0 def
+	/FrameSepBlack 1.0 def
+	/FrameSepYellow 0.0 def
+	/FrameSepMagenta 0.0 def
+	/FrameSepCyan 0.0 def
+	/FrameSepIs FMblack def
+	setCurrentScreen
+} bind def
+ 
+/FrameNoSep { 
+	/FrameSepIs FMnone def
+	setCurrentScreen
+} bind def
+/FrameSetSepColors { 
+	FrameDict begin
+	[ exch 1 add 1 roll ]
+	/FrameSepColors  
+	exch def end
+	} bind def
+/FrameColorInSepListCMYK { 
+	FrameSepColors {  
+       		exch dup 3 -1 roll 
+       		FrameCmpColorsCMYK 
+       		{ pop true exit } if
+    	} forall 
+	dup true ne {pop false} if
+	} bind def
+/FrameColorInSepListRGB { 
+	FrameSepColors {  
+       		exch dup 3 -1 roll 
+       		FrameCmpColorsRGB 
+       		{ pop true exit } if
+    	} forall 
+	dup true ne {pop false} if
+	} bind def
+/RealSetgray /setgray load def
+/RealSetrgbcolor /setrgbcolor load def
+/RealSethsbcolor /sethsbcolor load def
+end 
+/setgray { 
+	FrameDict begin
+	FrameSepIs FMnone eq
+		{ RealSetgray } 
+		{ 
+		FrameSepIs FMblack eq 
+			{ RealSetgray } 
+			{ FrameSepIs FMcustom eq 
+			  FrameSepRed 0 eq and
+			  FrameSepGreen 0 eq and
+			  FrameSepBlue 0 eq and {
+			  	RealSetgray
+			  } {
+				1 RealSetgray pop 
+			  } ifelse
+			} ifelse
+		} ifelse
+	end
+} bind def
+/setrgbcolor { 
+	FrameDict begin
+	FrameSepIs FMnone eq
+	{  RealSetrgbcolor }
+	{
+		3 copy [ 4 1 roll ] 
+		FrameColorInSepListRGB
+		{
+				FrameSepBlue eq exch 
+			 	FrameSepGreen eq and exch 
+			 	FrameSepRed eq and
+			 	{ 0 } { 1 } ifelse
+		}
+		{
+			FMPColor {
+				RealSetrgbcolor
+				currentcmykcolor
+			} {
+				RGBtoCMYK
+			} ifelse
+			FrameSepIs FMblack eq
+			{1.0 exch sub 4 1 roll pop pop pop} {
+			FrameSepIs FMyellow eq
+			{pop 1.0 exch sub 3 1 roll pop pop} {
+			FrameSepIs FMmagenta eq
+			{pop pop 1.0 exch sub exch pop } {
+			FrameSepIs FMcyan eq
+			{pop pop pop 1.0 exch sub } 
+			{pop pop pop pop 1} ifelse } ifelse } ifelse } ifelse 
+		} ifelse
+		RealSetgray
+	} 
+	ifelse
+	end
+} bind def
+/sethsbcolor {
+	FrameDict begin
+	FrameSepIs FMnone eq 
+	{ RealSethsbcolor } 
+	{
+		RealSethsbcolor 
+		currentrgbcolor  
+		setrgbcolor 
+	} 
+	ifelse
+	end
+} bind def
+FrameDict begin
+/setcmykcolor where {
+	pop /RealSetcmykcolor /setcmykcolor load def
+} {
+	/RealSetcmykcolor {
+		4 1 roll
+		3 { 3 index add 0 max 1 min 1 exch sub 3 1 roll} repeat 
+		setrgbcolor pop
+	} bind def
+} ifelse
+userdict /setcmykcolor { 
+		FrameDict begin
+		FrameSepIs FMnone eq
+		{ RealSetcmykcolor } 
+		{
+			4 copy [ 5 1 roll ]
+			FrameColorInSepListCMYK
+			{
+				FrameSepBlack eq exch 
+				FrameSepYellow eq and exch 
+				FrameSepMagenta eq and exch 
+				FrameSepCyan eq and 
+				{ 0 } { 1 } ifelse
+			}
+			{
+				FrameSepIs FMblack eq
+				{1.0 exch sub 4 1 roll pop pop pop} {
+				FrameSepIs FMyellow eq
+				{pop 1.0 exch sub 3 1 roll pop pop} {
+				FrameSepIs FMmagenta eq
+				{pop pop 1.0 exch sub exch pop } {
+				FrameSepIs FMcyan eq
+				{pop pop pop 1.0 exch sub } 
+				{pop pop pop pop 1} ifelse } ifelse } ifelse } ifelse 
+			} ifelse
+			RealSetgray
+		}
+		ifelse
+		end
+	} bind put
+FMLevel1 not { 
+	
+	/patProcDict 5 dict dup begin
+		<0f1e3c78f0e1c387> { 3 setlinewidth -1 -1 moveto 9 9 lineto stroke 
+											4 -4 moveto 12 4 lineto stroke
+											-4 4 moveto 4 12 lineto stroke} bind def
+		<0f87c3e1f0783c1e> { 3 setlinewidth -1 9 moveto 9 -1 lineto stroke 
+											-4 4 moveto 4 -4 lineto stroke
+											4 12 moveto 12 4 lineto stroke} bind def
+		<8142241818244281> { 1 setlinewidth -1 9 moveto 9 -1 lineto stroke
+											-1 -1 moveto 9 9 lineto stroke } bind def
+		<03060c183060c081> { 1 setlinewidth -1 -1 moveto 9 9 lineto stroke 
+											4 -4 moveto 12 4 lineto stroke
+											-4 4 moveto 4 12 lineto stroke} bind def
+		<8040201008040201> { 1 setlinewidth -1 9 moveto 9 -1 lineto stroke 
+											-4 4 moveto 4 -4 lineto stroke
+											4 12 moveto 12 4 lineto stroke} bind def
+	end def
+	/patDict 15 dict dup begin
+		/PatternType 1 def		
+		/PaintType 2 def		
+		/TilingType 3 def		
+		/BBox [ 0 0 8 8 ] def 	
+		/XStep 8 def			
+		/YStep 8 def			
+		/PaintProc {
+			begin
+			patProcDict bstring known {
+				patProcDict bstring get exec
+			} {
+				8 8 true [1 0 0 -1 0 8] bstring imagemask
+			} ifelse
+			end
+		} bind def
+	end def
+} if
+/combineColor {
+    FrameSepIs FMnone eq
+	{
+		graymode FMLevel1 or not {
+			
+			[/Pattern [/DeviceCMYK]] setcolorspace
+			FrameCurColors 0 4 getinterval aload pop FrameCurPat setcolor
+		} {
+			FrameCurColors 3 get 1.0 ge {
+				FrameCurGray RealSetgray
+			} {
+				FMPColor graymode and {
+					0 1 3 { 
+						FrameCurColors exch get
+						1 FrameCurGray sub mul
+					} for
+					RealSetcmykcolor
+				} {
+					4 1 6 {
+						FrameCurColors exch get
+						graymode {
+							1 exch sub 1 FrameCurGray sub mul 1 exch sub
+						} {
+							1.0 lt {FrameCurGray} {1} ifelse
+						} ifelse
+					} for
+					RealSetrgbcolor
+				} ifelse
+			} ifelse
+		} ifelse
+	} { 
+		FrameCurColors 0 4 getinterval aload
+		FrameColorInSepListCMYK {
+			FrameSepBlack eq exch 
+			FrameSepYellow eq and exch 
+			FrameSepMagenta eq and exch 
+			FrameSepCyan eq and
+			FrameSepIs FMcustom eq and
+			{ FrameCurGray } { 1 } ifelse
+		} {
+			FrameSepIs FMblack eq
+			{FrameCurGray 1.0 exch sub mul 1.0 exch sub 4 1 roll pop pop pop} {
+			FrameSepIs FMyellow eq
+			{pop FrameCurGray 1.0 exch sub mul 1.0 exch sub 3 1 roll pop pop} {
+			FrameSepIs FMmagenta eq
+			{pop pop FrameCurGray 1.0 exch sub mul 1.0 exch sub exch pop } {
+			FrameSepIs FMcyan eq
+			{pop pop pop FrameCurGray 1.0 exch sub mul 1.0 exch sub } 
+			{pop pop pop pop 1} ifelse } ifelse } ifelse } ifelse 
+		} ifelse
+		graymode FMLevel1 or not {
+			
+			[/Pattern [/DeviceGray]] setcolorspace
+			FrameCurPat setcolor
+		} { 
+			graymode not FMLevel1 and {
+				
+				dup 1 lt {pop FrameCurGray} if
+			} if
+			RealSetgray
+		} ifelse
+	} ifelse
+} bind def
+/savematrix {
+	orgmatrix currentmatrix pop
+	} bind def
+/restorematrix {
+	orgmatrix setmatrix
+	} bind def
+/dmatrix matrix def
+/dpi    72 0 dmatrix defaultmatrix dtransform
+    dup mul exch   dup mul add   sqrt def
+	
+/freq dpi dup 72 div round dup 0 eq {pop 1} if 8 mul div def
+/sangle 1 0 dmatrix defaultmatrix dtransform exch atan def
+/dpiranges   [  2540    2400    1693     1270    1200     635      600      0      ] def
+/CMLowFreqs  [ 100.402  94.8683 89.2289 100.402  94.8683  66.9349  63.2456 47.4342 ] def
+/YLowFreqs   [  95.25   90.0    84.65    95.25   90.0     70.5556  66.6667 50.0    ] def
+/KLowFreqs   [  89.8026 84.8528 79.8088  89.8026 84.8528  74.8355  70.7107 53.033  ] def
+/CLowAngles  [  71.5651 71.5651 71.5651 71.5651  71.5651  71.5651  71.5651 71.5651 ] def
+/MLowAngles  [  18.4349 18.4349 18.4349 18.4349  18.4349  18.4349  18.4349 18.4349 ] def
+/YLowTDot    [  true    true    false    true    true     false    false   false   ] def
+/CMHighFreqs [ 133.87  126.491 133.843  108.503 102.523  100.402   94.8683 63.2456 ] def
+/YHighFreqs  [ 127.0   120.0   126.975  115.455 109.091   95.25    90.0    60.0    ] def
+/KHighFreqs  [ 119.737 113.137 119.713  128.289 121.218   89.8026  84.8528 63.6395 ] def
+/CHighAngles [  71.5651 71.5651 71.5651  70.0169 70.0169  71.5651  71.5651 71.5651 ] def
+/MHighAngles [  18.4349 18.4349 18.4349  19.9831 19.9831  18.4349  18.4349 18.4349 ] def
+/YHighTDot   [  false   false   true     false   false    true     true    false   ] def
+/PatFreq     [	10.5833 10.0     9.4055  10.5833 10.0	  10.5833  10.0	   9.375   ] def
+/screenIndex {
+	0 1 dpiranges length 1 sub { dup dpiranges exch get 1 sub dpi le {exit} {pop} ifelse } for
+} bind def
+/getCyanScreen {
+	FMUseHighFrequencyScreens { CHighAngles CMHighFreqs} {CLowAngles CMLowFreqs} ifelse
+		screenIndex dup 3 1 roll get 3 1 roll get /FMSpotFunction load
+} bind def
+/getMagentaScreen {
+	FMUseHighFrequencyScreens { MHighAngles CMHighFreqs } {MLowAngles CMLowFreqs} ifelse
+		screenIndex dup 3 1 roll get 3 1 roll get /FMSpotFunction load
+} bind def
+/getYellowScreen {
+	FMUseHighFrequencyScreens { YHighTDot YHighFreqs} { YLowTDot YLowFreqs } ifelse
+		screenIndex dup 3 1 roll get 3 1 roll get { 3 div
+			{2 { 1 add 2 div 3 mul dup floor sub 2 mul 1 sub exch} repeat
+			FMSpotFunction } } {/FMSpotFunction load } ifelse
+			0.0 exch
+} bind def
+/getBlackScreen  {
+	FMUseHighFrequencyScreens { KHighFreqs } { KLowFreqs } ifelse
+		screenIndex get 45.0 /FMSpotFunction load 
+} bind def
+/getSpotScreen {
+	getBlackScreen
+} bind def
+/getCompositeScreen {
+	getBlackScreen
+} bind def
+/FMSetScreen 
+	FMLevel1 { /setscreen load 
+	}{ {
+		8 dict begin
+		/HalftoneType 1 def
+		/SpotFunction exch def
+		/Angle exch def
+		/Frequency exch def
+		/AccurateScreens FMUseAcccurateScreens def
+		currentdict end sethalftone
+	} bind } ifelse
+def
+/setDefaultScreen {
+	FMPColor {
+		orgrxfer cvx orggxfer cvx orgbxfer cvx orgxfer cvx setcolortransfer
+	}
+	{
+		orgxfer cvx settransfer
+	} ifelse
+	orgfreq organgle orgproc cvx setscreen
+} bind def
+/setCurrentScreen {
+	FrameSepIs FMnone eq {
+		FMUseDefaultNoSeparationScreen {
+			setDefaultScreen
+		} {
+			getCompositeScreen FMSetScreen
+		} ifelse
+	} {
+		FrameSepIs FMcustom eq {
+			FMUseDefaultSpotSeparationScreen {
+				setDefaultScreen
+			} {
+				getSpotScreen FMSetScreen
+			} ifelse
+		} {
+			FMUseDefaultProcessSeparationScreen {
+				setDefaultScreen
+			} {
+				FrameSepIs FMcyan eq {
+					getCyanScreen FMSetScreen
+				} {
+					FrameSepIs FMmagenta eq {
+						getMagentaScreen FMSetScreen
+					} {
+						FrameSepIs FMyellow eq {
+							getYellowScreen FMSetScreen
+						} {
+							getBlackScreen FMSetScreen
+						} ifelse
+					} ifelse
+				} ifelse
+			} ifelse
+		} ifelse
+	} ifelse 
+} bind def
+end
+	/gstring FMLOCAL
+	/gfile FMLOCAL
+	/gindex FMLOCAL
+	/orgrxfer FMLOCAL
+	/orggxfer FMLOCAL
+	/orgbxfer FMLOCAL
+	/orgxfer FMLOCAL
+	/orgproc FMLOCAL
+	/orgrproc FMLOCAL
+	/orggproc FMLOCAL
+	/orgbproc FMLOCAL
+	/organgle FMLOCAL
+	/orgrangle FMLOCAL
+	/orggangle FMLOCAL
+	/orgbangle FMLOCAL
+	/orgfreq FMLOCAL
+	/orgrfreq FMLOCAL
+	/orggfreq FMLOCAL
+	/orgbfreq FMLOCAL
+	/yscale FMLOCAL
+	/xscale FMLOCAL
+	/edown FMLOCAL
+	/manualfeed FMLOCAL
+	/paperheight FMLOCAL
+	/paperwidth FMLOCAL
+/FMDOCUMENT { 
+	array /FMfonts exch def 
+	/#copies exch def
+	FrameDict begin
+	0 ne /manualfeed exch def
+	/paperheight exch def
+	/paperwidth exch def
+	0 ne /FrameNegative exch def 
+	0 ne /edown exch def 
+	/yscale exch def
+	/xscale exch def
+	FMLevel1 {
+		manualfeed {setmanualfeed} if
+		/FMdicttop countdictstack 1 add def 
+		/FMoptop count def 
+		setpapername 
+		manualfeed {true} {papersize} ifelse 
+		{manualpapersize} {false} ifelse 
+		{desperatepapersize} {false} ifelse 
+		{ (Can't select requested paper size for Frame print job!) FMFAILURE } if
+		count -1 FMoptop {pop pop} for
+		countdictstack -1 FMdicttop {pop end} for 
+		}
+		{{1 dict dup /PageSize [paperwidth paperheight]put setpagedevice}stopped
+		{ (Can't select requested paper size for Frame print job!) FMFAILURE } if
+		 {1 dict dup /ManualFeed manualfeed put setpagedevice } stopped pop }
+	ifelse 
+	
+	FMPColor {
+		currentcolorscreen
+			cvlit /orgproc exch def
+				  /organgle exch def 
+				  /orgfreq exch def
+			cvlit /orgbproc exch def
+				  /orgbangle exch def 
+				  /orgbfreq exch def
+			cvlit /orggproc exch def
+				  /orggangle exch def 
+				  /orggfreq exch def
+			cvlit /orgrproc exch def
+				  /orgrangle exch def 
+				  /orgrfreq exch def
+			currentcolortransfer 
+			FrameNegative {
+				1 1 4 { 
+					pop { 1 exch sub } concatprocs 4 1 roll
+				} for
+				4 copy
+				setcolortransfer
+			} if
+			cvlit /orgxfer exch def
+			cvlit /orgbxfer exch def
+			cvlit /orggxfer exch def
+			cvlit /orgrxfer exch def
+	} {
+		currentscreen 
+			cvlit /orgproc exch def
+				  /organgle exch def 
+				  /orgfreq exch def
+				  
+		currenttransfer 
+		FrameNegative {
+			{ 1 exch sub } concatprocs
+			dup settransfer
+		} if 
+		cvlit /orgxfer exch def
+	} ifelse
+	end 
+} def 
+/pagesave FMLOCAL
+/orgmatrix FMLOCAL
+/landscape FMLOCAL
+/pwid FMLOCAL
+/FMBEGINPAGE { 
+	FrameDict begin 
+	/pagesave save def
+	3.86 setmiterlimit
+	/landscape exch 0 ne def
+	landscape { 
+		90 rotate 0 exch dup /pwid exch def neg translate pop 
+	}{
+		pop /pwid exch def
+	} ifelse
+	edown { [-1 0 0 1 pwid 0] concat } if
+	0 0 moveto paperwidth 0 lineto paperwidth paperheight lineto 
+	0 paperheight lineto 0 0 lineto 1 setgray fill
+	xscale yscale scale
+	/orgmatrix matrix def
+	gsave 
+} def 
+/FMENDPAGE {
+	grestore 
+	pagesave restore
+	end 
+	showpage
+	} def 
+/FMFONTDEFINE { 
+	FrameDict begin
+	findfont 
+	ReEncode 
+	1 index exch 
+	definefont 
+	FMfonts 3 1 roll 
+	put
+	end 
+	} def 
+/FMFILLS {
+	FrameDict begin dup
+	array /fillvals exch def
+	dict /patCache exch def
+	end 
+	} def 
+/FMFILL {
+	FrameDict begin
+	 fillvals 3 1 roll put
+	end 
+	} def 
+/FMNORMALIZEGRAPHICS { 
+	newpath
+	0.0 0.0 moveto
+	1 setlinewidth
+	0 setlinecap
+	0 0 0 sethsbcolor
+	0 setgray 
+	} bind def
+	/fx FMLOCAL
+	/fy FMLOCAL
+	/fh FMLOCAL
+	/fw FMLOCAL
+	/llx FMLOCAL
+	/lly FMLOCAL
+	/urx FMLOCAL
+	/ury FMLOCAL
+/FMBEGINEPSF { 
+	end 
+	/FMEPSF save def 
+	/showpage {} def 
+% See Adobe's "PostScript Language Reference Manual, 2nd Edition", page 714.
+% "...the following operators MUST NOT be used in an EPS file:" (emphasis ours)
+	/banddevice {(banddevice) FMBADEPSF} def
+	/clear {(clear) FMBADEPSF} def
+	/cleardictstack {(cleardictstack) FMBADEPSF} def 
+	/copypage {(copypage) FMBADEPSF} def
+	/erasepage {(erasepage) FMBADEPSF} def
+	/exitserver {(exitserver) FMBADEPSF} def
+	/framedevice {(framedevice) FMBADEPSF} def
+	/grestoreall {(grestoreall) FMBADEPSF} def
+	/initclip {(initclip) FMBADEPSF} def
+	/initgraphics {(initgraphics) FMBADEPSF} def
+	/initmatrix {(initmatrix) FMBADEPSF} def
+	/quit {(quit) FMBADEPSF} def
+	/renderbands {(renderbands) FMBADEPSF} def
+	/setglobal {(setglobal) FMBADEPSF} def
+	/setpagedevice {(setpagedevice) FMBADEPSF} def
+	/setshared {(setshared) FMBADEPSF} def
+	/startjob {(startjob) FMBADEPSF} def
+	/lettertray {(lettertray) FMBADEPSF} def
+	/letter {(letter) FMBADEPSF} def
+	/lettersmall {(lettersmall) FMBADEPSF} def
+	/11x17tray {(11x17tray) FMBADEPSF} def
+	/11x17 {(11x17) FMBADEPSF} def
+	/ledgertray {(ledgertray) FMBADEPSF} def
+	/ledger {(ledger) FMBADEPSF} def
+	/legaltray {(legaltray) FMBADEPSF} def
+	/legal {(legal) FMBADEPSF} def
+	/statementtray {(statementtray) FMBADEPSF} def
+	/statement {(statement) FMBADEPSF} def
+	/executivetray {(executivetray) FMBADEPSF} def
+	/executive {(executive) FMBADEPSF} def
+	/a3tray {(a3tray) FMBADEPSF} def
+	/a3 {(a3) FMBADEPSF} def
+	/a4tray {(a4tray) FMBADEPSF} def
+	/a4 {(a4) FMBADEPSF} def
+	/a4small {(a4small) FMBADEPSF} def
+	/b4tray {(b4tray) FMBADEPSF} def
+	/b4 {(b4) FMBADEPSF} def
+	/b5tray {(b5tray) FMBADEPSF} def
+	/b5 {(b5) FMBADEPSF} def
+	FMNORMALIZEGRAPHICS 
+	[/fy /fx /fh /fw /ury /urx /lly /llx] {exch def} forall 
+	fx fw 2 div add fy fh 2 div add  translate
+	rotate
+	fw 2 div neg fh 2 div neg translate
+	fw urx llx sub div fh ury lly sub div scale 
+	llx neg lly neg translate 
+	/FMdicttop countdictstack 1 add def 
+	/FMoptop count def 
+	} bind def
+/FMENDEPSF {
+	count -1 FMoptop {pop pop} for 
+	countdictstack -1 FMdicttop {pop end} for 
+	FMEPSF restore
+	FrameDict begin 
+	} bind def
+FrameDict begin 
+/setmanualfeed {
+%%BeginFeature *ManualFeed True
+	 statusdict /manualfeed true put
+%%EndFeature
+	} bind def
+/max {2 copy lt {exch} if pop} bind def
+/min {2 copy gt {exch} if pop} bind def
+/inch {72 mul} def
+/pagedimen { 
+	paperheight sub abs 16 lt exch 
+	paperwidth sub abs 16 lt and
+	{/papername exch def} {pop} ifelse
+	} bind def
+	/papersizedict FMLOCAL
+/setpapername { 
+	/papersizedict 14 dict def 
+	papersizedict begin
+	/papername /unknown def 
+		/Letter 8.5 inch 11.0 inch pagedimen
+		/LetterSmall 7.68 inch 10.16 inch pagedimen
+		/Tabloid 11.0 inch 17.0 inch pagedimen
+		/Ledger 17.0 inch 11.0 inch pagedimen
+		/Legal 8.5 inch 14.0 inch pagedimen
+		/Statement 5.5 inch 8.5 inch pagedimen
+		/Executive 7.5 inch 10.0 inch pagedimen
+		/A3 11.69 inch 16.5 inch pagedimen
+		/A4 8.26 inch 11.69 inch pagedimen
+		/A4Small 7.47 inch 10.85 inch pagedimen
+		/B4 10.125 inch 14.33 inch pagedimen
+		/B5 7.16 inch 10.125 inch pagedimen
+	end
+	} bind def
+/papersize {
+	papersizedict begin
+		/Letter {lettertray letter} def
+		/LetterSmall {lettertray lettersmall} def
+		/Tabloid {11x17tray 11x17} def
+		/Ledger {ledgertray ledger} def
+		/Legal {legaltray legal} def
+		/Statement {statementtray statement} def
+		/Executive {executivetray executive} def
+		/A3 {a3tray a3} def
+		/A4 {a4tray a4} def
+		/A4Small {a4tray a4small} def
+		/B4 {b4tray b4} def
+		/B5 {b5tray b5} def
+		/unknown {unknown} def
+	papersizedict dup papername known {papername} {/unknown} ifelse get
+	end
+	statusdict begin stopped end 
+	} bind def
+/manualpapersize {
+	papersizedict begin
+		/Letter {letter} def
+		/LetterSmall {lettersmall} def
+		/Tabloid {11x17} def
+		/Ledger {ledger} def
+		/Legal {legal} def
+		/Statement {statement} def
+		/Executive {executive} def
+		/A3 {a3} def
+		/A4 {a4} def
+		/A4Small {a4small} def
+		/B4 {b4} def
+		/B5 {b5} def
+		/unknown {unknown} def
+	papersizedict dup papername known {papername} {/unknown} ifelse get
+	end
+	stopped 
+	} bind def
+/desperatepapersize {
+	statusdict /setpageparams known
+		{
+		paperwidth paperheight 0 1 
+		statusdict begin
+		{setpageparams} stopped 
+		end
+		} {true} ifelse 
+	} bind def
+/DiacriticEncoding [
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /space /exclam /quotedbl
+/numbersign /dollar /percent /ampersand /quotesingle /parenleft
+/parenright /asterisk /plus /comma /hyphen /period /slash /zero /one
+/two /three /four /five /six /seven /eight /nine /colon /semicolon
+/less /equal /greater /question /at /A /B /C /D /E /F /G /H /I /J /K
+/L /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft /backslash
+/bracketright /asciicircum /underscore /grave /a /b /c /d /e /f /g /h
+/i /j /k /l /m /n /o /p /q /r /s /t /u /v /w /x /y /z /braceleft /bar
+/braceright /asciitilde /.notdef /Adieresis /Aring /Ccedilla /Eacute
+/Ntilde /Odieresis /Udieresis /aacute /agrave /acircumflex /adieresis
+/atilde /aring /ccedilla /eacute /egrave /ecircumflex /edieresis
+/iacute /igrave /icircumflex /idieresis /ntilde /oacute /ograve
+/ocircumflex /odieresis /otilde /uacute /ugrave /ucircumflex
+/udieresis /dagger /.notdef /cent /sterling /section /bullet
+/paragraph /germandbls /registered /copyright /trademark /acute
+/dieresis /.notdef /AE /Oslash /.notdef /.notdef /.notdef /.notdef
+/yen /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/ordfeminine /ordmasculine /.notdef /ae /oslash /questiondown
+/exclamdown /logicalnot /.notdef /florin /.notdef /.notdef
+/guillemotleft /guillemotright /ellipsis /.notdef /Agrave /Atilde
+/Otilde /OE /oe /endash /emdash /quotedblleft /quotedblright
+/quoteleft /quoteright /.notdef /.notdef /ydieresis /Ydieresis
+/fraction /currency /guilsinglleft /guilsinglright /fi /fl /daggerdbl
+/periodcentered /quotesinglbase /quotedblbase /perthousand
+/Acircumflex /Ecircumflex /Aacute /Edieresis /Egrave /Iacute
+/Icircumflex /Idieresis /Igrave /Oacute /Ocircumflex /.notdef /Ograve
+/Uacute /Ucircumflex /Ugrave /dotlessi /circumflex /tilde /macron
+/breve /dotaccent /ring /cedilla /hungarumlaut /ogonek /caron
+] def
+/ReEncode { 
+	dup 
+	length 
+	dict begin 
+	{
+	1 index /FID ne 
+		{def} 
+		{pop pop} ifelse 
+	} forall 
+	0 eq {/Encoding DiacriticEncoding def} if 
+	currentdict 
+	end 
+	} bind def
+FMPColor 
+	
+	{
+	/BEGINBITMAPCOLOR { 
+		BITMAPCOLOR} def
+	/BEGINBITMAPCOLORc { 
+		BITMAPCOLORc} def
+	/BEGINBITMAPTRUECOLOR { 
+		BITMAPTRUECOLOR } def
+	/BEGINBITMAPTRUECOLORc { 
+		BITMAPTRUECOLORc } def
+	}
+	
+	{
+	/BEGINBITMAPCOLOR { 
+		BITMAPGRAY} def
+	/BEGINBITMAPCOLORc { 
+		BITMAPGRAYc} def
+	/BEGINBITMAPTRUECOLOR { 
+		BITMAPTRUEGRAY } def
+	/BEGINBITMAPTRUECOLORc { 
+		BITMAPTRUEGRAYc } def
+	}
+ifelse
+/K { 
+	FMPrintAllColorsAsBlack {
+		dup 1 eq 2 index 1 eq and 3 index 1 eq and not
+			{7 {pop} repeat 0 0 0 1 0 0 0} if
+	} if 
+	FrameCurColors astore 
+	pop combineColor
+} bind def
+/graymode true def
+	/bwidth FMLOCAL
+	/bpside FMLOCAL
+	/bstring FMLOCAL
+	/onbits FMLOCAL
+	/offbits FMLOCAL
+	/xindex FMLOCAL
+	/yindex FMLOCAL
+	/x FMLOCAL
+	/y FMLOCAL
+/setPatternMode {
+	FMLevel1 {
+		/bwidth  exch def
+		/bpside  exch def
+		/bstring exch def
+		/onbits 0 def  /offbits 0 def
+		freq sangle landscape {90 add} if 
+			{/y exch def
+			 /x exch def
+			 /xindex x 1 add 2 div bpside mul cvi def
+			 /yindex y 1 add 2 div bpside mul cvi def
+			 bstring yindex bwidth mul xindex 8 idiv add get
+			 1 7 xindex 8 mod sub bitshift and 0 ne FrameNegative {not} if
+			 {/onbits  onbits  1 add def 1}
+			 {/offbits offbits 1 add def 0}
+			 ifelse
+			}
+			setscreen
+		offbits offbits onbits add div FrameNegative {1.0 exch sub} if
+		/FrameCurGray exch def
+	} { 
+		pop pop
+		dup patCache exch known {
+			patCache exch get
+		} { 
+			dup
+			patDict /bstring 3 -1 roll put
+			patDict 
+			9 PatFreq screenIndex get div dup matrix scale
+			makepattern
+			dup 
+			patCache 4 -1 roll 3 -1 roll put
+		} ifelse
+		/FrameCurGray 0 def
+		/FrameCurPat exch def
+	} ifelse
+	/graymode false def
+	combineColor
+} bind def
+/setGrayScaleMode {
+	graymode not {
+		/graymode true def
+		FMLevel1 {
+			setCurrentScreen
+		} if
+	} if
+	/FrameCurGray exch def
+	combineColor
+} bind def
+/normalize {
+	transform round exch round exch itransform
+	} bind def
+/dnormalize {
+	dtransform round exch round exch idtransform
+	} bind def
+/lnormalize { 
+	0 dtransform exch cvi 2 idiv 2 mul 1 add exch idtransform pop
+	} bind def
+/H { 
+	lnormalize setlinewidth
+	} bind def
+/Z {
+	setlinecap
+	} bind def
+	
+/PFill {
+	graymode FMLevel1 or not {
+		gsave 1 setgray eofill grestore
+	} if
+} bind def
+/PStroke {
+	graymode FMLevel1 or not {
+		gsave 1 setgray stroke grestore
+	} if
+	stroke
+} bind def
+	/fillvals FMLOCAL
+/X { 
+	fillvals exch get
+	dup type /stringtype eq
+	{8 1 setPatternMode} 
+	{setGrayScaleMode}
+	ifelse
+	} bind def
+/V { 
+	PFill gsave eofill grestore
+	} bind def
+/Vclip {
+	clip
+	} bind def
+/Vstrk {
+	currentlinewidth exch setlinewidth PStroke setlinewidth
+	} bind def
+/N { 
+	PStroke
+	} bind def
+/Nclip {
+	strokepath clip newpath
+	} bind def
+/Nstrk {
+	currentlinewidth exch setlinewidth PStroke setlinewidth
+	} bind def
+/M {newpath moveto} bind def
+/E {lineto} bind def
+/D {curveto} bind def
+/O {closepath} bind def
+	/n FMLOCAL
+/L { 
+ 	/n exch def
+	newpath
+	normalize
+	moveto 
+	2 1 n {pop normalize lineto} for
+	} bind def
+/Y { 
+	L 
+	closepath
+	} bind def
+	/x1 FMLOCAL
+	/x2 FMLOCAL
+	/y1 FMLOCAL
+	/y2 FMLOCAL
+/R { 
+	/y2 exch def
+	/x2 exch def
+	/y1 exch def
+	/x1 exch def
+	x1 y1
+	x2 y1
+	x2 y2
+	x1 y2
+	4 Y 
+	} bind def
+	/rad FMLOCAL
+/rarc 
+	{rad 
+	 arcto
+	} bind def
+/RR { 
+	/rad exch def
+	normalize
+	/y2 exch def
+	/x2 exch def
+	normalize
+	/y1 exch def
+	/x1 exch def
+	mark
+	newpath
+	{
+	x1 y1 rad add moveto
+	x1 y2 x2 y2 rarc
+	x2 y2 x2 y1 rarc
+	x2 y1 x1 y1 rarc
+	x1 y1 x1 y2 rarc
+	closepath
+	} stopped {x1 y1 x2 y2 R} if 
+	cleartomark
+	} bind def
+/RRR { 
+	/rad exch def
+	normalize /y4 exch def /x4 exch def
+	normalize /y3 exch def /x3 exch def
+	normalize /y2 exch def /x2 exch def
+	normalize /y1 exch def /x1 exch def
+	newpath
+	normalize moveto 
+	mark
+	{
+	x2 y2 x3 y3 rarc
+	x3 y3 x4 y4 rarc
+	x4 y4 x1 y1 rarc
+	x1 y1 x2 y2 rarc
+	closepath
+	} stopped
+	 {x1 y1 x2 y2 x3 y3 x4 y4 newpath moveto lineto lineto lineto closepath} if
+	cleartomark
+	} bind def
+/C { 
+	grestore
+	gsave
+	R 
+	clip
+	setCurrentScreen
+} bind def
+/CP { 
+	grestore
+	gsave
+	Y 
+	clip
+	setCurrentScreen
+} bind def
+	/FMpointsize FMLOCAL
+/F { 
+	FMfonts exch get
+	FMpointsize scalefont
+	setfont
+	} bind def
+/Q { 
+	/FMpointsize exch def
+	F 
+	} bind def
+/T { 
+	moveto show
+	} bind def
+/RF { 
+	rotate
+	0 ne {-1 1 scale} if
+	} bind def
+/TF { 
+	gsave
+	moveto 
+	RF
+	show
+	grestore
+	} bind def
+/P { 
+	moveto
+	0 32 3 2 roll widthshow
+	} bind def
+/PF { 
+	gsave
+	moveto 
+	RF
+	0 32 3 2 roll widthshow
+	grestore
+	} bind def
+/S { 
+	moveto
+	0 exch ashow
+	} bind def
+/SF { 
+	gsave
+	moveto
+	RF
+	0 exch ashow
+	grestore
+	} bind def
+/B { 
+	moveto
+	0 32 4 2 roll 0 exch awidthshow
+	} bind def
+/BF { 
+	gsave
+	moveto
+	RF
+	0 32 4 2 roll 0 exch awidthshow
+	grestore
+	} bind def
+/G { 
+	gsave
+	newpath
+	normalize translate 0.0 0.0 moveto 
+	dnormalize scale 
+	0.0 0.0 1.0 5 3 roll arc 
+	closepath 
+	PFill fill
+	grestore
+	} bind def
+/Gstrk {
+	savematrix
+    newpath
+    2 index 2 div add exch 3 index 2 div sub exch 
+    normalize 2 index 2 div sub exch 3 index 2 div add exch 
+    translate
+    scale 
+    0.0 0.0 1.0 5 3 roll arc 
+    restorematrix
+    currentlinewidth exch setlinewidth PStroke setlinewidth
+    } bind def
+/Gclip { 
+	newpath
+	savematrix
+	normalize translate 0.0 0.0 moveto 
+	dnormalize scale 
+	0.0 0.0 1.0 5 3 roll arc 
+	closepath 
+	clip newpath
+	restorematrix
+	} bind def
+/GG { 
+	gsave
+	newpath
+	normalize translate 0.0 0.0 moveto 
+	rotate 
+	dnormalize scale 
+	0.0 0.0 1.0 5 3 roll arc 
+	closepath
+	PFill
+	fill
+	grestore
+	} bind def
+/GGclip { 
+	savematrix
+	newpath
+    normalize translate 0.0 0.0 moveto 
+    rotate 
+    dnormalize scale 
+    0.0 0.0 1.0 5 3 roll arc 
+    closepath
+	clip newpath
+	restorematrix
+	} bind def
+/GGstrk { 
+	savematrix
+    newpath
+    normalize translate 0.0 0.0 moveto 
+    rotate 
+    dnormalize scale 
+    0.0 0.0 1.0 5 3 roll arc 
+    closepath 
+	restorematrix
+    currentlinewidth exch setlinewidth PStroke setlinewidth
+	} bind def
+/A { 
+	gsave
+	savematrix
+	newpath
+	2 index 2 div add exch 3 index 2 div sub exch 
+	normalize 2 index 2 div sub exch 3 index 2 div add exch 
+	translate 
+	scale 
+	0.0 0.0 1.0 5 3 roll arc 
+	restorematrix
+	PStroke
+	grestore
+	} bind def
+/Aclip {
+	newpath
+	savematrix
+	normalize translate 0.0 0.0 moveto 
+	dnormalize scale 
+	0.0 0.0 1.0 5 3 roll arc 
+	closepath 
+	strokepath clip newpath
+	restorematrix
+} bind def
+/Astrk {
+	Gstrk
+} bind def
+/AA { 
+	gsave
+	savematrix
+	newpath
+	
+	3 index 2 div add exch 4 index 2 div sub exch 
+	
+	normalize 3 index 2 div sub exch 4 index 2 div add exch
+	translate 
+	rotate 
+	scale 
+	0.0 0.0 1.0 5 3 roll arc 
+	restorematrix
+	PStroke
+	grestore
+	} bind def
+/AAclip {
+	savematrix
+	newpath
+    normalize translate 0.0 0.0 moveto 
+    rotate 
+    dnormalize scale 
+    0.0 0.0 1.0 5 3 roll arc 
+    closepath
+	strokepath clip newpath
+	restorematrix
+} bind def
+/AAstrk {
+	GGstrk
+} bind def
+	/x FMLOCAL
+	/y FMLOCAL
+	/w FMLOCAL
+	/h FMLOCAL
+	/xx FMLOCAL
+	/yy FMLOCAL
+	/ww FMLOCAL
+	/hh FMLOCAL
+	/FMsaveobject FMLOCAL
+	/FMoptop FMLOCAL
+	/FMdicttop FMLOCAL
+/BEGINPRINTCODE { 
+	/FMdicttop countdictstack 1 add def 
+	/FMoptop count 7 sub def 
+	/FMsaveobject save def
+	userdict begin 
+	/showpage {} def 
+	FMNORMALIZEGRAPHICS 
+	3 index neg 3 index neg translate
+	} bind def
+/ENDPRINTCODE {
+	count -1 FMoptop {pop pop} for 
+	countdictstack -1 FMdicttop {pop end} for 
+	FMsaveobject restore 
+	} bind def
+/gn { 
+	0 
+	{	46 mul 
+		cf read pop 
+		32 sub 
+		dup 46 lt {exit} if 
+		46 sub add 
+		} loop
+	add 
+	} bind def
+	/str FMLOCAL
+/cfs { 
+	/str sl string def 
+	0 1 sl 1 sub {str exch val put} for 
+	str def 
+	} bind def
+/ic [ 
+	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0223
+	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0223
+	0
+	{0 hx} {1 hx} {2 hx} {3 hx} {4 hx} {5 hx} {6 hx} {7 hx} {8 hx} {9 hx}
+	{10 hx} {11 hx} {12 hx} {13 hx} {14 hx} {15 hx} {16 hx} {17 hx} {18 hx}
+	{19 hx} {gn hx} {0} {1} {2} {3} {4} {5} {6} {7} {8} {9} {10} {11} {12}
+	{13} {14} {15} {16} {17} {18} {19} {gn} {0 wh} {1 wh} {2 wh} {3 wh}
+	{4 wh} {5 wh} {6 wh} {7 wh} {8 wh} {9 wh} {10 wh} {11 wh} {12 wh}
+	{13 wh} {14 wh} {gn wh} {0 bl} {1 bl} {2 bl} {3 bl} {4 bl} {5 bl} {6 bl}
+	{7 bl} {8 bl} {9 bl} {10 bl} {11 bl} {12 bl} {13 bl} {14 bl} {gn bl}
+	{0 fl} {1 fl} {2 fl} {3 fl} {4 fl} {5 fl} {6 fl} {7 fl} {8 fl} {9 fl}
+	{10 fl} {11 fl} {12 fl} {13 fl} {14 fl} {gn fl}
+	] def
+	/sl FMLOCAL
+	/val FMLOCAL
+	/ws FMLOCAL
+	/im FMLOCAL
+	/bs FMLOCAL
+	/cs FMLOCAL
+	/len FMLOCAL
+	/pos FMLOCAL
+/ms { 
+	/sl exch def 
+	/val 255 def 
+	/ws cfs 
+	/im cfs 
+	/val 0 def 
+	/bs cfs 
+	/cs cfs 
+	} bind def
+400 ms 
+/ip { 
+	is 
+	0 
+	cf cs readline pop 
+	{	ic exch get exec 
+		add 
+		} forall 
+	pop 
+	
+	} bind def
+/rip { 
+	   
+	  
+	  bis ris copy pop 
+      is
+      0
+      cf cs readline pop 
+      {       ic exch get exec 
+              add 
+              } forall 
+	  pop pop 
+	  ris gis copy pop 
+	  dup is exch 
+	  
+      cf cs readline pop 
+      {       ic exch get exec 
+              add 
+              } forall 
+	  pop pop
+	  gis bis copy pop 
+	  dup add is exch 
+	  
+      cf cs readline pop 
+      {       ic exch get exec 
+              add 
+              } forall 
+      pop 
+      
+      } bind def
+/wh { 
+	/len exch def 
+	/pos exch def 
+	ws 0 len getinterval im pos len getinterval copy pop
+	pos len 
+	} bind def
+/bl { 
+	/len exch def 
+	/pos exch def 
+	bs 0 len getinterval im pos len getinterval copy pop
+	pos len 
+	} bind def
+/s1 1 string def
+/fl { 
+	/len exch def 
+	/pos exch def 
+	/val cf s1 readhexstring pop 0 get def
+	pos 1 pos len add 1 sub {im exch val put} for
+	pos len 
+	} bind def
+/hx { 
+	3 copy getinterval 
+	cf exch readhexstring pop pop 
+	} bind def
+	/h FMLOCAL
+	/w FMLOCAL
+	/d FMLOCAL
+	/lb FMLOCAL
+	/bitmapsave FMLOCAL
+	/is FMLOCAL
+	/cf FMLOCAL
+/wbytes { 
+      dup dup
+      24 eq { pop pop 3 mul }
+      { 8 eq {pop} {1 eq {7 add 8 idiv} {3 add 4 idiv} ifelse} ifelse } ifelse
+	} bind def
+/BEGINBITMAPBWc { 
+	1 {} COMMONBITMAPc
+	} bind def
+/BEGINBITMAPGRAYc { 
+	8 {} COMMONBITMAPc
+	} bind def
+/BEGINBITMAP2BITc { 
+	2 {} COMMONBITMAPc
+	} bind def
+/COMMONBITMAPc { 
+		 
+	/r exch def
+	/d exch def
+	gsave
+	
+	3 index 2 div add exch	
+	4 index 2 div add exch	
+	translate		
+	rotate			
+	1 index 2 div neg	
+	1 index 2 div neg	
+	translate		
+	scale			
+	/h exch def /w exch def
+	/lb w d wbytes def 
+	sl lb lt {lb ms} if 
+	/bitmapsave save def 
+	r                    
+	/is im 0 lb getinterval def 
+	ws 0 lb getinterval is copy pop 
+	/cf currentfile def 
+	w h d [w 0 0 h neg 0 h] 
+	{ip} image 
+	bitmapsave restore 
+	grestore
+	} bind def
+/BEGINBITMAPBW { 
+	1 {} COMMONBITMAP
+	} bind def
+/BEGINBITMAPGRAY { 
+	8 {} COMMONBITMAP
+	} bind def
+/BEGINBITMAP2BIT { 
+	2 {} COMMONBITMAP
+	} bind def
+/COMMONBITMAP { 
+	/r exch def
+	/d exch def
+	gsave
+	
+	3 index 2 div add exch	
+	4 index 2 div add exch	
+	translate		
+	rotate			
+	1 index 2 div neg	
+	1 index 2 div neg	
+	translate		
+	scale			
+	/h exch def /w exch def
+	/bitmapsave save def 
+	r                    
+	/is w d wbytes string def
+	/cf currentfile def 
+	w h d [w 0 0 h neg 0 h] 
+	{cf is readhexstring pop} image
+	bitmapsave restore 
+	grestore
+	} bind def
+/ngrayt 256 array def
+/nredt 256 array def
+/nbluet 256 array def
+/ngreent 256 array def
+	/gryt FMLOCAL
+	/blut FMLOCAL
+	/grnt FMLOCAL
+	/redt FMLOCAL
+	/indx FMLOCAL
+	/cynu FMLOCAL
+	/magu FMLOCAL
+	/yelu FMLOCAL
+	/k FMLOCAL
+	/u FMLOCAL
+FMLevel1 {
+/colorsetup {
+	currentcolortransfer
+	/gryt exch def
+	/blut exch def
+	/grnt exch def
+	/redt exch def
+	0 1 255 {
+		/indx exch def
+		/cynu 1 red indx get 255 div sub def
+		/magu 1 green indx get 255 div sub def
+		/yelu 1 blue indx get 255 div sub def
+		/k cynu magu min yelu min def
+		/u k currentundercolorremoval exec def
+%		/u 0 def
+		nredt indx 1 0 cynu u sub max sub redt exec put
+		ngreent indx 1 0 magu u sub max sub grnt exec put
+		nbluet indx 1 0 yelu u sub max sub blut exec put
+		ngrayt indx 1 k currentblackgeneration exec sub gryt exec put
+	} for
+	{255 mul cvi nredt exch get}
+	{255 mul cvi ngreent exch get}
+	{255 mul cvi nbluet exch get}
+	{255 mul cvi ngrayt exch get}
+	setcolortransfer
+	{pop 0} setundercolorremoval
+	{} setblackgeneration
+	} bind def
+}
+{
+/colorSetup2 {
+	[ /Indexed /DeviceRGB 255 
+		{dup red exch get 255 div 
+		 exch dup green exch get 255 div 
+		 exch blue exch get 255 div}
+	] setcolorspace
+} bind def
+} ifelse
+	/tran FMLOCAL
+/fakecolorsetup {
+	/tran 256 string def
+	0 1 255 {/indx exch def 
+		tran indx
+		red indx get 77 mul
+		green indx get 151 mul
+		blue indx get 28 mul
+		add add 256 idiv put} for
+	currenttransfer
+	{255 mul cvi tran exch get 255.0 div}
+	exch concatprocs settransfer
+} bind def
+/BITMAPCOLOR { 
+	/d 8 def
+	gsave
+	
+	3 index 2 div add exch	
+	4 index 2 div add exch	
+	translate		
+	rotate			
+	1 index 2 div neg	
+	1 index 2 div neg	
+	translate		
+	scale			
+	/h exch def /w exch def
+	/bitmapsave save def
+	FMLevel1 {	
+		colorsetup
+		/is w d wbytes string def
+		/cf currentfile def 
+		w h d [w 0 0 h neg 0 h] 
+		{cf is readhexstring pop} {is} {is} true 3 colorimage 
+	} {
+		colorSetup2
+		/is w d wbytes string def
+		/cf currentfile def 
+		7 dict dup begin
+			/ImageType 1 def
+			/Width w def
+			/Height h def
+			/ImageMatrix [w 0 0 h neg 0 h] def
+			/DataSource {cf is readhexstring pop} bind def
+			/BitsPerComponent d def
+			/Decode [0 255] def
+		end image	
+	} ifelse
+	bitmapsave restore 
+	grestore
+	} bind def
+/BITMAPCOLORc { 
+	/d 8 def
+	gsave
+	
+	3 index 2 div add exch	
+	4 index 2 div add exch	
+	translate		
+	rotate			
+	1 index 2 div neg	
+	1 index 2 div neg	
+	translate		
+	scale			
+	/h exch def /w exch def
+	/lb w d wbytes def 
+	sl lb lt {lb ms} if 
+	/bitmapsave save def 
+	FMLevel1 {	
+		colorsetup
+		/is im 0 lb getinterval def 
+		ws 0 lb getinterval is copy pop 
+		/cf currentfile def 
+		w h d [w 0 0 h neg 0 h] 
+		{ip} {is} {is} true 3 colorimage
+	} {
+		colorSetup2
+		/is im 0 lb getinterval def 
+		ws 0 lb getinterval is copy pop 
+		/cf currentfile def 
+		7 dict dup begin
+			/ImageType 1 def
+			/Width w def
+			/Height h def
+			/ImageMatrix [w 0 0 h neg 0 h] def
+			/DataSource {ip} bind def
+			/BitsPerComponent d def
+			/Decode [0 255] def
+		end image	
+	} ifelse
+	bitmapsave restore 
+	grestore
+	} bind def
+/BITMAPTRUECOLORc { 
+	/d 24 def
+        gsave
+ 	
+	3 index 2 div add exch	
+	4 index 2 div add exch	
+	translate		
+	rotate			
+	1 index 2 div neg	
+	1 index 2 div neg	
+	translate		
+	scale			
+	/h exch def /w exch def
+	/lb w d wbytes def 
+	sl lb lt {lb ms} if 
+        /bitmapsave save def 
+        
+	/is im 0 lb getinterval def	
+	/ris im 0 w getinterval def	
+	/gis im w w getinterval def	
+	/bis im w 2 mul w getinterval def 
+        
+        ws 0 lb getinterval is copy pop 
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        {w rip pop ris} {gis} {bis} true 3 colorimage
+        bitmapsave restore 
+        grestore
+        } bind def
+/BITMAPTRUECOLOR { 
+        gsave
+		
+		3 index 2 div add exch	
+		4 index 2 div add exch	
+		translate		
+		rotate			
+		1 index 2 div neg	
+		1 index 2 div neg	
+		translate		
+		scale			
+		/h exch def /w exch def
+        /bitmapsave save def 
+        /is w string def
+        /gis w string def
+        /bis w string def
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        { cf is readhexstring pop } 
+        { cf gis readhexstring pop } 
+        { cf bis readhexstring pop } 
+        true 3 colorimage 
+        bitmapsave restore 
+        grestore
+        } bind def
+/BITMAPTRUEGRAYc { 
+	/d 24 def
+        gsave
+	
+	3 index 2 div add exch	
+	4 index 2 div add exch	
+	translate		
+	rotate			
+	1 index 2 div neg	
+	1 index 2 div neg	
+	translate		
+	scale			
+	/h exch def /w exch def
+	/lb w d wbytes def 
+	sl lb lt {lb ms} if 
+        /bitmapsave save def 
+        
+	/is im 0 lb getinterval def	
+	/ris im 0 w getinterval def	
+	/gis im w w getinterval def	
+	/bis im w 2 mul w getinterval def 
+        ws 0 lb getinterval is copy pop 
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        {w rip pop ris gis bis w gray} image
+        bitmapsave restore 
+        grestore
+        } bind def
+/ww FMLOCAL
+/r FMLOCAL
+/g FMLOCAL
+/b FMLOCAL
+/i FMLOCAL
+/gray { 
+        /ww exch def
+        /b exch def
+        /g exch def
+        /r exch def
+        0 1 ww 1 sub { /i exch def r i get .299 mul g i get .587 mul
+			b i get .114 mul add add r i 3 -1 roll floor cvi put } for
+        r
+        } bind def
+/BITMAPTRUEGRAY { 
+        gsave
+		
+		3 index 2 div add exch	
+		4 index 2 div add exch	
+		translate		
+		rotate			
+		1 index 2 div neg	
+		1 index 2 div neg	
+		translate		
+		scale			
+		/h exch def /w exch def
+        /bitmapsave save def 
+        /is w string def
+        /gis w string def
+        /bis w string def
+        /cf currentfile def 
+        w h 8 [w 0 0 h neg 0 h] 
+        { cf is readhexstring pop 
+          cf gis readhexstring pop 
+          cf bis readhexstring pop w gray}  image
+        bitmapsave restore 
+        grestore
+        } bind def
+/BITMAPGRAY { 
+	8 {fakecolorsetup} COMMONBITMAP
+	} bind def
+/BITMAPGRAYc { 
+	8 {fakecolorsetup} COMMONBITMAPc
+	} bind def
+/ENDBITMAP {
+	} bind def
+end 
+	/ALDsave FMLOCAL
+	/ALDmatrix matrix def ALDmatrix currentmatrix pop
+/StartALD {
+	/ALDsave save def
+	 savematrix
+	 ALDmatrix setmatrix
+	} bind def
+/InALD {
+	 restorematrix
+	} bind def
+/DoneALD {
+	 ALDsave restore
+	} bind def
+/I { setdash } bind def
+/J { [] 0 setdash } bind def
+%%EndProlog
+%%BeginSetup
+(4.0) FMVERSION
+1 1 0 0 612 792 0 1 15 FMDOCUMENT
+0 0 /Times-Roman FMFONTDEFINE
+1 0 /Times-BoldItalic FMFONTDEFINE
+2 0 /Helvetica-Narrow FMFONTDEFINE
+3 0 /Helvetica-Narrow-Oblique FMFONTDEFINE
+4 0 /Times-Bold FMFONTDEFINE
+5 0 /Times-Italic FMFONTDEFINE
+6 1 /ZapfDingbats FMFONTDEFINE
+7 0 /ZapfChancery-MediumItalic FMFONTDEFINE
+8 0 /Helvetica-Oblique FMFONTDEFINE
+32 FMFILLS
+0 0 FMFILL
+1 0.1 FMFILL
+2 0.3 FMFILL
+3 0.5 FMFILL
+4 0.7 FMFILL
+5 0.9 FMFILL
+6 0.97 FMFILL
+7 1 FMFILL
+8 <0f1e3c78f0e1c387> FMFILL
+9 <0f87c3e1f0783c1e> FMFILL
+10 <cccccccccccccccc> FMFILL
+11 <ffff0000ffff0000> FMFILL
+12 <8142241818244281> FMFILL
+13 <03060c183060c081> FMFILL
+14 <8040201008040201> FMFILL
+16 1 FMFILL
+17 0.9 FMFILL
+18 0.7 FMFILL
+19 0.5 FMFILL
+20 0.3 FMFILL
+21 0.1 FMFILL
+22 0.03 FMFILL
+23 0 FMFILL
+24 <f0e1c3870f1e3c78> FMFILL
+25 <f0783c1e0f87c3e1> FMFILL
+26 <3333333333333333> FMFILL
+27 <0000ffff0000ffff> FMFILL
+28 <7ebddbe7e7dbbd7e> FMFILL
+29 <fcf9f3e7cf9f3f7e> FMFILL
+30 <7fbfdfeff7fbfdfe> FMFILL
+%%EndSetup
+%%Page: "4" 1
+%%BeginPaperSize: Letter
+%%EndPaperSize
+612 792 0 FMBEGINPAGE
+[0 0 0 1 0 0 0]
+[ 0 1 1 0 1 0 0]
+[ 1 0 1 0 0 1 0]
+[ 1 1 0 0 0 0 1]
+[ 1 0 0 0 0 1 1]
+[ 0 1 0 0 1 0 1]
+[ 0 0 1 0 1 1 0]
+ 7 FrameSetSepColors
+FrameNoSep
+0 0 0 1 0 0 0 K
+J
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+36 27 576 182 R
+0.25 H
+0 Z
+0 X
+0 0 0 1 0 0 0 K
+N
+0 12 Q
+(SEEDS) 44.17 157.67 T
+(Box 313, T) 44.17 143.67 T
+(exas Union) 97.66 143.67 T
+(University of T) 44.17 129.67 T
+(exas at Austin) 117.32 129.67 T
+(Austin, TX 78713, USA) 44.17 115.67 T
+504.83 114.17 567.83 177.17 R
+N
+(Postage) 518.83 141.5 T
+216 747 216 186.16 2 L
+2 Z
+N
+395.67 744.83 395.67 184 2 L
+N
+1 10 Q
+(SEEDS is very thankful to OSA for) 411.5 214 T
+(making ANKUR available to OSA) 411.5 202 T
+(members free of charge.) 411.5 190 T
+0 F
+1.98 (water T) 45 740.33 P
+1.98 (able; Greater and easier A) 77.1 740.33 P
+1.98 (vail-) 188.67 740.33 P
+1.07 (ability of Fresh W) 45 728.33 P
+1.07 (ater; Regeneration of) 120.45 728.33 P
+(V) 45 716.33 T
+(egetation... [are other bene\336ts].) 51.11 716.33 T
+4.2 (Though thousands of trees have) 63 691 P
+1.03 (been planted along road side, today we) 45 679 P
+1.6 (see only the planting pits and no trees) 45 667 P
+0.21 (after one summer) 45 655 P
+0.21 (. This must be the case) 114.85 655 P
+0.98 (with most of our highly publicized tree) 45 643 P
+2.73 (planting projects. W) 45 631 P
+2.73 (ithout water) 131.44 631 P
+2.73 (, it is) 181.81 631 P
+0.29 (impos- sible for a tree to survive. At the) 45 619 P
+-0.47 (same time it is equally impossible to pro-) 45 607 P
+1.54 (vide irrigation to all these areas where) 45 595 P
+(even human beings are in need of water) 45 583 T
+(.) 203.57 583 T
+0.73 (\050) 45 559 P
+2 F
+0.67 (T) 48.33 559 P
+0.67 (.J. Mathew is convenor) 52.43 559 P
+0.67 (, Society for W) 137.85 559 P
+0.67 (ater) 192.87 559 P
+0.72 (and Environment Conservation, Areeplachy) 45 547 P
+0.72 (,) 204.72 547 P
+2.44 (Kerala. Article adapted from) 45 535 P
+3 F
+2.44 (Development) 158.69 535 P
+(Network --) 45 523 T
+2 F
+(Ed) 85.09 523 T
+0 F
+(.\051) 95.12 523 T
+45 488.67 207 500.67 C
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+45 494.67 189 500.67 R
+0 X
+0 0 0 1 0 0 0 K
+V
+0.25 H
+0 Z
+N
+0 -208 1000 792 C
+4 11 Q
+0 X
+0 0 0 1 0 0 0 K
+(YOUR VIEWS) 45 481.33 T
+5 10 Q
+-0.52 (This section will contain letters fr) 63 463 P
+-0.52 (om) 194.78 463 P
+1.4 (you. Y) 45 451 P
+1.4 (ou ar) 70.48 451 P
+1.4 (e r) 92.9 451 P
+1.4 (equested to give us your) 104.76 451 P
+3.12 (views, opinions and advice r) 45 439 P
+3.12 (egar) 171.26 439 P
+3.12 (ding) 189.22 439 P
+1.08 (any aspect of the SEEDS activities and) 45 427 P
+-0.09 (on this news letter) 45 415 P
+-0.09 (. Y) 116.69 415 P
+-0.09 (ou may also email it) 126.24 415 P
+(to) 45 403 T
+4 F
+(darshan@cs.utexas.edu) 55.28 403 T
+5 F
+(--Ed.) 158.2 403 T
+2 F
+-0.25 (Hi!  My name is D.T) 63 379 P
+-0.25 (. and I am a 3rd year) 132.83 379 P
+1.68 (medical student at Emory U. in Atlanta.  I) 45 367 P
+2.96 (would like to spend a year beginning in) 45 355 P
+0.27 (August and work in India.  I am interested in) 45 343 P
+-0.19 (community health and \336rmly believe in small-) 45 331 P
+2.05 (scale grass-roots development projects.  I) 45 319 P
+0.72 (found your organization SEEDS  while surf-) 45 307 P
+-0.09 (ing the WWW and thought you might be able) 45 295 P
+0.34 (to help me set something up.  Do any of the) 45 283 P
+-0.26 (projects you fund take volunteers with a lot of) 45 271 P
+-0.26 (energy and a commitment to social justice?  I) 45 259 P
+4.43 (am not \337uent in languages other than) 45 247 P
+0.77 (English... Any information, ideas or sugges-) 45 235 P
+0.57 (tions will be greatly appreciated. Thanks. ---) 45 223 P
+(D.T) 45 211 T
+(.) 57.3 211 T
+225 735 387 747 C
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+225 741 369 747 R
+0 X
+0 0 0 1 0 0 0 K
+V
+0.25 H
+0 Z
+N
+0 -208 1000 792 C
+4 11 Q
+0 X
+0 0 0 1 0 0 0 K
+(LIST OF NEW MEMBERS) 225 727.67 T
+0 10 Q
+2.39 (SEEDS thanks the following) 243 703 P
+1 F
+2.39 (new) 370.33 703 P
+0 F
+1.24 (members for having made direct \336nan-) 225 691 P
+4.9 (cial and moral contributions to the) 225 679 P
+(ef) 225 667 T
+(forts of this young or) 232.59 667 T
+(ganization.) 316.85 667 T
+5 9 Q
+4.4 (Purna Mishra, Rajesh R. Mishra, Kula) 225 643.67 P
+3.44 (Misra, Ranjeev Misra, Debasis Mohanty) 225 632.67 P
+3.44 (,) 384.75 632.67 P
+2.45 (Neelamadhaba Mohapatr) 225 621.67 P
+2.45 (o, Gopal Mohap-) 319.86 621.67 P
+0.9 (atra,, Prakash K. Muduli, Kartikeyan Obla,) 225 610.67 P
+2.5 (Nabin Panda, Pradipta Panigrahi, Rabin-) 225 599.67 P
+4.15 (dranath Patnaik, Surjit Sahoo, Sashi &) 225 588.67 P
+1.06 (Namita Satapathy) 225 577.67 P
+1.06 (, A Gr) 290.32 577.67 P
+1.06 (oup of well-wishers) 314.37 577.67 P
+(fr) 225 566.67 T
+(om Canada.) 230.67 566.67 T
+225 524.67 387 536.67 C
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+225 530.67 369 536.67 R
+0 X
+0 0 0 1 0 0 0 K
+V
+0.25 H
+0 Z
+N
+0 -208 1000 792 C
+4 11 Q
+0 X
+0 0 0 1 0 0 0 K
+(Other News) 225 517.33 T
+0 10 Q
+2.08 (Over three wonderful days in last) 243 499 P
+17.19 (December) 225 487 P
+17.19 (, colleague Umakanta) 265.69 487 P
+0.52 (Choudhury and I visited a dispensary at) 225 475 P
+2.46 (Katingia, a students\325 hostel at Raikia,) 225 463 P
+1.2 (Biswanathpur and surrounding areas of) 225 451 P
+2.19 (Lanjigarh, a \322satsanga\323 center at Har-) 225 439 P
+-0.58 (langa, a \322kanya ashram\323 at Jalespata, and) 225 427 P
+2.04 (a homeo/allo-pathy dispensary at Kur-) 225 415 P
+1.54 (tamgarh -- all run by V) 225 403 P
+1.54 (anabasi Kalyan) 324.09 403 P
+0.91 (Ashram \050VKA\051 in Kalahandi and Phul-) 225 391 P
+-0.05 (bani areas of Orissa. W) 225 379 P
+-0.05 (e went to 3 of the) 317.56 379 P
+3.08 (14 one-teacher schools, sponsored by) 225 367 P
+4.18 (SEEDS, that had started functioning) 225 355 P
+3.85 (since \336rst week of December) 225 343 P
+3.85 (. Their) 356.49 343 P
+8.29 (names are Kuburi, Matkera, and) 225 331 P
+0.63 (Nagjhari villages populated by tribals. I) 225 319 P
+-0.5 (hope to write a more detailed report later) 225 307 P
+-0.5 (.) 384.5 307 P
+4.41 (On another front: In July 1994) 243 283 P
+0.68 (SEEDS had sponsored training of some) 225 271 P
+2.17 (volunteers from Orissa in \322sustainable) 225 259 P
+0.23 (development\323 at the Bhagavatula Chari-) 225 247 P
+1.11 (table T) 225 235 P
+1.11 (rust. Unfortunately) 253.81 235 P
+1.11 (, we have not) 330.36 235 P
+-0.03 (yet received any report from the trainees) 225 223 P
+0.05 (or the trainer since then, despite our ear-) 225 211 P
+(lier agreement. ---Ed.) 225 199 T
+372.53 196.98 381.53 205.98 C
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+372.53 196.98 381.53 205.98 R
+8 X
+0 0 0 1 0 0 0 K
+V
+0 -208 1000 792 C
+405 735 567 747 C
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+405 741 549 747 R
+0 X
+0 0 0 1 0 0 0 K
+V
+0.25 H
+0 Z
+N
+0 -208 1000 792 C
+4 11 Q
+0 X
+0 0 0 1 0 0 0 K
+(SUBSCRIPTION REQUEST) 405 727.67 T
+0 10 Q
+2.87 (Please cut the following request-form) 405 703 P
+(and send it along with your check to:) 405 691 T
+(SEEDS \050Ankur subscription\051) 405 667 T
+(Box 313 T) 405 655 T
+(exas Union) 447.08 655 T
+(The University of T) 405 643 T
+(exas at Austin) 484.01 643 T
+(Austin, TX 78713) 405 631 T
+(---------------- cut here -------------------) 405 619 T
+(Name:) 405 595 T
+(Street Addr:) 405 579 T
+(City:) 405 563 T
+(State/Country:) 405 547 T
+(T) 405 531 T
+(el:) 410.41 531 T
+(Email:) 405 515 T
+(Comment:) 405 489 T
+0.94 (I would like to subscribe to \324ANKUR\325.) 405 463 P
+-0.15 (Enclosed is a check in favor of \324SEEDS\325) 405 451 P
+(for) 405 439 T
+6 F
+(p) 414 415 T
+0 F
+($5 \050Student - Annual subscription\051) 423 415 T
+6 F
+(p) 414 403 T
+0 F
+($50 \050Student-Life\051) 423 403 T
+6 F
+(p) 414 391 T
+0 F
+($10 \050Non-student - Annual\051) 423 391 T
+6 F
+(p) 414 379 T
+0 F
+($50 \050Non-student - 5 year\051) 423 379 T
+(My contribution to) 405 367 T
+6 F
+(p) 414 355 T
+0 F
+(Other SEEDS Projects:) 423 355 T
+(Do you want to be an active member?) 405 331 T
+5 F
+1.7 (Patr) 405 307 P
+1.7 (on Donation: Life subscription for) 422.41 307 P
+0.59 (any amount above $150. Y) 405 295 P
+0.59 (our contribu-) 512.8 295 P
+0.02 (tion will be used towar) 405 283 P
+0.02 (ds publishing this) 496.39 283 P
+-0.1 (news letter as well as towar) 405 271 P
+-0.1 (ds the activi-) 515.54 271 P
+(ties and pr) 405 259 T
+(ojects of SEEDS.) 447.41 259 T
+0 F
+(---------------- cut here ------------------) 405 247 T
+399.17 242.83 571.67 625.33 R
+0.5 H
+2 Z
+13 X
+N
+FMENDPAGE
+%%EndPage: "4" 1
+%%Page: "3" 2
+612 792 0 FMBEGINPAGE
+[0 0 0 1 0 0 0]
+[ 0 1 1 0 1 0 0]
+[ 1 0 1 0 0 1 0]
+[ 1 1 0 0 0 0 1]
+[ 1 0 0 0 0 1 1]
+[ 0 1 0 0 1 0 1]
+[ 0 0 1 0 1 1 0]
+ 7 FrameSetSepColors
+FrameNoSep
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+0 8 Q
+0 X
+0 0 0 1 0 0 0 K
+(P) 291.92 26.67 T
+(AGE) 295.64 26.67 T
+(3) 316.08 26.67 T
+298.75 36.67 313.25 43.51 C
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+298.75 36.67 313.25 43.51 R
+7 X
+0 0 0 1 0 0 0 K
+V
+301.75 37.26 306.75 42.26 R
+0 X
+V
+0.25 H
+0 Z
+N
+0 0 612 792 C
+396 748 396 62 2 L
+0.5 H
+2 Z
+0 X
+0 0 0 1 0 0 0 K
+N
+215 748 215 62 2 L
+N
+0 10 Q
+1.68 (the elderly is now a major social con-) 45 740.33 P
+(cern.) 45 728.33 T
+1.23 (ASRA has set up a family welfare) 63 703 P
+1.59 (center at Baharana, with 1 lady doctor) 45 691 P
+0.15 (and 25 Health W) 45 679 P
+0.15 (orkers, covering 41 tar-) 112.69 679 P
+(get villages.) 45 667 T
+0.18 (I \336rst heard of ASRA when) 95.83 667 P
+1.57 (I was describing the Kalahandi project) 45 655 P
+0.94 (to my brother) 45 643 P
+0.94 (-in- law) 101.12 643 P
+0.94 (, Mr) 132.79 643 P
+0.94 (. Lalit Mohan) 150.4 643 P
+2.61 (Nanda. He said he belongs to ASRA) 45 631 P
+4.74 (and arranged the meeting with Mr) 45 619 P
+4.74 (.) 204.5 619 P
+2.8 (Mohanty) 45 607 P
+2.8 (. I would have liked to visit) 80.46 607 P
+2.85 (the various ASRA projects, but there) 45 595 P
+(was not enough time.) 45 583 T
+1.56 (My Recommendations: In the past) 63 559 P
+0.21 (we, who live in comfort in North Amer-) 45 547 P
+2.04 (ica, hid behind the excuse that we do) 45 535 P
+2.63 (not have any trustworthy or) 45 523 P
+2.63 (ganisation) 165.89 523 P
+3.26 (to send money to. W) 45 511 P
+3.26 (e now see that) 140.29 511 P
+2.33 (there are many good, active or) 45 499 P
+2.33 (ganisa-) 178.12 499 P
+2.28 (tions that need our support.. I recom-) 45 487 P
+2 (mend that we continue our support of) 45 475 P
+2.46 (those groups who already have major) 45 463 P
+0.81 (projects underway) 45 451 P
+0.81 (. W) 118.75 451 P
+0.81 (e avoid all groups) 133.2 451 P
+2.49 (that siphon of) 45 439 P
+2.49 (f signi\336cant amounts of) 104.8 439 P
+1.17 (the donated funds for personal pro\336t \050I) 45 427 P
+1.68 (met a few of these types also\051. So \0501\051) 45 415 P
+3.21 (W) 45 403 P
+3.21 (e continue the funding of A) 53.64 403 P
+3.21 (VBKA) 178.67 403 P
+0.29 (project in Kalahandi \0502\051 W) 45 391 P
+0.29 (e should sup-) 153.1 391 P
+0.71 (port speci\336c parts of the Rotary V) 45 379 P
+0.71 (illage) 184.78 379 P
+0.46 (Corps. Project. \0503\051 Explore the possibil-) 45 367 P
+(ity of support for ASRA projects.) 45 355 T
+45 322.67 207 334.67 C
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+45 328.67 189 334.67 R
+0 X
+0 0 0 1 0 0 0 K
+V
+0.25 H
+0 Z
+N
+0 0 612 792 C
+4 11 Q
+0 X
+0 0 0 1 0 0 0 K
+(Excerpts fr) 45 315.33 T
+(om \322Appr) 97.65 315.33 T
+(opriate) 145.42 315.33 T
+(methods of water conservation\323) 45 302.33 T
+5 F
+(by T) 45 289.33 T
+(.J. Mathew) 63.44 289.33 T
+(.) 111.2 289.33 T
+0 10 Q
+-0.08 (During recent years, more and more) 63 271 P
+0.46 (importance is given to conservation and) 45 259 P
+4.56 (environmental protection. India\325) 45 247 P
+4.56 (s top) 183.27 247 P
+-0.49 (soil losses are staggering. Indian Council) 45 235 P
+7.81 (of Agricultural Research estimates) 45 223 P
+-0.31 (losses at nearly \336ve billion metric tonnes) 45 211 P
+1.09 (annually) 45 199 P
+1.09 (, and predicts that the situation) 78.79 199 P
+0.16 (will still worsen since few farmers prac-) 45 187 P
+5.16 (tise soil conservation. The People\325) 45 175 P
+5.16 (s) 203.11 175 P
+-0.04 (Republic of China also has similar prob-) 45 163 P
+0.57 (lems. Each year the country loses about) 45 151 P
+2.83 (four billion metric tonnes of top soil) 45 139 P
+-0.1 (through erosion. According to the W) 45 127 P
+-0.1 (orld) 190.89 127 P
+1.35 (W) 45 115 P
+1.35 (atch institute in the U. S., the global) 53.64 115 P
+1.45 (crop- land losses now exceed new soil) 45 103 P
+0.96 (formation by 25.4 billion metric tonnes) 45 91 P
+0.99 (per year) 45 79 P
+0.99 (. USA has 14,000 experts from) 77.92 79 P
+0.22 (the Agricultural Department\325) 45 67 P
+0.22 (s Soil Con-) 161.54 67 P
+192.53 352.98 201.53 361.98 C
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+192.53 352.98 201.53 361.98 R
+8 X
+0 0 0 1 0 0 0 K
+V
+0 0 612 792 C
+0 10 Q
+0 X
+0 0 0 1 0 0 0 K
+0.29 (servation Service \050SCS\051. During the last) 225 740.33 P
+1.04 (50 years SCS has spent US $20 billion) 225 728.33 P
+0.22 (trying to end the problem, but the soil is) 225 716.33 P
+0.34 (still \337owing away or washing away into) 225 704.33 P
+2.19 (creeks, rivers and drinking water sup-) 225 692.33 P
+1 (plies. The loss of soil in the agricultur-) 225 680.33 P
+8.36 (ally sophisticated country exceeds) 225 668.33 P
+(tolerable levels on 44% of the cropland.) 225 656.33 T
+1.53 (W) 243 631 P
+1.53 (ind, earth and water are the pri-) 252.04 631 P
+1.11 (mary ener) 225 619 P
+1.11 (gy sources of the world. It is) 266.19 619 P
+0.68 (the solar ener) 225 607 P
+0.68 (gy) 280.06 607 P
+0.68 (, conserved through bil-) 289.41 607 P
+0.29 (lions of years, that we are now enjoying) 225 595 P
+-0.49 (as fossil fuel. But, the ener) 225 583 P
+-0.49 (gy crisis of the) 329.31 583 P
+-0.42 (1970s jolted America into greater aware-) 225 571 P
+-0.07 (ness for alternative ener) 225 559 P
+-0.07 (gy development.) 320.41 559 P
+0.01 (W) 225 547 P
+0.01 (e have yet to realise that, it is the solar) 233.64 547 P
+-0.07 (ener) 225 535 P
+-0.07 (gy that is the only source of our past) 242.03 535 P
+0.39 (and future ener) 225 523 P
+0.39 (gy) 286.14 523 P
+0.39 (. It is the sun that con-) 295.48 523 P
+0.09 (verts our water into vapour and makes it) 225 511 P
+1.47 (fall back on the land surface. It is this) 225 499 P
+0.37 (water combined with the photosynthetic) 225 487 P
+4.72 (conversion of the solar ener) 225 475 P
+4.72 (gy that) 354.78 475 P
+0.8 (enables the vegetation to grow and sur-) 225 463 P
+0.57 (vive on the earth surface. It is again the) 225 451 P
+1.91 (sun that helps to generate oxygen and) 225 439 P
+-0.58 (helps the survival of the entire life on this) 225 427 P
+(world.) 225 415 T
+1.14 (In ancient times, when the balance) 243 391 P
+0.41 (of nature was not so much destroyed by) 225 379 P
+1.19 (man, there was reasonable natural con-) 225 367 P
+0.49 (servation of water by the porous soil all) 225 355 P
+0.84 (over the world. But with the heavy and) 225 343 P
+3.93 (indiscriminate deforestation, construc-) 225 331 P
+0.47 (tion of buildings, roads etc., this natural) 225 319 P
+-0.35 (percolation of water has been upset. This) 225 307 P
+0.57 (has resulted in the lowering of the local) 225 295 P
+1.97 (water tables, and disappearance of the) 225 283 P
+0.34 (perennial springs that once kept our riv-) 225 271 P
+0.74 (ers ever \337owing. The uncontrolled \337ow) 225 259 P
+-0.23 (of water is also resulting in severe \337oods) 225 247 P
+0.33 (like the recent one in Godavari in South) 225 235 P
+(India.) 225 223 T
+2.46 (...Based on my successful experi-) 243 199 P
+0.82 (ence in conserving water) 225 187 P
+0.82 (, I am inclined) 326.76 187 P
+-0.59 (to share the following methods which are) 225 175 P
+1.97 (quite simple, appropriate and inexpen-) 225 163 P
+(sive to manage.) 225 151 T
+3.6 (CONT) 225 127 P
+3.6 (OUR TRENCHING: This is a) 252.04 127 P
+0.07 (system where unskilled labour can used.) 225 115 P
+0.53 (In areas with a slope and where the soil) 225 103 P
+2.05 (texture is suitable this is the simplest,) 225 91 P
+3.35 (easiest and cheapest system possible.) 225 79 P
+-0.51 (But this may not be suitable for the entire) 225 67 P
+2.35 (earth surface. In this system, trenches) 404.33 740.67 P
+0.74 (along the contours, spaced according to) 404.33 728.67 P
+-0.47 (the slope of the land, intensity of rainfall,) 404.33 716.67 P
+-0.3 (crop etc. are made. The trenches are usu-) 404.33 704.67 P
+-0.3 (ally 2 or 2 1/2 feet wide deep and of con-) 404.33 692.67 P
+-0.27 (venient length from 8 to 12 feet. The soil) 404.33 680.67 P
+0.8 (is deposited along the lower side of the) 404.33 668.67 P
+-0.35 (trenches. As and when these trenches get) 404.33 656.67 P
+1 (\336lled up, the soil is again removed and) 404.33 644.67 P
+(the trenches are revived.) 404.33 632.67 T
+0.94 (CONT) 404.33 607.33 P
+0.94 (OUR PITS: In areas where there) 431.37 607.33 P
+4.75 (are already established trees, whose) 404.33 595.33 P
+-0.03 (roots may be seriously damaged by such) 404.33 583.33 P
+0.06 (trenches, the next alternative is pits. The) 404.33 571.33 P
+1.65 (pits may be of any size of 3 to 4 feet) 404.33 559.33 P
+1.16 (cube, and the root dam- ages are mini-) 404.33 547.33 P
+1.4 (mised. The pits may be located as and) 404.33 535.33 P
+0.94 (when they are feasible. These are more) 404.33 523.33 P
+-0.23 (ef) 404.33 511.33 P
+-0.23 (\336cient than trenches. In this system the) 411.92 511.33 P
+1.18 (bene\336ts are multifarious. In addition to) 404.33 499.33 P
+3.04 (localised conservation of water) 404.33 487.33 P
+3.04 (, these) 537.74 487.33 P
+4.57 (help the accumulation of the fallen) 404.33 475.33 P
+-0.59 (leaves which in turn, with the moisture in) 404.33 463.33 P
+0.15 (them retained for longer periods than on) 404.33 451.33 P
+0.52 (exposed land, encourage the root devel-) 404.33 439.33 P
+1.96 (opment of the nearby vegetation. This) 404.33 427.33 P
+1.07 (gives vigour to vegetation, even during) 404.33 415.33 P
+2.65 (the dry months, for longer period, as) 404.33 403.33 P
+(already observed in \336eld trials.) 404.33 391.33 T
+3.42 (DEEP BLASTING OF HARD SUR-) 404.33 367.33 P
+0.33 (F) 404.33 355.33 P
+0.33 (ACE STRA) 409.15 355.33 P
+0.33 (T) 456.44 355.33 P
+0.33 (A LIKE LA) 461.75 355.33 P
+0.33 (TERITE: Due) 509.62 355.33 P
+3.85 (to continuous soil erosion, there are) 404.33 343.33 P
+0.34 (extensive areas where the entire top soil) 404.33 331.33 P
+0.43 (have been eroded exposing the hard lat-) 404.33 319.33 P
+1.98 (erite substrata. In such areas, drill 1) 404.33 307.33 P
+1.98 (1\325) 558 307.33 P
+2.6 (holes to a depth of 8 to 10 feet and) 404.33 295.33 P
+-0.32 (blasted with suitable explosives to create) 404.33 283.33 P
+2.59 (a crushing ef) 404.33 271.33 P
+2.59 (fect in the substrata and) 460.99 271.33 P
+1.08 (with a suitable amount of common salt) 404.33 259.33 P
+1.22 (applied into the blast holes, the laterite) 404.33 247.33 P
+-0.27 (will disintegrate faster) 404.33 235.33 P
+-0.27 (. If some good soil) 492.68 235.33 P
+0.1 (is put into the top part of the blast holes,) 404.33 223.33 P
+-0.45 (and hardy trees like cashew planted, then) 404.33 211.33 P
+-0.58 (the area can be made productive immedi-) 404.33 199.33 P
+0.35 (ately) 404.33 187.33 P
+0.35 (. The crushed, deep blast holes will) 423.12 187.33 P
+(also be able to retain more rain water) 404.33 175.33 T
+(...) 552.35 175.33 T
+3 (BENEFITS: The bene\336ts of localised) 404.33 151.33 P
+1.52 (water conservation are unlimited. I am) 404.33 139.33 P
+1.64 (trying to present a few of them here...) 404.33 127.33 P
+0.24 (Flood Control: Floods are caused by the) 404.33 115.33 P
+-0.07 (fast run of) 404.33 103.33 P
+-0.07 (f of the rain water from higher) 445.12 103.33 P
+1.54 (levels.... It is impossible to control the) 404.33 91.33 P
+0.62 (\337ow of the water) 404.33 79.33 P
+0.62 (, except at the point of) 473.82 79.33 P
+0.57 (precipitation itself. Raising the Ground-) 404.33 67.33 P
+396 747 396 63 2 L
+0.25 H
+2 Z
+N
+FMENDPAGE
+%%EndPage: "3" 2
+%%Page: "2" 3
+612 792 0 FMBEGINPAGE
+[0 0 0 1 0 0 0]
+[ 0 1 1 0 1 0 0]
+[ 1 0 1 0 0 1 0]
+[ 1 1 0 0 0 0 1]
+[ 1 0 0 0 0 1 1]
+[ 0 1 0 0 1 0 1]
+[ 0 0 1 0 1 1 0]
+ 7 FrameSetSepColors
+FrameNoSep
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+0 8 Q
+0 X
+0 0 0 1 0 0 0 K
+(P) 291.92 26.67 T
+(AGE) 295.64 26.67 T
+(2) 316.08 26.67 T
+298.75 36.67 313.25 43.51 C
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+298.75 36.67 313.25 43.51 R
+7 X
+0 0 0 1 0 0 0 K
+V
+301.75 37.26 306.75 42.26 R
+0 X
+V
+0.25 H
+0 Z
+N
+0 0 612 792 C
+396 748 396 62 2 L
+0.5 H
+2 Z
+0 X
+0 0 0 1 0 0 0 K
+N
+215 748 215 62 2 L
+N
+0 10 Q
+2.07 (and me., and then travel with us next) 45 740.33 P
+3.53 (morning. He was going to make all) 45 728.33 P
+2.13 (arrangements for food and lodging on) 45 716.33 P
+2.52 (the way) 45 704.33 P
+2.52 (, even though I told him that) 78.25 704.33 P
+5.13 (through my contacts I could make) 45 692.33 P
+14.57 (arrangements myself. He was) 45 680.33 P
+3.07 (extremely solicitous about our meals,) 45 668.33 P
+4.66 (enquiring about special requirements) 45 656.33 P
+(etc..) 45 644.33 T
+1.37 (As it turned out, we had to cancel) 63 619 P
+6.34 (the trip. However Mr) 45 607 P
+6.34 (.Agarwal did) 148.45 607 P
+3.39 (come and meet Mike Powell me on) 45 595 P
+0.63 (December 30. I had particularly wanted) 45 583 P
+3.46 (Mike Powell and Bharat Agarwal to) 45 571 P
+2.07 (meet, basically to educate him \050Mike\051) 45 559 P
+3.74 (on our Kalahandi project. When the) 45 547 P
+1.74 (Flyash project gets funded, the project) 45 535 P
+1.54 (would pay all costs in transporting the) 45 523 P
+4.4 (fertiliser to the forestation site, and) 45 511 P
+1.68 (would bear the cost of planting. How-) 45 499 P
+2.61 (ever) 45 487 P
+2.61 (, for the seedlings to thrive, it is) 61.81 487 P
+2.35 (very important that the local villagers) 45 475 P
+0.99 (look after and guard the seedlings until) 45 463 P
+1.27 (trees could be harvested for their com-) 45 451 P
+0.89 (mon bene\336t. After talking to Mr) 45 439 P
+0.89 (. Agar-) 177.79 439 P
+4.04 (wal I felt that our ongoing SEEDS) 45 427 P
+1.58 (project has already started the creation) 45 415 P
+1.36 (of a community spirit in the 100 or so) 45 403 P
+2.51 (villages in our project area. Thus my) 45 391 P
+0.8 (expectation is that the seedlings will be) 45 379 P
+0.77 (looked after) 45 367 P
+0.77 (. As I write this \050in January) 93.26 367 P
+4.66 (1995\051, my expectation is that lar) 45 355 P
+4.66 (ge) 197.56 355 P
+0.9 (scale funding will be forthcoming from) 45 343 P
+4.22 (Canada. W) 45 331 P
+4.22 (e should know in a few) 92.85 331 P
+(months.) 45 319 T
+2.36 (2. Rotary Project in Andheisahi -) 63 295 P
+(Gopinathpur -Satyabhamapur) 45 283 T
+3.51 (This is a) 166.09 283 P
+3.36 (service project of the Rotary V) 45 271 P
+3.36 (illage) 184.78 271 P
+2.26 (Corps., run by the Cuttack Mid-T) 45 259 P
+2.26 (own) 189.78 259 P
+1.95 (Rotary Club \050There are three dif) 45 247 P
+1.95 (ferent) 183.68 247 P
+3.25 (Rotary Clubs in Cuttack\051. I came to) 45 235 P
+2.97 (know of this project from my uncle,) 45 223 P
+1.73 (Mr) 45 211 P
+1.73 (. Dur) 56.67 211 P
+1.73 (gamadhab Behura. Mr) 78.77 211 P
+1.73 (. Behura) 171.39 211 P
+6.83 (retired as Director of Agriculture,) 45 199 P
+0.97 (Orissa, 27 years ago. T) 45 187 P
+0.97 (oday at 84 he is) 140.37 187 P
+1.17 (mentally and physically active and is a) 45 175 P
+4.63 (prime mover in the Rotary project.) 45 163 P
+0.53 (Rupee for rupee this must be one of the) 45 151 P
+1.11 (most cost ef) 45 139 P
+1.11 (fective community projects) 95.36 139 P
+4.68 (in Orissa, probably in India. Every) 45 127 P
+1.17 (rupee donated to the project is actually) 45 115 P
+2.33 (spent in the village. The Rotary Club) 45 103 P
+0.13 (absorbs all administrative costs and pro-) 45 91 P
+4.79 (vides ideas, expertise and the cost.) 45 79 P
+1.5 (Rotary also persuades local of) 45 67 P
+1.5 (\336cials to) 171.33 67 P
+5.51 (provide certain facilities like, road,) 225 740.33 P
+1.82 (school, electricity and so on. For con-) 225 728.33 P
+0.35 (struction, planting etc. the villagers pro-) 225 716.33 P
+(vide the labour) 225 704.33 T
+(.) 284.44 704.33 T
+6.57 (The three villages are located) 243 679 P
+0.01 (about 45 minutes away by car from Cut-) 225 667 P
+0.77 (tack city) 225 655 P
+0.77 (. Mr) 259.28 655 P
+0.77 (. Behura, Mike Powell and) 276.72 655 P
+0.15 (I spent the better part of a day at the vil-) 225 643 P
+5.73 (lage. W) 225 631 P
+5.73 (e visited only one village,) 261.03 631 P
+0.37 (because of shortage of time. Ours was a) 225 619 P
+5.68 (surprise visit; yet we saw activity) 225 607 P
+2.09 (around us. W) 225 595 P
+2.09 (e talked to whoever was) 281.99 595 P
+1.4 (around in the village. So what we saw) 225 583 P
+1.65 (is real, not a well rehearsed show) 225 571 P
+1.65 (. W) 367.27 571 P
+1.65 (e) 382.56 571 P
+2.68 (saw trees planted and \337ourishing; we) 225 559 P
+4.68 (saw a pre-school with kids singing) 225 547 P
+1.88 (away; we saw a pond with \336sh stock.) 225 535 P
+1.54 (The \336sh will provide good cash return) 225 523 P
+1.12 (when sold in the local market. W) 225 511 P
+1.12 (e saw) 363.39 511 P
+2.42 (piles of straw for fodder and roo\336ng.) 225 499 P
+1.03 (W) 225 487 P
+1.03 (e talked to villagers that happened to) 233.64 487 P
+1.01 (be around. They were full of praise for) 225 475 P
+3.16 (the project and wanted more. It was) 225 463 P
+(impressive.) 225 451 T
+4.41 (T) 243 427 P
+4.41 (o provide drinking water) 248.41 427 P
+4.41 (, they) 360.38 427 P
+1.41 (have sunk 12 hand operated tubewells.) 225 415 P
+1.06 (W) 225 403 P
+1.06 (e saw several in use. T) 233.64 403 P
+1.06 (o provide irri-) 328.78 403 P
+0.83 (gation they have sunk one lar) 225 391 P
+0.83 (ge diame-) 346.46 391 P
+7.8 (ter diesel powered tubewell. The) 225 379 P
+1.73 (villagers have built a pump house and) 225 367 P
+3.24 (irrigation channels of brick and con-) 225 355 P
+1.4 (crete. The bricks are locally made. W) 225 343 P
+1.4 (e) 382.56 343 P
+0.88 (saw one brick pile oven which had just) 225 331 P
+1.83 (been \336red. W) 225 319 P
+1.83 (e were told that the new) 282.02 319 P
+(bricks are for the veterinary hospital.) 225 307 T
+0.53 (The success in agriculture has been) 243 283 P
+5.26 (dramatic. W) 225 271 P
+5.26 (ith improved stock and) 279.29 271 P
+3.12 (instructions in usage of compost and) 225 259 P
+4.07 (fertilisers, the paddy yield has been) 225 247 P
+1.07 (doubled. New quality seedlings has led) 225 235 P
+0.65 (to a variety of high yield vegetables for) 225 223 P
+0.52 (family use and marketing. The villagers) 225 211 P
+2.1 (have been given advice on what trees) 225 199 P
+3.5 (to plant in the backyard. W) 225 187 P
+3.5 (e saw a) 350.57 187 P
+8.49 (small garden patch with mango,) 225 175 P
+6.61 (banana, papaya, bamboo, chakunda) 225 163 P
+0.85 (trees, all \337ourishing and now about 40-) 225 151 P
+2.35 (50ft tall. The whole idea is that each) 225 139 P
+0.71 (family) 225 127 P
+0.71 (, with a small plot of land can be) 250.46 127 P
+2.96 (self suf) 225 115 P
+2.96 (\336cient in basic needs such as) 256.94 115 P
+(fuel, fodder and fruits and vegetables.) 225 103 T
+6.85 (W) 225 91 P
+6.85 (ith Rotary funding the villagers) 234.04 91 P
+3.24 (started building a high school.. Each) 225 79 P
+1.05 (year they have added one new room to) 225 67 P
+1.74 (the school. They have already reached) 404.33 740.67 P
+0.88 (Class 7 and are planning to go to Stan-) 404.33 728.67 P
+0.92 (dard 12 \050+2\051. The salaries of the teach-) 404.33 716.67 P
+3.19 (ers are being met >from Rotary and) 404.33 704.67 P
+1.51 (government funds. W) 404.33 692.67 P
+1.51 (e saw the school,) 493.48 692.67 P
+(but on that day there were no classes.) 404.33 680.67 T
+3.75 (The villagers have also built an) 422.33 655.33 P
+2.61 (one room pre-school. I saw about 20) 404.33 643.33 P
+0.62 (happy kinder) 404.33 631.33 P
+0.62 (garten level children, sing-) 457.27 631.33 P
+2.32 (ing away) 404.33 619.33 P
+2.32 (. I had a brief chat with the) 442.38 619.33 P
+1.12 (lady teacher) 404.33 607.33 P
+1.12 (. The same school house is) 453.5 607.33 P
+0.9 (used for vocational instructions such as) 404.33 595.33 P
+0.63 (tailoring, for health information such as) 404.33 583.33 P
+1.22 (birth control. What remains to be done) 404.33 571.33 P
+2.56 (here? The villagers told me that they) 404.33 559.33 P
+1.96 (badly need a \324veterinary hospital\325. All) 404.33 547.33 P
+1.15 (the hospital is a two tiny rooms with a) 404.33 535.33 P
+6.06 (roof.The foundation has been dug,) 404.33 523.33 P
+6.35 (some stones and bricks are lying) 404.33 511.33 P
+4.27 (around. The project has run out of) 404.33 499.33 P
+1.07 (funds. Estimated cost for completion is) 404.33 487.33 P
+(Rs100,000. =US$3000.) 404.33 475.33 T
+13.03 (The villagers) 500.81 475.33 P
+4.46 (said that the single irrigation pump) 404.33 463.33 P
+2.95 (does not reach all the land and they) 404.33 451.33 P
+0.48 (need a second tubewell and pump. Esti-) 404.33 439.33 P
+(mated cost Rs150,000. = US$5000.) 404.33 427.33 T
+9.08 (Mike Powell was suf) 422.33 403.33 P
+9.08 (\336ciently) 533.55 403.33 P
+1.91 (impressed that he would be willing to) 404.33 391.33 P
+3.75 (provided for af) 404.33 379.33 P
+3.75 (forestation project for) 471.63 379.33 P
+0.64 (this area. W) 404.33 367.33 P
+0.64 (e talked to the villagers and) 452.86 367.33 P
+1.6 (they would be wiling to look after the) 404.33 355.33 P
+4.85 (trees once planted. My question to) 404.33 343.33 P
+0.38 (SEEDS: Can we help this ongoing, suc-) 404.33 331.33 P
+3.91 (cessful community project? Certainly) 404.33 319.33 P
+3.11 (we will be given credit for the help) 404.33 307.33 P
+1.59 (they receive. Certainly we can bask in) 404.33 295.33 P
+1.13 (the existing success, while contributing) 404.33 283.33 P
+(a small amount.) 404.33 271.33 T
+3.43 (3. Association for Social Recon-) 422.33 247.33 P
+1.48 (structive Activities \050ASRA\051, Cuttack. I) 404.33 235.33 P
+0.18 (had a visit from Mr) 404.33 223.33 P
+0.18 (. S.K. Mohanty) 482.28 223.33 P
+0.18 (, Sec-) 543.38 223.33 P
+2.04 (retary General. I have a copy of their) 404.33 211.33 P
+1.46 (93-94 annual report. Mr) 404.33 199.33 P
+1.46 (. Mohanty told) 504.25 199.33 P
+5.25 (me of their old age home in the) 404.33 187.33 P
+0.88 (Jagatsinghpur) 404.33 175.33 P
+0.88 (-Balikuda area. W) 459.68 175.33 P
+0.88 (ith chil-) 534.07 175.33 P
+1.85 (dren moving away for jobs elsewhere,) 404.33 163.33 P
+1.26 (many old people are now destitute and) 404.33 151.33 P
+4.07 (helpless. This group runs an oldage) 404.33 139.33 P
+1.04 (home, with 25 inmates. I heard a num-) 404.33 127.33 P
+0.75 (ber of touching accounts of ill, starving) 404.33 115.33 P
+3.57 (and abandoned old men and women) 404.33 103.33 P
+3.4 (being brought into the oldage home.) 404.33 91.33 P
+0.45 (W) 404.33 79.33 P
+0.45 (ith longer life span, and with children) 413.37 79.33 P
+0.85 (moving away from the villages, care of) 404.33 67.33 P
+396 486 396 63 2 L
+0.25 H
+N
+FMENDPAGE
+%%EndPage: "2" 3
+%%Page: "1" 4
+612 792 0 FMBEGINPAGE
+[0 0 0 1 0 0 0]
+[ 0 1 1 0 1 0 0]
+[ 1 0 1 0 0 1 0]
+[ 1 1 0 0 0 0 1]
+[ 1 0 0 0 0 1 1]
+[ 0 1 0 0 1 0 1]
+[ 0 0 1 0 1 1 0]
+ 7 FrameSetSepColors
+FrameNoSep
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+0 12 Q
+0 X
+0 0 0 1 0 0 0 K
+( A News-Letter of Sustainable Economic and Educational Development Society \050SEEDS\051) 89.7 726.19 T
+7 60 Q
+6 (ANKUR) 191.4 668.19 S
+0 8 Q
+(VOLUME 2, NUMBER 1, Spring 1995) 412.22 588.67 T
+(Box 313, T) 238.24 35.67 T
+(exas Union, The Univ of T) 273.9 35.67 T
+(exas) 359.55 35.67 T
+(Austin, TX 78713) 277 25.67 T
+300.5 45 311.5 52.51 C
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+300.5 45 311.5 52.51 R
+7 X
+0 0 0 1 0 0 0 K
+V
+303.5 46.26 308.5 51.26 R
+0 X
+V
+0.25 H
+0 Z
+N
+0 0 612 792 C
+0 X
+0 0 0 1 0 0 0 K
+90 450 43.17 34.17 88.17 655.17 G
+0.5 H
+0 Z
+90 450 43.17 34.17 88.17 655.17 A
+7 X
+90 450 38.54 34.17 88.17 655.17 G
+0 X
+90 450 38.54 34.17 88.17 655.17 A
+90 450 24.67 34.17 88.16 655.17 G
+90 450 24.67 34.17 88.16 655.17 A
+7 X
+90 450 20.04 34.17 88.16 655.17 G
+0 X
+90 450 20.04 34.17 88.16 655.17 A
+68.94 636.26 M
+ 49.69 635.65 49.69 635.65 68.94 635.04 D
+ 88.19 634.42 88.19 634.42 107.45 635.04 D
+ 126.7 635.65 126.7 635.65 107.45 636.26 D
+ 88.19 636.86 88.19 636.86 68.94 636.26 D
+O
+V
+N
+68.94 675.3 M
+ 49.69 674.69 49.69 674.69 68.94 674.08 D
+ 88.19 673.47 88.19 673.47 107.45 674.08 D
+ 126.7 674.69 126.7 674.69 107.45 675.3 D
+ 88.19 675.91 88.19 675.91 68.94 675.3 D
+O
+V
+N
+66.56 655.78 M
+ 45 655.17 45 655.17 66.56 654.56 D
+ 88.12 653.95 88.12 653.95 109.68 654.56 D
+ 131.25 655.17 131.25 655.17 109.68 655.78 D
+ 88.12 656.39 88.12 656.39 66.56 655.78 D
+O
+V
+N
+8 10 Q
+(SEEDS) 71 641.86 T
+0 F
+(SEEDS is a non-pro\336t, non-sectarian, voluntary or) 141.5 623.5 T
+(ganization \050IRS registered EIN is 74-2723080\051 .) 343.52 623.5 T
+396 558 396 63 2 L
+0.25 H
+2 Z
+N
+216 557 216 62 2 L
+N
+35 576 576 739 R
+0.5 H
+N
+401.67 57.83 572.5 217 18 RR
+9 X
+N
+45 546 207 558 C
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+45 552 189 558 R
+0 X
+0 0 0 1 0 0 0 K
+V
+0.25 H
+0 Z
+N
+0 0 612 792 C
+7 14 Q
+0 X
+0 0 0 1 0 0 0 K
+(Half of seventeen is no) 45 536.67 T
+(t odd!) 157.28 536.67 T
+1 10 Q
+(Priyadarsan Patra) 45 514 T
+5 F
+(University of T) 45 502 T
+(exas at Austin) 104.08 502 T
+2 F
+-0.23 (\322Centuries ago when camels were a for-) 63 478 P
+2.86 (tune, a Bedouin patriarch bequeathed all) 45 466 P
+-0.49 (seventeen of his camels to his three sons. On) 45 454 P
+0.99 (his death bed, he willed that his eldest son) 45 442 P
+-0.47 (get half of this property) 45 430 P
+-0.47 (, the middle get a third,) 125.93 430 P
+-0.29 (and the youngest get one ninth of the lot.\323 My) 45 418 P
+5.23 (childhood story-teller continued, \322Shortly) 45 406 P
+-0.17 (after the funeral rites, the three restless, dim-) 45 394 P
+1.68 (witted sons started apportioning the camel) 45 382 P
+-0.03 (herd as per the will. A crowd gathered as the) 45 370 P
+1.29 (summarily frustrated brothers contemplated) 45 358 P
+4.51 (hacking a camel.\323 The story-teller then) 45 346 P
+1.84 (paused to ask me the reason for and the) 45 334 P
+1.7 (solution to their frustration. But, of course,) 45 322 P
+-0.47 (you all know how a wise passer-by) 45 310 P
+-0.47 (, on seeing) 167.82 310 P
+0 (a frantic crowd blocking his way) 45 298 P
+0 (, gets of) 159.71 298 P
+0 (f and) 188.76 298 P
+2.46 (lends his camel. Now) 45 286 P
+2.46 (, the brothers could) 129.41 286 P
+0.56 (obtain their fractions and return happily with) 45 274 P
+1.48 (9, 6, and 2 camels, respectively) 45 262 P
+1.48 (. The rider) 166.67 262 P
+(resumed his journey back on his camel..) 45 250 T
+2.64 (Now perhaps I understand more the) 63 226 P
+-0.03 (import of the story: the passer-by simply pro-) 45 214 P
+0.42 (vided a catalyst or a \322seed\323 needed to solve) 45 202 P
+2.31 (the vexing problem for the three brothers) 45 190 P
+1.33 (\050and cleared the road to his destination as) 45 178 P
+1.4 (well!\051. There is plausible argument that we) 45 166 P
+3.45 (have a similar world situation in human) 45 154 P
+0.7 (progress & development today) 45 142 P
+0.7 (. Perhaps we) 157.73 142 P
+1.79 (all are faced with \322three brothers willed to) 45 130 P
+0.48 (receive 1/2, 1/3, and 1/12 of 23 bequeathed) 45 118 P
+2.23 (camels\323. And, we have the opportunity to) 45 106 P
+-0.51 (lend our camel so the three brothers get 12 \050=) 45 94 P
+0.93 (half of 23+1\051, 8, and 2 camels respectively) 45 82 P
+0.93 (.) 204.72 82 P
+0.96 (W) 45 70 P
+0.96 (e even have the prospect of getting back) 52.6 70 P
+-0.3 (two camels! -- a sound proposition, won\325t you) 225 551.33 P
+-0.56 (say? ...Thanks to your help, SEEDS strives to) 225 539.33 P
+-0.5 (provide the proverbial \322loaner camel\323 to some) 225 527.33 P
+2.46 (of the neediest. W) 225 515.33 P
+2.46 (e look forward to your) 298.33 515.33 P
+1.49 (active participation, more than donation, to) 225 503.33 P
+0.36 (keep the SEEDS spirit alive! Our new \324activ-) 225 491.33 P
+(ist\325 friends and supporters, welcome aboard!) 225 479.33 T
+4.89 (Many things have happened since) 243 454 P
+1.1 (Ankur) 225 442 P
+1.1 (\325) 246.72 442 P
+1.1 (s \336rst publication last Fall. W) 248.4 442 P
+1.1 (e would) 357.64 442 P
+1.05 (like to say good-bye to our dear friend and) 225 430 P
+-0.04 (colleague Engr) 225 418 P
+-0.04 (. Dhanada Mishra who -- con-) 279.21 418 P
+0.86 (gratulations! -- completed his doctorate and) 225 406 P
+1.72 (is returning to India. He proposes to soon) 225 394 P
+-0.09 (start a SEEDS \322branch on the \336eld\323 in Orissa) 225 382 P
+1.28 (in his spare time. He will also put together) 225 370 P
+-0.42 (some creative, honest people including some) 225 358 P
+-0.55 (whom a couple of us have already known and) 225 346 P
+0.31 (met during our visits to India. More power to) 225 334 P
+-0.36 (Dhanada as he becomes our \322eyes and ears\323) 225 322 P
+1.33 (there! Also, my personal thanks to my col-) 225 310 P
+1.4 (leagues trying to reduce my burden, espe-) 225 298 P
+(cially with the treasurer) 225 286 T
+(\325) 309.15 286 T
+(s job, etc.) 310.83 286 T
+0.45 (This issue of ANKUR contains interest-) 243 262 P
+0.11 (ing accounts of our colleagues, who recently) 225 250 P
+1.55 (returned from India, and about the various) 225 238 P
+0.49 (development projects we are undertaking or) 225 226 P
+3.53 (considering. Finally) 225 214 P
+3.53 (, note that SEEDS is) 298.11 214 P
+12.58 (accessible on Internet at http://) 225 202 P
+(www) 225 190 T
+(.cs.utexas.edu/users/darshan/SEEDS/.) 242.31 190 T
+-0.48 (In future, we will try to send our newsletters to) 225 178 P
+0.8 (you electronically) 225 166 P
+0.8 (, if possible and agreeable) 288.09 166 P
+(to you, for ef) 225 154 T
+(\336ciency) 270.45 154 T
+(.) 297.19 154 T
+225 121.67 387 133.67 C
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+225 127.67 369 133.67 R
+0 X
+0 0 0 1 0 0 0 K
+V
+0.25 H
+0 Z
+N
+0 0 612 792 C
+4 11 Q
+0 X
+0 0 0 1 0 0 0 K
+(T) 225 114.33 T
+(rip to Orissa: a r) 231.52 114.33 T
+(eport) 310.15 114.33 T
+1 10 Q
+(Lalu Mansinha) 225 96 T
+5 F
+(University of W) 225 84 T
+(estern Ontario, Canada) 286.85 84 T
+372.53 151.98 381.53 160.98 C
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+372.53 151.98 381.53 160.98 R
+8 X
+0 0 0 1 0 0 0 K
+V
+0 0 612 792 C
+0 10 Q
+0 X
+0 0 0 1 0 0 0 K
+4.03 (One of the aims of the trip to) 423 551.33 P
+2 (Orissa in December 1994 was to visit) 405 539.33 P
+0.63 (the SEEDS project in Kalahandi. Origi-) 405 527.33 P
+4.13 (nally I was hoping that Priyadarsan) 405 515.33 P
+1.12 (Patra, I and Dr) 405 503.33 P
+1.12 (. Mike Powell would be) 466.68 503.33 P
+2.52 (able to travel together) 405 491.33 P
+2.52 (. However each) 499.49 491.33 P
+3.33 (one had dif) 405 479.33 P
+3.33 (ferent travel plans and it) 456.47 479.33 P
+5.24 (was not possible to coordinate the) 405 467.33 P
+0.95 (travel. As it turned out, Mike and I did) 405 455.33 P
+2.43 (not get to Kalahandi. I would like to) 405 443.33 P
+2.12 (report to you about \0501\051 T) 405 431.33 P
+2.12 (wo meetings) 514.05 431.33 P
+1.96 (with Mr) 405 419.33 P
+1.96 (. Bharat Agarwal of ABVKA;) 438.91 419.33 P
+2.32 (\0502\051 A visit to a Rotary V) 405 407.33 P
+2.32 (illage Corps) 516.07 407.33 P
+0.79 (project at Andheisahi- Gopinathpur and) 405 395.33 P
+0.26 (Satyabhamapur) 405 383.33 P
+0.26 (, near Cuttack; \0503\051 Meet-) 466.81 383.33 P
+1.81 (ing with Mr) 405 371.33 P
+1.81 (. S.K. Mohanty of ASRA,) 455.86 371.33 P
+1.89 (the Association for Social Reconstruc-) 405 359.33 P
+(tive Activities of Pithapur) 405 347.33 T
+(, Cuttack.) 508.21 347.33 T
+0.93 (1. I met Mr) 423 322 P
+0.93 (. Bharat Agarwal and a) 470.8 322 P
+4.49 (local community worker) 405 310 P
+4.49 (, Mr) 511.9 310 P
+4.49 (. Binoy) 533.06 310 P
+3.85 (Bhuyan in Cuttack. W) 405 298 P
+3.85 (e had a wide) 505.19 298 P
+4.88 (ranging discussions, lasting over an) 405 286 P
+2.46 (hour) 405 274 P
+2.46 (. W) 422.78 274 P
+2.46 (e \336xed up details of the visit) 438.88 274 P
+3.52 (with Mike Powell for December 31.) 405 262 P
+4.64 (Mr) 405 250 P
+4.64 (. Agarwal said he will come to) 416.67 250 P
+7.59 (Swosti Hotel in Bhubaneswar on) 405 238 P
+3.68 (December 30 evening to meet Mike) 405 226 P
+405 202 567 214 C
+0 0 0 1 0 0 0 K
+0 0 0 1 0 0 0 K
+423 208 567 214 R
+0 X
+0 0 0 1 0 0 0 K
+V
+0.25 H
+0 Z
+N
+0 0 612 792 C
+4 10 Q
+0 X
+0 0 0 1 0 0 0 K
+(INDEX) 534.78 195.33 T
+(Editorial: Half of Seventeen...) 425.34 170 T
+(1) 562 170 T
+(T) 451.82 158 T
+(rip to Orissa: a r) 457.75 158 T
+(eport) 529.23 158 T
+(1) 562 158 T
+(Appr) 415.9 146 T
+(opriate methods of water) 438.5 146 T
+(...) 544.5 146 T
+(3) 562 146 T
+(Y) 503.21 134 T
+(our V) 509.32 134 T
+(iews) 533.67 134 T
+(4) 562 134 T
+(Other News) 501.18 122 T
+(4) 562 122 T
+(Our New Members) 469.8 110 T
+(4) 562 110 T
+(Subscription Request) 460.6 98 T
+(4) 562 98 T
+1 F
+(Layout, Editing:) 405 76 T
+5 F
+( Priyadarsan Patra) 472.79 76 T
+FMENDPAGE
+%%EndPage: "1" 4
+%%Trailer
+%%BoundingBox: 0 0 612 792
+%%PageOrder: Descend
+%%Pages: 4
+%%DocumentFonts: Times-Roman
+%%+ Times-BoldItalic
+%%+ Helvetica-Narrow
+%%+ Helvetica-Narrow-Oblique
+%%+ Times-Bold
+%%+ Times-Italic
+%%+ ZapfDingbats
+%%+ ZapfChancery-MediumItalic
+%%+ Helvetica-Oblique
+%%EOF
