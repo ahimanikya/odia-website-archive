@@ -43259,7 +43259,28 @@
     "cdx_digest": "BAG5LSDNQEXS72GX4HYFSL54FOT7JXNW",
     "recovery_note": "Original archived image; bytes unchanged.",
     "local_source": "odiya/recovered-community/previous_motif_gr.gif",
-    "local_edition_sha256": "04edc2e1ca3df547aaa8f6f09e70f17d29f4556c8d0a29817e32552ad65a8db4"
+    "local_edition_sha256": "04edc2e1ca3df547aaa8f6f09e70f17d29f4556c8d0a29817e32552ad65a8db4",
+    "verified_historical_aliases": [
+      {
+        "timestamp": "19961227032559",
+        "original": "http://www.cs.utexas.edu:80/users/nn/latex2html_icons/previous_motif_gr.gif",
+        "mimetype": "image/gif",
+        "statuscode": "200",
+        "digest": "BAG5LSDNQEXS72GX4HYFSL54FOT7JXNW",
+        "length": "536",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19961227032559id_/http://www.cs.utexas.edu:80/users/nn/latex2html_icons/previous_motif_gr.gif",
+        "file": "restoration/qa/odiya-seeds-news/raw/19961227032559-429669ec75f8.gif",
+        "sha256": "04edc2e1ca3df547aaa8f6f09e70f17d29f4556c8d0a29817e32552ad65a8db4",
+        "actual_digest": "BAG5LSDNQEXS72GX4HYFSL54FOT7JXNW",
+        "cdx_digest_verified": true,
+        "bytes": 220,
+        "width": 63,
+        "height": 24,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "page",
@@ -43331,7 +43352,28 @@
     "cdx_digest": "XKDW4O2ZJCHICNCEYB3S2XAIDZ5OEE44",
     "recovery_note": "Original archived image; bytes unchanged.",
     "local_source": "odiya/recovered-community/next_motif_gr.gif",
-    "local_edition_sha256": "6eaab9ad887e0f85acb5d0764a94d1d95ceefbcb3ada2076e026273e49e2d634"
+    "local_edition_sha256": "6eaab9ad887e0f85acb5d0764a94d1d95ceefbcb3ada2076e026273e49e2d634",
+    "verified_historical_aliases": [
+      {
+        "timestamp": "19961227022142",
+        "original": "http://www.cs.utexas.edu:80/users/nn/latex2html_icons/next_motif_gr.gif",
+        "mimetype": "image/gif",
+        "statuscode": "200",
+        "digest": "XKDW4O2ZJCHICNCEYB3S2XAIDZ5OEE44",
+        "length": "480",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19961227022142id_/http://www.cs.utexas.edu:80/users/nn/latex2html_icons/next_motif_gr.gif",
+        "file": "restoration/qa/odiya-seeds-news/raw/19961227022142-c0b1e2cbc790.gif",
+        "sha256": "6eaab9ad887e0f85acb5d0764a94d1d95ceefbcb3ada2076e026273e49e2d634",
+        "actual_digest": "XKDW4O2ZJCHICNCEYB3S2XAIDZ5OEE44",
+        "cdx_digest_verified": true,
+        "bytes": 172,
+        "width": 37,
+        "height": 24,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "page",
@@ -43447,7 +43489,28 @@
     "cdx_digest": "JYEMAYWXI4VETCQHVYTLF2JTZSISMP6N",
     "recovery_note": "Original archived image; bytes unchanged.",
     "local_source": "odiya/recovered-community/up_motif_gr.gif",
-    "local_edition_sha256": "1561c4bb7c72542faf7ef1a82cd9c486d407d46c0f2f37a09db282bf8bf16d40"
+    "local_edition_sha256": "1561c4bb7c72542faf7ef1a82cd9c486d407d46c0f2f37a09db282bf8bf16d40",
+    "verified_historical_aliases": [
+      {
+        "timestamp": "19961227032550",
+        "original": "http://www.cs.utexas.edu:80/users/nn/latex2html_icons/up_motif_gr.gif",
+        "mimetype": "image/gif",
+        "statuscode": "200",
+        "digest": "JYEMAYWXI4VETCQHVYTLF2JTZSISMP6N",
+        "length": "439",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19961227032550id_/http://www.cs.utexas.edu:80/users/nn/latex2html_icons/up_motif_gr.gif",
+        "file": "restoration/qa/odiya-seeds-news/raw/19961227032550-960da4867468.gif",
+        "sha256": "1561c4bb7c72542faf7ef1a82cd9c486d407d46c0f2f37a09db282bf8bf16d40",
+        "actual_digest": "JYEMAYWXI4VETCQHVYTLF2JTZSISMP6N",
+        "cdx_digest_verified": true,
+        "bytes": 145,
+        "width": 26,
+        "height": 24,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "page",
@@ -43640,12 +43703,12 @@
     "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/",
     "capture": "19961224032908",
     "input_sha256": "68035fc195fdc4274d30a7a54b9af4f106f875cf49dfcbc82649dad0f1df06f4",
-    "output_sha256": "d3e7f2ef740dcfe5fab4072ad281e435c5d8262a9d50ec94cf2d9f0733a4f6a8",
+    "output_sha256": "66dd16c9b9b2f42c5390850cbafc4d06b05205f30d140a00b53ee527a2c8bff7",
     "cdx_digest_verified": true,
     "cdx_digest": "AQH6SKTOKWPVWQDVQ2QLC57ADID7XS6I",
     "recovery_note": "Original 1996 layout and text retained; services and dynamic counter inactive.",
     "local_source": "odiya/captures/texas-community/seeds/index.html",
-    "local_edition_sha256": "db672340e8b4b2a4fac865311a27667ca75ab0bd3d29c339988764f2cb6951f9",
+    "local_edition_sha256": "7506ce0d796378aab3e06845c56962507d7d0d0e7e276e117509d9f77232223c",
     "seeds_attachment_links": [
       {
         "page": "odiya/captures/texas-community/seeds/index.html",
@@ -43711,6 +43774,26 @@
         "page": "odiya/captures/texas-community/seeds/index.html",
         "original": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/ngos-in-orissa.txt.gz",
         "destination": "odiya/captures/texas-community/seeds/readings/ngos-in-orissa.html"
+      }
+    ],
+    "newsletter_link_recovery": [
+      {
+        "page": "odiya/captures/texas-community/seeds/index.html",
+        "original": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/article4/article4.html",
+        "destination": "odiya/captures/texas-community/seeds/article4/article4.html",
+        "fragment": ""
+      },
+      {
+        "page": "odiya/captures/texas-community/seeds/index.html",
+        "original": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/news/news.html",
+        "destination": "odiya/captures/texas-community/seeds/news/news.html",
+        "fragment": ""
+      },
+      {
+        "page": "odiya/captures/texas-community/seeds/index.html",
+        "original": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/dams.html",
+        "destination": "odiya/captures/texas-community/seeds/dams.html",
+        "fragment": ""
       }
     ]
   },
@@ -44119,5 +44202,293 @@
     "recovery_note": "Original text; spacing preserved.",
     "local_source": "odiya/captures/texas-community/seeds/readings/bct-reply.html",
     "local_edition_sha256": "e3c8a1dc1ab28c1b189918527f0a809b9a7516ec37c0c092d5894627206d8b8e"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/951f11fa6d1e3f.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://cbl.leeds.ac.uk/nikos/personal.html",
+    "output_sha256": "6c71a2c0f092a72bd368740eb17a704fcca37b2bcf8f6cea3e0d86bead02c4b6",
+    "recovery_note": "Generated notice, not an original historical page.",
+    "local_source": "odiya/unavailable/951f11fa6d1e3f.html",
+    "local_edition_sha256": "a659d5fe36ea37cd9ad6997c3a63d28e4e69716abf3b1a08b499cf36c020fb42"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-news/previous_motif.gif",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961227022223-34f4250b759f.gif",
+    "original_url": "http://www.cs.utexas.edu:80/users/nn/latex2html_icons/previous_motif.gif",
+    "capture": "19961227022223",
+    "input_sha256": "8ed49f7e3795f1acef5d842c38fa1014b64ffe3274c9f7784780d7e158d5b067",
+    "output_sha256": "8ed49f7e3795f1acef5d842c38fa1014b64ffe3274c9f7784780d7e158d5b067",
+    "cdx_digest_verified": true,
+    "cdx_digest": "XWPELTX5MYFA63AHTEMQN2SZAHDUUNVK",
+    "recovery_note": "Original archived image; bytes unchanged.",
+    "local_source": "odiya/recovered-news/previous_motif.gif",
+    "local_edition_sha256": "8ed49f7e3795f1acef5d842c38fa1014b64ffe3274c9f7784780d7e158d5b067"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/texas-community/seeds/news/node4.html",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961229081849-881ac00322e1.html",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/news/node4.html",
+    "capture": "19961229081849",
+    "input_sha256": "819ba6113553e1e35430950be9ba7e634b08411397cb12b323a50eaf0e7f750f",
+    "output_sha256": "acd25a67491c71dea87516d2b4aeed13a28ab3e69d95db532581e1c8d4b0d211",
+    "cdx_digest_verified": true,
+    "cdx_digest": "DW2GN2ZAS2MPTZVSPGA4MI6SGHXCH7Z7",
+    "recovery_note": "Original 1996 layout and text retained; services and dynamic counter inactive.",
+    "local_source": "odiya/captures/texas-community/seeds/news/node4.html",
+    "local_edition_sha256": "b724e22e961aa9795db7ddd366d2b4efc1c0db27325b34e2fcea79cff9b2e9fd"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-news/img1.gif",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961229081751-43d4d19305c2.gif",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/article4/img1.gif",
+    "capture": "19961229081751",
+    "input_sha256": "85309740398954e1ebffe983f9e61fbfc74fd8b70e09e25269b10eeeafdf7086",
+    "output_sha256": "85309740398954e1ebffe983f9e61fbfc74fd8b70e09e25269b10eeeafdf7086",
+    "cdx_digest_verified": true,
+    "cdx_digest": "V3XYRZG7A3UU6ES6KBSAHZPQMEDZBFRO",
+    "recovery_note": "Original archived image; bytes unchanged.",
+    "local_source": "odiya/recovered-news/img1.gif",
+    "local_edition_sha256": "85309740398954e1ebffe983f9e61fbfc74fd8b70e09e25269b10eeeafdf7086"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/texas-community/seeds/news/news.html",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961226231824-c2b57b8502b9.html",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/news/news.html",
+    "capture": "19961226231824",
+    "input_sha256": "1428e33cfd71691477657210f89c09de88ef8a58937bf494901945b623d87256",
+    "output_sha256": "a9d413d7fb267521b4cc7281c7e7539339ef5470e5282b70d08e8863e2704755",
+    "cdx_digest_verified": true,
+    "cdx_digest": "GKYVHGHN26PE3Z4D2MXA2QBXGUO7YBII",
+    "recovery_note": "Original 1996 layout and text retained; services and dynamic counter inactive.",
+    "local_source": "odiya/captures/texas-community/seeds/news/news.html",
+    "local_edition_sha256": "406d466fe7785c4431ca2612dfb49e399dc153f802972ac1640b60734b1f36c8"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/texas-community/seeds/news/node9.html",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961230230419-4c71def440c1.html",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/news/node9.html",
+    "capture": "19961230230419",
+    "input_sha256": "f1cc17f8d9e6f631c02aedbd7df2154853261f2e908d3284d55a54e721e4b366",
+    "output_sha256": "16fe5b09930bfd6fcd51a0d591cfb80f312ccf5ac46d8622635deefb0f5f1d91",
+    "cdx_digest_verified": true,
+    "cdx_digest": "XYZ5ABS6TU5RS7SR5PFMVO2EPRDGL7M3",
+    "recovery_note": "Original 1996 layout and text retained; services and dynamic counter inactive.",
+    "local_source": "odiya/captures/texas-community/seeds/news/node9.html",
+    "local_edition_sha256": "b4d2964146e8319383255bedfd4a47eebea26d796f3714466c5fca2ae05c4f5e"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/texas-community/seeds/news/node2.html",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961229081833-a648673a8d8d.html",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/news/node2.html",
+    "capture": "19961229081833",
+    "input_sha256": "d60fcf92e8e75d2ea0dbbc3ff2509a088f94f1956e48023884705207a1db7a5c",
+    "output_sha256": "944c865dee4759f1e489edf907a2b8b77cb5b2c7e522a5498ddc804bba18fcac",
+    "cdx_digest_verified": true,
+    "cdx_digest": "4PEDMTV6KI4BEAYEHJCGSTQ6NIR344YA",
+    "recovery_note": "Original 1996 layout and text retained; services and dynamic counter inactive.",
+    "local_source": "odiya/captures/texas-community/seeds/news/node2.html",
+    "local_edition_sha256": "afb1c34a77cb17dba9f42fcb398134db322dec7c89e1f376c27a9fa70f55522d"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/e2e919b6da9577.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://cbl.leeds.ac.uk/nikos/tex2html/doc/latex2html/latex2html.html",
+    "output_sha256": "71e169f54a81c7472b106a5f6293c4f941477607a3457e296786fb4d799e89da",
+    "recovery_note": "Generated notice, not an original historical page.",
+    "local_source": "odiya/unavailable/e2e919b6da9577.html",
+    "local_edition_sha256": "5696e4dac2ea39696890b7668a6b56faa37781e6fbc2c7670d3dcf9b4a2aa533"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/texas-community/seeds/news/node6.html",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961229081923-070d8d78a9a2.html",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/news/node6.html",
+    "capture": "19961229081923",
+    "input_sha256": "6d48270299bccc9e1949c0d0e067eb662afde95159527647613606a10970b9c7",
+    "output_sha256": "e35b589455163e91404f1ae99f07805a73696b851e095caa61ee0de93a5d509f",
+    "cdx_digest_verified": true,
+    "cdx_digest": "WL3QOOIEDDVLRCZMRASH4W5EAA3IECP3",
+    "recovery_note": "Original 1996 layout and text retained; services and dynamic counter inactive.",
+    "local_source": "odiya/captures/texas-community/seeds/news/node6.html",
+    "local_edition_sha256": "3afd01c19261ec013b3896a75fb9b386ffadcc30860ee76707afab191ae8cfcd"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/f6471b7dae3966.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan",
+    "output_sha256": "8ad6323ea98047cac9803e127efac50f1303dca6107e400c0ebdaa3c1f1cc303",
+    "recovery_note": "Generated notice, not an original historical page.",
+    "local_source": "odiya/unavailable/f6471b7dae3966.html",
+    "local_edition_sha256": "a5388579f573b6192f4eb899d4220e82f04584bc4f3437921747bdb35fbe45e0"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/texas-community/seeds/article4/article4.html",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961226231603-559a9b65a124.html",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/article4/article4.html",
+    "capture": "19961226231603",
+    "input_sha256": "f5d43910f038b3866dd68703d4bfb8aa534c457dcf3d12ef35654a524c0e1ee5",
+    "output_sha256": "f50b40c7e18b1dcac7ec0dcbfebe63d696ff170579b686906a6b8c2ee08bbbdb",
+    "cdx_digest_verified": true,
+    "cdx_digest": "KOUQH2ZHDR5EML5TEHJYPRX7THKC3INF",
+    "recovery_note": "Original 1996 layout and text retained; services and dynamic counter inactive.",
+    "local_source": "odiya/captures/texas-community/seeds/article4/article4.html",
+    "local_edition_sha256": "47627ef3782b8661cffb30b4a897b8d61256650b5729bcb6e58f8b62a7032996"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/texas-community/seeds/news/node5.html",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961229081913-de38a1591818.html",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/news/node5.html",
+    "capture": "19961229081913",
+    "input_sha256": "0325c56283b3c1c609b5e39de49dd20c544e0d67134883d939b03c7a525d16ba",
+    "output_sha256": "4fc35e64c5e18cfb9ae55a1b3e38b6ba18406a9dc309792d3a2f488582110130",
+    "cdx_digest_verified": true,
+    "cdx_digest": "4QKHRT5ARPRB2YEAWFBL3AXXACT6X6FI",
+    "recovery_note": "Original 1996 layout and text retained; services and dynamic counter inactive.",
+    "local_source": "odiya/captures/texas-community/seeds/news/node5.html",
+    "local_edition_sha256": "4e66077bc3ebb4d55c7a41a758481c710c34352a3bf5a7bee5a8a4f2b9a19390"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/texas-community/seeds/news/node1.html",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961229081826-19b37cfc1231.html",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/news/node1.html",
+    "capture": "19961229081826",
+    "input_sha256": "045d262529b0504394b35cf0f84f69baa40a0dae12c9aa811ba992b1d3f3174e",
+    "output_sha256": "2fccc867940b81cd8e9902edeeb63227e688c7a481d7c754f1ae963013a3da5d",
+    "cdx_digest_verified": true,
+    "cdx_digest": "GKCBHYMQU4I2YKDPOWRPOQVQXB3SQAN5",
+    "recovery_note": "Original 1996 layout and text retained; services and dynamic counter inactive.",
+    "local_source": "odiya/captures/texas-community/seeds/news/node1.html",
+    "local_edition_sha256": "cc73fabff2bde4d2650f9ab35c14d9584a1fa70c6af2ad408458c7244fb9db43"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/texas-community/seeds/dams.html",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961226232058-18e73cf228f0.html",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/dams.html",
+    "capture": "19961226232058",
+    "input_sha256": "73bd61591c13fad86a4a8ea0998871e8439ee97eaae9039142d11b7d9af76599",
+    "output_sha256": "a3481edb03fb359725659d04cb5d88970187818e748ba6c196e7e053ff657d89",
+    "cdx_digest_verified": true,
+    "cdx_digest": "GIVJLW4VZQFVIIWSGRVHLZ7OJV44QZY5",
+    "recovery_note": "Original 1996 layout and text retained; services and dynamic counter inactive.",
+    "local_source": "odiya/captures/texas-community/seeds/dams.html",
+    "local_edition_sha256": "3f108992ddb7c239bd86d1d823fc23910a50f57cb211173d5259919e1f8c7da2"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/texas-community/seeds/news/node8.html",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961229081943-075f8716a41c.html",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/news/node8.html",
+    "capture": "19961229081943",
+    "input_sha256": "496425917d92568a610c2ee124b321e38a0df8971561d6d01b097586e4f6b0cd",
+    "output_sha256": "1184dede80dd03f7ab31ca107296112d2d99a98750f72b05ea0b9de7c5221aa9",
+    "cdx_digest_verified": true,
+    "cdx_digest": "LPMY3G3YJXMY2PIFU6ABAPA5UKTGVQDF",
+    "recovery_note": "Original 1996 layout and text retained; services and dynamic counter inactive.",
+    "local_source": "odiya/captures/texas-community/seeds/news/node8.html",
+    "local_edition_sha256": "6a42af0872cbba469436361a78ebd3743047229d28408ff0f1e9ae655e37da8c"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-news/next_motif.gif",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961227032542-786b6dcd5b33.gif",
+    "original_url": "http://www.cs.utexas.edu:80/users/nn/latex2html_icons/next_motif.gif",
+    "capture": "19961227032542",
+    "input_sha256": "2756cd34fc01eb9f9494fac2b86fbdcff655737ca5846d1fb0b6da7f420b9e6e",
+    "output_sha256": "2756cd34fc01eb9f9494fac2b86fbdcff655737ca5846d1fb0b6da7f420b9e6e",
+    "cdx_digest_verified": true,
+    "cdx_digest": "7M4WCWCR7OIBCG75SYAIBFSGPKSJ6C5B",
+    "recovery_note": "Original archived image; bytes unchanged.",
+    "local_source": "odiya/recovered-news/next_motif.gif",
+    "local_edition_sha256": "2756cd34fc01eb9f9494fac2b86fbdcff655737ca5846d1fb0b6da7f420b9e6e"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/texas-community/seeds/news/node3.html",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961229081841-2c00d7b98122.html",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/news/node3.html",
+    "capture": "19961229081841",
+    "input_sha256": "bd5da239837e6c9feaa857fa7a94bbb920e6abd4976f258523f9d80d17df2074",
+    "output_sha256": "5840a71ae38e2039db254f1df520fe7b18d3c32e8b504b44537a33a222178d32",
+    "cdx_digest_verified": true,
+    "cdx_digest": "LZNPTPNCH7NHQGICKISUAYSSYGQK7XLK",
+    "recovery_note": "Original 1996 layout and text retained; services and dynamic counter inactive.",
+    "local_source": "odiya/captures/texas-community/seeds/news/node3.html",
+    "local_edition_sha256": "7854630f719b7c45cd33efc5a071d5491266bf79618d0aa7550ceeb71fc7f113"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-news/up_motif.gif",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961227022153-51ae211f1f04.gif",
+    "original_url": "http://www.cs.utexas.edu:80/users/nn/latex2html_icons/up_motif.gif",
+    "capture": "19961227022153",
+    "input_sha256": "28e6cf7fb78a9057d076df7cee1862eb567ac8799af6b6b325c8f3d27e702926",
+    "output_sha256": "28e6cf7fb78a9057d076df7cee1862eb567ac8799af6b6b325c8f3d27e702926",
+    "cdx_digest_verified": true,
+    "cdx_digest": "422F3BJ7777PKPE442QY5ZPBVYLE4ZVD",
+    "recovery_note": "Original archived image; bytes unchanged.",
+    "local_source": "odiya/recovered-news/up_motif.gif",
+    "local_edition_sha256": "28e6cf7fb78a9057d076df7cee1862eb567ac8799af6b6b325c8f3d27e702926"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/fd60f0a08124d8.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/SSP1.gz",
+    "output_sha256": "0d5fe7d80df6849e232947c49476582cb20cd97e67e3c0cbeb5e33d7b064ff5c",
+    "recovery_note": "Generated notice, not an original historical page.",
+    "local_source": "odiya/unavailable/fd60f0a08124d8.html",
+    "local_edition_sha256": "4f52e9eb6bb345966267913410ed92b2686961c10a619d28ca50c08c01bb1f88"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-news/sub.gif",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961230230453-fce83c2fde8d.gif",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/news/sub.gif",
+    "capture": "19961230230453",
+    "input_sha256": "79cddd50434431fe4bc118e2e0eeff7e73dac117685a7c8e74917dadf9d5d5dc",
+    "output_sha256": "79cddd50434431fe4bc118e2e0eeff7e73dac117685a7c8e74917dadf9d5d5dc",
+    "cdx_digest_verified": true,
+    "cdx_digest": "C364X4MP75DPNKDGWG62OUISDX5OFYYJ",
+    "recovery_note": "Original archived image; bytes unchanged.",
+    "local_source": "odiya/recovered-news/sub.gif",
+    "local_edition_sha256": "79cddd50434431fe4bc118e2e0eeff7e73dac117685a7c8e74917dadf9d5d5dc"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/texas-community/seeds/news/node7.html",
+    "source": "restoration/qa/odiya-seeds-news/raw/19961229081933-7b1c79094e11.html",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/news/node7.html",
+    "capture": "19961229081933",
+    "input_sha256": "765526cc326acc8e5c274d4e673452f26d605b8483f1d99cceab912fa13ca531",
+    "output_sha256": "e6c95ab1f5da6d3d9cbe602e5a3095a37226e8459e8be73342aaede65da85cbc",
+    "cdx_digest_verified": true,
+    "cdx_digest": "G4BTDFTQ6VVDJVO3ZONGMI34CEZANJDE",
+    "recovery_note": "Original 1996 layout and text retained; services and dynamic counter inactive.",
+    "local_source": "odiya/captures/texas-community/seeds/news/node7.html",
+    "local_edition_sha256": "b78cb9711c7ff2d3e87fa2e100ad64c58f8b0b9bb374e1376ee60896e488d9f1"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/b39622779ab57b.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/SSP0.gz",
+    "output_sha256": "e8c92c5df09fe6561de89a7406520f41c936a3739968059ed02b00d8e43879c6",
+    "recovery_note": "Generated notice, not an original historical page.",
+    "local_source": "odiya/unavailable/b39622779ab57b.html",
+    "local_edition_sha256": "756fc6d8455e41747c1c075e7fa0c595ee61f924ed7e5a94631d50a70b4477d4"
   }
 ]
