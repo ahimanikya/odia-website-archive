@@ -35648,18 +35648,25 @@
     "original_url": "http://www.odiya.org:80/odonline/index.shtml",
     "capture": "20010202151100",
     "input_sha256": "e9c14123e21fb9f1c7d8bd8319a49b56ae36124a0fedef9044f089502d201d00",
-    "output_sha256": "a60e0ffdea0b1888085808388991e5c556fb68a1875c9c94043475c7568de366",
+    "output_sha256": "080d5984090c56b7d6eade2956e9c9094086638cebcd3b7c9aff10347b954b66",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; historical online services remain inactive.",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
     "local_source": "odiya/odonline/index.html",
-    "local_edition_sha256": "adcfd8b4a0ca75008411f017f21d85d2d0efbe1023469c2f2e9bf51e35422298",
+    "local_edition_sha256": "5740d5dd828b1aed86f5bc3ff00c3657e34f5b4f30cc921503f737cd68b3c01d",
     "mounted_backup_link_repairs": [
       {
         "page": "odiya/odonline/index.html",
         "original": "http://www.odiya.org:80/odonline/wwwboard/index.html",
         "destination": "odiya/odonline/wwwboard/index.html",
         "evidence": "Exact saved backup address."
+      }
+    ],
+    "saved_forum_link_recovery": [
+      {
+        "page": "odiya/odonline/index.html",
+        "original": "http://www.odiya.org:80/odonline/forum/orissa/index.html",
+        "destination": "odiya/odonline/forum/orissa/index.html"
       }
     ]
   },
@@ -45408,5 +45415,397 @@
     "recovery_note": "Restoration navigation; not an original page.",
     "local_source": "odiya/odonline/wwwboard/saved-messages.html",
     "local_edition_sha256": "d2719cf045820f3104d4319ae4344af6e20dcfdc956b5d7589f8c5a8c462a0d5"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Cyber_Development_in_Orissa/0.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Cyber_Development_in_Orissa/0.html",
+    "input_sha256": "1f0d40d53e9ff1bcecedc458370dd74fda29c8c33acc95e030ac278179fdfecb",
+    "output_sha256": "5b2e49fcf6adf1a27756ac068e20dffebdb5841709f73e618f19e5d6a7137ee8",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Cyber_Development_in_Orissa/0.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "forum_metadata": {
+      "id": 0,
+      "stored_parent": 0,
+      "timestamp": 889808907,
+      "date_utc": "1998-03-13 17:08:27 UTC",
+      "title": "Welcome !",
+      "author": "Ahimanikya Satpathy"
+    },
+    "forum_index_source": {
+      "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Cyber_Development_in_Orissa/index.html",
+      "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Cyber_Development_in_Orissa/index.html",
+      "relative": "odonline/forum/orissa/forum.db/Cyber_Development_in_Orissa/index.html",
+      "sha256": "512cea817029b20f6e318233c42153035ee44e5f45c11431030e46a29fc1e2a1"
+    },
+    "local_source": "odiya/odonline/forum/orissa/topics/Cyber_Development_in_Orissa/0.html",
+    "local_edition_sha256": "ec05ab412e3649dc3a995a74eb8dc7cdced61b0fdf96c155e36d5386602d964f"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Orissa_Politics/index.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Orissa_Politics/index.html",
+    "input_sha256": "9299c6fa78f157ae230c1077a2ef86f32a1d5effbd23bde5a9e9e35fd8e6af22",
+    "output_sha256": "04e0659b583d84655c290f4d3fc4f24146dca745821fd1decc2c13c78e57b4b5",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Orissa_Politics/index.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "local_source": "odiya/odonline/forum/orissa/topics/Orissa_Politics/index.html",
+    "local_edition_sha256": "f6cd1b4c6b378438d8bec6c187674fbdf1106423b47fe1bcb8f3efd621b22a3b"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Orissa_Politics/0.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Orissa_Politics/0.html",
+    "input_sha256": "45d5c81739ae53e132a6c8741bf790c66a5606b0f100567229c039842ef20e5d",
+    "output_sha256": "b6167c3004a0a668a69ed596024d89e763bc382c573bb86ce700b9d39b8d8fda",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Orissa_Politics/0.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "forum_metadata": {
+      "id": 0,
+      "stored_parent": 0,
+      "timestamp": 889808806,
+      "date_utc": "1998-03-13 17:06:46 UTC",
+      "title": "Welcome",
+      "author": "Ahimanikya Satpathy"
+    },
+    "forum_index_source": {
+      "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Orissa_Politics/index.html",
+      "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Orissa_Politics/index.html",
+      "relative": "odonline/forum/orissa/forum.db/Orissa_Politics/index.html",
+      "sha256": "9299c6fa78f157ae230c1077a2ef86f32a1d5effbd23bde5a9e9e35fd8e6af22"
+    },
+    "local_source": "odiya/odonline/forum/orissa/topics/Orissa_Politics/0.html",
+    "local_edition_sha256": "ef3b3bc0eb0816b524d79e07a4f78f826af2e5abf855ba0fe2bb3e101686c283"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Matrimonials/index.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Matrimonials/index.html",
+    "input_sha256": "e844ccc46e3319a0cf1f7a5cc785dc86f2e6b44c6d77423013b0fa8942e3f360",
+    "output_sha256": "10b9307ac9c419e27f2e685a3f46320434d41d6e622a31b1c73634c241781118",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Matrimonials/index.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "local_source": "odiya/odonline/forum/orissa/topics/Matrimonials/index.html",
+    "local_edition_sha256": "511a42333717d50918dc884096e9406c288183a7f0fef5041605be4edde6dc82"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Looking_For/1.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Looking_For/1.html",
+    "input_sha256": "847f06d0e5e207837b01848c3c54db724a85de476f31ea42b37b2021640f7ef9",
+    "output_sha256": "a955b1eeb22f331658237444bfc10acb75966b6312ffaa484e933697638484c5",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Looking_For/1.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "forum_metadata": {
+      "id": 1,
+      "stored_parent": 0,
+      "timestamp": 1054654606,
+      "date_utc": "2003-06-03 15:36:46 UTC",
+      "title": "Oriya Bilengual needed",
+      "author": "Trevor Bosen"
+    },
+    "forum_index_source": {
+      "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Looking_For/index.html",
+      "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Looking_For/index.html",
+      "relative": "odonline/forum/orissa/forum.db/Looking_For/index.html",
+      "sha256": "ca233ca1bf8f5ab67ccd6eb5c4589368a937f33e9a8049363db5c07c20c2ab39"
+    },
+    "local_source": "odiya/odonline/forum/orissa/topics/Looking_For/1.html",
+    "local_edition_sha256": "d67ba96e758f6e6410f422d2d7d3c776466f593e5831b1eb69c84306d715dfda"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Matrimonials/0.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Matrimonials/0.html",
+    "input_sha256": "c767b9eeb3e2ce2d9c444f389d98bc1a5f86b71de8fb41d9fc4fca86f8f24a24",
+    "output_sha256": "b9fdac7d8c6aef14757ac716b1c61aeb8c088c4014712f470854a70322766485",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Matrimonials/0.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "forum_metadata": {
+      "id": 0,
+      "stored_parent": 0,
+      "timestamp": 889809050,
+      "date_utc": "1998-03-13 17:10:50 UTC",
+      "title": "Welcome !",
+      "author": "Ahimanikya Satpathy"
+    },
+    "forum_index_source": {
+      "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Matrimonials/index.html",
+      "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Matrimonials/index.html",
+      "relative": "odonline/forum/orissa/forum.db/Matrimonials/index.html",
+      "sha256": "e844ccc46e3319a0cf1f7a5cc785dc86f2e6b44c6d77423013b0fa8942e3f360"
+    },
+    "local_source": "odiya/odonline/forum/orissa/topics/Matrimonials/0.html",
+    "local_edition_sha256": "15f50883f31cf9dcddc2a566e6405898601ee41342e577d3731acbab7c7af425"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Looking_For/index.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Looking_For/index.html",
+    "input_sha256": "ca233ca1bf8f5ab67ccd6eb5c4589368a937f33e9a8049363db5c07c20c2ab39",
+    "output_sha256": "c4215db92e29a3e393a0b64cf076909c7f80e022a0a439f5c23fd43c34a998ee",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Looking_For/index.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "local_source": "odiya/odonline/forum/orissa/topics/Looking_For/index.html",
+    "local_edition_sha256": "f9857f6bd12382906a9fadb715c0e518dc67515089284d131ff5bd402424ad50"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Jokes/0.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Jokes/0.html",
+    "input_sha256": "21daceffb51a2260171984783e0e85e74b2696bff1b8e9470aa4900620040b27",
+    "output_sha256": "0959d32be8008d519caffbda2f3e103b0e7b69190d230e8d49f324efafd3365b",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Jokes/0.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "forum_metadata": {
+      "id": 0,
+      "stored_parent": 0,
+      "timestamp": 889809253,
+      "date_utc": "1998-03-13 17:14:13 UTC",
+      "title": "Welcome !",
+      "author": "Ahimanikya Satpathy"
+    },
+    "forum_index_source": {
+      "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Jokes/index.html",
+      "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Jokes/index.html",
+      "relative": "odonline/forum/orissa/forum.db/Jokes/index.html",
+      "sha256": "986cd2aaa452b33f5e62761ea88f2d5048f67dac4cbccc0be454fc331802e2bf"
+    },
+    "local_source": "odiya/odonline/forum/orissa/topics/Jokes/0.html",
+    "local_edition_sha256": "5d2c1a293f0888b21b3ed1872f02173fa756081d91a4d1cc3e355c5e630848bc"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/index.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/index.html",
+    "input_sha256": "590f1bb5945948f959a2b92ff3de1548548c41eaa8982e5f9218b97b702f0068",
+    "output_sha256": "86db165b916dace45fce869eb5461637299713fb3ebc387d386a0c9cc5cadad4",
+    "original_url": "http://odiya.org/odonline/forum/orissa/index.html",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/index.html",
+    "recovery_note": "Original saved page shell and menu parameters; Java reader replaced with static topic links.",
+    "local_source": "odiya/odonline/forum/orissa/index.html",
+    "local_edition_sha256": "83d0524359cd21f144c0b3a3feae241947ad6688604a7fa0a4d58ceccff7a480"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/8f06e8e6e0fcd1.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.solidware.com",
+    "output_sha256": "18cb136a1c725c550a2a935e0abba70660c615b9f74505094bc5f8c4be21942f",
+    "recovery_note": "Generated notice, not historical content.",
+    "local_source": "odiya/unavailable/8f06e8e6e0fcd1.html",
+    "local_edition_sha256": "f98bda836c62ff3e923c92cb61fbe137759c86b23ecc452a3db638b65448dfac"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Business/0.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Business/0.html",
+    "input_sha256": "a65d1ad148dce28c8e10ad5a14b66aba40f51817b35c636a1c9b0b7895f5447b",
+    "output_sha256": "732e240b53e11a598f4b4dbeca64b2c6fe644305e61e64171c0876df45b275db",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Business/0.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "forum_metadata": {
+      "id": 0,
+      "stored_parent": 0,
+      "timestamp": 894049327,
+      "date_utc": "1998-05-01 19:02:07 UTC",
+      "title": "Business opportunities in Orissa",
+      "author": "Tanmay Kar"
+    },
+    "forum_index_source": {
+      "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Business/index.html",
+      "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Business/index.html",
+      "relative": "odonline/forum/orissa/forum.db/Business/index.html",
+      "sha256": "f85a8f05bfbf91a893c7d6ec2bd113c45b4cfc5f31283ce812ed8478127dd9be"
+    },
+    "local_source": "odiya/odonline/forum/orissa/topics/Business/0.html",
+    "local_edition_sha256": "559e7c16b383f586d2de3191b291da652aa9e144d222fe95e3d51c6f5668c979"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Jokes/index.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Jokes/index.html",
+    "input_sha256": "986cd2aaa452b33f5e62761ea88f2d5048f67dac4cbccc0be454fc331802e2bf",
+    "output_sha256": "bb05d2ed28b0302e6cddaae519bb02353e0c1d9ecffd22780e3af56f460ab315",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Jokes/index.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "local_source": "odiya/odonline/forum/orissa/topics/Jokes/index.html",
+    "local_edition_sha256": "8d17efdae33046f86b5c6c63866b29c43cdaba9e7971abdfac2c565e1f3d663b"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Looking_For/0.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Looking_For/0.html",
+    "input_sha256": "d7a440e5ee5bf674643a5c481b5f5129e5e5a738b49dc2892bb9905e8dfb1e35",
+    "output_sha256": "6e6a3c3b4a6e555c9795a6e708d0f6e05dc4decadec2b64ebabb1f121df8ace0",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Looking_For/0.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "forum_metadata": {
+      "id": 0,
+      "stored_parent": 0,
+      "timestamp": 889808907,
+      "date_utc": "1998-03-13 17:08:27 UTC",
+      "title": "Welcome !",
+      "author": "Ahimanikya Satpathy"
+    },
+    "forum_index_source": {
+      "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Looking_For/index.html",
+      "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Looking_For/index.html",
+      "relative": "odonline/forum/orissa/forum.db/Looking_For/index.html",
+      "sha256": "ca233ca1bf8f5ab67ccd6eb5c4589368a937f33e9a8049363db5c07c20c2ab39"
+    },
+    "local_source": "odiya/odonline/forum/orissa/topics/Looking_For/0.html",
+    "local_edition_sha256": "133c7a6ba035a116fd699f0ea1afb0a4f45b053969ae672a8511f21d0a4a838b"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Cyber_Development_in_Orissa/index.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Cyber_Development_in_Orissa/index.html",
+    "input_sha256": "512cea817029b20f6e318233c42153035ee44e5f45c11431030e46a29fc1e2a1",
+    "output_sha256": "50b60b155604c550846a5f7cbfef0831b505f630c928762d2b3e6b88a15e84ac",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Cyber_Development_in_Orissa/index.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "local_source": "odiya/odonline/forum/orissa/topics/Cyber_Development_in_Orissa/index.html",
+    "local_edition_sha256": "ba60ad4b7d9a1e5cf37c554d54e42bc2523813d37ee17a19c7695b94bfe1e864"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Orissa_Politics/1.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Orissa_Politics/1.html",
+    "input_sha256": "d44af3bfcdab315324927f1151360c13c012f90219394e582a20305a183b9fe1",
+    "output_sha256": "3ec5bcd07e4d604af71a51e565df9f3c1f78a6b02d1208ba28a05d627759162f",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Orissa_Politics/1.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "forum_metadata": {
+      "id": 1,
+      "stored_parent": 0,
+      "timestamp": 889974261,
+      "date_utc": "1998-03-15 15:04:21 UTC",
+      "title": "RE:Welcome",
+      "author": "Bikash"
+    },
+    "forum_index_source": {
+      "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Orissa_Politics/index.html",
+      "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Orissa_Politics/index.html",
+      "relative": "odonline/forum/orissa/forum.db/Orissa_Politics/index.html",
+      "sha256": "9299c6fa78f157ae230c1077a2ef86f32a1d5effbd23bde5a9e9e35fd8e6af22"
+    },
+    "local_source": "odiya/odonline/forum/orissa/topics/Orissa_Politics/1.html",
+    "local_edition_sha256": "e601be36a408dab878d424b36531d7e5b37df6b85d1f1ee2cb74d59f4fbf83e7"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Orissa_Politics/2.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Orissa_Politics/2.html",
+    "input_sha256": "0802938a598efc90ae0d7b3587d89144cb1ddb57713ffb1665f25f09b3a0218d",
+    "output_sha256": "5571fb28878223466a758b8849bc13c5acd2c0a563d0776f5c47ff3c6ccbe3d5",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Orissa_Politics/2.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "forum_metadata": {
+      "id": 2,
+      "stored_parent": 0,
+      "timestamp": 889974727,
+      "date_utc": "1998-03-15 15:12:07 UTC",
+      "title": "Present Political Scenario in Orissa",
+      "author": "Bikash"
+    },
+    "forum_index_source": {
+      "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Orissa_Politics/index.html",
+      "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Orissa_Politics/index.html",
+      "relative": "odonline/forum/orissa/forum.db/Orissa_Politics/index.html",
+      "sha256": "9299c6fa78f157ae230c1077a2ef86f32a1d5effbd23bde5a9e9e35fd8e6af22"
+    },
+    "local_source": "odiya/odonline/forum/orissa/topics/Orissa_Politics/2.html",
+    "local_edition_sha256": "69881452dd16ec023c9624bf533a9d235924dbf9f5f0d319fb4df48348996ca5"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Business/1.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Business/1.html",
+    "input_sha256": "181eb0361255078d37360e7e479f5b54a2668df534e526a7e88b996f7aa1c79c",
+    "output_sha256": "ca53a4d3454affa20eff18abc2a83d06780f30f9ce967eb15f72c20ae0995a05",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Business/1.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "forum_metadata": {
+      "id": 1,
+      "stored_parent": 0,
+      "timestamp": 894410355,
+      "date_utc": "1998-05-05 23:19:15 UTC",
+      "title": "RE:Business opportunities in Orissa",
+      "author": "Sanjeeb Swain"
+    },
+    "forum_index_source": {
+      "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Business/index.html",
+      "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Business/index.html",
+      "relative": "odonline/forum/orissa/forum.db/Business/index.html",
+      "sha256": "f85a8f05bfbf91a893c7d6ec2bd113c45b4cfc5f31283ce812ed8478127dd9be"
+    },
+    "local_source": "odiya/odonline/forum/orissa/topics/Business/1.html",
+    "local_edition_sha256": "2e50851e4840b0734027f5a9782a3162fa60c06d9caaab2fd9ea1dabce16646a"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Oriya_Bhasa_and_Lipi/index.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Oriya_Bhasa_and_Lipi/index.html",
+    "input_sha256": "4d7423c17927378d466b9b85b7ee9c7c498b88c69b3c3b1094065e06ffbc56b8",
+    "output_sha256": "14afb700ef7cb47dace1a41906760a8cf5166b53796ef5bf962f50ed317ac59c",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Oriya_Bhasa_and_Lipi/index.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "local_source": "odiya/odonline/forum/orissa/topics/Oriya_Bhasa_and_Lipi/index.html",
+    "local_edition_sha256": "5b74206d637309fdbef33c8b0ea73366dcdeeb0cd1e25587c1e59819d2e9a1c3"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Oriya_Bhasa_and_Lipi/0.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Oriya_Bhasa_and_Lipi/0.html",
+    "input_sha256": "72c6717e0b5e4a4cd430e545b2326a25b0c5aa3050470b63ca8b943918a82834",
+    "output_sha256": "06085e954786808d78dffc8794c43225282d9d6612bf79444a74df373b2a5096",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Oriya_Bhasa_and_Lipi/0.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "forum_metadata": {
+      "id": 0,
+      "stored_parent": 0,
+      "timestamp": 889808497,
+      "date_utc": "1998-03-13 17:01:37 UTC",
+      "title": "Welcome !",
+      "author": "Ahimanikya Satpathy"
+    },
+    "forum_index_source": {
+      "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Oriya_Bhasa_and_Lipi/index.html",
+      "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Oriya_Bhasa_and_Lipi/index.html",
+      "relative": "odonline/forum/orissa/forum.db/Oriya_Bhasa_and_Lipi/index.html",
+      "sha256": "4d7423c17927378d466b9b85b7ee9c7c498b88c69b3c3b1094065e06ffbc56b8"
+    },
+    "local_source": "odiya/odonline/forum/orissa/topics/Oriya_Bhasa_and_Lipi/0.html",
+    "local_edition_sha256": "ea3de8c68e2fe23a2b827db0f35b451d73407f99ceea3ad6acb1e7854e494614"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/forum/orissa/topics/Business/index.html",
+    "source": "restoration/qa/odiya-nested-backups/sources/odonline/forum/orissa/forum.db/Business/index.html",
+    "input_sha256": "f85a8f05bfbf91a893c7d6ec2bd113c45b4cfc5f31283ce812ed8478127dd9be",
+    "output_sha256": "147228209459766d6150b42be407d69a48dd1bf830d9a07f1ed5ac9aac785247",
+    "original_url": "",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/forum/orissa/forum.db/Business/index.html",
+    "recovery_note": "Static reading generated from saved forum records; message text unchanged.",
+    "local_source": "odiya/odonline/forum/orissa/topics/Business/index.html",
+    "local_edition_sha256": "20e79bc142878cec83e9b8bb699e06f2f77ce84d81b4f0eda01c3fbb24eba929"
   }
 ]
