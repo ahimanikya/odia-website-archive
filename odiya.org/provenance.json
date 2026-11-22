@@ -35458,12 +35458,24 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/artcommon.html",
     "capture": "20010503034533",
     "input_sha256": "1831adf9cd569ca2c1806def3756fd5f63cb21030f9c8e5762cdb12c9cf984c3",
-    "output_sha256": "c4d5bc5b528099fcba5f0cb77b99ce9c84ed72b7594562f968ded28bfb73710e",
+    "output_sha256": "13e7f573ee7cdca21c2c813943d1af74251c59ab310c2cd46a0650c48c627513",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/artcommon.html",
-    "local_edition_sha256": "a5ee7580bf6c6fed1ead95907c1dde178f95bac651f623aafddca1312a8238cd"
+    "local_edition_sha256": "e593803f09c33335c97abe139e877a5687d43cb7fc25bbfd1d7f4a7c0682608f",
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/artcommon.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/tobe.html",
+          "destination": "odiya/orissa/tobe.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "page",
@@ -35512,12 +35524,24 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/painting.html",
     "capture": "20010115110500",
     "input_sha256": "1831adf9cd569ca2c1806def3756fd5f63cb21030f9c8e5762cdb12c9cf984c3",
-    "output_sha256": "afa6e4ec883b2231256f94815ff83065fcf05c16eae10793fe946b4d7f7be616",
+    "output_sha256": "40a5b8db88c6ae85ccc727e78122126fd698910dcf63ae696b1b0a86a43a995d",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/painting.html",
-    "local_edition_sha256": "01d0c6fd42e91994d259160eb14d795b1fbce5d37e4c4fc2d7e5aff47e54f05d"
+    "local_edition_sha256": "222541852fe3b0b50676131071653503d7feb78c1d39691c88a85668631af302",
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/painting.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/tobe.html",
+          "destination": "odiya/orissa/tobe.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "page",
@@ -35574,12 +35598,24 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/filigree.html",
     "capture": "20000311102532",
     "input_sha256": "c15f6f0794e60ea447488369c116124135b04a85bff28c6aec6afb9b9b45cc44",
-    "output_sha256": "1852203dad15fc9ae174bc504836ed9154798e94a765348801fc126c9ba12959",
+    "output_sha256": "840f1ce1545356ec9ae9c975a02ec5cd881a91f62e79a0ff3cfadf266ff504e2",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/filigree.html",
-    "local_edition_sha256": "e99dc2c6ffaef6a82d50d46a59f9dd6ac73c45669524db320de001775a719689"
+    "local_edition_sha256": "f711ed0985069ef02772f5158c7366b03550db175f1e94f318ad9ee8706e6f6c",
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/filigree.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/tobe.html",
+          "destination": "odiya/orissa/tobe.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "asset",
@@ -36340,12 +36376,24 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/palmleaf.html",
     "capture": "20010421042200",
     "input_sha256": "1831adf9cd569ca2c1806def3756fd5f63cb21030f9c8e5762cdb12c9cf984c3",
-    "output_sha256": "03d4382e5310e180a94a4f5d034b56d1320b7e70db03f20ed1c3abdf328b320d",
+    "output_sha256": "90b39ce4f1489f15dbcb44ec3181d516966adfa853da35e6b06e497f1d7d82a8",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/palmleaf.html",
-    "local_edition_sha256": "c053efbe151768934c93fc5e4acba3f85eec4c2b1cce426a1f5dc879f96357ef"
+    "local_edition_sha256": "7e36d2def5fad59f243f2f3f7499958e931155c0989a0bc37ae7d18339329e75",
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/palmleaf.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/tobe.html",
+          "destination": "odiya/orissa/tobe.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "page",
@@ -36416,12 +36464,12 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/orissa.html",
     "capture": "20030117074107",
     "input_sha256": "686d2b4da97fe85fe31155fa8635d47aa440146761c805cf2d185c700375ff4b",
-    "output_sha256": "edaf0cbacead0988286fe86cfd2b4bb72c1c6ae6e2403028398f3dac17040724",
+    "output_sha256": "fae53d9f4832a183e23e9a4bedc1e419efd825c54a111eb8c902912bd5bc7dd1",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/orissa.html",
-    "local_edition_sha256": "2f6916fba827e24945f117d34a781571c7a250f354beab26ca86b50961ca55a7",
+    "local_edition_sha256": "c3ce63d6e2e729412ee4f0bd06de023d7a4668d5a18ab8460cb6fb7742b7f669",
     "shared_art_recovery": [
       {
         "page": "odiya/orissa/handicrafts/orissa.html",
@@ -36935,7 +36983,68 @@
         "fragment": "",
         "evidence_kind": "matching_saved_page"
       }
-    ]
+    ],
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/orissa.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/artcommon.html#common><b><i>Stone%20Sculpture:</i>%20The%20Timeless%20Memory%20on%20Stone</b></a>%0A<li><a%20href=",
+          "destination": "odiya/orissa/artcommon.html",
+          "fragment": "common",
+          "damaged_fragment_repaired": true
+        },
+        {
+          "page": "odiya/orissa/handicrafts/orissa.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/artcommon.html#common><b><i>Palm%20Leaf%20Engraving:</i>%20The%20Art%20in%20Its%20Infinitude</b></a>%0A<li><a%20href=",
+          "destination": "odiya/orissa/artcommon.html",
+          "fragment": "common",
+          "damaged_fragment_repaired": true
+        },
+        {
+          "page": "odiya/orissa/handicrafts/orissa.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/artcommon.html#common><b><i>Wood%20Carving%20and%20Wood%20Painting:</i>%20The%20Melody%20in%20Wood</b></a>%0A<li><a%20href=",
+          "destination": "odiya/orissa/artcommon.html",
+          "fragment": "common",
+          "damaged_fragment_repaired": true
+        },
+        {
+          "page": "odiya/orissa/handicrafts/orissa.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/artcommon.html#common><b><i>Grass:</i>%20The%20Beauty%20of%20Gold%20Rediscovered</b></a>%0A<li><a%20href=",
+          "destination": "odiya/orissa/artcommon.html",
+          "fragment": "common",
+          "damaged_fragment_repaired": true
+        },
+        {
+          "page": "odiya/orissa/handicrafts/orissa.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/artcommon.html#common><b><i>Horn:</i>%20The%20Black%20Beauty</b></i>%0A<li><a%20href=",
+          "destination": "odiya/orissa/artcommon.html",
+          "fragment": "common",
+          "damaged_fragment_repaired": true
+        },
+        {
+          "page": "odiya/orissa/handicrafts/orissa.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/artcommon.html#common><b><i>Applique:</i>%20The%20Rhythm%20in%20Colors</b></a>%0A<li><a%20href=",
+          "destination": "odiya/orissa/artcommon.html",
+          "fragment": "common",
+          "damaged_fragment_repaired": true
+        },
+        {
+          "page": "odiya/orissa/handicrafts/orissa.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/lalit1.html",
+          "destination": "odiya/orissa/lalit1.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        },
+        {
+          "page": "odiya/orissa/handicrafts/orissa.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/lalit1.html",
+          "destination": "odiya/orissa/lalit1.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "asset",
@@ -37038,12 +37147,24 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/dhokra.html",
     "capture": "20000117065003",
     "input_sha256": "9709f06bffa976bd75356b960fdd3398cc42e78ad1b0abb4b7eeeb4b612c50e5",
-    "output_sha256": "7708c8e97367f2d5a9128aea6b11cc5dbad9803df032656e3eeab0ee7510c659",
+    "output_sha256": "b7ea8eda3d60f555b55e22fd7e81c6bafa2f116b5dfd5db022007527d84e5460",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/dhokra.html",
-    "local_edition_sha256": "bca4bfefe34a03ace2ae05c5f835afeb322bfb791d4c3d1a717e667f4f9c0eff"
+    "local_edition_sha256": "a70481abd3690b44e50d21214218b6186a291386c137a9154269e23ede8ca69f",
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/dhokra.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/tobe.html",
+          "destination": "odiya/orissa/tobe.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "page",
@@ -37402,12 +37523,24 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/lacquer.html",
     "capture": "20010115105100",
     "input_sha256": "1831adf9cd569ca2c1806def3756fd5f63cb21030f9c8e5762cdb12c9cf984c3",
-    "output_sha256": "da2143200d35dc2f5479647e20110878315252d8c8c8c07049ec4a9de2d63a79",
+    "output_sha256": "b4e02693eb400f7a1b194ecc634b67c0ee42053a0961326791fc55314591487c",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/lacquer.html",
-    "local_edition_sha256": "c421a4d5f8418f5d2d34ea67792392f2000037345abee0c36a6e14ed11482320"
+    "local_edition_sha256": "51f846a915117de02fd64b296800aa3929920df2ef10e1a842af5947bad1936b",
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/lacquer.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/tobe.html",
+          "destination": "odiya/orissa/tobe.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "page",
@@ -37876,12 +38009,24 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/handloom.html",
     "capture": "20010115102600",
     "input_sha256": "1831adf9cd569ca2c1806def3756fd5f63cb21030f9c8e5762cdb12c9cf984c3",
-    "output_sha256": "f4a5798b2a3a517faf40d550eb291212d64d2073078a5492d4e99d11cca0c6fe",
+    "output_sha256": "6e0c466d59bd1b169a42a809b7328d6903cd1cf8c8a52fc5cf8712cd81310f19",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/handloom.html",
-    "local_edition_sha256": "96c1f36622e02139900b2b010389f39269fd51de2c288f75b05f361e99f34795"
+    "local_edition_sha256": "278542ce01dea1d2ca742e9c0138b43cea7a43231c35d6116668198e5ce555f2",
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/handloom.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/tobe.html",
+          "destination": "odiya/orissa/tobe.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "page",
@@ -38058,12 +38203,12 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/orissa1.html",
     "capture": "20030117074232",
     "input_sha256": "722daaf640dbf885aae853c32f7ddf406a770291adc8b46881feb2d732bc74cc",
-    "output_sha256": "657644f22eb2d43607f331c1b19701551ac11afff6f994f865a3279e8890ac46",
+    "output_sha256": "1bf3a7c984630049910b0d11ee4395cf8751d3f284b57ea66b7b7d7d4b7fb771",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/orissa1.html",
-    "local_edition_sha256": "dadb72d073e246aedc1ffddfe5901addaecee6055e18ce3b2f2c340fd0a5068e",
+    "local_edition_sha256": "d700a7a7390ddcc77ec99e56f8d4762e46ddc1a0f601dfab53e2a8b884948c78",
     "shared_art_recovery": [
       {
         "page": "odiya/orissa/handicrafts/orissa1.html",
@@ -38096,7 +38241,19 @@
         "destination": "odiya/captures/texas-orissa/temples.html",
         "fragment": ""
       }
-    ]
+    ],
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/orissa1.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/lalit1.html",
+          "destination": "odiya/orissa/lalit1.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "page",
@@ -38205,12 +38362,24 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/horn.html",
     "capture": "20010115103900",
     "input_sha256": "1831adf9cd569ca2c1806def3756fd5f63cb21030f9c8e5762cdb12c9cf984c3",
-    "output_sha256": "93e020c84433cc403b99e999596d81cb3eb277395406340ff82e71bd66264c09",
+    "output_sha256": "b4617f012ae349f9bb0df4ad878dd15ea7e4555cb6ae59358e20b896cee94807",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/horn.html",
-    "local_edition_sha256": "17a40a5dc3e0ba600e6a30480e51f769ada171ac1b704e945e4391a56a8c0136"
+    "local_edition_sha256": "207953a5c9e7b1a2f22c9372cd91fcf7a100ef16ead06ab30c97ff22e19f8fec",
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/horn.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/tobe.html",
+          "destination": "odiya/orissa/tobe.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "page",
@@ -38381,12 +38550,24 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/grass.html",
     "capture": "20010115101500",
     "input_sha256": "1831adf9cd569ca2c1806def3756fd5f63cb21030f9c8e5762cdb12c9cf984c3",
-    "output_sha256": "95cfe51686a86206215c698c36e7818f8dd53d9788072dc5d258016fff49a80d",
+    "output_sha256": "17ab6edad97388ac2fc336f890e44c1f6eedaccbed982471ba427a2098f97a81",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/grass.html",
-    "local_edition_sha256": "22c91d92cefad1a7fe11906328edb31236ee88e2ebd6e2fbecd47be48734c464"
+    "local_edition_sha256": "9df18714706b74442d70657bc8916f338c63a4fbd6fa99561144b7ee2b75dd99",
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/grass.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/tobe.html",
+          "destination": "odiya/orissa/tobe.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "page",
@@ -38543,12 +38724,24 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/terrakota.html",
     "capture": "20010501213821",
     "input_sha256": "1831adf9cd569ca2c1806def3756fd5f63cb21030f9c8e5762cdb12c9cf984c3",
-    "output_sha256": "96bbf9a1a3a1b840d23b22e8b592292678146c043a02da3a01d6950ee42f9481",
+    "output_sha256": "3ac142d8ddac92d6e39336167c1fe40ca8cf0b079d6d512846ab636df4016dc3",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/terrakota.html",
-    "local_edition_sha256": "6e09ac38f61ca3d80877436c7d0465c0d84a77eb9cb28ba69bab6e69834d62ea"
+    "local_edition_sha256": "12d23631f54b175e4fb731cd9e2db06b460366d36f6993097b1c6d4ca3bba602",
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/terrakota.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/tobe.html",
+          "destination": "odiya/orissa/tobe.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "asset",
@@ -38583,12 +38776,24 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/wood.html",
     "capture": "20010115113300",
     "input_sha256": "1831adf9cd569ca2c1806def3756fd5f63cb21030f9c8e5762cdb12c9cf984c3",
-    "output_sha256": "eb55d8739e2f6743b714478b303068b1bd383b0a2d836f556f34362ac3438296",
+    "output_sha256": "cf2a44060456e718240486711f8f1f2888b52b2900286ebbac96dbee4ed111d8",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/wood.html",
-    "local_edition_sha256": "c1cba4deb8d58790479d799924d21aa24751c868892736ba36507db8c16aa7a6"
+    "local_edition_sha256": "78698a2fdda52f500796c6c11d8de60e4059e60a2d4279f8d39758a6934f9460",
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/wood.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/tobe.html",
+          "destination": "odiya/orissa/tobe.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "asset",
@@ -38745,12 +38950,24 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/applique.html",
     "capture": "20000311043813",
     "input_sha256": "9709f06bffa976bd75356b960fdd3398cc42e78ad1b0abb4b7eeeb4b612c50e5",
-    "output_sha256": "04271c4e9df82ae401cc3dfb1ca35aebb9f619793d42ea54a3a642a00bc136f7",
+    "output_sha256": "390b6590d942897034cff9573e64c2c6573eb9cbe44b8b2c6b5968edd8746adb",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/applique.html",
-    "local_edition_sha256": "2a24d2c419a44be978caf8f0529630644061568e3606c8e47aa95c014635e0dd"
+    "local_edition_sha256": "375e580e9d71107148d34916a89122ea36c04f6ab5d9ddc1c6a380b1e8e86ffc",
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/applique.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/tobe.html",
+          "destination": "odiya/orissa/tobe.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "page",
@@ -38968,12 +39185,24 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/sculpture.html",
     "capture": "20000311135933",
     "input_sha256": "a883ab43a38d67a966c07f4f017cf286844abb0ad120dd28f3ff6c5af50951de",
-    "output_sha256": "eacfb8979d4ba62ca598915612213ca12d8dd884d9be8386ebf8b9124efcc644",
+    "output_sha256": "92511a144ddb0ae2eaf06fa3e948b75ea7bd2e027be5dfc29c0f50b20fbb6b04",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/sculpture.html",
-    "local_edition_sha256": "b4db0ed3e1c00beee46b02909d45ab3a6494d3638ee0394c6afc8f4dc80189e8"
+    "local_edition_sha256": "40a09dcbc5a2faf93c2be799eb1ebcc2e9347bcd3f212da44edec3aeab33b5cd",
+    "mirror_recovery": {
+      "links": [
+        {
+          "page": "odiya/orissa/handicrafts/sculpture.html",
+          "original": "http://www.cs.columbia.edu/~deba/orissa/tobe.html",
+          "destination": "odiya/orissa/tobe.html",
+          "fragment": "",
+          "damaged_fragment_repaired": false
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "page",
@@ -40919,12 +41148,12 @@
     "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/orissa/",
     "capture": "19981207001036",
     "input_sha256": "64649e62131dd7cb427045f00bc2d431110a70838c5033920421c10fb6931b50",
-    "output_sha256": "2c48c98f2a80d7bc47b48e4954d210527d7168d6640c53984ebc076fb6d3927a",
+    "output_sha256": "f73cc501d5546649c132ee587eada39042444bc16e9841ff20a762858a8cb843",
     "cdx_digest_verified": true,
     "cdx_digest": "K3UBYFEQTMWYMI3AVAKDMREORYEWPK7C",
     "recovery_note": "Original Texas-hosted capture; services inactive. Ticker text shown statically.",
     "local_source": "odiya/captures/texas-orissa/index.html",
-    "local_edition_sha256": "c033db791548dec53f3a114e3726a4f62a00fda437d617dfc32b3dbe05ab30df",
+    "local_edition_sha256": "be723101d9bdb03479135208d74cf65acce61585a0453dc055b1994432326e7a",
     "corroborated_link_repairs": [
       {
         "page": "odiya/captures/texas-orissa/index.html",
@@ -41073,7 +41302,17 @@
         "fragment": "",
         "evidence_kind": "matching_saved_page"
       }
-    ]
+    ],
+    "mirror_recovery": {
+      "links": [],
+      "images": [
+        {
+          "page": "odiya/captures/texas-orissa/index.html",
+          "original": "http://www.cs.utexas.edu:80/users/darshan/coming.gif",
+          "destination": "odiya/recovered-picture-art/coming.gif"
+        }
+      ]
+    }
   },
   {
     "kind": "asset",
@@ -41144,5 +41383,68 @@
     "recovery_note": "Original PCM WAV; archived bytes unchanged.",
     "local_source": "odiya/kids/sound/sam1.wav",
     "local_edition_sha256": "75b1ecf13e73933501ec1c32c82770c6aa69bcbf3480c6ea6e9ad79eff1fb931"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/orissa/lalit1.html",
+    "source": "restoration/qa/odiya-mirror-recovery/raw/20000311173631-751a8c097a17.html",
+    "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/lalit1.html",
+    "capture": "20000311173631",
+    "input_sha256": "e265a6bb3e6483caf9c0becaa6e6b763fb2f4abd8e0dc7eb2fb219103bb88c79",
+    "output_sha256": "0a0a928987782ac9c935b465c8160f1252565d6e473993e319803ca17de669d2",
+    "cdx_digest_verified": true,
+    "cdx_digest": "WYSONW6I25GS2333YOYWVQFFTFZHGOA5",
+    "recovery_note": "Original captured reading; services inactive. Damaged markup repaired.",
+    "source_markup_repairs": [
+      "Closed two original image-attribute quotes to expose the printed July 1994 source line."
+    ],
+    "local_source": "odiya/orissa/lalit1.html",
+    "local_edition_sha256": "7efdca3c858e84a21bea749eb3897936bb45c17a104fe7824aebd2860c28dc7f"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-picture-art/coming.gif",
+    "source": "restoration/qa/odiya-mirror-recovery/raw/19961226232358-0ac48abd4d9e.gif",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/coming.gif",
+    "capture": "19961226232358",
+    "input_sha256": "9b4595ac92250a271b860a07d59990b7b1e34f6881063bf0be9b6d7b5f272eae",
+    "output_sha256": "9b4595ac92250a271b860a07d59990b7b1e34f6881063bf0be9b6d7b5f272eae",
+    "cdx_digest_verified": true,
+    "cdx_digest": "3LCASEMQDWFVICMNJOWWRXUWNAFLVZAG",
+    "recovery_note": "Original static Coming Soon image; bytes unchanged.",
+    "local_source": "odiya/recovered-picture-art/coming.gif",
+    "local_edition_sha256": "9b4595ac92250a271b860a07d59990b7b1e34f6881063bf0be9b6d7b5f272eae"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/orissa/artcommon.html",
+    "source": "restoration/qa/odiya-mirror-recovery/raw/20000614021042-f00b7ad3ba7d.html",
+    "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/artcommon.html",
+    "capture": "20000614021042",
+    "input_sha256": "cd3c3c83129da3391a771b7270105598a39440d8d849b421e5a3d17b4f5a045c",
+    "output_sha256": "5e5117d5c97c0249af56bb760c9f5e5cb5b919ebbb5b87424a7b33f24e7eddcd",
+    "cdx_digest_verified": true,
+    "cdx_digest": "QHUSW2UROULENJR2RVFMH65C2MZ2E2YT",
+    "recovery_note": "Original captured reading; services inactive. Damaged markup repaired.",
+    "source_markup_repairs": [
+      "Closed two original FONT opening tags; text unchanged."
+    ],
+    "local_source": "odiya/orissa/artcommon.html",
+    "local_edition_sha256": "6d1dd1ea438976dd913a47c2cd52a2d714472c0dd1046b55de0ebadb7a53dc35"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/orissa/tobe.html",
+    "source": "restoration/qa/odiya-mirror-recovery/raw/20000420151841-9553ec97e09b.html",
+    "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/tobe.html",
+    "capture": "20000420151841",
+    "input_sha256": "6890678fb750053ebc2d3e97c06305e4afe56226d9ebaca367ee861100a6c0de",
+    "output_sha256": "bec18ff68232c5ed3a481740ef2714bb59fa0352c650a56773cc3a2517e14992",
+    "cdx_digest_verified": true,
+    "cdx_digest": "ISOOE5E5ZSZUNALNYX7K7E3M64LPVXWM",
+    "recovery_note": "Original \u201cstay tuned\u201d notice; not a recovered subject article.",
+    "source_markup_repairs": [],
+    "local_source": "odiya/orissa/tobe.html",
+    "local_edition_sha256": "58d0a14951c81760ea05a7e5bf6a6825a1eba9e200a72d878be206c602dd5e91"
   }
 ]
