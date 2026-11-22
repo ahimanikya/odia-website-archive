@@ -6923,10 +6923,10 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "04ba030387c3c0f379a33126405e633935c0bf0e033a8f0126bc212a61c3482e",
+    "output_sha256": "68b2a18edac7eaedb9dd5192321fa941084c9a2bb9559b293518af6361f3fe57",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/captures/1997-minnesota-home.html",
-    "local_edition_sha256": "9bf34027efce68d2dd19919d0ee9a701eb99da52bae159045cc3ca552bc64772",
+    "local_edition_sha256": "c7033bd01822819b38b29ac6927d9852ee15150008b60211404fcc906ac64fff",
     "recovery_stage": "odiya-recovery-next",
     "early_image_recovery": {
       "original_image_url": "http://www.arc.umn.edu:80/Images/ahpcrc-logo.gif",
@@ -6939,7 +6939,19 @@
         57
       ],
       "sizing": "Intrinsic image dimensions; earliest preserved portrait HTML has no explicit dimensions."
-    }
+    },
+    "recovered_1997_links": [
+      {
+        "page": "odiya/captures/1997-minnesota-home.html",
+        "original": "http://www.arc.umn.edu:80/~misra/ornet.shtml",
+        "destination": "odiya/captures/1997-ornet.html"
+      },
+      {
+        "page": "odiya/captures/1997-minnesota-home.html",
+        "original": "http://www.arc.umn.edu:80/~misra/odlinks.shtml",
+        "destination": "odiya/captures/1997-odlinks.html"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -25531,10 +25543,18 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "12341baf76db8b59bdaefefd8b427561b3becb01f0d16447aa966ccc80833c9c",
+    "output_sha256": "567f054047b99123b4f2ec35ecd49f43bc75e3f66756be0a213bbdf66bb0f73b",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/brahmapur.html",
-    "local_edition_sha256": "3da15820a8779813ebc907dcd91f38a7a6492fc31b89c986886290fcac6c954d"
+    "local_edition_sha256": "c22f6a1fba6452a63a249d2b656a4781e056cee93e16a8d7f235a0fd9d3544b9",
+    "shared_art_recovery": [
+      {
+        "page": "odiya/orissa/brahmapur.html",
+        "original_reference": "/images/stanford/line.blue.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/line.blue.gif",
+        "destination": "odiya/recovered-shared-art/line.blue.gif"
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -25562,10 +25582,18 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "8849620d5ed638bb9be1818e2d001f0134a80cb19a7a59c4fac9c91eb3edea81",
+    "output_sha256": "32b826fa9582e5ae9f79990c801e92527c39ac68b26862dc0298782650b7c7af",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/chilika.html",
-    "local_edition_sha256": "a1ac1bf175912dbdaa979c19b7cb2b2205cafe7ad5014de6ff466c53b02af8f1"
+    "local_edition_sha256": "76f2ef7d38ccbf56c1a84f3102ab3216ec2ea8a32d9bdde892bbb1deeaf53e6d",
+    "shared_art_recovery": [
+      {
+        "page": "odiya/orissa/chilika.html",
+        "original_reference": "/images/stanford/line.blue.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/line.blue.gif",
+        "destination": "odiya/recovered-shared-art/line.blue.gif"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -25578,10 +25606,18 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "7e1bb8c33c4094936f45fe03573c2c1a25201f3293b4588944af9ba3034294dd",
+    "output_sha256": "10c299e8b50af1e03925fac175564c083f99344fce9ccb320dbf3c8c27e91c85",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/chilika2.html",
-    "local_edition_sha256": "8169f6bac13704a26b0a6038619636fa25decf797fc4917500e465e4b270cba7"
+    "local_edition_sha256": "abe6ef2c397cdfde4b54a0e6a4c053a2144918f131420d2aeb15f45661381ad4",
+    "shared_art_recovery": [
+      {
+        "page": "odiya/orissa/chilika2.html",
+        "original_reference": "/images/stanford/line.blue.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/line.blue.gif",
+        "destination": "odiya/recovered-shared-art/line.blue.gif"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -25703,10 +25739,18 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "507740c7741e97e51b56beb2292ea0989105f4c64a5fdff1214e8f2393802060",
+    "output_sha256": "9deee117ab28e61a057382896bf5de982ad5f9d15a28978d68869e30fe0b5faa",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/fests.html",
-    "local_edition_sha256": "d05faaadd3b2b3d7dacdcd3923e763b8ca200d271e9e860c1190fceb699b4f8c"
+    "local_edition_sha256": "c4282a6ad9bb83ab3c65da344d408b1a3c32bf247e0a85bef586c3d8e3d522bd",
+    "shared_art_recovery": [
+      {
+        "page": "odiya/orissa/fests.html",
+        "original_reference": "/images/stanford/line.blue.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/line.blue.gif",
+        "destination": "odiya/recovered-shared-art/line.blue.gif"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -25719,10 +25763,18 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "c810345d9959a1a1999d637a46ab7ecdf97f7d7e6a82d5ec3c4f2f6d5eb2891b",
+    "output_sha256": "d8650543cf2fd06c24068bb2f7cbf6bf6a9a1549436b3309785a898a2ec6af4c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/food.html",
-    "local_edition_sha256": "5f48479c4057969d74ce519a93b4a66354eb7282243ac70c56469353012a6b73"
+    "local_edition_sha256": "42150a1ae6d9993d308315dd1e648c5712e371997da2489da1f99da192480fb6",
+    "shared_art_recovery": [
+      {
+        "page": "odiya/orissa/food.html",
+        "original_reference": "/images/stanford/line.blue.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/line.blue.gif",
+        "destination": "odiya/recovered-shared-art/line.blue.gif"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -26205,10 +26257,18 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "5bbf413e2995bbde3119d8017543d0614a776997a2960ef93e9c8e77c74c5da2",
+    "output_sha256": "9d2fac069100cfed5c849f34b0b3e66a19a9bc440bb0f0443f892ac448f2fe56",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/land.html",
-    "local_edition_sha256": "df616dbeb64d8c0f2d1ae43538002cdf006e675e2aec5165337f2f7dbd3a5d09"
+    "local_edition_sha256": "e4f1cbafb7d9420709105cee77dc3f9a0a94124a10c801aa6852665c927428e1",
+    "shared_art_recovery": [
+      {
+        "page": "odiya/orissa/land.html",
+        "original_reference": "/images/stanford/line.blue.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/line.blue.gif",
+        "destination": "odiya/recovered-shared-art/line.blue.gif"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -26419,11 +26479,19 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "a88f535cdb0203ac7156768f20a646313b700d791ee395537bae73be63ed9218",
+    "output_sha256": "bb0403cc3f455948fbcb0b41d7c0ad23b22dbcf0d8861346309d416303e79308",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/old/index-100295.html",
-    "local_edition_sha256": "f7ce4bff9e7c7860e72beff5ffa163689db16c2e499e0ce23dfb5c6bf869fb73",
-    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
+    "local_edition_sha256": "3e928a93d53687b1c02ccddf9c9cf4d71991e88740cfb53c1a159a974b4059e8",
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "shared_art_recovery": [
+      {
+        "page": "odiya/orissa/old/index-100295.html",
+        "original_reference": "/images/stanford/line.blue.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/line.blue.gif",
+        "destination": "odiya/recovered-shared-art/line.blue.gif"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -26638,10 +26706,18 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "5be8dcb40c1beb53a060a5b8176a0695492a462381e0c33e5175186e2f8c05b8",
+    "output_sha256": "8dec175a6e177c0b39f4edabc491397f36572523714c566506c7061e6c53cd56",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/places.html",
-    "local_edition_sha256": "675491007d787eac4a5c672b75ca0b6732b775c2d6bc726998965087f6713bf2"
+    "local_edition_sha256": "039759d06626da994f45afc8e0d5cf8cb40900b20969b699ad35ff8977f057ac",
+    "shared_art_recovery": [
+      {
+        "page": "odiya/orissa/places.html",
+        "original_reference": "/images/stanford/line.blue.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/line.blue.gif",
+        "destination": "odiya/recovered-shared-art/line.blue.gif"
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -26748,10 +26824,18 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "e7a8cf9182a790e2ae23a5bbd1b5d0ffe565839dfc28e6a522a8a43fb8d3c32b",
+    "output_sha256": "9392446e715ba2090fbaaf3975ff40b5db5be87d2165ce27ea455053193c8727",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/tours.html",
-    "local_edition_sha256": "6ea828a62ed932d88ba56bd0168b77101f41b49b3e4915461675006dc38d2fb1"
+    "local_edition_sha256": "ee1578f1b94d88d76ee19b328d546021207c71922be9a37459929a02a008466e",
+    "shared_art_recovery": [
+      {
+        "page": "odiya/orissa/tours.html",
+        "original_reference": "/images/stanford/line.blue.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/line.blue.gif",
+        "destination": "odiya/recovered-shared-art/line.blue.gif"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -26764,10 +26848,18 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "270a0c9452b432b3e749627a238d13dd9a6e3130ddf0486cf86a6177674578f1",
+    "output_sha256": "23daec018ca94f61378b8515da5a119a718947eb7323aa3cb919959c2f8be250",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/tribals.html",
-    "local_edition_sha256": "7393fc6694924364a2af87d03f08f2bc8ab773396a310a83b793775edddf949a"
+    "local_edition_sha256": "d8413c0b02da8a12f672f51f56c0673574ef61818c780395a1a5cc061ef0bedd",
+    "shared_art_recovery": [
+      {
+        "page": "odiya/orissa/tribals.html",
+        "original_reference": "/images/stanford/line.blue.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/line.blue.gif",
+        "destination": "odiya/recovered-shared-art/line.blue.gif"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -35728,12 +35820,57 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/orissa.html",
     "capture": "20030117074107",
     "input_sha256": "686d2b4da97fe85fe31155fa8635d47aa440146761c805cf2d185c700375ff4b",
-    "output_sha256": "69811b0a00d64a4b6e5bd22c90279dae33a16fc63fda0e70a74a7418f54deb38",
+    "output_sha256": "4a92231b9be8636429262d220c6afead7630b5e005155d8c692c5e8c26013c8f",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/orissa.html",
-    "local_edition_sha256": "488903081a6141e39cb59e7b992247e66f690c34c64fbeea414e8c98726307cb"
+    "local_edition_sha256": "d50834ca3ec04a980583ef340069de350a5327a95147eb445703d9b8ccbc9525",
+    "shared_art_recovery": [
+      {
+        "page": "odiya/orissa/handicrafts/orissa.html",
+        "original_reference": "http://www.cs.utexas.edu/users/darshan/SEEDS/orissa/omap.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/orissa/omap.gif",
+        "destination": "odiya/recovered-shared-art/omap.gif"
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa.html",
+        "original_reference": "http://www.cs.utexas.edu/users/darshan/SEEDS/orissa/odissa.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/orissa/odissa.gif",
+        "destination": "odiya/recovered-shared-art/odissa.gif"
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa.html",
+        "original_reference": "http://www.cs.utexas.edu/images/stanford/button.phone.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/button.phone.gif",
+        "destination": "odiya/recovered-shared-art/button.phone.gif"
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa.html",
+        "original_reference": "http://www.cs.utexas.edu/images/stanford/button.phone.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/button.phone.gif",
+        "destination": "odiya/recovered-shared-art/button.phone.gif"
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa.html",
+        "original_reference": "http://www.cs.utexas.edu/images/stanford/button.phone.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/button.phone.gif",
+        "destination": "odiya/recovered-shared-art/button.phone.gif"
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa.html",
+        "original_reference": "http://www.cs.utexas.edu/images/stanford/line.blue.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/line.blue.gif",
+        "destination": "odiya/recovered-shared-art/line.blue.gif"
+      }
+    ],
+    "recovered_1997_links": [
+      {
+        "page": "odiya/orissa/handicrafts/orissa.html",
+        "original": "http://www.cs.utexas.edu/users/darshan/SEEDS/orissa/omap.gif",
+        "destination": "odiya/recovered-shared-art/omap.gif"
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -36832,12 +36969,26 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/orissa1.html",
     "capture": "20030117074232",
     "input_sha256": "722daaf640dbf885aae853c32f7ddf406a770291adc8b46881feb2d732bc74cc",
-    "output_sha256": "77865868829c0ce44c928e3fa7a41697c591df6bab9b5e65610da9c0819fae2b",
+    "output_sha256": "90ac348e5e489cc3f20b23feb045bc66f67de7d0fa9c2b3155d462c4e51827f8",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/orissa1.html",
-    "local_edition_sha256": "893dde6f749d7fdcbc8e706bb0e52ccd32bf2e1c8a1e3df25006b0bbb9c1e22a"
+    "local_edition_sha256": "2dd1b87371c22b24f6f101dfac36c9be3be327c56af7b8aba441c1fde956795a",
+    "shared_art_recovery": [
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original_reference": "http://www.cs.utexas.edu/users/darshan/SEEDS/orissa/omap.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/orissa/omap.gif",
+        "destination": "odiya/recovered-shared-art/omap.gif"
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original_reference": "/images/stanford/line.blue.gif",
+        "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/line.blue.gif",
+        "destination": "odiya/recovered-shared-art/line.blue.gif"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -37761,12 +37912,19 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/images.html",
     "capture": "20010503035350",
     "input_sha256": "6063ee81f63a0a4b63d96030dc1bf894c5dc3be46da157337cf0428ab7b02c8f",
-    "output_sha256": "c9f5982b24bcaa366066ae3a8b27fe514d573b2e723383f52cede5577328b9d8",
+    "output_sha256": "03b772bddecde1ea00833d9bf38b602f6fa4f3572253b71f6da3df8d3799c15d",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/images.html",
-    "local_edition_sha256": "57fd93f5f981894d4be580209759ac1b394326c257240b1344ca7f7e0c66e5fe"
+    "local_edition_sha256": "837d383b8c325880dc51f5b819912ab3dad1b79e60e1c1c5af512f6a1459e279",
+    "recovered_1997_links": [
+      {
+        "page": "odiya/orissa/handicrafts/images.html",
+        "original": "http://www.cs.utexas.edu/users/darshan/SEEDS/orissa/odissa.gif",
+        "destination": "odiya/recovered-shared-art/odissa.gif"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -37989,5 +38147,816 @@
     "recovery_note": "Original 1997 Wayback image, bytes unchanged.",
     "local_source": "odiya/recovered-early-gaps/ahpcrc-logo.gif",
     "local_edition_sha256": "695ee3eb0969e540c2fdf24c49d2ecd56d9e4f7d7d5f167703a8dab4ef36baf5"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/e95e188e098600.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://prl.ernet.in/~aanil",
+    "output_sha256": "e68df84f92cef5c4388581b279d4145d99177accbcdf3a1516c9270c069107f0",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/e95e188e098600.html",
+    "local_edition_sha256": "78adc162205ed574de80b75ad0fc9aa9e93bcf900ba5cbf78d57047ab55858ad"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/b407e37ba27976.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.homepage.montana.edu/~bsdas/",
+    "output_sha256": "db14ed21086f037390be135cff2745ac6fc785e53b8837c67f35fbf286e440b0",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/b407e37ba27976.html",
+    "local_edition_sha256": "d4bfecd15e1ead09ecb4c9b4aebbd307349f55b2d07aa341ff6232129486ba56"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/dd9dbc96e0c432.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://ccnet4.ccnet.com/%7Evenkatr/",
+    "output_sha256": "c49e1d1e14ccaeb730670863083395f0ba327a942f6e4aa7e00eca21bb76d047",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/dd9dbc96e0c432.html",
+    "local_edition_sha256": "d70ff023ff1f8811594b861da4fa70f559d30f9ab1f3f17278665ffa79aaea03"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/rath.gif",
+    "source": "restoration/qa/odiya-remaining-art/raw/19970714091510-1a29540b3b7f.gif",
+    "original_url": "http://www.arc.umn.edu:80/~misra/rath.gif",
+    "capture": "19970714091510",
+    "input_sha256": "19ba7e1242f97c9a0e7446f2f12fcd6b19f7acb5373764812e2412d607ecfd27",
+    "output_sha256": "19ba7e1242f97c9a0e7446f2f12fcd6b19f7acb5373764812e2412d607ecfd27",
+    "cdx_digest_verified": true,
+    "cdx_digest": "UDTU664LV3LOLBF2MWPPLRGYZUEXOLJA",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "local_source": "odiya/recovered-shared-art/rath.gif",
+    "local_edition_sha256": "19ba7e1242f97c9a0e7446f2f12fcd6b19f7acb5373764812e2412d607ecfd27"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/32d7d29fd2fa72.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.ee.iastate.edu/~prasant",
+    "output_sha256": "ba454c39200c08a95292e57cc56122dc40b1172a5e23ef1014e1f443f6ac1527",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/32d7d29fd2fa72.html",
+    "local_edition_sha256": "25db88baea407056f291709db803a44ca25ee25ba56b36931cddd4083b71b22f"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/5fb2ecfa4ce3f3.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.cs.umn.edu/~smita",
+    "output_sha256": "69d552e50a82631a6dae4a085e8a3d6410f852c04bfad126d4d1cff89925d812",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/5fb2ecfa4ce3f3.html",
+    "local_edition_sha256": "5e63b05b4334d903cc3ef30bcd158b08f3f1176cac22cc069bf0222388a3cd50"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/f1b9e180b2a1bc.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.missouri.edu/~physss/",
+    "output_sha256": "f14aadad9caffea5896cb983325bafd41c33c45dbdc32eabcc7ef600461fec83",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/f1b9e180b2a1bc.html",
+    "local_edition_sha256": "2f7f849c9922a68fd88d784f21f74235d3c1557539fce7ca385e41ed4a480ed6"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/2f0aab2b18b9de.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://sagar.physics.neu.edu/durga.html",
+    "output_sha256": "7e59f64dae170050111854a33349fb2eba665dff201bb562f844bcfe3b6a93f6",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/2f0aab2b18b9de.html",
+    "local_edition_sha256": "78dd27106a87a218779e11bba9273db04caa6409f9ed3a95c72ed465f7928a5d"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/d71bd2651ee3c2.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.winternet.com/~khazana/cd/RPANI.HTML",
+    "output_sha256": "696ed1c12e5468b3564f706677236e4722723e928e4492a6cabd5c20c35d7035",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/d71bd2651ee3c2.html",
+    "local_edition_sha256": "1f2e339ee805854a02ecb60899462fe7cf0c9e8707934a60af87b34aac13c515"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/odissa.gif",
+    "source": "restoration/qa/odiya-remaining-art/raw/19981205064305-d2783cdee2df.gif",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/orissa/odissa.gif",
+    "capture": "19981205064305",
+    "input_sha256": "2807ce7e6a4617494206e731bc318edc07664f4dbd4a13dee79ecd76a0a83709",
+    "output_sha256": "2807ce7e6a4617494206e731bc318edc07664f4dbd4a13dee79ecd76a0a83709",
+    "cdx_digest_verified": true,
+    "cdx_digest": "FCN35DACJFATB2JPELJSIRTBSVYDIZNK",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "local_source": "odiya/recovered-shared-art/odissa.gif",
+    "local_edition_sha256": "2807ce7e6a4617494206e731bc318edc07664f4dbd4a13dee79ecd76a0a83709"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/4c700ccf3e4992.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.cs.umn.edu/~smita/dilip.htm",
+    "output_sha256": "a89252b64ef4714d0dc5b92252ea1b8cd37f1c9c12a8f37be9b3f7cb46f0e959",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/4c700ccf3e4992.html",
+    "local_edition_sha256": "3bea86763519659c8a9217b0cf6e7cab99d741e853760084cbba06dd95d475ef"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/7a288f936e4869.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://jmh.cep.tntech.edu/students/dipak/dipak.html",
+    "output_sha256": "657eb68e1212c1b36fcde0d70509a576cf719b6e602e8dd19989751bee513088",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/7a288f936e4869.html",
+    "local_edition_sha256": "a5a6913e6db9cb479a04c423d230e83a374583756c8a88b29419443f01160350"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/4912b27b80f5ab.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://hertz.njit.edu/~dmisra",
+    "output_sha256": "4e34b9b01b43c35dc41fc080b5063537f892725b1146a63e40f3bac20d10c801",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/4912b27b80f5ab.html",
+    "local_edition_sha256": "d1b99ab4fb0d525331fa955587a2637b509145de28974a1f7e0d173492c2aaed"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/21194db7f24c0d.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://wwwvms.utexas.edu/~SIKHANDA/INDEX.HTML",
+    "output_sha256": "327217034576b047d6ef3de66d13fda65459351144ae67c36b6c55ffb9fcb68c",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/21194db7f24c0d.html",
+    "local_edition_sha256": "a911586d9323a689a845f4810e5c0c9550c6fefbc3852150e57899c068c4575e"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/81ede396f89259.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.arc.umn.edu:80/~misra/www.ussl.ars.usda.gov/BIO/bmohanty.htm",
+    "output_sha256": "73e3717ce21d0e55d075fad3a35e174cce3124cedaf0054db407e8ce21215cdc",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/81ede396f89259.html",
+    "local_edition_sha256": "20b0469f8013de9d366a5418c41111e79f14c90d3d2e0c986a748ed9dd39de7a"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/e9b95dc21c6869.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.arc.umn.edu/~misra",
+    "output_sha256": "2065c14a630c2eabc7931edd71d7cff37ae7c5bc1a870168e501fdc7da9b8011",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/e9b95dc21c6869.html",
+    "local_edition_sha256": "124e97f86bea1fd079a92697384de16b592f86c73b178b750bd0b634b5e47f8f"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/omap.gif",
+    "source": "restoration/qa/odiya-remaining-art/raw/19981202030249-d56f2de6c1c8.gif",
+    "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/orissa/omap.gif",
+    "capture": "19981202030249",
+    "input_sha256": "3af608b0a8f297da9c28c7ed5cc923908ac2543358e95587682fcc84824d2fec",
+    "output_sha256": "3af608b0a8f297da9c28c7ed5cc923908ac2543358e95587682fcc84824d2fec",
+    "cdx_digest_verified": true,
+    "cdx_digest": "3QE2DLYRTYT5QAFWAK3KG3NJEYNGZAFS",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "local_source": "odiya/recovered-shared-art/omap.gif",
+    "local_edition_sha256": "3af608b0a8f297da9c28c7ed5cc923908ac2543358e95587682fcc84824d2fec"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/2ea905f2813e45.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.public.iastate.edu/~smishra/",
+    "output_sha256": "672c89d75f315b6fbec8e565d30a872d782930936b0365e54c30ec69793dbfb8",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/2ea905f2813e45.html",
+    "local_edition_sha256": "688520ee04e3f93ee076c07c489e456872c9be0a151f3848b32eb1af5e4e4c0c"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/d88510363e369f.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.umn.edu/nlhome/g182/maha0025/",
+    "output_sha256": "25468962329ebb0ea73c62e0062d55ac4e5d623d3ed94dd122377bab19d9a12c",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/d88510363e369f.html",
+    "local_edition_sha256": "facfa5ef0d206cf2b99bafd8af0e9b4d645efdb39d738f43b7af19c7cae4d0b4"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/8239fb2fede91d.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://cs.nyu.edu/cs/faculty/mishra/indexL.html",
+    "output_sha256": "677418e6dfd2189f187bd3f71dae338ca5222e1379fa56eb3b471c1c08d5ee05",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/8239fb2fede91d.html",
+    "local_edition_sha256": "b43ed0073c57faab5309d16ec2af6d49d24a7244e0a69c1a1ad09d5d0c38096a"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/b682d63b8aef51.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.ticam.utexas.edu/users/abani/abani.html",
+    "output_sha256": "8448994c5ae8384481a0e2d5e574555d5fafdd80bd6949445102782ef00c312e",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/b682d63b8aef51.html",
+    "local_edition_sha256": "e75559c346554242a6cad6ad68f9864ea1e56def867e01ef92faff5ba6979157"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/cc2a8836f4096d.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://cs.utep.edu/chitta/chitta.html",
+    "output_sha256": "97b817d90c5d5accb8a00254d4f4c12a36fca0b259fa61c629055a454a11d54a",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/cc2a8836f4096d.html",
+    "local_edition_sha256": "d19acdf312c53f6736823b3b0c6ef84291e0c49128b7762d50687e9b31e5d2fe"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/7b586bd603a5ab.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.cas.american.edu/~abinash/",
+    "output_sha256": "0aaf8ca6b46d9618b1f2a08a373abfd56d849668f61845b2e1c1ac64a59d3bca",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/7b586bd603a5ab.html",
+    "local_edition_sha256": "64e2dcf1fc8f77a41aff503104cca2d2cc3225adca9f78e65d51f53b5d34dc17"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/f9e1663ea73fee.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://cyberspace.org/~panda/",
+    "output_sha256": "2b22ca4e3becc038c2c94055aa9fd2947a50950bf161e2c56e7a890966f6db76",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/f9e1663ea73fee.html",
+    "local_edition_sha256": "230e94815c57096f6ee8d5ac1637752af621c67fd22ef7bcb6d93e30db7cf3e3"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/0ae1ebd8c2173b.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.csv.warwick.ac.uk/~ecreb/",
+    "output_sha256": "21eb660f2ab52f86d0ecef3ac303592aca88b964df8fcfc7b172859d2b3ad889",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/0ae1ebd8c2173b.html",
+    "local_edition_sha256": "a6bffbd8649121d747bea7a11f72239a8bace252a4cee11b4daf78d189bdd9df"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/f21ebef22bd64f.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.public.iastate.edu/~msahu",
+    "output_sha256": "a5578c75585169c8e806482029efac83f75896492c6e924de6844fcf79ec6159",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/f21ebef22bd64f.html",
+    "local_edition_sha256": "c82ba5c660e3f064a2cf3e06cff8d21a3c51ebc3b8180f6df70d5e0f32307cee"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/b54a60eb271bed.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://canes.gsw.peachnet.edu/~ct",
+    "output_sha256": "184fd921dfb94883d59efef5064796f5a778fad085bd60ad18b7d9eaa1717acf",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/b54a60eb271bed.html",
+    "local_edition_sha256": "7fec51a047897e2218507e6e6b50c4ba235a0347811bb56d61e8d8aa6561f4c8"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/logo2.jpg",
+    "source": "restoration/qa/odiya-remaining-art/raw/19970714091451-1eafbac61586.jpg",
+    "original_url": "http://www.arc.umn.edu:80/~misra/logo2.jpg",
+    "capture": "19970714091451",
+    "input_sha256": "0dd540d51f37bfa97a74077b22e69b39a2a89c95131f69fa8651e7e34fb1d2a2",
+    "output_sha256": "0dd540d51f37bfa97a74077b22e69b39a2a89c95131f69fa8651e7e34fb1d2a2",
+    "cdx_digest_verified": true,
+    "cdx_digest": "6FL37YDXIMT7UV3PHRUFZ2JG4DUWGTTV",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "local_source": "odiya/recovered-shared-art/logo2.jpg",
+    "local_edition_sha256": "0dd540d51f37bfa97a74077b22e69b39a2a89c95131f69fa8651e7e34fb1d2a2"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/69727abb27962d.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.cs.umd.edu/~patnaik/",
+    "output_sha256": "57c39d59a65acf5811d949df6a256f3a7e41e19e4ff9c77233aa32a73a68b224",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/69727abb27962d.html",
+    "local_edition_sha256": "264f6326947d5619b45776e028b3968c8b238991f609b6487f1f7b5b11309c21"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/f0e55b22ecac7d.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.ee.mcgill.ca/~nileshp/",
+    "output_sha256": "80355ce42cbdb1e76521f163f0c60fdf9076d943849f64fe92b827f70e704978",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/f0e55b22ecac7d.html",
+    "local_edition_sha256": "173d2ba09c053e659e34f4984bbe26476679817ceef2b7045ee4ce06d61cb0d2"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/a87cc44dbfe758.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://thermsa.eng.sunysb.edu/~sahoo/sahoo.html",
+    "output_sha256": "1944f7da52aa5078139db670bcf6024c29a8d00cdcda2d19756ed490f40b3810",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/a87cc44dbfe758.html",
+    "local_edition_sha256": "716e2e981334f2e2c418cd37efec6b7079fd75c0e24e29222cf48f441e9f2c08"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/bldot.gif",
+    "source": "restoration/qa/odiya-remaining-art/raw/19970714091935-fa08a13e37f6.gif",
+    "original_url": "http://www.arc.umn.edu:80/~misra/bldot.gif",
+    "capture": "19970714091935",
+    "input_sha256": "5b425df52005701bcec2a5a862ca8f77b48d0be7a7cbfdab52e2fc1438e4fe57",
+    "output_sha256": "5b425df52005701bcec2a5a862ca8f77b48d0be7a7cbfdab52e2fc1438e4fe57",
+    "cdx_digest_verified": true,
+    "cdx_digest": "FCCMQH5QKRZFKZH5COVKR5TQ2F3RRIFQ",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "local_source": "odiya/recovered-shared-art/bldot.gif",
+    "local_edition_sha256": "5b425df52005701bcec2a5a862ca8f77b48d0be7a7cbfdab52e2fc1438e4fe57"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/0f27eda5fab122.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.jlw.com/%7Epdrao/pdrao.html",
+    "output_sha256": "eb238cc719a5aac20d43558ad38c96ac320255154f7a46b0319a5a71520f7c22",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/0f27eda5fab122.html",
+    "local_edition_sha256": "d7caf664b2264581cc3de09b03dd49b8180cfdc00c04ffd2e08bf59fe2f52061"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/895c6d5cd44df9.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://biosun1.harvard.edu/~moses",
+    "output_sha256": "b25bff839bbb5a575def9263a8bd0539c6c9dd79d8217873cd40ab8d462ce799",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/895c6d5cd44df9.html",
+    "local_edition_sha256": "f800290758625d9b825cfcd68054a65af4bcef3dc245090fc4e86cf40ed558f7"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/606a5114e0c14a.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.prl.ernet.in/~ratan",
+    "output_sha256": "01d48c95838ec6072df42b6d20666f156d78b81e3db0bdb4ac3d8cc1ccba4c08",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/606a5114e0c14a.html",
+    "local_edition_sha256": "506b8a5f759214054e3ee6fd01d15733b129690bc4d2606d5a8e1624805a670c"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/f3fee72bebe71b.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.ocf.berkeley.edu/~chaitee/jyoti.html",
+    "output_sha256": "63ba01f68afce97701176c1ff4f2a5cc0ba371be2d5f40081851f4f83a5ec60a",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/f3fee72bebe71b.html",
+    "local_edition_sha256": "dedfbbd5c30fccb075adaf3061aeefb37471b4effa6c362324963a1f0cfba07d"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/eae1f9c308cac7.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://ourworld.compuserve.com/homepages/Tushar_Mahapatra",
+    "output_sha256": "8e4a1b9b173eb0938ad8e39d6618c9e406481866cf709a78585f3ed0808d338d",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/eae1f9c308cac7.html",
+    "local_edition_sha256": "24285f670dbd575b79ed0b9e65f84f1e3ef1c0e8eeeeb140fc2f7d41df91cebb"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/button.phone.gif",
+    "source": "restoration/qa/odiya-remaining-art/raw/19961224032845-3c5f8f2ac7ac.gif",
+    "original_url": "http://www.cs.utexas.edu:80/images/stanford/button.phone.gif",
+    "capture": "19961224032845",
+    "input_sha256": "85d8760cd9fe184b11d8c35bd35bbc08ee9eda52b2073bfb5e216ed5f09854c9",
+    "output_sha256": "85d8760cd9fe184b11d8c35bd35bbc08ee9eda52b2073bfb5e216ed5f09854c9",
+    "cdx_digest_verified": true,
+    "cdx_digest": "HIBMFZZ6QHYEMIUDTKQH2MVHVQ2M2YFF",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "local_source": "odiya/recovered-shared-art/button.phone.gif",
+    "local_edition_sha256": "85d8760cd9fe184b11d8c35bd35bbc08ee9eda52b2073bfb5e216ed5f09854c9"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/45b19101c197a7.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.public.asu.edu/~kpl6084",
+    "output_sha256": "832bb16c0e26a6e274d988e357595c6411b9147f5882470f6a669ec73b5d9d90",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/45b19101c197a7.html",
+    "local_edition_sha256": "3ac0696409ee640cdfde49c841231fcd1e860f8b1d4991d6e8b1a6f8fe266efb"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/ornet1.gif",
+    "source": "restoration/qa/odiya-remaining-art/raw/19970714091707-e8f04d69e9ff.gif",
+    "original_url": "http://www.arc.umn.edu:80/~misra/ornet1.gif",
+    "capture": "19970714091707",
+    "input_sha256": "63b918d17ca0a7ad86d6d6b537e1361d7939852941181f7e749e6a92a4e2a0ff",
+    "output_sha256": "63b918d17ca0a7ad86d6d6b537e1361d7939852941181f7e749e6a92a4e2a0ff",
+    "cdx_digest_verified": true,
+    "cdx_digest": "QSAI2343TQHPMZXUS2NQ5CPSTFSQYKIQ",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "local_source": "odiya/recovered-shared-art/ornet1.gif",
+    "local_edition_sha256": "63b918d17ca0a7ad86d6d6b537e1361d7939852941181f7e749e6a92a4e2a0ff"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/bb92e733b80d47.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www-ISL.Stanford.EDU/people/buno/",
+    "output_sha256": "070f5be79a455bdca771dddafaba247eb10fa534312a39fe3e2121ea2b415fd7",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/bb92e733b80d47.html",
+    "local_edition_sha256": "1a5587508eeb613e98ec7882e0ba255dbcb90ddd998a6fb71c894fb9d4262977"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/92dd2a8220009d.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.cs.usask.ca/homepages/grads/srd320/",
+    "output_sha256": "e2e44895160b4036b7aa89b09e3fa14ab6758e1b1c005fe49db1c9505e556574",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/92dd2a8220009d.html",
+    "local_edition_sha256": "c5441e988d00087b99831faab4e4e31fe812885dd1443f9ec190f248c4d0d58a"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/1f9ab298b6d95f.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://ihats1.ih.lucent.com/~prashant/",
+    "output_sha256": "d7c0821a3dd72b500ca211efaf91b5d4377ac887e3f95b5989d385d41f42a316",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/1f9ab298b6d95f.html",
+    "local_edition_sha256": "bae903b4a9dd8dedc8f1bb96e2f38352c29d97801facb372d40faeb0a2fe27c9"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/mult.gif",
+    "source": "restoration/qa/odiya-remaining-art/raw/19970714091425-10ae0d449d83.gif",
+    "original_url": "http://www.arc.umn.edu:80/~misra/mult.gif",
+    "capture": "19970714091425",
+    "input_sha256": "b4c14ce9498275f643b9dbb19795c2d344e07fc2b9ecfad93404f6171218bff6",
+    "output_sha256": "b4c14ce9498275f643b9dbb19795c2d344e07fc2b9ecfad93404f6171218bff6",
+    "cdx_digest_verified": true,
+    "cdx_digest": "67RI4XA3YH2NJXC3K4EGTW6I6ACV6R4M",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "local_source": "odiya/recovered-shared-art/mult.gif",
+    "local_edition_sha256": "b4c14ce9498275f643b9dbb19795c2d344e07fc2b9ecfad93404f6171218bff6"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/78484b0a990493.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.arc.unm.edu/~rsahu/",
+    "output_sha256": "0a512f0c38461cadc1ecf64d96c93d353aa0742e95e3088d2275d7fffa65bd40",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/78484b0a990493.html",
+    "local_edition_sha256": "21c4a52aeb9b3c7c0c7e684b2c694c4c93a6693f9c005e3ebf4e50af84f1e607"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/71bf5cc483021e.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.umn.edu/nlhome/g067/dash0002/",
+    "output_sha256": "977a790fbeaf47be1def31f23d1349e5e4acb78ee5199540b54dc22fe3614896",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/71bf5cc483021e.html",
+    "local_edition_sha256": "5f12aee74c8c5ff7c92d28d3bcb1441c653c14f4b90aabf8b49cd8c9dda25152"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/edc46813b8c811.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.polito.it/~rakesh/",
+    "output_sha256": "a1c89b5cdcee24d56e0db8f09904f439d8017539b9745705d847f8c1c2bbef56",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/edc46813b8c811.html",
+    "local_edition_sha256": "65d2967e75b0d129395d2a2327c7e848dfe737ce5185fb76be05ba00240dbcf2"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/746454ba013a91.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.tezcat.com/~bnaik/shacha.html",
+    "output_sha256": "26e283a7b80269cc34f2794283910c0a13fc80cad4eb158f4cb91fc77c2381f5",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/746454ba013a91.html",
+    "local_edition_sha256": "6db69f7de28273e0256617766660947491c05268db1825ad5ff1c6eebb1d76c1"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/db1766f81285c1.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://chemserv.bc.edu/FacultyRsch/Mohanty/Mohanty.html",
+    "output_sha256": "db41980ed9f19b3b60475e53122aac55a85decaab54f1461f23613844c6dabc3",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/db1766f81285c1.html",
+    "local_edition_sha256": "7791741d7013008e5e645055e9abeeeb4e55c5cbba6d118a2f16b8d8829a1eac"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/ce267ebc56c444.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://yebisu.physics.saga-u.ac.jp/~behari/",
+    "output_sha256": "164afeae8df90f10a9cc7ecb4c891384542fb08393c09541279f3fa5ed06ba11",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/ce267ebc56c444.html",
+    "local_edition_sha256": "dbb17dae632e89d357605a620a28de2f8e25d077621e56bc9806436489430feb"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/compass.gif",
+    "source": "restoration/qa/odiya-remaining-art/raw/19970714102313-4f674b43815c.gif",
+    "original_url": "http://www.arc.umn.edu:80/~misra/compass.gif",
+    "capture": "19970714102313",
+    "input_sha256": "1c747189038c2ba9d38cacf4ed3e130ef0c0a7fc7ab26d9b05184e2f3c57ec13",
+    "output_sha256": "1c747189038c2ba9d38cacf4ed3e130ef0c0a7fc7ab26d9b05184e2f3c57ec13",
+    "cdx_digest_verified": true,
+    "cdx_digest": "O56VXMC43NEIA75JY7JG5IS7ZTMQKGCZ",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "local_source": "odiya/recovered-shared-art/compass.gif",
+    "local_edition_sha256": "1c747189038c2ba9d38cacf4ed3e130ef0c0a7fc7ab26d9b05184e2f3c57ec13"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/9f6c8c3e631ca4.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.angelfire.com/pg0/lalit/index.html",
+    "output_sha256": "1fc98c104409ca83c8f193cb5480a1fe9c367b869d95c21c144c463011f32c66",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/9f6c8c3e631ca4.html",
+    "local_edition_sha256": "33a21c1da8bae4dda97e7594b0f7dad7b3cc1f59f475a03b533ef43253be0a53"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/78cb1829f74a63.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://spot.colorado.edu/~mohapatr/Home.html",
+    "output_sha256": "9bb1eaa4a98869d8b0bf62771c7702fdb3eadf06814755634e05e0ee795cdbaa",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/78cb1829f74a63.html",
+    "local_edition_sha256": "a1b0a4ff31c91275fe822db896acc9b33c99f05f53389dc5250e72a78fd6dae5"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/2fa6f1fdc22079.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.cse.unsw.edu.au/~proop",
+    "output_sha256": "9347f06c26f73a95325f9e2b42c713648f501280d3efc5d1659615e691a141ab",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/2fa6f1fdc22079.html",
+    "local_edition_sha256": "b8ccade3da05aec11495a952b9b93ff968fd6d31f9fc59f6c4508979e3ea8312"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/f8e872dc5cd6e1.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.rpi.edu/~nayaka",
+    "output_sha256": "413bf0a42099b43b82991330f2ca3b5fd98652e645106f778e11e98cccbff900",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/f8e872dc5cd6e1.html",
+    "local_edition_sha256": "e2ba26e8a36c31e56f95ee6d271125012cefd9c0c0335c0ea58bcdb6229590f5"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/compass-still.png",
+    "source": "restoration/qa/odiya-remaining-art/raw/19970714102313-4f674b43815c.gif",
+    "output_sha256": "f836ed39793b988628db184c6de50583bacb87728706019a1dd6b6ec20a07e27",
+    "recovery_note": "First frame of the preserved GIF for reduced-motion and hide-animation display.",
+    "local_source": "odiya/recovered-shared-art/compass-still.png",
+    "local_edition_sha256": "f836ed39793b988628db184c6de50583bacb87728706019a1dd6b6ec20a07e27"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/7ee4f4009176ef.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.bme.jhu.edu/~bdas/",
+    "output_sha256": "c447ecf060677bfefdc4bdae68a7ede54c4d983b663c481f9a3322d58fa4166b",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/7ee4f4009176ef.html",
+    "local_edition_sha256": "7b8a9ba553e6ba01a65eb481057f4597a3e03556faf546bf291bcd077e740254"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/20b5f059a0e642.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.ee.umn.edu/users/parhi/",
+    "output_sha256": "5934afb5a0e5dc80c425eb2c0e7b1434effb694c7f807e4e6c1a4ce16644cee4",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/20b5f059a0e642.html",
+    "local_edition_sha256": "1ae0be3cabb551eb909715490f13e609f3e1ccddd787dcac431f35a5546afe22"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/1997-ornet.html",
+    "source": "restoration/qa/odiya-remaining-art/raw/19970207150803-08e1835b19d1.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/ornet.shtml",
+    "capture": "19970207150803",
+    "input_sha256": "e25de2070c4db12a692da231a56d0b098f2440348761e8b7d4b343ea697cb6d5",
+    "output_sha256": "a91ea8910e9606884b8ceb58a306516ce3f3a27edfaaf880c503cfcdf3983109",
+    "cdx_digest_verified": true,
+    "recovery_note": "Original captured layout and text; preserved GIFs with hide and reduced-motion controls; old actions inactive.",
+    "local_source": "odiya/captures/1997-ornet.html",
+    "local_edition_sha256": "0a22160fc92c794e6c8a43477ed98071f38d2aac1e515a5905f4f9538e89aca5"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/jag.gif",
+    "source": "restoration/qa/odiya-remaining-art/raw/19970714091500-0d53f4e91ab6.gif",
+    "original_url": "http://www.arc.umn.edu:80/~misra/jag.gif",
+    "capture": "19970714091500",
+    "input_sha256": "488b26484b9169ba8f5387cac3773a7ae21fe84d86191c48e980042d6dddc407",
+    "output_sha256": "488b26484b9169ba8f5387cac3773a7ae21fe84d86191c48e980042d6dddc407",
+    "cdx_digest_verified": true,
+    "cdx_digest": "RHD4LNR6FMGH6ZMW44FZ7FIVN3VXNY4A",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "local_source": "odiya/recovered-shared-art/jag.gif",
+    "local_edition_sha256": "488b26484b9169ba8f5387cac3773a7ae21fe84d86191c48e980042d6dddc407"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/c8195fbbdd8834.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.cs.umn.edu/~majhi",
+    "output_sha256": "05d09c7e4bd330e93d43719310fa570c54e3571c8f380fcfcbab65c81bf1ed4a",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/c8195fbbdd8834.html",
+    "local_edition_sha256": "9360b6873bf5d19cd850deab0abea390e207a7bc39dd020c3968b913a8d7b3d6"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/lg3.gif",
+    "source": "restoration/qa/odiya-remaining-art/raw/19970714091716-b6a7ba3a99a2.gif",
+    "original_url": "http://www.arc.umn.edu:80/~misra/lg3.gif",
+    "capture": "19970714091716",
+    "input_sha256": "aa86fa58fc74ef81dc38c3b0017278e8bab40afe795e54b49c9299a0f7443673",
+    "output_sha256": "aa86fa58fc74ef81dc38c3b0017278e8bab40afe795e54b49c9299a0f7443673",
+    "cdx_digest_verified": true,
+    "cdx_digest": "ATMD5JK7YN2XFTFWEGZVI74VIXMDNPDC",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "local_source": "odiya/recovered-shared-art/lg3.gif",
+    "local_edition_sha256": "aa86fa58fc74ef81dc38c3b0017278e8bab40afe795e54b49c9299a0f7443673"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/ornet1-still.png",
+    "source": "restoration/qa/odiya-remaining-art/raw/19970714091707-e8f04d69e9ff.gif",
+    "output_sha256": "8066931838f6743ed58a3c6d5f3bad33b5275b8f9f282a2ad4c219b2cc40ac8b",
+    "recovery_note": "First frame of the preserved GIF for reduced-motion and hide-animation display.",
+    "local_source": "odiya/recovered-shared-art/ornet1-still.png",
+    "local_edition_sha256": "8066931838f6743ed58a3c6d5f3bad33b5275b8f9f282a2ad4c219b2cc40ac8b"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/d489e588b2f610.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.cis.ohio-state.edu/~panda",
+    "output_sha256": "aa5e4a69b72c4321a3145646465cba2eb15e0061ae12a0be6f209f332a617eab",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/d489e588b2f610.html",
+    "local_edition_sha256": "9935e34b6a38da892029de04a05ad28d3b2c310246fd59918804fc635a862f0f"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/504d0718c32aa6.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.geo.arizona.edu/geophysics/students/gkm/Gopal.html",
+    "output_sha256": "dd2f649ed68f6f7b163b01d8fbab52b155e690a9282968564a3e039ccdb0191e",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/504d0718c32aa6.html",
+    "local_edition_sha256": "db8d122f181cf84058223230b8164ce02a7afc2c1151508c91773f17f4fc8a54"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/9c7488152e9501.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://jmh.cep.tntech.edu/personal/dipak/index.htm",
+    "output_sha256": "976907e59edc05cebf12049b1e4e1c35adf1c877642d417396f204d3e773e0a1",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/9c7488152e9501.html",
+    "local_edition_sha256": "81770f036e6a21f015d6b9ef92746449382fbc0288eb6256d0790d5cde923495"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/963964468936aa.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://bioc02.uthscsa.edu/~panda/cv.html",
+    "output_sha256": "13e3c8a93986d3fdb45a44accbbb5134e44e37d238da64c1f0c9873fe47fdb24",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/963964468936aa.html",
+    "local_edition_sha256": "88960eab657668c1be5dd9cb517687fd3908a3d7425a3af90242e8a47e2deb3e"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/6c1744de919329.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://dspace.dial.pipex.com/town/square/ga67/index.htm",
+    "output_sha256": "dae75a0aca6bd918cc1235c4b61612a64fd00f6fa0fe2ff0577deb70a33be3c7",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/6c1744de919329.html",
+    "local_edition_sha256": "08d8d4773b3545d0203c38ac90903a6671e40ad1264d982dff580061a0db1ed6"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/0dc9bd95a464df.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.cs.tamu.edu/faculty/bhuyan/",
+    "output_sha256": "7a77682b62852d7d1d9a9a93c8455e846a552a24da13eadce22b6eef692f3fd8",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/0dc9bd95a464df.html",
+    "local_edition_sha256": "fa2c82351d3c77cb26211e85590dc06152648bebb798f8635561b311646ca3a4"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/line.blue.gif",
+    "source": "restoration/qa/odiya-remaining-art/raw/19961223102349-47a9df218fb4.gif",
+    "original_url": "http://www.cs.utexas.edu:80/images/stanford/line.blue.gif",
+    "capture": "19961223102349",
+    "input_sha256": "23347a4036048286aff93de93ed8a022c313730b926679df469d4ac0e43916aa",
+    "output_sha256": "23347a4036048286aff93de93ed8a022c313730b926679df469d4ac0e43916aa",
+    "cdx_digest_verified": true,
+    "cdx_digest": "43LMSDRPSXTRN7UI7F57VZAWS36EJPLQ",
+    "recovery_note": "Original Wayback image; bytes unchanged.",
+    "local_source": "odiya/recovered-shared-art/line.blue.gif",
+    "local_edition_sha256": "23347a4036048286aff93de93ed8a022c313730b926679df469d4ac0e43916aa"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/26daa183a5a669.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://vm1.mcgill.ca/~cypy/http/welcome.html",
+    "output_sha256": "13eae4f83359aab50ca1f997d07fbb4470767ed26e82c2266ff7fa39c795d60b",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/26daa183a5a669.html",
+    "local_edition_sha256": "02a90ac1f35a15251c86f9373912820fc20a59f81a394fdf76c458e12a2b175c"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/8392ed05844535.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://144.16.111.25:80/~satpathy/",
+    "output_sha256": "2b6b94663fca278fd6974d30b588e7895585f2fb39bd50d2638bf317a8d23720",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/8392ed05844535.html",
+    "local_edition_sha256": "c835761ef280431e7c2db9a361ab769c222bc1b68441dc393125babc783b2838"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/198355fc2b6110.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://gemini.tntech.edu/~aka8369",
+    "output_sha256": "91f7fc3de2919c4c666233d0934b15fffd9b3f1d020ee2fd6bf458587134c14a",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/198355fc2b6110.html",
+    "local_edition_sha256": "5fd1f0d681aa600ed06a27d080d87ca513870eae4be1aba87c40f41057a71cbc"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/1997-odlinks.html",
+    "source": "restoration/qa/odiya-remaining-art/raw/19970207151804-cdbcc6be0381.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/odlinks.shtml",
+    "capture": "19970207151804",
+    "input_sha256": "70ef68da97034fb6ef85a23a23eb973c7bc52d74dc252add9fcba1bf4791cdf0",
+    "output_sha256": "ece9887120853d3e9350507cbab2d200d0dc9c9b76862e8e3c97aca6d024f723",
+    "cdx_digest_verified": true,
+    "recovery_note": "Original captured layout and text; preserved GIFs with hide and reduced-motion controls; old actions inactive.",
+    "local_source": "odiya/captures/1997-odlinks.html",
+    "local_edition_sha256": "47f90fc4dfb116945f3ff8d1ff879cf10d0168d9a885f5b368bd1a6799cf2913"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/a114af5ae161d2.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://www.cs.tamu.edu/people/asahoo",
+    "output_sha256": "1eaeeee91d84ca0fa00426d248f616f271a8c47ec610b7850e0ff4a1461195cd",
+    "recovery_note": "Generated notice, not an original page.",
+    "local_source": "odiya/unavailable/a114af5ae161d2.html",
+    "local_edition_sha256": "3ee38d9a0694894134524eeab46b8fdbfc1cabc058f62a5b3422b559ca79da11"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-shared-art/mult-still.png",
+    "source": "restoration/qa/odiya-remaining-art/raw/19970714091425-10ae0d449d83.gif",
+    "output_sha256": "2f4f39c49194173b5256971923295c389ef38e89af4f5a723432d4122d96984c",
+    "recovery_note": "First frame of the preserved GIF for reduced-motion and hide-animation display.",
+    "local_source": "odiya/recovered-shared-art/mult-still.png",
+    "local_edition_sha256": "2f4f39c49194173b5256971923295c389ef38e89af4f5a723432d4122d96984c"
   }
 ]
