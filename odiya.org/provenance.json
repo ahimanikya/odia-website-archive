@@ -45874,10 +45874,10 @@
     "kind": "page",
     "output": "odiya.org/orissa/readings/saved-backup-material.html",
     "source": "Generated restoration index",
-    "output_sha256": "29923f7a83599e86932793fa439481e308f80b9917007f7c41e8ca8ff417b881",
-    "recovery_note": "Navigation for three saved notes and one unplaced graphic.",
+    "output_sha256": "ddbf85a200ba65f6fdd740a3728041ca96e6d69027bf75b5083f1500bfc4f4f0",
+    "recovery_note": "Generated navigation for three saved notes and two unplaced graphics.",
     "local_source": "odiya/orissa/readings/saved-backup-material.html",
-    "local_edition_sha256": "c31f498373e0636dc836f0409e30ab2751f3a1bfa155fa1e8e2612ac5e56618a"
+    "local_edition_sha256": "8f6234256571cabc6bae70f2a28e32d31a49140a5857ec825de89f9666861476"
   },
   {
     "kind": "asset",
@@ -45902,5 +45902,19 @@
     "recovery_note": "Saved stuff.Z; expanded text unchanged. Undated. Reading title supplied for navigation.",
     "local_source": "odiya/orissa/readings/historical-corrections.html",
     "local_edition_sha256": "43e0f5ab1ed37db2e2822b7517aa17773aa892682c315b1ca1136f7dd847beca"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/Applets/Swagat2/frame6.gif",
+    "source": "restoration/qa/odiya-byte-audit/sources/Applets/Swagat2/frame6.gif",
+    "original_url": "http://odiya.org/Applets/Swagat2/frame6.gif",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/Applets/Swagat2/frame6.gif",
+    "input_sha256": "affc91ff21c97bb5e3bf89eb2095acfd2a2fab9c2e566adbea2fd3176dae8636",
+    "output_sha256": "affc91ff21c97bb5e3bf89eb2095acfd2a2fab9c2e566adbea2fd3176dae8636",
+    "zip_copy_matches": true,
+    "recovery_note": "Original static Swagat2 banner frame. MyCommunity copy is empty; 2013 folder and ZIP copies match. Original placement/sequence unverified.",
+    "supporting_source": "restoration/qa/odiya-byte-audit/sources/Applets/Swagat2/WS_FTP.LOG",
+    "local_source": "odiya/Applets/Swagat2/frame6.gif",
+    "local_edition_sha256": "affc91ff21c97bb5e3bf89eb2095acfd2a2fab9c2e566adbea2fd3176dae8636"
   }
 ]
