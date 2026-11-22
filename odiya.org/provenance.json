@@ -3012,12 +3012,38 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "9f6e232c85d3df6adf7b87e63432c143e3411b2ab90ca6c7d56a7ba450f6b05f",
+    "output_sha256": "c6a3041d7e30e840de95c1ecbb9b3700ca36859ff05c2b27976baae88265f1f9",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/kids/sambit.html",
-    "local_edition_sha256": "2747202c28a825ba61abe2f6bc2dec5717e8e2f1bc50b6a9d919d8a9b3c1a525",
+    "local_edition_sha256": "d924c2f4ef96f9efb479cb6b785a426cbe1285237683d707d7dead4c10beb327",
     "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
-    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "voice_header_recovery": {
+      "date": "2026-11-22",
+      "links": [
+        {
+          "page": "odiya/backup-2013/kids/sambit.html",
+          "original": "http://odiya.org/kids/sound/sam1.wav",
+          "destination": "odiya/kids/sound/sam1.wav"
+        },
+        {
+          "page": "odiya/backup-2013/kids/sambit.html",
+          "original": "http://odiya.org/kids/sound/sam2.wav",
+          "destination": "odiya/kids/sound/sam2.wav"
+        },
+        {
+          "page": "odiya/backup-2013/kids/sambit.html",
+          "original": "http://odiya.org/kids/sound/sam3.wav",
+          "destination": "odiya/kids/sound/sam3.wav"
+        },
+        {
+          "page": "odiya/backup-2013/kids/sambit.html",
+          "original": "http://odiya.org/kids/sound/sam4.wav",
+          "destination": "odiya/kids/sound/sam4.wav"
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "page",
@@ -11853,11 +11879,26 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "1b283fb9dad8ebfb38980529c1ef7b81ad8d5004651f5ec9c195b4a2490f955c",
+    "output_sha256": "3ae930344600931dc3719c5974390a71869e3f45b7f104472ccde2dc958abb25",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/convention/2005/html/contact_us-orig.html",
-    "local_edition_sha256": "cac48aa292c8418540df663e1cb9470461df5911e60030f23a1c669b7cba0825",
-    "inner_page_restoration": "Original image rollovers restored."
+    "local_edition_sha256": "a9e183fb8c8c3b5f544ec1971e9c1243950b8e61a6bc3df201bed96a76158fe8",
+    "inner_page_restoration": "Original image rollovers restored.",
+    "voice_header_recovery": {
+      "date": "2026-11-22",
+      "links": [],
+      "images": [
+        {
+          "page": "odiya/convention/2005/html/contact_us-orig.html",
+          "destination": "odiya/convention/2005/assets/images/header_l02.gif",
+          "original_source_page": "restoration/backup-review-stage22/sources/convention/2005/html/contact_us-orig.html",
+          "dimensions": [
+            346,
+            110
+          ]
+        }
+      ]
+    }
   },
   {
     "kind": "page",
@@ -12091,11 +12132,26 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "cba0181aec50419aa9408cae370e018705d44ec6124847777b841852fb764954",
+    "output_sha256": "1b61ff30e9be949cf391f5b94f5cb888576b3dd8e7e180ab3628ffde338387f3",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/convention/2005/html/registration-orig.html",
-    "local_edition_sha256": "008fc2398fbffcd77eeeba7fe2282b4ba31e7f7394bbbb2da4978ecc76efc188",
-    "inner_page_restoration": "Original image rollovers restored."
+    "local_edition_sha256": "a10a727bd5cf1d9fe148cee374b7ba476b02e1357bee89fa2559d5594fe3d13c",
+    "inner_page_restoration": "Original image rollovers restored.",
+    "voice_header_recovery": {
+      "date": "2026-11-22",
+      "links": [],
+      "images": [
+        {
+          "page": "odiya/convention/2005/html/registration-orig.html",
+          "destination": "odiya/convention/2005/assets/images/header_l02.gif",
+          "original_source_page": "restoration/backup-review-stage22/sources/convention/2005/html/registration-orig.html",
+          "dimensions": [
+            346,
+            110
+          ]
+        }
+      ]
+    }
   },
   {
     "kind": "page",
@@ -12157,11 +12213,26 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "5d81e40283d30a9329f3a6b6d9a3363298be32f5f48130f71c6b9d39b9d1316b",
+    "output_sha256": "324d751364e4e14203170c3b7cbe9eb26fc390735cd1268574d5dcdf1e034be0",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/convention/2005/index-orig.html",
-    "local_edition_sha256": "e46bd91229d2a472989b7436c05787146508ce711d8dd6f28499893fb3289f7a",
-    "inner_page_restoration": "Original image rollovers restored."
+    "local_edition_sha256": "01aa05bcedc6a38c97bfe8d6ea7386e42e276d2fd3b399999d3f7c3766f5ba34",
+    "inner_page_restoration": "Original image rollovers restored.",
+    "voice_header_recovery": {
+      "date": "2026-11-22",
+      "links": [],
+      "images": [
+        {
+          "page": "odiya/convention/2005/index-orig.html",
+          "destination": "odiya/convention/2005/assets/images/header_l02.gif",
+          "original_source_page": "restoration/backup-review-stage22/sources/convention/2005/index-orig.html",
+          "dimensions": [
+            346,
+            110
+          ]
+        }
+      ]
+    }
   },
   {
     "kind": "page",
@@ -21750,12 +21821,38 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "1d8038a0a628b58eb0727538b0458bef6e7d62f555767d45016447eae1699345",
+    "output_sha256": "406a4e3e4f59462c06b05720d0534b9bd19c5793fbbc665caf032766383bce01",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/kids/sambit.html",
-    "local_edition_sha256": "9e10a8793ba40d9768a5b1327ae4c4698167be53b08451ed3047223d5ba32021",
+    "local_edition_sha256": "72de4a58dc00885147440f2e848a6e41f45a03d1506b3292eb16561e68f9f029",
     "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
-    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "voice_header_recovery": {
+      "date": "2026-11-22",
+      "links": [
+        {
+          "page": "odiya/kids/sambit.html",
+          "original": "http://odiya.org/kids/sound/sam1.wav",
+          "destination": "odiya/kids/sound/sam1.wav"
+        },
+        {
+          "page": "odiya/kids/sambit.html",
+          "original": "http://odiya.org/kids/sound/sam2.wav",
+          "destination": "odiya/kids/sound/sam2.wav"
+        },
+        {
+          "page": "odiya/kids/sambit.html",
+          "original": "http://odiya.org/kids/sound/sam3.wav",
+          "destination": "odiya/kids/sound/sam3.wav"
+        },
+        {
+          "page": "odiya/kids/sambit.html",
+          "original": "http://odiya.org/kids/sound/sam4.wav",
+          "destination": "odiya/kids/sound/sam4.wav"
+        }
+      ],
+      "images": []
+    }
   },
   {
     "kind": "asset",
@@ -40977,5 +41074,75 @@
         "evidence_kind": "matching_saved_page"
       }
     ]
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/kids/sound/sam3.wav",
+    "source": "restoration/qa/odiya-heading-links-final/raw/20060113071421-407727471ca9.wav",
+    "original_url": "http://www.odiya.org:80/kids/sound/sam3.wav",
+    "capture": "20060113071421",
+    "input_sha256": "6694ffcf0a2e7f627e171d2314cc76f704e10cd82a57eeb2d0f9916ef1252a49",
+    "output_sha256": "6694ffcf0a2e7f627e171d2314cc76f704e10cd82a57eeb2d0f9916ef1252a49",
+    "cdx_digest_verified": true,
+    "cdx_digest": "QYM47FVCWM5LZ7PIMJDYI33NITZP4QX5",
+    "recovery_note": "Original PCM WAV; archived bytes unchanged.",
+    "local_source": "odiya/kids/sound/sam3.wav",
+    "local_edition_sha256": "6694ffcf0a2e7f627e171d2314cc76f704e10cd82a57eeb2d0f9916ef1252a49"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/kids/sound/sam2.wav",
+    "source": "restoration/qa/odiya-heading-links-final/raw/20060113062424-73ce2d2669b1.wav",
+    "original_url": "http://www.odiya.org:80/kids/sound/sam2.wav",
+    "capture": "20060113062424",
+    "input_sha256": "7a0ed58e9de8bec8fc7c8f8fa33e3c1aed0573c78dffd15496177c37b433f5b2",
+    "output_sha256": "7a0ed58e9de8bec8fc7c8f8fa33e3c1aed0573c78dffd15496177c37b433f5b2",
+    "cdx_digest_verified": true,
+    "cdx_digest": "L7TL5T3O4R3NEKWA37ZKVCWYAMMBERKX",
+    "recovery_note": "Original PCM WAV; archived bytes unchanged.",
+    "local_source": "odiya/kids/sound/sam2.wav",
+    "local_edition_sha256": "7a0ed58e9de8bec8fc7c8f8fa33e3c1aed0573c78dffd15496177c37b433f5b2"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/kids/sound/sam4.wav",
+    "source": "restoration/qa/odiya-heading-links-final/raw/20060113071452-fccaceb340dd.wav",
+    "original_url": "http://www.odiya.org:80/kids/sound/sam4.wav",
+    "capture": "20060113071452",
+    "input_sha256": "6dcc711f08bb1ce5b64325ba95747d952ea50d692a5c76862475fa61edb8cbe5",
+    "output_sha256": "6dcc711f08bb1ce5b64325ba95747d952ea50d692a5c76862475fa61edb8cbe5",
+    "cdx_digest_verified": true,
+    "cdx_digest": "CZTZVITL3WGQP7HBXFBKMEKGNN3MYP4X",
+    "recovery_note": "Original PCM WAV; archived bytes unchanged.",
+    "local_source": "odiya/kids/sound/sam4.wav",
+    "local_edition_sha256": "6dcc711f08bb1ce5b64325ba95747d952ea50d692a5c76862475fa61edb8cbe5"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/convention/2005/assets/images/header_l02.gif",
+    "source": "restoration/backup-review-stage23/extracted/Assets/Assets/header_l02.gif",
+    "original_url": "http://odiya.org/convention/2005/assets/images/header_l02.gif",
+    "capture": "",
+    "input_sha256": "ca37cb6f752e7a86b0f01cb588b124a8357836e7aa393ac9859d02fa797d0960",
+    "output_sha256": "ca37cb6f752e7a86b0f01cb588b124a8357836e7aa393ac9859d02fa797d0960",
+    "recovery_note": "Exact original filename retained in Assets.zip and BM2005 style backup; identical bytes also survive as header_l0202.gif.",
+    "backup_archive": "June2013Backup/OdiyaOrgNew/duradrusti/temp/Assets.zip",
+    "archive_member": "Assets/header_l02.gif",
+    "local_source": "odiya/convention/2005/assets/images/header_l02.gif",
+    "local_edition_sha256": "ca37cb6f752e7a86b0f01cb588b124a8357836e7aa393ac9859d02fa797d0960"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/kids/sound/sam1.wav",
+    "source": "restoration/qa/odiya-heading-links-final/raw/20060113071354-145d19b813ba.wav",
+    "original_url": "http://www.odiya.org:80/kids/sound/sam1.wav",
+    "capture": "20060113071354",
+    "input_sha256": "75b1ecf13e73933501ec1c32c82770c6aa69bcbf3480c6ea6e9ad79eff1fb931",
+    "output_sha256": "75b1ecf13e73933501ec1c32c82770c6aa69bcbf3480c6ea6e9ad79eff1fb931",
+    "cdx_digest_verified": true,
+    "cdx_digest": "S7EAEKXGKXHC4N72BPVBR5TJYX52RLGK",
+    "recovery_note": "Original PCM WAV; archived bytes unchanged.",
+    "local_source": "odiya/kids/sound/sam1.wav",
+    "local_edition_sha256": "75b1ecf13e73933501ec1c32c82770c6aa69bcbf3480c6ea6e9ad79eff1fb931"
   }
 ]
