@@ -5717,7 +5717,29 @@
     "original_url_inferred": false,
     "output_sha256": "3e6a669bf852dc4a31aad7d2cc332dbe68db1f32868d99b305b6087b9a4ff876",
     "local_source": "odiya/bground/grey_dots.gif",
-    "local_edition_sha256": "3e6a669bf852dc4a31aad7d2cc332dbe68db1f32868d99b305b6087b9a4ff876"
+    "local_edition_sha256": "3e6a669bf852dc4a31aad7d2cc332dbe68db1f32868d99b305b6087b9a4ff876",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/bground/grey_dots.gif",
+        "timestamp": "19970714103814",
+        "original": "http://www.arc.umn.edu:80/~misra/bground/grey_dots.gif",
+        "mimetype": "image/gif",
+        "statuscode": "200",
+        "digest": "KGFJ2FMTJJ5HPY3UOU4FCAAHJO7MOMHI",
+        "length": "6977",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970714103814id_/http://www.arc.umn.edu:80/~misra/bground/grey_dots.gif",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970714103814-92715691dca1.gif",
+        "sha256": "3e6a669bf852dc4a31aad7d2cc332dbe68db1f32868d99b305b6087b9a4ff876",
+        "actual_digest": "KGFJ2FMTJJ5HPY3UOU4FCAAHJO7MOMHI",
+        "cdx_digest_verified": true,
+        "bytes": 6699,
+        "width": 200,
+        "height": 200,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -5882,7 +5904,29 @@
     "original_url_inferred": false,
     "output_sha256": "68637c7de8eafac08abb5bbadd019333b1710c10e1b31de2357dc627c63042b1",
     "local_source": "odiya/bground/sahbgr.jpg",
-    "local_edition_sha256": "68637c7de8eafac08abb5bbadd019333b1710c10e1b31de2357dc627c63042b1"
+    "local_edition_sha256": "68637c7de8eafac08abb5bbadd019333b1710c10e1b31de2357dc627c63042b1",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/bground/sahbgr.jpg",
+        "timestamp": "19970714091826",
+        "original": "http://www.arc.umn.edu:80/~misra/bground/sahbgr.jpg",
+        "mimetype": "image/jpeg",
+        "statuscode": "200",
+        "digest": "LCDAFMUJEALO57O6JCMAZFOATK3RVLQ2",
+        "length": "16749",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970714091826id_/http://www.arc.umn.edu:80/~misra/bground/sahbgr.jpg",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970714091826-110f2a67c483.jpg",
+        "sha256": "68637c7de8eafac08abb5bbadd019333b1710c10e1b31de2357dc627c63042b1",
+        "actual_digest": "LCDAFMUJEALO57O6JCMAZFOATK3RVLQ2",
+        "cdx_digest_verified": true,
+        "bytes": 44599,
+        "width": 418,
+        "height": 247,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -17452,7 +17496,29 @@
     "original_url_inferred": false,
     "output_sha256": "9e919af6230c04b5770a993fdc88eb5053490919def4ccb6023fcdead21b0915",
     "local_source": "odiya/gifs/author.jpg",
-    "local_edition_sha256": "9e919af6230c04b5770a993fdc88eb5053490919def4ccb6023fcdead21b0915"
+    "local_edition_sha256": "9e919af6230c04b5770a993fdc88eb5053490919def4ccb6023fcdead21b0915",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/gifs/author.jpg",
+        "timestamp": "19970714145138",
+        "original": "http://www.arc.umn.edu:80/~misra/gifs/author.jpg",
+        "mimetype": "image/jpeg",
+        "statuscode": "200",
+        "digest": "U2IKUNGGNLWOQRCCAWEWTHJ7OG6YW37W",
+        "length": "9507",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970714145138id_/http://www.arc.umn.edu:80/~misra/gifs/author.jpg",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970714145138-d73c89318533.jpg",
+        "sha256": "9e919af6230c04b5770a993fdc88eb5053490919def4ccb6023fcdead21b0915",
+        "actual_digest": "U2IKUNGGNLWOQRCCAWEWTHJ7OG6YW37W",
+        "cdx_digest_verified": true,
+        "bytes": 9207,
+        "width": 399,
+        "height": 131,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -17842,7 +17908,29 @@
     "original_url_inferred": false,
     "output_sha256": "8ccb243a4202f1c46d2b7ca55f99c07e10424a529955ff635eb7a3a6e42842e4",
     "local_source": "odiya/gifs/deepa.jpg",
-    "local_edition_sha256": "8ccb243a4202f1c46d2b7ca55f99c07e10424a529955ff635eb7a3a6e42842e4"
+    "local_edition_sha256": "8ccb243a4202f1c46d2b7ca55f99c07e10424a529955ff635eb7a3a6e42842e4",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/gifs/deepa.jpg",
+        "timestamp": "19970714145131",
+        "original": "http://www.arc.umn.edu:80/~misra/gifs/deepa.jpg",
+        "mimetype": "image/jpeg",
+        "statuscode": "200",
+        "digest": "AUOO4E6WDATFO2LK2IYLPGJQZU3ZPQHU",
+        "length": "4455",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970714145131id_/http://www.arc.umn.edu:80/~misra/gifs/deepa.jpg",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970714145131-aeb289240145.jpg",
+        "sha256": "8ccb243a4202f1c46d2b7ca55f99c07e10424a529955ff635eb7a3a6e42842e4",
+        "actual_digest": "AUOO4E6WDATFO2LK2IYLPGJQZU3ZPQHU",
+        "cdx_digest_verified": true,
+        "bytes": 4417,
+        "width": 121,
+        "height": 170,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -18127,7 +18215,29 @@
     "original_url_inferred": false,
     "output_sha256": "c2b61ee1f339a8833fa9fb5119b76107179541b4a8ab26a3a4fdefef0387bfe2",
     "local_source": "odiya/gifs/gitapic.jpg",
-    "local_edition_sha256": "c2b61ee1f339a8833fa9fb5119b76107179541b4a8ab26a3a4fdefef0387bfe2"
+    "local_edition_sha256": "c2b61ee1f339a8833fa9fb5119b76107179541b4a8ab26a3a4fdefef0387bfe2",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/gifs/gitapic.jpg",
+        "timestamp": "19970714151203",
+        "original": "http://www.arc.umn.edu:80/~misra/gifs/gitapic.jpg",
+        "mimetype": "image/jpeg",
+        "statuscode": "200",
+        "digest": "IJOKU2HLNJFD23TIGJETY5HD64PKPM4O",
+        "length": "14651",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970714151203id_/http://www.arc.umn.edu:80/~misra/gifs/gitapic.jpg",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970714151203-d09d9276845e.jpg",
+        "sha256": "c2b61ee1f339a8833fa9fb5119b76107179541b4a8ab26a3a4fdefef0387bfe2",
+        "actual_digest": "IJOKU2HLNJFD23TIGJETY5HD64PKPM4O",
+        "cdx_digest_verified": true,
+        "bytes": 14508,
+        "width": 162,
+        "height": 227,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -18142,7 +18252,29 @@
     "original_url_inferred": false,
     "output_sha256": "8a2d8565f0e4d4feea9966d45b65296c0b388fa94fa175695ab4c4ff35299061",
     "local_source": "odiya/gifs/gitashloka.gif",
-    "local_edition_sha256": "8a2d8565f0e4d4feea9966d45b65296c0b388fa94fa175695ab4c4ff35299061"
+    "local_edition_sha256": "8a2d8565f0e4d4feea9966d45b65296c0b388fa94fa175695ab4c4ff35299061",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/gifs/gitashloka.gif",
+        "timestamp": "19970714151342",
+        "original": "http://www.arc.umn.edu:80/~misra/gifs/gitashloka.gif",
+        "mimetype": "image/gif",
+        "statuscode": "200",
+        "digest": "56P3XGUFCB64I6I7F6OLUZ56EHFAAK74",
+        "length": "14321",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970714151342id_/http://www.arc.umn.edu:80/~misra/gifs/gitashloka.gif",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970714151342-d323168ade55.gif",
+        "sha256": "8a2d8565f0e4d4feea9966d45b65296c0b388fa94fa175695ab4c4ff35299061",
+        "actual_digest": "56P3XGUFCB64I6I7F6OLUZ56EHFAAK74",
+        "cdx_digest_verified": true,
+        "bytes": 14187,
+        "width": 455,
+        "height": 79,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -18427,7 +18559,29 @@
     "original_url_inferred": false,
     "output_sha256": "60d917dd786415dbe7fd59dbc808b0cee786d704788eefff78ca1db10e72ab52",
     "local_source": "odiya/gifs/lg4.gif",
-    "local_edition_sha256": "60d917dd786415dbe7fd59dbc808b0cee786d704788eefff78ca1db10e72ab52"
+    "local_edition_sha256": "60d917dd786415dbe7fd59dbc808b0cee786d704788eefff78ca1db10e72ab52",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/lg4.gif",
+        "timestamp": "19970714105109",
+        "original": "http://www.arc.umn.edu:80/~misra/lg4.gif",
+        "mimetype": "image/gif",
+        "statuscode": "200",
+        "digest": "AHKBZEJJR4VHCQMHSNK7WYUV2E2Y5VHN",
+        "length": "2370",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970714105109id_/http://www.arc.umn.edu:80/~misra/lg4.gif",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970714105109-d1754d238abd.gif",
+        "sha256": "60d917dd786415dbe7fd59dbc808b0cee786d704788eefff78ca1db10e72ab52",
+        "actual_digest": "AHKBZEJJR4VHCQMHSNK7WYUV2E2Y5VHN",
+        "cdx_digest_verified": true,
+        "bytes": 2057,
+        "width": 571,
+        "height": 76,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -18772,7 +18926,29 @@
     "original_url_inferred": false,
     "output_sha256": "72a816808c58117e64be0f67878082e3aaa3f8236f8f291e16e2f6fc417e5add",
     "local_source": "odiya/gifs/new.jpg",
-    "local_edition_sha256": "72a816808c58117e64be0f67878082e3aaa3f8236f8f291e16e2f6fc417e5add"
+    "local_edition_sha256": "72a816808c58117e64be0f67878082e3aaa3f8236f8f291e16e2f6fc417e5add",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/new.jpg",
+        "timestamp": "19970714080959",
+        "original": "http://www.arc.umn.edu:80/~misra/new.jpg",
+        "mimetype": "image/jpeg",
+        "statuscode": "200",
+        "digest": "MDH47V7V4RJI4CLDIW7XPMSLLJQYESFN",
+        "length": "779",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970714080959id_/http://www.arc.umn.edu:80/~misra/new.jpg",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970714080959-142d0163eed1.jpg",
+        "sha256": "72a816808c58117e64be0f67878082e3aaa3f8236f8f291e16e2f6fc417e5add",
+        "actual_digest": "MDH47V7V4RJI4CLDIW7XPMSLLJQYESFN",
+        "cdx_digest_verified": true,
+        "bytes": 578,
+        "width": 23,
+        "height": 12,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -19162,7 +19338,29 @@
     "original_url_inferred": false,
     "output_sha256": "35521156983f4e8e9bf5d5d69b3d8fa0eafc14e3b939a5079717a9407c9d86a9",
     "local_source": "odiya/gifs/osatt.jpg",
-    "local_edition_sha256": "35521156983f4e8e9bf5d5d69b3d8fa0eafc14e3b939a5079717a9407c9d86a9"
+    "local_edition_sha256": "35521156983f4e8e9bf5d5d69b3d8fa0eafc14e3b939a5079717a9407c9d86a9",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/gifs/osatt.jpg",
+        "timestamp": "19970714145124",
+        "original": "http://www.arc.umn.edu:80/~misra/gifs/osatt.jpg",
+        "mimetype": "image/jpeg",
+        "statuscode": "200",
+        "digest": "5M3VWORSECH52KMGNHLFIS3AKRUSOGW2",
+        "length": "8805",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970714145124id_/http://www.arc.umn.edu:80/~misra/gifs/osatt.jpg",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970714145124-06aac7d24e6c.jpg",
+        "sha256": "35521156983f4e8e9bf5d5d69b3d8fa0eafc14e3b939a5079717a9407c9d86a9",
+        "actual_digest": "5M3VWORSECH52KMGNHLFIS3AKRUSOGW2",
+        "cdx_digest_verified": true,
+        "bytes": 8490,
+        "width": 317,
+        "height": 139,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -19717,7 +19915,29 @@
     "original_url_inferred": false,
     "output_sha256": "d1fe18d125f64ddcb92e85148cd5af5e22c6e7d8fb564cda2f8384b17e0b19b1",
     "local_source": "odiya/gifs/spidr.gif",
-    "local_edition_sha256": "d1fe18d125f64ddcb92e85148cd5af5e22c6e7d8fb564cda2f8384b17e0b19b1"
+    "local_edition_sha256": "d1fe18d125f64ddcb92e85148cd5af5e22c6e7d8fb564cda2f8384b17e0b19b1",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/spidr.gif",
+        "timestamp": "19970714091836",
+        "original": "http://www.arc.umn.edu:80/~misra/spidr.gif",
+        "mimetype": "image/gif",
+        "statuscode": "200",
+        "digest": "6VEWE3ZSL5QWAD7PS4JDJYKL7KOP5ZFE",
+        "length": "1454",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970714091836id_/http://www.arc.umn.edu:80/~misra/spidr.gif",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970714091836-0c30686e0a76.gif",
+        "sha256": "d1fe18d125f64ddcb92e85148cd5af5e22c6e7d8fb564cda2f8384b17e0b19b1",
+        "actual_digest": "6VEWE3ZSL5QWAD7PS4JDJYKL7KOP5ZFE",
+        "cdx_digest_verified": true,
+        "bytes": 5771,
+        "width": 84,
+        "height": 85,
+        "frames": 13,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -19822,7 +20042,29 @@
     "original_url_inferred": false,
     "output_sha256": "c06a60e1f14cfcfe7d8e23abe8601419970cb05e05bcbe2efe7eaa626ba52480",
     "local_source": "odiya/gifs/tig1.jpg",
-    "local_edition_sha256": "c06a60e1f14cfcfe7d8e23abe8601419970cb05e05bcbe2efe7eaa626ba52480"
+    "local_edition_sha256": "c06a60e1f14cfcfe7d8e23abe8601419970cb05e05bcbe2efe7eaa626ba52480",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/gifs/tig1.jpg",
+        "timestamp": "19970714155140",
+        "original": "http://www.arc.umn.edu:80/~misra/gifs/tig1.jpg",
+        "mimetype": "image/jpeg",
+        "statuscode": "200",
+        "digest": "VHANUDSB55XSXYAUXW6V3AODNA2K2PYH",
+        "length": "18882",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970714155140id_/http://www.arc.umn.edu:80/~misra/gifs/tig1.jpg",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970714155140-7ca68b2eaf7d.jpg",
+        "sha256": "c06a60e1f14cfcfe7d8e23abe8601419970cb05e05bcbe2efe7eaa626ba52480",
+        "actual_digest": "VHANUDSB55XSXYAUXW6V3AODNA2K2PYH",
+        "cdx_digest_verified": true,
+        "bytes": 18723,
+        "width": 293,
+        "height": 214,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -19882,7 +20124,29 @@
     "original_url_inferred": false,
     "output_sha256": "0ae0e3499ea9b961012e11e8dfed901310a2f43549a8feb5df6aa1019f0252dc",
     "local_source": "odiya/gifs/vishnu.jpg",
-    "local_edition_sha256": "0ae0e3499ea9b961012e11e8dfed901310a2f43549a8feb5df6aa1019f0252dc"
+    "local_edition_sha256": "0ae0e3499ea9b961012e11e8dfed901310a2f43549a8feb5df6aa1019f0252dc",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/gifs/vishnu.jpg",
+        "timestamp": "19970714151349",
+        "original": "http://www.arc.umn.edu:80/~misra/gifs/vishnu.jpg",
+        "mimetype": "image/jpeg",
+        "statuscode": "200",
+        "digest": "D2475YNK5FS52AKL5CSATHJQPLYNYFIL",
+        "length": "7425",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970714151349id_/http://www.arc.umn.edu:80/~misra/gifs/vishnu.jpg",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970714151349-34fd96214ebb.jpg",
+        "sha256": "0ae0e3499ea9b961012e11e8dfed901310a2f43549a8feb5df6aa1019f0252dc",
+        "actual_digest": "D2475YNK5FS52AKL5CSATHJQPLYNYFIL",
+        "cdx_digest_verified": true,
+        "bytes": 7268,
+        "width": 100,
+        "height": 221,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -39516,7 +39780,29 @@
     "cdx_digest": "RLNV2M2LFEKGUNFDS3UMCV2YXBQM5DIU",
     "recovery_note": "Original 1997 Wayback image, bytes unchanged.",
     "local_source": "odiya/recovered-early-gaps/hariprasad.gif",
-    "local_edition_sha256": "43aa869667c751d4069df50bf168e0c60cbd357f21f8320269f785c4ab10233b"
+    "local_edition_sha256": "43aa869667c751d4069df50bf168e0c60cbd357f21f8320269f785c4ab10233b",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/perslink/hariprasad.gif",
+        "timestamp": "19970310063336",
+        "original": "http://www.arc.umn.edu:80/~misra/perslink/hariprasad.gif",
+        "mimetype": "image/gif",
+        "statuscode": "200",
+        "digest": "RLNV2M2LFEKGUNFDS3UMCV2YXBQM5DIU",
+        "length": "32039",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970310063336id_/http://www.arc.umn.edu:80/~misra/perslink/hariprasad.gif",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970310063336-d74e05c00bcd.gif",
+        "sha256": "43aa869667c751d4069df50bf168e0c60cbd357f21f8320269f785c4ab10233b",
+        "actual_digest": "RLNV2M2LFEKGUNFDS3UMCV2YXBQM5DIU",
+        "cdx_digest_verified": true,
+        "bytes": 31748,
+        "width": 326,
+        "height": 313,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -39530,7 +39816,29 @@
     "cdx_digest": "KA6G2U4LLQMGCJUVZTJ7JCHXAF4TLFM5",
     "recovery_note": "Original 1997 Wayback image, bytes unchanged.",
     "local_source": "odiya/recovered-early-gaps/jm.jpg",
-    "local_edition_sha256": "6f7ddeeed16785a84cd39dd82fad808b6d515ea6bdd8a4b0b4ed6b87ec6679be"
+    "local_edition_sha256": "6f7ddeeed16785a84cd39dd82fad808b6d515ea6bdd8a4b0b4ed6b87ec6679be",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/perslink/jm.jpg",
+        "timestamp": "19970714105117",
+        "original": "http://www.arc.umn.edu:80/~misra/perslink/jm.jpg",
+        "mimetype": "image/jpeg",
+        "statuscode": "200",
+        "digest": "KA6G2U4LLQMGCJUVZTJ7JCHXAF4TLFM5",
+        "length": "5951",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970714105117id_/http://www.arc.umn.edu:80/~misra/perslink/jm.jpg",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970714105117-9cf059d8bb9c.jpg",
+        "sha256": "6f7ddeeed16785a84cd39dd82fad808b6d515ea6bdd8a4b0b4ed6b87ec6679be",
+        "actual_digest": "KA6G2U4LLQMGCJUVZTJ7JCHXAF4TLFM5",
+        "cdx_digest_verified": true,
+        "bytes": 5628,
+        "width": 216,
+        "height": 207,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -39544,7 +39852,29 @@
     "cdx_digest": "BNUSOJ7FOGTKVJV3NCEKRTEQOUHLRY57",
     "recovery_note": "Original 1997 Wayback image, bytes unchanged.",
     "local_source": "odiya/recovered-early-gaps/kbdash.jpg",
-    "local_edition_sha256": "e16002a2adc93ccfc610850b225d538f83f7b133d59c3bf48891dcc95a17165e"
+    "local_edition_sha256": "e16002a2adc93ccfc610850b225d538f83f7b133d59c3bf48891dcc95a17165e",
+    "verified_historical_aliases": [
+      {
+        "urlkey": "edu,umn,arc)/~misra/perslink/kbdash.jpg",
+        "timestamp": "19970714105223",
+        "original": "http://www.arc.umn.edu:80/~misra/perslink/kbdash.jpg",
+        "mimetype": "image/jpeg",
+        "statuscode": "200",
+        "digest": "BNUSOJ7FOGTKVJV3NCEKRTEQOUHLRY57",
+        "length": "10812",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/19970714105223id_/http://www.arc.umn.edu:80/~misra/perslink/kbdash.jpg",
+        "file": "restoration/qa/odiya-minnesota-readings/raw/19970714105223-71f8b7c3102d.jpg",
+        "sha256": "e16002a2adc93ccfc610850b225d538f83f7b133d59c3bf48891dcc95a17165e",
+        "actual_digest": "BNUSOJ7FOGTKVJV3NCEKRTEQOUHLRY57",
+        "cdx_digest_verified": true,
+        "bytes": 10659,
+        "width": 235,
+        "height": 289,
+        "frames": 1,
+        "image_valid": true
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -41148,12 +41478,12 @@
     "original_url": "http://www.cs.utexas.edu:80/users/darshan/SEEDS/orissa/",
     "capture": "19981207001036",
     "input_sha256": "64649e62131dd7cb427045f00bc2d431110a70838c5033920421c10fb6931b50",
-    "output_sha256": "f73cc501d5546649c132ee587eada39042444bc16e9841ff20a762858a8cb843",
+    "output_sha256": "8823d0f42d5a8217e59c748938b45e4f67dd58e0582fcb036a4c3d4ba2c7bae9",
     "cdx_digest_verified": true,
     "cdx_digest": "K3UBYFEQTMWYMI3AVAKDMREORYEWPK7C",
     "recovery_note": "Original Texas-hosted capture; services inactive. Ticker text shown statically.",
     "local_source": "odiya/captures/texas-orissa/index.html",
-    "local_edition_sha256": "be723101d9bdb03479135208d74cf65acce61585a0453dc055b1994432326e7a",
+    "local_edition_sha256": "d2347fdb3e22a9351f8b3f5faa9cfc08cb45b7b02ef40c3b82949ee69e885563",
     "corroborated_link_repairs": [
       {
         "page": "odiya/captures/texas-orissa/index.html",
@@ -41312,7 +41642,27 @@
           "destination": "odiya/recovered-picture-art/coming.gif"
         }
       ]
-    }
+    },
+    "minnesota_reading_links": [
+      {
+        "page": "odiya/captures/texas-orissa/index.html",
+        "original": "http://www.arc.umn.edu/~misra/vasa.shtml",
+        "destination": "odiya/captures/minnesota-1997/vasa.html",
+        "fragment": ""
+      },
+      {
+        "page": "odiya/captures/texas-orissa/index.html",
+        "original": "http://www.arc.umn.edu/~misra/sahitya.shtml",
+        "destination": "odiya/captures/minnesota-1997/sahitya.html",
+        "fragment": ""
+      },
+      {
+        "page": "odiya/captures/texas-orissa/index.html",
+        "original": "http://www.arc.umn.edu/~misra/personality.shtml",
+        "destination": "odiya/captures/minnesota-1997/personality.html",
+        "fragment": ""
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -41446,5 +41796,437 @@
     "source_markup_repairs": [],
     "local_source": "odiya/orissa/tobe.html",
     "local_edition_sha256": "58d0a14951c81760ea05a7e5bf6a6825a1eba9e200a72d878be206c602dd5e91"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/persack.html",
+    "source": "restoration/qa/odiya-minnesota-readings/raw/19970207210233-3bf5cf683547.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/persack.shtml",
+    "capture": "19970207210233",
+    "input_sha256": "28496aeafbd228e1281c4d00d2c3ce1388fc26e04647b884e712b3898c45ab1e",
+    "output_sha256": "51edd27e22771bcbafcb06c77300deb7ec9324afdc672cbaca6ff73005d78649",
+    "cdx_digest_verified": true,
+    "cdx_digest": "F2QJG57ODVM3JFMKEYTB5G7LXIGT7ZOV",
+    "recovery_note": "Original 1997 reading; services inactive.",
+    "image_alternatives": [],
+    "local_source": "odiya/captures/minnesota-1997/persack.html",
+    "local_edition_sha256": "643116c982bccf158236c4497ac755aa61560ff7547f61d5b99cc702b7868f27"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/vasa.html",
+    "source": "restoration/qa/odiya-mirror-recovery/raw/19970207150752-f654239b72c6.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/vasa.shtml",
+    "capture": "19970207150752",
+    "input_sha256": "b1ed594b764cf274ba85f90096f91f260045645ffc92c9ecb06a1cc30cb4f294",
+    "output_sha256": "e4b25472a09e296770be570b8503adecd309450755ad706c850b7ee997f73ba1",
+    "cdx_digest_verified": true,
+    "cdx_digest": "QNFQVQOSZITLJ37MA67H7MGMRUWZLVJI",
+    "recovery_note": "Original 1997 reading; services inactive. Images: same-period mirrors and later backup plates.",
+    "image_alternatives": [
+      {
+        "original": "http://www.arc.umn.edu:80/~misra/gifs/omm.jpg",
+        "destination": "odiya/gifs/omm.jpg",
+        "confidence_note": "surviving same-named backup illustration; 1997 image bytes unverified",
+        "sha256": "01e169e9c5cf9a1775e54be8ba8639e84bf8aa7cf0713f2f68cae15129e39167"
+      },
+      {
+        "original": "http://www.arc.umn.edu:80/~misra/gifs/alph.jpg",
+        "destination": "odiya/gifs/alph.jpg",
+        "confidence_note": "surviving same-named backup illustration; 1997 image bytes unverified",
+        "sha256": "1d1a67eb23e345c49852160d38ae931bb02c1920c2177aa5586c55804325f511"
+      },
+      {
+        "original": "http://www.arc.umn.edu:80/~misra/gifs/mobahi.jpg",
+        "destination": "odiya/gifs/mobahi.jpg",
+        "confidence_note": "surviving same-named backup illustration; 1997 image bytes unverified",
+        "sha256": "223e813bf545eb4f0a23743fd38c1753849278fc5ab15173a08ecc1162a42297"
+      },
+      {
+        "original": "http://www.arc.umn.edu:80/~misra/gifs/albet.jpg",
+        "destination": "odiya/gifs/albet.jpg",
+        "confidence_note": "surviving same-named backup illustration; 1997 image bytes unverified",
+        "sha256": "3095bdcbe3156508db1adfbb5a771129efbc13e4cfbc2ddbf40c11c3f3cd94d1"
+      },
+      {
+        "original": "http://www.arc.umn.edu:80/~misra/gifs/bbodh.jpg",
+        "destination": "odiya/gifs/bbodh.jpg",
+        "confidence_note": "surviving same-named backup illustration; 1997 image bytes unverified",
+        "sha256": "3c76f854048e16fbfeedece3e66e2fe64f96a0748e83e371020881a19658829f"
+      },
+      {
+        "original": "http://www.arc.umn.edu:80/~misra/gifs/numb.jpg",
+        "destination": "odiya/gifs/numb.jpg",
+        "confidence_note": "surviving same-named backup illustration; 1997 image bytes unverified",
+        "sha256": "1bc50f94e7c97c408860ff7868507691e3355de6070027ecd98a677bfbd36cdf"
+      },
+      {
+        "original": "http://www.arc.umn.edu:80/~misra/gifs/mobahi.jpg",
+        "destination": "odiya/gifs/mobahi.jpg",
+        "confidence_note": "surviving same-named backup illustration; 1997 image bytes unverified",
+        "sha256": "223e813bf545eb4f0a23743fd38c1753849278fc5ab15173a08ecc1162a42297"
+      }
+    ],
+    "local_source": "odiya/captures/minnesota-1997/vasa.html",
+    "local_edition_sha256": "34380910a4e05e588e9778ba35035e5fbc66aaaa82ef4d32d650b31c710d3140"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-minnesota/alpback.jpg",
+    "source": "restoration/qa/odiya-minnesota-readings/raw/19961227180038-b72cd60148ee.jpg",
+    "original_url": "http://www.gl.umbc.edu:80/~achatt1/Gif2/alpback.jpg",
+    "capture": "19961227180038",
+    "input_sha256": "d178fe55fd3f5d1ffb0a1785f0ab3ec5009aadd24bad1d5a272fccb878431176",
+    "output_sha256": "d178fe55fd3f5d1ffb0a1785f0ab3ec5009aadd24bad1d5a272fccb878431176",
+    "cdx_digest_verified": true,
+    "cdx_digest": "ZQ4ORGONIR34CI4MRETU42VCS3FGFQ7V",
+    "recovery_note": "Original archived image; bytes unchanged.",
+    "local_source": "odiya/recovered-minnesota/alpback.jpg",
+    "local_edition_sha256": "d178fe55fd3f5d1ffb0a1785f0ab3ec5009aadd24bad1d5a272fccb878431176"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/perslink/Hariprasad.html",
+    "source": "restoration/qa/odiya-minnesota-readings/raw/19970207210139-c1ba0bb1acef.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/perslink/Hariprasad.shtml",
+    "capture": "19970207210139",
+    "input_sha256": "0088ff6dbe75808fc1c06bc5e3f0f856d24a91e72ec79290916a1cd557fc13d6",
+    "output_sha256": "a61d3529056e6fdd8b124a023eb6425d597afed2ff9203df024b109badae4aee",
+    "cdx_digest_verified": true,
+    "cdx_digest": "G7F2COI6QNZOZZXPLKW6DVRBKD75CQJE",
+    "recovery_note": "Original 1997 reading; services inactive. Images: same-period mirrors.",
+    "image_alternatives": [
+      {
+        "original": "http://www.cems.umn.edu/~misra/tig1.jpg",
+        "destination": "odiya/gifs/tig1.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "c06a60e1f14cfcfe7d8e23abe8601419970cb05e05bcbe2efe7eaa626ba52480"
+      }
+    ],
+    "local_source": "odiya/captures/minnesota-1997/perslink/Hariprasad.html",
+    "local_edition_sha256": "cab8634e1b03f8c64a1efdca638b3673e00ad7c90ed0dac37c337ed742624a82"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/perslink/pray.html",
+    "source": "restoration/qa/odiya-minnesota-readings/raw/19970207210102-a03680fa39e9.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/perslink/pray.shtml",
+    "capture": "19970207210102",
+    "input_sha256": "857d8d5e3ac65650eb4df84b8358a2bf7b493183838e0c2b6d15f62a34432fac",
+    "output_sha256": "78a9bc2ef04d989a87c805bb7509e1e77389fdf202d4b17505a1699e93100584",
+    "cdx_digest_verified": true,
+    "cdx_digest": "LWEIFT5KX27FP42NH2N5XIS5NHFAZR6A",
+    "recovery_note": "Original 1997 reading; services inactive. Images: same-period mirrors.",
+    "image_alternatives": [
+      {
+        "original": "http://www.cems.umn.edu/~misra/tig1.jpg",
+        "destination": "odiya/gifs/tig1.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "c06a60e1f14cfcfe7d8e23abe8601419970cb05e05bcbe2efe7eaa626ba52480"
+      }
+    ],
+    "local_source": "odiya/captures/minnesota-1997/perslink/pray.html",
+    "local_edition_sha256": "374f2b7381ae26c056f6fef1b90430223e52660025d34ff1942d2df56b9d7424"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-minnesota/stills/d1fe18d125f64ddc.png",
+    "source": "odiya/gifs/spidr.gif",
+    "output_sha256": "c969c84b64574459a9c407cefefbd512a248aec95b94d91ce6d90d06be4f8d5d",
+    "recovery_note": "First frame of original GIF for reduced-motion display.",
+    "local_source": "odiya/recovered-minnesota/stills/d1fe18d125f64ddc.png",
+    "local_edition_sha256": "c969c84b64574459a9c407cefefbd512a248aec95b94d91ce6d90d06be4f8d5d"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/sahitya.html",
+    "source": "restoration/qa/odiya-mirror-recovery/raw/19970207150833-024fc9b728f9.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/sahitya.shtml",
+    "capture": "19970207150833",
+    "input_sha256": "5af7624b6ecec5528d564faf50257e69a22efda230aa25d228d18908cef65f3d",
+    "output_sha256": "f204a4b8f5bf06fcfb6139bb06818108d0802c5e5a2c67ccd73c2b181dcde994",
+    "cdx_digest_verified": true,
+    "cdx_digest": "4DZQRVK3TKILZKGC36YDD447ADIU273E",
+    "recovery_note": "Original 1997 reading; services inactive. Images: same-period mirrors.",
+    "image_alternatives": [
+      {
+        "original": "http://www.cems.umn.edu/~misra/osatt.jpg",
+        "destination": "odiya/gifs/osatt.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "35521156983f4e8e9bf5d5d69b3d8fa0eafc14e3b939a5079717a9407c9d86a9"
+      },
+      {
+        "original": "http://www.cems.umn.edu/~misra/deepa.jpg",
+        "destination": "odiya/gifs/deepa.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "8ccb243a4202f1c46d2b7ca55f99c07e10424a529955ff635eb7a3a6e42842e4"
+      },
+      {
+        "original": "http://www.cems.umn.edu/~misra/author.jpg",
+        "destination": "odiya/gifs/author.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "9e919af6230c04b5770a993fdc88eb5053490919def4ccb6023fcdead21b0915"
+      }
+    ],
+    "local_source": "odiya/captures/minnesota-1997/sahitya.html",
+    "local_edition_sha256": "1af20b497aafb9dad46a9ede1a3465c43ae16ea93d7f80b5bcf9cfc6acbd250b"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/odissi/guru.html",
+    "source": "restoration/qa/odiya-minnesota-readings/raw/19970616161524-834560371268.html",
+    "original_url": "http://www.arc.umn.edu:80/~misra/odissi/guru.html",
+    "capture": "19970616161524",
+    "input_sha256": "484b1c034a525d7466224a4033658250450de880587d5d8eb39ac9785897b924",
+    "output_sha256": "5d711c99ce3604453b357510174dceed0812d7a8848815eb549a3a7afac16fb6",
+    "cdx_digest_verified": true,
+    "cdx_digest": "FQRFEOSV66F4VEUANRO4KJIATE6OBTGY",
+    "recovery_note": "Original 1997 reading; services inactive.",
+    "image_alternatives": [],
+    "local_source": "odiya/captures/minnesota-1997/odissi/guru.html",
+    "local_edition_sha256": "565dee37f84326d8bbab21b26285fbe9225ccdec38b2f2d757923d7d00c2ada4"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-minnesota/stills/b4c14ce9498275f6.png",
+    "source": "odiya/recovered-shared-art/mult.gif",
+    "output_sha256": "2f4f39c49194173b5256971923295c389ef38e89af4f5a723432d4122d96984c",
+    "recovery_note": "First frame of original GIF for reduced-motion display.",
+    "local_source": "odiya/recovered-minnesota/stills/b4c14ce9498275f6.png",
+    "local_edition_sha256": "2f4f39c49194173b5256971923295c389ef38e89af4f5a723432d4122d96984c"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/perslink/gopabandhu.html",
+    "source": "restoration/qa/odiya-minnesota-readings/raw/19970207210036-c6fc682e454e.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/perslink/gopabandhu.shtml",
+    "capture": "19970207210036",
+    "input_sha256": "b9c0562aba95d8d93ed4c9ec73015c263b29221578f60818b7cc481bef725be6",
+    "output_sha256": "88cae8af3fc23a97e28610d217827aecc4263aaa81e97b3b98e966a6fa0ecd2e",
+    "cdx_digest_verified": true,
+    "cdx_digest": "FWXI6QFQ34EGGHEK7JHEFBZXESVSQ56C",
+    "recovery_note": "Original 1997 reading; services inactive. Images: same-period mirrors.",
+    "image_alternatives": [
+      {
+        "original": "http://www.cems.umn.edu/~misra/tig1.jpg",
+        "destination": "odiya/gifs/tig1.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "c06a60e1f14cfcfe7d8e23abe8601419970cb05e05bcbe2efe7eaa626ba52480"
+      }
+    ],
+    "local_source": "odiya/captures/minnesota-1997/perslink/gopabandhu.html",
+    "local_edition_sha256": "bf16046fe1552318cc79761520007c9ec5eeee960d984746f1645bb97ff4dae4"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-minnesota/hotfile.gif",
+    "source": "restoration/qa/odiya-minnesota-readings/raw/19970714105102-5fef50845c33.gif",
+    "original_url": "http://www.arc.umn.edu:80/~misra/perslink/hotfile.gif",
+    "capture": "19970714105102",
+    "input_sha256": "67732e9914d4bd0f8843540b3534731d5ab4d5b248d7895ac5afddccb0dc3c9d",
+    "output_sha256": "67732e9914d4bd0f8843540b3534731d5ab4d5b248d7895ac5afddccb0dc3c9d",
+    "cdx_digest_verified": true,
+    "cdx_digest": "W73B2MRJQTA7LNBMASAPV34YLAC3SDSG",
+    "recovery_note": "Original archived image; bytes unchanged.",
+    "local_source": "odiya/recovered-minnesota/hotfile.gif",
+    "local_edition_sha256": "67732e9914d4bd0f8843540b3534731d5ab4d5b248d7895ac5afddccb0dc3c9d"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/perslink/pkjena.html",
+    "source": "restoration/qa/odiya-minnesota-readings/raw/19970207210131-df65e5dd5804.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/perslink/pkjena.shtml",
+    "capture": "19970207210131",
+    "input_sha256": "f7b4c4eaad7c96351d380cb0029e73e707a5aee7b491f6b93cdeb74cac186001",
+    "output_sha256": "80b75949f78422dcec97516070c4bf75e57497f6976791aef4a50f1db48c2ceb",
+    "cdx_digest_verified": true,
+    "cdx_digest": "Q7WXJNWGFVAFEVKIDUQL56YEXH77XIRY",
+    "recovery_note": "Original 1997 reading; services inactive. Images: same-period mirrors.",
+    "image_alternatives": [
+      {
+        "original": "http://www.cems.umn.edu/~misra/tig1.jpg",
+        "destination": "odiya/gifs/tig1.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "c06a60e1f14cfcfe7d8e23abe8601419970cb05e05bcbe2efe7eaa626ba52480"
+      }
+    ],
+    "local_source": "odiya/captures/minnesota-1997/perslink/pkjena.html",
+    "local_edition_sha256": "f83edb029105c967b01e252adac2d67f66df25e1f0495785560f0dd1c6432321"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/perslink/jm.html",
+    "source": "restoration/qa/odiya-minnesota-readings/raw/19970207210046-91cb57cfc56a.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/perslink/jm.shtml",
+    "capture": "19970207210046",
+    "input_sha256": "9fecb92353f1b58620e9c72a150eb83675c5c30b3563429f3e555d4f978aee62",
+    "output_sha256": "85613abf365546b264c6bae5de71b1bb6225ed8c15b661c72f8b23b09ad6977b",
+    "cdx_digest_verified": true,
+    "cdx_digest": "RCDHM4SU3ZY7MYX6DGFCGVWUEJSSISWM",
+    "recovery_note": "Original 1997 reading; services inactive. Images: same-period mirrors.",
+    "image_alternatives": [
+      {
+        "original": "http://www.cems.umn.edu/~misra/tig1.jpg",
+        "destination": "odiya/gifs/tig1.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "c06a60e1f14cfcfe7d8e23abe8601419970cb05e05bcbe2efe7eaa626ba52480"
+      }
+    ],
+    "local_source": "odiya/captures/minnesota-1997/perslink/jm.html",
+    "local_edition_sha256": "6d2fb43809355a35c4687b4ab7df120f3d1e249b3273e8d3647a2a068da586b4"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/perslink/asray.html",
+    "source": "restoration/qa/odiya-minnesota-readings/raw/19970207210054-aebcc73b666b.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/perslink/asray.shtml",
+    "capture": "19970207210054",
+    "input_sha256": "bdb4783c2cbee3c220c8868ab1838062daea030f42b4bc6b5f4a93439670870a",
+    "output_sha256": "36c49e312290f2fca8a2498b0a0a41366dade55b9235a92644b18a4fa3c8a9e5",
+    "cdx_digest_verified": true,
+    "cdx_digest": "J7TAR6WYEJBHC6VKXCN2WAP3KREDHTJV",
+    "recovery_note": "Original 1997 reading; services inactive. Images: same-period mirrors.",
+    "image_alternatives": [
+      {
+        "original": "http://www.cems.umn.edu/~misra/tig1.jpg",
+        "destination": "odiya/gifs/tig1.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "c06a60e1f14cfcfe7d8e23abe8601419970cb05e05bcbe2efe7eaa626ba52480"
+      }
+    ],
+    "local_source": "odiya/captures/minnesota-1997/perslink/asray.html",
+    "local_edition_sha256": "e28c64bdc8010c60b27f472fcb0ed7292dfee5ce1d4d1aa0d7da28cbca292b17"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/perslink/kbdash.html",
+    "source": "restoration/qa/odiya-minnesota-readings/raw/19970207210208-522db56ae45f.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/perslink/kbdash.shtml",
+    "capture": "19970207210208",
+    "input_sha256": "998641051c4368137ca90b0ec699709918bb29d6bcce0fc13e33c7bf0cebc70a",
+    "output_sha256": "4318d4f3f83067c5ace1f5e7dfad7efee6afad88576dd9a47639cd9027e520b9",
+    "cdx_digest_verified": true,
+    "cdx_digest": "CXURYGZTO7FNGE6XNGPIBJIFGDNP6LLM",
+    "recovery_note": "Original 1997 reading; services inactive. Images: same-period mirrors.",
+    "image_alternatives": [
+      {
+        "original": "http://www.cems.umn.edu/~misra/tig1.jpg",
+        "destination": "odiya/gifs/tig1.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "c06a60e1f14cfcfe7d8e23abe8601419970cb05e05bcbe2efe7eaa626ba52480"
+      }
+    ],
+    "local_source": "odiya/captures/minnesota-1997/perslink/kbdash.html",
+    "local_edition_sha256": "a2ef8dc3c0ca06fab7619d82febb0a13192f333b42405ba4cad000363e30b09f"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/b634c908c06a6c.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://ourworld.compuserve.com:80/homepages/Tushar_Mahapatra/",
+    "output_sha256": "5fdfdf862ed4e0281ad28e3f31b0cd72d2607266b38cbbcfd3880b8275e715b6",
+    "recovery_note": "Generated notice, not an original historical page.",
+    "local_source": "odiya/unavailable/b634c908c06a6c.html",
+    "local_edition_sha256": "604954e0baabda7c5e8438847eee2b385901614fef72b26d254c24b33f311ccf"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/perslink/bpm.html",
+    "source": "restoration/qa/odiya-minnesota-readings/raw/19970207210123-be18c3444a63.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/perslink/bpm.shtml",
+    "capture": "19970207210123",
+    "input_sha256": "75dae44eb3d6a2e801c1e81a041337a4ba8123ab8c67dd34b40eafce4db247b8",
+    "output_sha256": "773efbbe4ff082cfe4b2215ab9b7a965d925351555b7e9854e21e1aacf80dca2",
+    "cdx_digest_verified": true,
+    "cdx_digest": "2C4OTATFDBXA2UQOIFTAFGTWRP6J6IDN",
+    "recovery_note": "Original 1997 reading; services inactive. Images: same-period mirrors.",
+    "image_alternatives": [
+      {
+        "original": "http://www.cems.umn.edu/~misra/tig1.jpg",
+        "destination": "odiya/gifs/tig1.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "c06a60e1f14cfcfe7d8e23abe8601419970cb05e05bcbe2efe7eaa626ba52480"
+      }
+    ],
+    "local_source": "odiya/captures/minnesota-1997/perslink/bpm.html",
+    "local_edition_sha256": "2e2ed41d62b2728502d47732124f1afa9c0904f432498e595da1aee903fd7905"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/personality.html",
+    "source": "restoration/qa/odiya-mirror-recovery/raw/19970207150906-2e781dc10326.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/personality.shtml",
+    "capture": "19970207150906",
+    "input_sha256": "c5734da8d93259bdf1a83db6add7ce6115630878fce48cd45381323f2800c5f5",
+    "output_sha256": "c6a5502f460683d397b5dc7ac2e4627a9dfb0327564c1b830b56b42bb363d593",
+    "cdx_digest_verified": true,
+    "cdx_digest": "ADSSUZLMYMFMELMWJNJ647VP6D42ETH5",
+    "recovery_note": "Original 1997 reading; services inactive. Images: same-period mirrors.",
+    "image_alternatives": [
+      {
+        "original": "http://www.cems.umn.edu/~misra/gitapic.jpg",
+        "destination": "odiya/gifs/gitapic.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "c2b61ee1f339a8833fa9fb5119b76107179541b4a8ab26a3a4fdefef0387bfe2"
+      },
+      {
+        "original": "http://www.cems.umn.edu/~misra/gitashloka.gif",
+        "destination": "odiya/gifs/gitashloka.gif",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "8a2d8565f0e4d4feea9966d45b65296c0b388fa94fa175695ab4c4ff35299061"
+      },
+      {
+        "original": "http://www.cems.umn.edu/~misra/vishnu.jpg",
+        "destination": "odiya/gifs/vishnu.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "0ae0e3499ea9b961012e11e8dfed901310a2f43549a8feb5df6aa1019f0252dc"
+      }
+    ],
+    "local_source": "odiya/captures/minnesota-1997/personality.html",
+    "local_edition_sha256": "355e6c85d27a3d863138719801da5141b7505287664d50f3d69e609bdbf120ab"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/perslink/gkh.html",
+    "source": "restoration/qa/odiya-minnesota-readings/raw/19970207210147-f7b6f983d116.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/perslink/gkh.shtml",
+    "capture": "19970207210147",
+    "input_sha256": "515d553d64d1bc3993d22271bdb0463c758a2de64a0ddb124a3a27d730941f7a",
+    "output_sha256": "9a04f3f52c469f4f7c9de872b948f107e0a182a630b5041f344c0f5cc6adc939",
+    "cdx_digest_verified": true,
+    "cdx_digest": "F7WIXXEPUTQZ6LOUR4DS67SMK3LYYWV6",
+    "recovery_note": "Original 1997 reading; services inactive. Images: same-period mirrors.",
+    "image_alternatives": [
+      {
+        "original": "http://www.cems.umn.edu/~misra/tig1.jpg",
+        "destination": "odiya/gifs/tig1.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "c06a60e1f14cfcfe7d8e23abe8601419970cb05e05bcbe2efe7eaa626ba52480"
+      }
+    ],
+    "local_source": "odiya/captures/minnesota-1997/perslink/gkh.html",
+    "local_edition_sha256": "8dd55dc6d6802d00b6920b5813ca7877736e4e0c8b2e058a16e8448abfe6754e"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/captures/minnesota-1997/perslink/manojdas.html",
+    "source": "restoration/qa/odiya-minnesota-readings/raw/19970207210116-7b5e9e4664ba.shtml",
+    "original_url": "http://www.arc.umn.edu:80/~misra/perslink/manojdas.shtml",
+    "capture": "19970207210116",
+    "input_sha256": "fbbf3a1f05cb36f6b6b1685a114b8369de85e83995fdd8b3b5a2e21f2d4ec44d",
+    "output_sha256": "df8869a5bed8a3b0386fc6ab36766eff7c075da80156112bb01cc75ba6c54cb7",
+    "cdx_digest_verified": true,
+    "cdx_digest": "EVDE4VAJVOZMC6J26DYL7HKJOHY2LRQF",
+    "recovery_note": "Original 1997 reading; services inactive. Images: same-period mirrors.",
+    "image_alternatives": [
+      {
+        "original": "http://www.cems.umn.edu/~misra/tig1.jpg",
+        "destination": "odiya/gifs/tig1.jpg",
+        "confidence_note": "same-author 1997 mirror; original CEMS response unavailable",
+        "sha256": "c06a60e1f14cfcfe7d8e23abe8601419970cb05e05bcbe2efe7eaa626ba52480"
+      }
+    ],
+    "local_source": "odiya/captures/minnesota-1997/perslink/manojdas.html",
+    "local_edition_sha256": "ae8f91e59f030d6960e4358c1c24a79b7f8d294d2e9bf8fa6ee37421aa2593b4"
   }
 ]
