@@ -11989,11 +11989,28 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "d5173b022570d3b1239adf26135c19759c4e84d4842879e1fabacbb8ba65b641",
+    "output_sha256": "2c4ddf04121cb6858fc36e901003bd8e6f6177097b6b9bd65d342cedf44982ab",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/convention/2005/html/headcount.html",
-    "local_edition_sha256": "b4d32c6d0e99423e8172f8c7ec691ce1f730a3f17203ba24d28e33bfd6b2f4d7",
-    "inner_page_restoration": "Original image rollovers restored."
+    "local_edition_sha256": "9d0aa28920fe05189eaf29ddb445893fc750946194d182dba997c232198f4258",
+    "inner_page_restoration": "Original image rollovers restored.",
+    "verified_historical_aliases": [
+      {
+        "timestamp": "20051218095051",
+        "original": "http://www.odiya.org:80/convention/2005/html/headcount.html",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "KOGTE2UJSSRQ754KEJIXLHU5LUTOGHWZ",
+        "length": "4261",
+        "status": 200,
+        "replay_url": "https://web.archive.org/web/20051218095051id_/http://www.odiya.org:80/convention/2005/html/headcount.html",
+        "file": "restoration/qa/odiya-path-repairs/raw/20051218095051-36c49696d3fa.html",
+        "sha256": "1bfb56178f74f459f5dc3712ad3a6fc49100d9aff56cd4b3b419594be5addc51",
+        "actual_digest": "KOGTE2UJSSRQ754KEJIXLHU5LUTOGHWZ",
+        "cdx_digest_verified": true,
+        "bytes": 23184
+      }
+    ]
   },
   {
     "kind": "page",
@@ -12176,10 +12193,10 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "1b61ff30e9be949cf391f5b94f5cb888576b3dd8e7e180ab3628ffde338387f3",
+    "output_sha256": "6139e0f99f27162f5998d7075b06a1cb4c77f2b4173a85bde40b031e2cfa2f2c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/convention/2005/html/registration-orig.html",
-    "local_edition_sha256": "a10a727bd5cf1d9fe148cee374b7ba476b02e1357bee89fa2559d5594fe3d13c",
+    "local_edition_sha256": "7267a2f754afeee1066ff6827c352fe0372da3a90909e8c07453dbd2fa9c2bba",
     "inner_page_restoration": "Original image rollovers restored.",
     "voice_header_recovery": {
       "date": "2026-11-22",
@@ -12195,7 +12212,30 @@
           ]
         }
       ]
-    }
+    },
+    "historical_path_repairs": [
+      {
+        "page": "odiya/convention/2005/html/registration-orig.html",
+        "original": "http://odiya.org/convention/2005/html/headcound.html",
+        "destination": "odiya/convention/2005/html/headcount.html",
+        "fragment": "",
+        "evidence_kind": "Corrected historical filename typo; intended Head Count page independently verified against the 2005 capture and backup."
+      },
+      {
+        "page": "odiya/convention/2005/html/registration-orig.html",
+        "original": "http://odiya.org/convention/2005/html/headcound.html",
+        "destination": "odiya/convention/2005/html/headcount.html",
+        "fragment": "",
+        "evidence_kind": "Corrected historical filename typo; intended Head Count page independently verified against the 2005 capture and backup."
+      },
+      {
+        "page": "odiya/convention/2005/html/registration-orig.html",
+        "original": "http://odiya.org/convention/2005/html/headcound.html",
+        "destination": "odiya/convention/2005/html/headcount.html",
+        "fragment": "",
+        "evidence_kind": "Corrected historical filename typo; intended Head Count page independently verified against the 2005 capture and backup."
+      }
+    ]
   },
   {
     "kind": "page",
@@ -12257,10 +12297,10 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "324d751364e4e14203170c3b7cbe9eb26fc390735cd1268574d5dcdf1e034be0",
+    "output_sha256": "52a5d61689c16aa4ba386758f451da511962dea2d0e90491645e0a83fe9d3ae3",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/convention/2005/index-orig.html",
-    "local_edition_sha256": "01aa05bcedc6a38c97bfe8d6ea7386e42e276d2fd3b399999d3f7c3766f5ba34",
+    "local_edition_sha256": "a00c099b9bf3d2881ed4851d1aadc826824e577d5454dd23e8a49dd171e0461b",
     "inner_page_restoration": "Original image rollovers restored.",
     "voice_header_recovery": {
       "date": "2026-11-22",
@@ -12276,7 +12316,16 @@
           ]
         }
       ]
-    }
+    },
+    "historical_path_repairs": [
+      {
+        "page": "odiya/convention/2005/index-orig.html",
+        "original": "http://odiya.org/convention/2005/html/headcound.html",
+        "destination": "odiya/convention/2005/html/headcount.html",
+        "fragment": "",
+        "evidence_kind": "Corrected historical filename typo; intended Head Count page independently verified against the 2005 capture and backup."
+      }
+    ]
   },
   {
     "kind": "page",
@@ -38467,12 +38516,12 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/orissa1.html",
     "capture": "20030117074232",
     "input_sha256": "722daaf640dbf885aae853c32f7ddf406a770291adc8b46881feb2d732bc74cc",
-    "output_sha256": "1bf3a7c984630049910b0d11ee4395cf8751d3f284b57ea66b7b7d7d4b7fb771",
+    "output_sha256": "fa6dbfe379e60fa10ad9ac9ab5fddfd60bd3b272971aae511a8cad9876e8830c",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/orissa1.html",
-    "local_edition_sha256": "d700a7a7390ddcc77ec99e56f8d4762e46ddc1a0f601dfab53e2a8b884948c78",
+    "local_edition_sha256": "3a91ada5367ed851047ddf17b8e41fee5d6687530b43b276bf4308d39a2fe44e",
     "shared_art_recovery": [
       {
         "page": "odiya/orissa/handicrafts/orissa1.html",
@@ -38517,7 +38566,436 @@
         }
       ],
       "images": []
-    }
+    },
+    "historical_path_repairs": [
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/lingaraj.html",
+        "destination": "odiya/orissa/lingaraj.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/bbsr.html",
+        "destination": "odiya/orissa/bbsr.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/parks.jpg",
+        "destination": "odiya/orissa/parks.jpg",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/bbsr.html",
+        "destination": "odiya/orissa/bbsr.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tiger.jpg",
+        "destination": "odiya/orissa/tiger.jpg",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/bbsr.html",
+        "destination": "odiya/orissa/bbsr.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/dhauli.jpg",
+        "destination": "odiya/orissa/dhauli.jpg",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/jag.jpg",
+        "destination": "odiya/orissa/jag.jpg",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tribals.html",
+        "destination": "odiya/captures/texas-orissa/tribals.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/bbsr.html",
+        "destination": "odiya/orissa/bbsr.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/st.html",
+        "destination": "odiya/captures/texas-orissa/st.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/dhauli.jpg",
+        "destination": "odiya/orissa/dhauli.jpg",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#balan-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "balan-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#balas-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "balas-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#cut-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "cut-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#dhe-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "dhe-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#gaj-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "gaj-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#gan-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "gan-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#kal-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "kal-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#keo-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "keo-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#kor-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "kor-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#mal-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "mal-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#may-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "may-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#naw-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "naw-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#phu-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "phu-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#pur-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "pur-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#ray-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "ray-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#sam-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "sam-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/tours.html#sun-tour",
+        "destination": "odiya/captures/texas-orissa/tours.html",
+        "fragment": "sun-tour",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/education.html#bbsr-ed",
+        "destination": "odiya/orissa/education.html",
+        "fragment": "bbsr-ed",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/education.html#cut-ed",
+        "destination": "odiya/orissa/education.html",
+        "fragment": "cut-ed",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/education.html#pur-ed",
+        "destination": "odiya/orissa/education.html",
+        "fragment": "pur-ed",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/education.html#rou-ed",
+        "destination": "odiya/orissa/education.html",
+        "fragment": "rou-ed",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/education.html#bur-ed",
+        "destination": "odiya/orissa/education.html",
+        "fragment": "bur-ed",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/education.html#ber-ed",
+        "destination": "odiya/orissa/education.html",
+        "fragment": "ber-ed",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/education.html#sar-ed",
+        "destination": "odiya/orissa/education.html",
+        "fragment": "sar-ed",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/education.html#other-ed",
+        "destination": "odiya/orissa/education.html",
+        "fragment": "other-ed",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/refs.html",
+        "destination": "odiya/orissa/refs.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/credits.html",
+        "destination": "odiya/captures/texas-orissa/credits.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/copyright.html",
+        "destination": "odiya/captures/texas-orissa/copyright.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/disclaimer.html",
+        "destination": "odiya/captures/texas-orissa/disclaimer.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      },
+      {
+        "page": "odiya/orissa/handicrafts/orissa1.html",
+        "original": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/websites.html",
+        "destination": "odiya/captures/texas-orissa/websites.html",
+        "fragment": "",
+        "evidence_kind": "Matching relative link in original Texas collection; inferred correction of copied-folder path. Exact Columbia destination capture unavailable."
+      }
+    ]
   },
   {
     "kind": "page",
