@@ -1,0 +1,502 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Original Dgclock Java source | Restored archive</title><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#x27;none&#x27;; img-src &#x27;self&#x27; data:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27;; font-src &#x27;self&#x27;; media-src &#x27;self&#x27;; script-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;; require-trusted-types-for &#x27;script&#x27;"><link rel="stylesheet" href="../../../_community-support/local-archive-footer.css"><style>pre{max-width:100%;overflow-x:auto;tab-size:8}</style></head><body><main><pre tabindex="0" role="region" aria-label="Original archival text"><span></span><code>import java.util.*;
+import java.awt.*;
+import java.applet.*;
+
+//////////////////////////////////////////////////////////
+// Description: a simple digital clock in Java (1.0 applet)
+// Author: Muhammad A Muquit
+// Classification: unclassified
+// email: muquit@semcor.com
+// URL: http://www.semcor.com/~muqit/
+//
+// 12/05/1995           lets play with Java
+// 01/29/96             some clean up
+// 02/13/96             added ornamental frame
+//                      added 24 hr time format (TimeFormat)
+// 02/15/96             GMT+-hhmm to display time of any place (TZ)
+//                      date (ShowDate)
+// 03/13/96             using MediaTrcaker to stop incremental display
+//                      Suggested by Jim Graham
+// 03/16/96             display clock without frame.
+//                      shows version info while mouse is moved on the appl.
+//                      stop clock by clicking mouse
+// Copyright:
+// This program is in the public domain. Do anything you like with it.
+// It would be nice if you give me credit for it tho.
+//////////////////////////////////////////////////////////
+
+/*
+
+Example of calling convention:
+
+The default 24 hr format:
+
+&lt;applet code=&quot;Dgclock.class&quot; width=100 height=30&gt;&lt;/applet&gt;
+
+To display time in 12 hr format:
+
+&lt;applet code=&quot;Dgclock.class&quot; width=100 height=30&gt;
+&lt;param name=&quot;TimeFormat&quot; value=&quot;%I&quot;&gt;
+&lt;/applet&gt;
+
+To display NewYork time:
+
+&lt;applet code=&quot;Dgclock.class&quot; width=100 height=30&gt;
+&lt;param name=&quot;TZ&quot; value=&quot;GMT-0500&quot;&gt;
+&lt;/applet&gt;
+
+12 or 24 hr format
+&lt;param name=&quot;TimeFormat&quot; value=&quot;%H&quot;&gt;    (24 hr format - default)
+&lt;param name=&quot;TimeFormat&quot; value=&quot;%I&quot;&gt;    (12 hr format)
+
+the format for value is GMT+-hhmm, for example
+
+&lt;param name=&quot;TZ&quot; value=&quot;GMT+0600&quot;&gt;    (6 hours west of Greenwich meridian)
+&lt;param name=&quot;TZ&quot; value=&quot;GMT+0430&quot;&gt;    (4 hours, 30 minutes
+                                      west of Greenwich meridian)
+&lt;param name=&quot;TZ&quot; value=&quot;GMT+0000&quot;&gt;    (Greenwich)
+&lt;param name=&quot;TZ&quot; value=&quot;GMT-0500&quot;&gt;    (5 hours east of Greenwich meridian)
+
+&lt;param name=&quot;ShowDate&quot; value=&quot;yes&quot;&gt;   (show date with time)
+&lt;param name=&quot;ShowDate&quot; value=&quot;no&quot;&gt;   (don&#x27;t show date - default)
+
+&lt;applet code=&quot;Dgclock.class&quot; width=89 height=20&gt;
+&lt;param name=&quot;ShowFrame&quot; value=&quot;no&quot;&gt;   (do not wrap clock with frame)
+
+&lt;param name=&quot;ShowVersion&quot; value=&quot;no&quot;&gt; (do not show version info when the
+                                       mouse cursor is moved on the applet)
+
+*/
+
+public class Dgclock extends Applet implements Runnable
+{
+    MediaTracker
+        tracker;
+
+    Thread
+        timer=null;
+
+    boolean
+        suspended=false;
+
+    Image[]
+        simage=new Image[10],
+        image=new Image[11];
+
+    Image
+        frame_image,
+        buf_image;
+
+    Graphics
+        gc;
+
+    int
+        bdigit_width=15;
+
+    int
+        sdigit_width=7;
+    int
+        sdigit_height=9;
+
+    int
+        base_width=100;
+
+    int
+        base_height=30;
+
+    int
+        offset=4;
+
+    String
+        TimeFormat=&quot;%H&quot;;
+
+    long
+        TimeDiff=0L;
+
+    boolean
+        ShowDate=false;
+    boolean
+        ShowStatus=true;
+
+    int checkTZ(String TZ)
+    {
+       int
+          d;
+
+       int
+            hr,
+            min;
+                 
+       int   
+            counter=0;
+
+       int diff=0; 
+     
+       hr=0;
+       min=0;
+       if (TZ != null)
+       { 
+            int length=TZ.length();
+            if (length == 8)
+            {
+                //Print(&quot;Length= &quot; + length);
+                int c=TZ.charAt(3);
+                if ((c == &#x27;-&#x27;) || (c == &#x27;+&#x27;))
+                {
+                    String tzval=TZ.substring(4,8);
+                    //Print(&quot;TZ value= &quot; + tzval);
+             
+                    for (int i=0; i &lt; tzval.length(); i++)
+                    {
+                        d=tzval.charAt(i);
+         
+                        if ( (d &gt;= &#x27;0&#x27;) &amp;&amp; d &lt;= &#x27;9&#x27;)
+                        {
+                            if (counter &lt; 2)  
+                                hr=hr*10+(d-&#x27;0&#x27;);
+                            else  
+                                min=min*10+(d-&#x27;0&#x27;);
+                            counter++;
+                        }
+                    }
+                    //Print(&quot;Hour: &quot; + hr + &quot; Min: &quot; + min);
+                    diff=(hr*60)+min;
+                    if (c == &#x27;-&#x27;)
+                        diff=(-diff);
+                }
+            }
+       }
+
+       return diff;
+    }  
+
+    public void init()
+    {
+        int
+            x,
+            y;
+
+        // check if TimeFormat is supplied
+        TimeFormat=getParameter(&quot;TimeFormat&quot;);
+        if (TimeFormat != null)
+        {
+            if  ((!TimeFormat.equals(&quot;%I&quot;)) &amp;&amp; (!TimeFormat.equals(&quot;%H&quot;)))
+                TimeFormat=&quot;%H&quot;;
+        }
+        else
+            TimeFormat=&quot;%H&quot;;
+
+        String gp=getParameter(&quot;ShowDate&quot;);
+        if (gp != null)
+        {
+            if (gp.equals(&quot;yes&quot;))
+                ShowDate=true;
+        }
+
+        gp=getParameter(&quot;ShowVersion&quot;);
+        if (gp != null)
+        {
+            if (gp.equals(&quot;no&quot;))
+                ShowStatus=false;
+        }
+
+        // check if frame need to be displayed
+        gp=getParameter(&quot;ShowFrame&quot;);
+        if (gp != null)
+        {
+            if (gp.equals(&quot;no&quot;))
+            {
+                offset=0;
+                base_width=89;
+                base_height=20;
+            }
+        }     
+
+        //Print(&quot;TImeForamt= &quot; + TimeFormat);
+
+        tracker=new MediaTracker(this);
+        if (offset == 4)
+        {
+            frame_image=getImage(getCodeBase(),&quot;jimages/frame.gif&quot;);
+            tracker.addImage(frame_image,0);
+        }
+
+        for (int i=0; i &lt;= 10; i++)
+        {
+            image[i]=getImage(getCodeBase(),&quot;jimages/h&quot; + i + &quot;.gif&quot;);
+            tracker.addImage(image[i],0);
+        }
+
+        // load the sec images
+        for (int i=0; i &lt;= 9; i++)
+        {
+            simage[i]=getImage(getCodeBase(),&quot;jimages/s&quot; + i + &quot;.gif&quot;);
+            tracker.addImage(image[i],0);
+        }
+
+        // check for TZ
+        int
+            diff=0;
+        String timezone=getParameter(&quot;TZ&quot;);
+        if (timezone != null)
+        {
+            if (timezone.equals(&quot;LOCAL&quot;))
+                TimeDiff=0L;
+            else
+            {
+                Date date=new Date();
+                diff=checkTZ(timezone);
+                TimeDiff=((long) date.getTimezoneOffset())*60000+diff*60000;
+            }
+
+        }
+
+        try
+        {
+            buf_image=createImage(base_width,base_height);
+            gc=buf_image.getGraphics();
+        } catch (Exception e) gc=null;
+    }
+    
+    public void start()
+    {
+        if (timer == null)
+        {
+            timer=new Thread(this, &quot;Dgclock&quot;);
+            timer.start();
+        }
+    }
+
+    public void run()
+    {
+        while (timer != null)
+        {
+            try
+            {
+               timer.sleep(1000);
+            }catch (InterruptedException e)
+             {
+                break;
+             }
+            repaint();
+        }
+        timer=null;
+    }
+    
+    public void paintApplet(Graphics g)
+    {
+        int
+            i,
+            j,
+            k;
+
+        Date
+            now=new Date();
+
+        int
+            hour,
+            minute,
+            second;
+
+        String
+            hr,
+            min,
+            sec,
+            today;
+
+        if (TimeDiff != 0L)
+        {
+            now.setTime(now.getTime()+TimeDiff);
+        }
+        hr=formatDate(TimeFormat,now);
+        min=formatDate(&quot;%M&quot;,now);
+        sec=formatDate(&quot;%S&quot;,now);
+
+        if (ShowDate == true)
+        {
+            today=formatDate(&quot;%d&quot;,now);
+        }
+        else
+            today=&quot;&quot;;
+
+
+        // draw the frame
+        if (offset == 4)
+            g.drawImage(frame_image,0,0,this);
+        
+        // draw the hour digit images
+        for (i=0; i &lt;hr.length(); i++)
+        {
+            g.drawImage(image[hr.charAt(i)-&#x27;0&#x27;],(i*bdigit_width)+
+                offset,offset,this);
+        }
+
+        // draw the colon image
+        g.drawImage(image[10],(i*bdigit_width)+offset,offset,this);
+        i++;
+
+        // draw the minute digit images
+        for (j=0; j &lt; min.length(); j++)
+        {
+            g.drawImage(image[min.charAt(j)-&#x27;0&#x27;],(i*bdigit_width)+
+                offset,offset,this);
+            i++;
+        }
+
+        // draw the second digit images
+        for (j=0; j &lt; sec.length(); j++)
+        {
+            g.drawImage(simage[sec.charAt(j)-&#x27;0&#x27;],(i*bdigit_width)+
+                (j*sdigit_width)+offset,offset,this);
+        }
+
+        if (ShowDate == true)
+        {
+            for(k=0; k &lt; today.length(); k++)
+            {
+                g.drawImage(simage[today.charAt(k)-&#x27;0&#x27;],
+                    (i*bdigit_width)+(k*sdigit_width)+offset,
+                        (offset+sdigit_height+1), this);
+            }
+        }
+    }
+
+    public void update(Graphics g)
+    {
+        if (tracker.statusID(0,true) == MediaTracker.COMPLETE)
+        {
+            if (buf_image != null)
+            {
+                if (offset == 0)
+                {
+                    gc.setColor(Color.black);
+                    gc.fillRect(0,0,base_width,base_height);
+                }
+                paintApplet(gc);
+                g.drawImage(buf_image,0,0,this);
+            }
+            else
+            {
+                g.clearRect(0,0,base_width,base_height);
+                paintApplet(g);
+            }
+        }
+    }
+// Left Pad a number
+// taken from Clock2 by Per Reedtz Thomsen/Rachel Gollub
+private String padElement(int expr, char padChar)
+{
+  String result = &quot;&quot;;
+  // I&#x27;m just padding 2 digit numbers
+  if (expr &lt; 10) result = result.concat(String.valueOf(padChar));
+  result = result.concat(String.valueOf(expr));
+  return(result);  
+}
+
+// Format a date according to the formatting string.
+// taken from Clock2 by Per Reedtz Thomsen/Rachel Gollub
+private String formatDate(String fmt, Date d)
+{
+  String formattedDate = &quot;&quot;;
+      
+  // Retrieve the specific date information
+  int hour = d.getHours();
+  int minute = d.getMinutes();
+  int second = d.getSeconds();
+  int monthDay = d.getDate();
+        
+  int US_Hour = hour &lt; 13 ? hour : hour - 12;
+      
+  // Loop through the format string
+  for(int i = 0; i &lt; fmt.length(); i++)
+  {
+    if (fmt.charAt(i) == &#x27;%&#x27;) // We&#x27;ve hit a formatting command...
+    {
+      i++; // Move past the &#x27;%&#x27; sign
+      // Figure out the format.
+      switch (fmt.charAt(i))
+      {
+      case &#x27;H&#x27;: // Hour -- 00 to 23
+        formattedDate = formattedDate.concat(padElement(hour, &#x27;0&#x27;));
+        break;
+      case &#x27;I&#x27;: // Hour -- 01 to 12
+        formattedDate = formattedDate.concat(padElement(US_Hour, &#x27;0&#x27;));
+        //formattedDate=formattedDate.concat(String.valueOf(US_Hour));
+        break;
+      case &#x27;M&#x27;: // Minutes -- 00 to 59
+        formattedDate = formattedDate.concat(padElement(minute, &#x27;0&#x27;));
+        break;
+      case &#x27;d&#x27;: // 2 digit month number
+        formattedDate = formattedDate.concat(padElement(monthDay, &#x27;0&#x27;));
+        break;
+      case &#x27;S&#x27;: // Second -- 00 to 61 (leap seconds)
+        formattedDate = formattedDate.concat(padElement(second, &#x27;0&#x27;));
+        break;
+      default:
+        formattedDate = formattedDate.concat(&quot;??&quot;);
+        break;
+      }
+    }
+    else // A regular character
+    {
+      formattedDate = formattedDate.concat(String.valueOf(fmt.charAt(i)));
+    }
+  } // end for
+
+  return(formattedDate);
+}
+
+    public void stop()
+    {
+        timer.stop();
+        timer=null;
+    }
+
+    public boolean handleEvent(Event evt)
+    {
+        switch(evt.id)
+        {
+            case Event.MOUSE_DOWN:
+            {
+                if (suspended)
+                {
+                    timer.resume();
+                }
+                else
+                {
+                    //Print (&quot;Suspending..&quot;);
+                    timer.suspend();
+                }
+                suspended = !suspended;
+                break;
+            }
+            
+            case Event.MOUSE_MOVE:
+            {
+                if (tracker.statusID(0,true) != MediaTracker.COMPLETE)
+                {
+                    showStatus(&quot;Loading images...please wait!&quot;);
+                }
+                else
+                {
+                    if (suspended == false)
+                    {
+                    if (ShowStatus == true)
+                    showStatus(&quot;Dgclock 2.1 by muquit@semcor.com&quot;);
+                    }
+                }
+                break;
+            }
+        }
+        return true;
+    }
+
+    /*
+    public void Print(String str)
+    {
+        System.out.println(str);
+    }
+    */
+
+}
+</code></pre></main><footer class="archive-footer"><nav aria-label="Archive navigation"><a href="../../index.html">Home</a><a href="../../guide.html">Pages</a><a href="../files/Dgclock.java" download>Original file</a><details class="archive-page-notes"><summary>Source notes</summary><div class="page-notes-content"><p>Original: http://odiya.org/orissa/Dgclock.java<br>Original Java source shown as text; not executed.</p><p><a href="../../provenance.json">Source record</a></p></div></details></nav><p>Historical archive · Read only</p></footer></body></html>

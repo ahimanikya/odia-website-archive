@@ -25969,10 +25969,18 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "5bdc8c5685f015b03810932811f7a1fe239ab3b66095dfe2ffa2667dd69f44fe",
+    "output_sha256": "c874d7408ec1532346567b8b612c9f00d3a8d5e5892957ac638456c107119417",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/Dgclock.html",
-    "local_edition_sha256": "9afc03a672a60ed0ac39779321174782fc2cd4032db135599db04b140e83cde1"
+    "local_edition_sha256": "2e79366f9ce1a4d8cb052e13b7ff3955b721e1beac719588b09c2b2c683f0a63",
+    "mounted_backup_link_repairs": [
+      {
+        "page": "odiya/orissa/Dgclock.html",
+        "original": "http://odiya.org/orissa/Dgclock.java",
+        "destination": "odiya/orissa/readings/Dgclock-source.html",
+        "evidence": "Exact saved backup address."
+      }
+    ]
   },
   {
     "kind": "page",
@@ -27423,10 +27431,10 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "dbd1f6056d4ed542463e21e0011c1f09748b12755c2aa5898cf8c8279dc1b35e",
+    "output_sha256": "d9fbc13fcc4c315cf06c647c2eb76c4b33de69b69eee576f6b80eb5cb54f7754",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/old/index-100295.html",
-    "local_edition_sha256": "93505d55d304ce70af574f25693b53d615ac61772f109ec8d3cc4a51d39278e9",
+    "local_edition_sha256": "fa26e6110c08caf6bef9a24850f235ef192ed599dbf5e5afdb798eb8e281d0ba",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
     "shared_art_recovery": [
       {
@@ -27457,6 +27465,14 @@
         "destination": "odiya/captures/texas-community/index.html",
         "fragment": ""
       }
+    ],
+    "mounted_backup_link_repairs": [
+      {
+        "page": "odiya/orissa/old/index-100295.html",
+        "original": "http://odiya.org/orissa/old/orissa.stats",
+        "destination": "odiya/orissa/readings/orissa-statistics.html",
+        "evidence": "Surviving sibling statistics file; old-folder copy not recovered."
+      }
     ]
   },
   {
@@ -27470,10 +27486,10 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "a0f33d78ae34fad09250f3304b83b95d185efb793594ff2a5c3610d028a683e1",
+    "output_sha256": "9fe2c5f389864e13ce971864e75b19afda874bcf5733daf43c7042810f7aa13a",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/old/orissa0994.html",
-    "local_edition_sha256": "4038c529551ec744debdad77df636a6d225093036f08ad62e074f7ee6725749e",
+    "local_edition_sha256": "30a4ba449f3b7467f08065b3863208e559c53fd1062f69096afbf94bf7e4ba77",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
     "community_link_recovery": [
       {
@@ -27487,6 +27503,14 @@
         "original": "http://www.cs.utexas.edu/users/darshan/",
         "destination": "odiya/captures/texas-community/index.html",
         "fragment": ""
+      }
+    ],
+    "mounted_backup_link_repairs": [
+      {
+        "page": "odiya/orissa/old/orissa0994.html",
+        "original": "http://odiya.org/orissa/old/orissa.stats",
+        "destination": "odiya/orissa/readings/orissa-statistics.html",
+        "evidence": "Surviving sibling statistics file; old-folder copy not recovered."
       }
     ]
   },
@@ -27501,10 +27525,10 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "80611de978ac3feecd19bf983dd210e84f8e02dbb6bee923a5c40c381f4a10a9",
+    "output_sha256": "526e79d533ff0910a3a8b35fab66a5e521bba5c50a71d65ff25c0bd28dc4625f",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/old/orissa101694.html",
-    "local_edition_sha256": "4c96269b4c0c1ee14a1cc72ebf560b88fcb4cd626b92033bfb09c7fa9563c2ae",
+    "local_edition_sha256": "7fb95a6b6fd085681c8e0e680cb0f1be8633d6b579e29c2c0cf9b0c488985f83",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
     "community_link_recovery": [
       {
@@ -27519,6 +27543,14 @@
         "destination": "odiya/captures/texas-community/index.html",
         "fragment": ""
       }
+    ],
+    "mounted_backup_link_repairs": [
+      {
+        "page": "odiya/orissa/old/orissa101694.html",
+        "original": "http://odiya.org/orissa/old/orissa.stats",
+        "destination": "odiya/orissa/readings/orissa-statistics.html",
+        "evidence": "Surviving sibling statistics file; old-folder copy not recovered."
+      }
     ]
   },
   {
@@ -27532,10 +27564,10 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "c956918ca34c57a2710c57b6e36ac9a58613410bd04ec14166cb4767ff318319",
+    "output_sha256": "fc41cd6f1bfe52ea15ccbc756fede4c49c8ae668671ac1f6924f30a15f2b5bab",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/orissa/old/orissa1094.html",
-    "local_edition_sha256": "ecf61a02a953c94709a990be8dc62eaa41adbfca8fe10603158b8d95406c27fa",
+    "local_edition_sha256": "c7a2fb18310d956c78334d282700712c800c8f0ba93dd879da667cb6c8be6c21",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
     "community_link_recovery": [
       {
@@ -27549,6 +27581,14 @@
         "original": "http://www.cs.utexas.edu/users/darshan/",
         "destination": "odiya/captures/texas-community/index.html",
         "fragment": ""
+      }
+    ],
+    "mounted_backup_link_repairs": [
+      {
+        "page": "odiya/orissa/old/orissa1094.html",
+        "original": "http://odiya.org/orissa/old/orissa.stats",
+        "destination": "odiya/orissa/readings/orissa-statistics.html",
+        "evidence": "Surviving sibling statistics file; old-folder copy not recovered."
       }
     ]
   },
@@ -35608,12 +35648,20 @@
     "original_url": "http://www.odiya.org:80/odonline/index.shtml",
     "capture": "20010202151100",
     "input_sha256": "e9c14123e21fb9f1c7d8bd8319a49b56ae36124a0fedef9044f089502d201d00",
-    "output_sha256": "6100080e481006f71f395148ab89e9f710f421033c9aa4d9dd0370a47eb1d76a",
+    "output_sha256": "a60e0ffdea0b1888085808388991e5c556fb68a1875c9c94043475c7568de366",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; historical online services remain inactive.",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
     "local_source": "odiya/odonline/index.html",
-    "local_edition_sha256": "823ae6fee1cc475eab8e8142a4342c63045de0051c797c56b861b543d84c1e86"
+    "local_edition_sha256": "adcfd8b4a0ca75008411f017f21d85d2d0efbe1023469c2f2e9bf51e35422298",
+    "mounted_backup_link_repairs": [
+      {
+        "page": "odiya/odonline/index.html",
+        "original": "http://www.odiya.org:80/odonline/wwwboard/index.html",
+        "destination": "odiya/odonline/wwwboard/index.html",
+        "evidence": "Exact saved backup address."
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -45009,5 +45057,356 @@
     "recovery_note": "Generated notice, not an original historical page.",
     "local_source": "odiya/unavailable/85e3962eb4e522.html",
     "local_edition_sha256": "b30a5fdfe75eb05aa7e2b0c1e442736044fa4c53b380ecf4084f818bb75e45d6"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/orissa/readings/Dgclock-source.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/orissa/Dgclock.java",
+    "original_url": "http://odiya.org/orissa/Dgclock.java",
+    "input_sha256": "9d0060dc611e27b4da7dd166b8b998a9a864b2a804412bad686547fcbaff1d3b",
+    "output_sha256": "d0532e5abc5d2c479e0603de5b5c769b89f90f3a7e6b5a8cd34f805289802560",
+    "recovery_note": "Original Java source shown as text; not executed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/orissa/Dgclock.java",
+    "second_copy_matches": true,
+    "local_source": "odiya/orissa/readings/Dgclock-source.html",
+    "local_edition_sha256": "df29958658f7de43104c8322d9b1917e12dbfd4f0412f1a10027e35679837f72"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/64f11367c76dbc.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://worldwidemart.com/scripts/",
+    "output_sha256": "4978ec65aa9446e8fa531773bbeb2b8e5a4f669a11463547fe343ecd48584759",
+    "recovery_note": "Generated notice; not original content.",
+    "local_source": "odiya/unavailable/64f11367c76dbc.html",
+    "local_edition_sha256": "55739522bc11e71f8508291eee1a426c05de6013518ef076113a323f55bb9c4a"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/faq.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/faq.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/faq.html",
+    "input_sha256": "04603fab9447e3a52fcd085e626bfd6d76879ce61704c4488d45fd6e1ce837c7",
+    "output_sha256": "6c2168198f32bf62ce8e058b075aff3f62382c359b49057a3a1cf9be02e901f0",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/faq.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/faq.html",
+    "local_edition_sha256": "160e07838564679fb66022ab65de1be9e82756be0309ba4dd3338eae2c94565d"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/371.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/371.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/371.html",
+    "input_sha256": "f3f6279def2db4c0b4d9542ca683f5f070099d634d90df8f8cdceb0e7e3c058e",
+    "output_sha256": "ea6e4c4d8791c9c402458f7320f65e078afd18e09d119d94713805985f2b4e0a",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/371.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/371.html",
+    "local_edition_sha256": "343a9efb57baf80c2dcd1dd160721965f52754273a54436f3a7473792277bf58"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/369.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/369.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/369.html",
+    "input_sha256": "812a2b0105f8d460428c9f988e58b1a1b8ec1fe7ac43980c5eb957d48c4278a9",
+    "output_sha256": "c7552132e24ef51ca812727e8b46295a9f19b27c7a30a22c929920aeea668141",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/369.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/369.html",
+    "local_edition_sha256": "72785675e1e29d767da6d1b4a4ae15bd30d1eb89260998683e6b6bd7360359f4"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/364.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/364.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/364.html",
+    "input_sha256": "526dd57d5ecdf0c692084884dc81c8bc0b9e708daea3d1245b02ddb1fa90e174",
+    "output_sha256": "2395aaa10e0fb162b1ce9c68fd989d4fbdf325c27c5f9b6333fcbbaf8c1f94ce",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/364.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/364.html",
+    "local_edition_sha256": "941c8bdece1f1e4cea6a347453fe675257ac799bc0d1124f3c4f13c9609294c7"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/1df9c570c62631.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/376.html",
+    "output_sha256": "3f8e488f43ba2e5dbe0b0361e0aa813b07e335b340587d4d8bd6422ced31ca61",
+    "recovery_note": "Generated notice; not original content.",
+    "local_source": "odiya/unavailable/1df9c570c62631.html",
+    "local_edition_sha256": "8125718cbd693b3245174cc72d836d055ce5fd865f4ab78374522259634c81ef"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/335.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/335.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/335.html",
+    "input_sha256": "c9f9564d595061b83bef1a06aa2f0c3c323d48e2c37567b62f4239a8b77f19f2",
+    "output_sha256": "3494dc0033114ee36d07e873b264d012ec934164da4e47f270f536e23ded7b2a",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/335.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/335.html",
+    "local_edition_sha256": "579d5f9f8aa40dbea84ed756d4d13a8e45e9c37e654f7524e9990fd9604db1d8"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/unavailable/b8eb3c358fe57f.html",
+    "source": "Restoration gap notice",
+    "original_url": "http://alpha.pr1.k12.co.us/~mattw/home.html",
+    "output_sha256": "9152c309ba767f6526bbe3fafb2d11fadcbb0ad6a898691d18b61bed2d1d8a70",
+    "recovery_note": "Generated notice; not original content.",
+    "local_source": "odiya/unavailable/b8eb3c358fe57f.html",
+    "local_edition_sha256": "9edddafaa87a4a4df3e6b206e01bbac9d319a5d229a9d39008cfbca6c2c9f9c1"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/index.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/index.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/index.html",
+    "input_sha256": "19707be8dc0f3d0d1401a2e475c0ca53f508bfc04600feac5ad90dee9b1690ba",
+    "output_sha256": "77758d31ff408a36d8f42b0dea4e37bf4651df9a37dc3b9aba53702c861b4881",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/index.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/index.html",
+    "local_edition_sha256": "7eee26b7f82d0a589e24b1b3298c8620f5e6ec66d31abb25d70151c4d20d497b"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/orissa/readings/orissa-statistics.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/orissa/orissa.stats",
+    "original_url": "http://odiya.org/orissa/orissa.stats",
+    "input_sha256": "ecb28466096a7281328bdee2962ecf5b22f0028153b49161f22d04a0b939cab9",
+    "output_sha256": "8818906ea874fd121fac11f9e547616ba63b2dc77ec35fae6bc70db80a176540",
+    "recovery_note": "Saved /orissa/orissa.stats; old-folder edition unverified. Figures dated 1990\u201391.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/orissa/orissa.stats",
+    "second_copy_matches": true,
+    "local_source": "odiya/orissa/readings/orissa-statistics.html",
+    "local_edition_sha256": "2c5ef0d46a048f13869d3ba3f781922caa27e5782b46ea65ce5a1580df384a5a"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/366.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/366.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/366.html",
+    "input_sha256": "64aac11ef42fff88043e8865e11ca2cc0c1aae81d1af5bf4587e9c282ef80d13",
+    "output_sha256": "9c2a42976c898dc54dc4f6961d164aa692c94b1165f29c2b70125f6c257e62e6",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/366.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/366.html",
+    "local_edition_sha256": "2b7846e39b86694451bb8b98c9beb2ef9417ce61c3b612d7ee381c0b5b43f61b"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/373.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/373.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/373.html",
+    "input_sha256": "c97b9ce157ae009a8f896bc448c5ed43e9db6ed787fc9ee695e7cc25a4849237",
+    "output_sha256": "b8ff10bca870af6ed79008cea78c7595702f3cf2bde1f34aabb4a280261cb1c7",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/373.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/373.html",
+    "local_edition_sha256": "73afa665b0187d6dd7a444e552d73b072fc8a0289e6c278e9a66bec06ae345e4"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/367.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/367.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/367.html",
+    "input_sha256": "94a5a735b7792add0aaf8bc69a11950be627c36983651c4d087954cd752fd801",
+    "output_sha256": "8a869a475a8fc72b0d2f92b5732238ab0e097f4b348547c0965a08094248e12a",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/367.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/367.html",
+    "local_edition_sha256": "3c1512656e1f86311baf7f5456efc79cbbf7192d8522aa38cc2d922d53818bfd"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/368.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/368.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/368.html",
+    "input_sha256": "6b345a08d196095894b386c09e7e32928fd64907f440b9084571721de7a762f7",
+    "output_sha256": "10a919912c8e3548e5123fa05509d2cdfc7c218357a29afb47325d3380f7a1ee",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/368.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/368.html",
+    "local_edition_sha256": "017c154e51ccd551f5a9f8df5c94080df0d4ba8c729e5e9f6dfc885f7f39ce45"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/orissa/files/orissa.stats",
+    "source": "restoration/qa/odiya-mounted-backups/sources/orissa/orissa.stats",
+    "original_url": "http://odiya.org/orissa/orissa.stats",
+    "input_sha256": "ecb28466096a7281328bdee2962ecf5b22f0028153b49161f22d04a0b939cab9",
+    "output_sha256": "ecb28466096a7281328bdee2962ecf5b22f0028153b49161f22d04a0b939cab9",
+    "recovery_note": "Original attachment; bytes unchanged.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/orissa/orissa.stats",
+    "second_copy_matches": true,
+    "local_source": "odiya/orissa/files/orissa.stats",
+    "local_edition_sha256": "ecb28466096a7281328bdee2962ecf5b22f0028153b49161f22d04a0b939cab9"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/362.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/362.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/362.html",
+    "input_sha256": "4522e1c6b76f836b0359e5f58f86c586acdef3ff21c22d904141689adbdd4f20",
+    "output_sha256": "3396404c54396bd1d2097fa6ea38abfe4b4404e132531b970c918bdd09fc8224",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/362.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/362.html",
+    "local_edition_sha256": "beefd9c876d30af483ece51ffb142277c362e733f4d99240ce19ab32f027be54"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/375.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/375.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/375.html",
+    "input_sha256": "6ec73b85ca51334778544dc1250a214a2cdb2c9542245d0503ac05b3b7460936",
+    "output_sha256": "45b0a4054e1dbbad1f3457afde34d1cf6a8dc9051a86e6344a34c18cf77825e9",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/375.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/375.html",
+    "local_edition_sha256": "63725aabc98c2f3d15a76cb45ad5f04cfe775a99d54d5e3c2cb7048c51595a9d"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/372.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/372.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/372.html",
+    "input_sha256": "eb5867d0c1a2c4959be1b39fcaeceb6d5b5b53f6c41d69e6b2f9a02247c76235",
+    "output_sha256": "4476bd3c7c742463f3da7beb03dfeb1fa0ff0ce17b613a415a047e9e39d1556d",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/372.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/372.html",
+    "local_edition_sha256": "099b55194a70696ad3d3c41f586705c894891adef0b148bf412e8834074f14c1"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/370.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/370.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/370.html",
+    "input_sha256": "c22f4625834ea891b4130ecb66d518ae915d48c2609697879d58894442a7a423",
+    "output_sha256": "afd055bc057a1a729a88429987e992aa2ea2e6f427a9da1b5229c7cb6b38da5f",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/370.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/370.html",
+    "local_edition_sha256": "49f64099f5ab71074a79a50722bb55453b7ea8251e0a9737d9153f627a902ff6"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/361.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/361.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/361.html",
+    "input_sha256": "efe79abc0c957113a10919e661c64e5f9b8a983efd13e81517547a509ed342bc",
+    "output_sha256": "1a7729bc207f4ed3d41bab2ae990ad431657759662603c507656e0241e06ef90",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/361.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/361.html",
+    "local_edition_sha256": "2af9307fe24212346e42821e9c8dcef8197ea72510561e99c57fb6454fda5566"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/374.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/374.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/374.html",
+    "input_sha256": "6b1ba2f07a4405600c31702faaaa96b1fbb55a2eb442e4dd5db65fa850303b71",
+    "output_sha256": "53ed3d4d6a860f0292464aaff438b37d4ad123faa335dd692846b0ee51209c5b",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/374.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/374.html",
+    "local_edition_sha256": "39b2d2c1c7b545be5406c66b0c0a2ebf7e276c00eb5d3c9a43f07e4010bc5f31"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/360.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/360.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/360.html",
+    "input_sha256": "63deb61d9293eed4008d0a35843c883d5feea799676b33a7931e12652d6b24a0",
+    "output_sha256": "b1036e8fea8d787cc16b3f9df1221ec62b9f26a92577c5735deca63b73c944c3",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/360.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/360.html",
+    "local_edition_sha256": "75a8a464f7ab31b974a367c54bd9826ffea399be565c98e01c3d33f4aba3bc9d"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/334.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/334.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/334.html",
+    "input_sha256": "ba6a2cee4befc29ebd47277eea5cdd3975275676c0a8c01868b9ffe63d86c09c",
+    "output_sha256": "8def6850505698026192689eee323ff93922f1b2063973b913e2752abb0395b4",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/334.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/334.html",
+    "local_edition_sha256": "4639459d015e5a9b7846b84af5dc2b526116f927218d40b139dda4c01fde8ec5"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/orissa/files/Dgclock.java",
+    "source": "restoration/qa/odiya-mounted-backups/sources/orissa/Dgclock.java",
+    "original_url": "http://odiya.org/orissa/Dgclock.java",
+    "input_sha256": "9d0060dc611e27b4da7dd166b8b998a9a864b2a804412bad686547fcbaff1d3b",
+    "output_sha256": "9d0060dc611e27b4da7dd166b8b998a9a864b2a804412bad686547fcbaff1d3b",
+    "recovery_note": "Original attachment; bytes unchanged.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/orissa/Dgclock.java",
+    "second_copy_matches": true,
+    "local_source": "odiya/orissa/files/Dgclock.java",
+    "local_edition_sha256": "9d0060dc611e27b4da7dd166b8b998a9a864b2a804412bad686547fcbaff1d3b"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/365.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/365.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/365.html",
+    "input_sha256": "49028146ad48ca1fa58089174121596c6b13dd7152b4b24315a6628d8192591d",
+    "output_sha256": "87c33985fe0e9bbe4adc117f71813b8c2c79ed18788255493cbab2bba23f8c3c",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/365.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/365.html",
+    "local_edition_sha256": "bdbd2364158d3d97ecf81fb163258a283d71873f6731816b845dafe50c72e009"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/messages/363.html",
+    "source": "restoration/qa/odiya-mounted-backups/sources/odonline/wwwboard/messages/363.html",
+    "original_url": "http://odiya.org/odonline/wwwboard/messages/363.html",
+    "input_sha256": "10efaa1c2502d3549dad224895cdf04f7af32c44e0cdc216f2b6987333231d7d",
+    "output_sha256": "1a19c5bf11fd9ebdc4bdcbf2c7754ac43a4434bf3902ca68d999265c584f7dc1",
+    "recovery_note": "Original saved layout and message text; scripts and posting forms removed.",
+    "backup_path": "/Volumes/public/June2013Backup/OdiyaOrgNew/odonline/wwwboard/messages/363.html",
+    "second_copy_matches": false,
+    "local_source": "odiya/odonline/wwwboard/messages/363.html",
+    "local_edition_sha256": "dfb7f8350c5be0b01f5f0a06d720e572c8020dfea356f68c7dccd5886c04ac57"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/odonline/wwwboard/saved-messages.html",
+    "source": "Generated index of saved bulletin-board messages",
+    "output_sha256": "37e6517f1e46f7892522f84c8d7ed3c18e28ed7592ba469a833fa0c69b97f46a",
+    "recovery_note": "Restoration navigation; not an original page.",
+    "local_source": "odiya/odonline/wwwboard/saved-messages.html",
+    "local_edition_sha256": "d2719cf045820f3104d4319ae4344af6e20dcfdc956b5d7589f8c5a8c462a0d5"
   }
 ]
