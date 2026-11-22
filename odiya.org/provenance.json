@@ -35820,12 +35820,12 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/orissa.html",
     "capture": "20030117074107",
     "input_sha256": "686d2b4da97fe85fe31155fa8635d47aa440146761c805cf2d185c700375ff4b",
-    "output_sha256": "4a92231b9be8636429262d220c6afead7630b5e005155d8c692c5e8c26013c8f",
+    "output_sha256": "eed381717abab505d2940c46766c7d22945655eac08ca9239357650cabbe1c50",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/orissa.html",
-    "local_edition_sha256": "d50834ca3ec04a980583ef340069de350a5327a95147eb445703d9b8ccbc9525",
+    "local_edition_sha256": "57ae3e5463a777ff1c110aa19123effe7c2de3493c116b53b20952023e877159",
     "shared_art_recovery": [
       {
         "page": "odiya/orissa/handicrafts/orissa.html",
@@ -35870,7 +35870,30 @@
         "original": "http://www.cs.utexas.edu/users/darshan/SEEDS/orissa/omap.gif",
         "destination": "odiya/recovered-shared-art/omap.gif"
       }
-    ]
+    ],
+    "picture_recovery": {
+      "placements": [
+        {
+          "page": "odiya/orissa/handicrafts/orissa.html",
+          "original": "http://www.cs.columbia.edu:80/~deba/orissa/pictures/logo.gif",
+          "destination": "odiya/recovered-picture-art/logo.gif",
+          "placements": 1
+        },
+        {
+          "page": "odiya/orissa/handicrafts/orissa.html",
+          "original": "http://www.cs.columbia.edu:80/~deba/orissa/pictures/gif/thinstrip.gif",
+          "destination": "odiya/recovered-picture-art/thinstrip.gif",
+          "placements": 1
+        },
+        {
+          "page": "odiya/orissa/handicrafts/orissa.html",
+          "original": "http://www.cs.columbia.edu:80/~deba/orissa/pictures/gif/thinstrip.gif",
+          "destination": "odiya/recovered-picture-art/thinstrip.gif",
+          "placements": 1
+        }
+      ],
+      "links": []
+    }
   },
   {
     "kind": "asset",
@@ -36733,12 +36756,36 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/lalit1.html",
     "capture": "20010501213534",
     "input_sha256": "6b6511662e936f2123068c8d05e2ad16326c9b7fcc3a1c4ba6c1dd3741552e09",
-    "output_sha256": "e0262ecc5e7ccadcf6c1881e721c8ecd4ab1038e06fa0971a2f78bb5c15877e3",
+    "output_sha256": "51ba7b1d028952411781cc0e8562085d0c2f1c7f3f67bb4fbd657bf4cda532a2",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/lalit1.html",
-    "local_edition_sha256": "6ed94defe463244ef7f5e177702e801ddd7a1c23fdf3625beb3d98d9652e47e6"
+    "local_edition_sha256": "ed835fb56e17739fc0788865332aaef8d84d87867c8656db886a9ac4558f2937",
+    "picture_recovery": {
+      "placements": [
+        {
+          "page": "odiya/orissa/handicrafts/lalit1.html",
+          "original": "http://www.cs.columbia.edu:80/~deba/orissa/pictures/gif/line1.gif",
+          "destination": "odiya/recovered-picture-art/line1.gif",
+          "placements": 1
+        },
+        {
+          "page": "odiya/orissa/handicrafts/lalit1.html",
+          "original": "http://www.cs.columbia.edu:80/~deba/orissa/pictures/gif/thinstrip.gif",
+          "destination": "odiya/recovered-picture-art/thinstrip.gif",
+          "placements": 1
+        },
+        {
+          "page": "odiya/orissa/handicrafts/lalit1.html",
+          "original": "http://www.cs.utexas.edu:80/images/stanford/line.colorbar.gif",
+          "destination": "odiya/recovered-picture-art/line.colorbar.gif",
+          "placements": 2,
+          "source_markup_repair": "Two missing closing quotes; exact source line restored between separators."
+        }
+      ],
+      "links": []
+    }
   },
   {
     "kind": "asset",
@@ -36969,12 +37016,12 @@
     "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/handicrafts/orissa1.html",
     "capture": "20030117074232",
     "input_sha256": "722daaf640dbf885aae853c32f7ddf406a770291adc8b46881feb2d732bc74cc",
-    "output_sha256": "90ac348e5e489cc3f20b23feb045bc66f67de7d0fa9c2b3155d462c4e51827f8",
+    "output_sha256": "ca3559b0cb55c7491f02e61055a71e4ca85f5b1dd559a133dd9c67b421012ce4",
     "cdx_digest_verified": true,
     "recovery_note": "Original captured layout; online actions inactive.",
     "recovery_stage": "odiya-recovery-next",
     "local_source": "odiya/orissa/handicrafts/orissa1.html",
-    "local_edition_sha256": "2dd1b87371c22b24f6f101dfac36c9be3be327c56af7b8aba441c1fde956795a",
+    "local_edition_sha256": "bec5de1230a043bd9349411b7ee1025f7eb7e357659cd980a66c1ddd95cabd07",
     "shared_art_recovery": [
       {
         "page": "odiya/orissa/handicrafts/orissa1.html",
@@ -36988,7 +37035,18 @@
         "recovered_url": "http://www.cs.utexas.edu:80/images/stanford/line.blue.gif",
         "destination": "odiya/recovered-shared-art/line.blue.gif"
       }
-    ]
+    ],
+    "picture_recovery": {
+      "placements": [
+        {
+          "page": "odiya/orissa/handicrafts/orissa1.html",
+          "original": "http://www.cs.columbia.edu:80/~deba/orissa/pictures/logo.gif",
+          "destination": "odiya/recovered-picture-art/logo.gif",
+          "placements": 1
+        }
+      ],
+      "links": []
+    }
   },
   {
     "kind": "page",
@@ -38958,5 +39016,61 @@
     "recovery_note": "First frame of the preserved GIF for reduced-motion and hide-animation display.",
     "local_source": "odiya/recovered-shared-art/mult-still.png",
     "local_edition_sha256": "2f4f39c49194173b5256971923295c389ef38e89af4f5a723432d4122d96984c"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-picture-art/line1.gif",
+    "source": "restoration/qa/odiya-heading-final-search/raw/20000612205603-4c24395caa96.gif",
+    "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/pictures/gif/line1.gif",
+    "capture": "20000612205603",
+    "input_sha256": "7a7eec4598260964f049962d94ef3125ad7a16d2caade58f5a5fd1a24ccad76b",
+    "output_sha256": "7a7eec4598260964f049962d94ef3125ad7a16d2caade58f5a5fd1a24ccad76b",
+    "cdx_digest_verified": true,
+    "cdx_digest": "2ERW6ZHXM3FTB4RLME34CQWEFLRPQZO6",
+    "recovery_note": "Original image bytes preserved.",
+    "local_source": "odiya/recovered-picture-art/line1.gif",
+    "local_edition_sha256": "7a7eec4598260964f049962d94ef3125ad7a16d2caade58f5a5fd1a24ccad76b"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-picture-art/line.colorbar.gif",
+    "source": "restoration/qa/odiya-heading-final-search/raw/19961223050357-ba7942e40667.gif",
+    "original_url": "http://www.cs.utexas.edu:80/images/stanford/line.colorbar.gif",
+    "capture": "19961223050357",
+    "input_sha256": "89f23e1eb85e554eb2d26aabb371e63ed55827363df0aceaddcd26cdff251c64",
+    "output_sha256": "89f23e1eb85e554eb2d26aabb371e63ed55827363df0aceaddcd26cdff251c64",
+    "cdx_digest_verified": true,
+    "cdx_digest": "V5N2CJDI5CIKG7BFK7VIPD7SATTJVPGF",
+    "recovery_note": "Original image bytes preserved.",
+    "local_source": "odiya/recovered-picture-art/line.colorbar.gif",
+    "local_edition_sha256": "89f23e1eb85e554eb2d26aabb371e63ed55827363df0aceaddcd26cdff251c64"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-picture-art/thinstrip.gif",
+    "source": "restoration/qa/odiya-heading-final-search/raw/20000613024836-3496e3bcc197.gif",
+    "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/pictures/gif/thinstrip.gif",
+    "capture": "20000613024836",
+    "input_sha256": "9fb1a829038a62948f131e912273635302b043f188171063453552124aaf35bc",
+    "output_sha256": "9fb1a829038a62948f131e912273635302b043f188171063453552124aaf35bc",
+    "cdx_digest_verified": true,
+    "cdx_digest": "5NY6QZPLXAKLIAKJFBINZO6ELGKM6NKU",
+    "recovery_note": "Original image bytes preserved.",
+    "local_source": "odiya/recovered-picture-art/thinstrip.gif",
+    "local_edition_sha256": "9fb1a829038a62948f131e912273635302b043f188171063453552124aaf35bc"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-picture-art/logo.gif",
+    "source": "restoration/qa/odiya-heading-final-search/raw/20000617054000-d64451684808.gif",
+    "original_url": "http://www.cs.columbia.edu:80/~deba/orissa/pictures/logo.gif",
+    "capture": "20000617054000",
+    "input_sha256": "65d210d51b3487ee91227a5cce7cc39b124b9ff528067e46ff348ffa5bd9a21c",
+    "output_sha256": "65d210d51b3487ee91227a5cce7cc39b124b9ff528067e46ff348ffa5bd9a21c",
+    "cdx_digest_verified": true,
+    "cdx_digest": "GAGTUFLQVHH3WJR7NFCNDOIWIEN34CX5",
+    "recovery_note": "Original image bytes preserved.",
+    "local_source": "odiya/recovered-picture-art/logo.gif",
+    "local_edition_sha256": "65d210d51b3487ee91227a5cce7cc39b124b9ff528067e46ff348ffa5bd9a21c"
   }
 ]
