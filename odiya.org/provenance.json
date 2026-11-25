@@ -13047,10 +13047,23 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "6e78587dea6a2ecd46c56eebec120b8e42974e1e311ee72f2ef1c5755c10ac48",
+    "output_sha256": "3348625cdf73aab0335d2ebed7eb0d32300368bf69cf24a36bad6ac6e28006f7",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "external_art_recovery": [
+      {
+        "original": "http://banners.wunderground.com:80/banner/default/US/KS/Kansas_City.gif",
+        "capture": "20010605182011",
+        "destination": "odiya/recovered-external-art/Kansas_City-20010605.gif",
+        "original_dimensions": [
+          468,
+          60
+        ],
+        "frames": 24,
+        "historical_snapshot_not_live": true
+      }
+    ],
     "local_source": "odiya/convention/about_kansas_city.html",
-    "local_edition_sha256": "a470fa8c4487e92bbb54dc052c5ae3cd1577850f9ebf5e6535fdee32a22e2418"
+    "local_edition_sha256": "264e85cbd8a23ed161f2dadfe12ceda75c73e59ef383b1dd0c50ccc601b77802"
   },
   {
     "kind": "page",
@@ -13197,18 +13210,17 @@
   {
     "kind": "page",
     "output": "odiya.org/convention/index.html",
-    "source": "MyCommunity/odiya.org/convention/index.html",
-    "original_url": "http://odiya.org/convention/index.html",
-    "capture": "",
-    "input_sha256": "02e6dc1e42fca0d902f60f9b890b4f97bd0c840b17cdb160505d39a4a0e3143e",
-    "input_is_assembled": false,
-    "derived_from_pdf": false,
-    "recovery_note": "",
-    "original_url_inferred": false,
-    "output_sha256": "8dbd4ac2d67f1b1959df2c0a7121e35bf9fcff22b5025615ec80c05e26baca1e",
-    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "source": "restoration/qa/odiya-wayback-final-paths-nov25/raw/convention-home-2002.html",
+    "original_url": "http://www.odiya.org:80/convention/",
+    "capture": "20020603200842",
+    "input_sha256": "91286d30cfd037f6f7d6591c196e6e274263fa6769c15c949817b5a2d71b1e55",
+    "output_sha256": "71eb98a22f402cb236bb42f364cd32ea90496af0ecb2b926dab403adc09937be",
+    "cdx_digest_verified": true,
+    "cdx_digest": "6KWCRAFXA2KDID22GXESZXR3PJ7RFBPB",
+    "recovery_note": "Original 2002 capture of the September 2001 convention home; original layout and text preserved, historical scripts and counter inactive. Later backup retained separately.",
+    "later_backup": "odiya/convention/gallery-manual-backup.html",
     "local_source": "odiya/convention/index.html",
-    "local_edition_sha256": "2da617c7950874c8ab3934dbacf5746ddb9aa7cf86e975fae44c3a4066d12835"
+    "local_edition_sha256": "63261141a7cac29cf58abd051f5c2e9daa99b035275c6f6a402883b9f03ea680"
   },
   {
     "kind": "page",
@@ -46714,5 +46726,49 @@
     "recovery_note": "Original captured image; bytes unchanged. Capture date may postdate the page using this URL.",
     "local_source": "odiya/recovered-external-art/h3s2402.gif",
     "local_edition_sha256": "a3b2c087cb43aed95dd40bfedd78c79e8cffc8e18eb3d1bbf572edc4b22bc16e"
+  },
+  {
+    "kind": "page",
+    "output": "odiya.org/convention/gallery-manual-backup.html",
+    "source": "MyCommunity/odiya.org/convention/index.html",
+    "original_url": "http://odiya.org/convention/index.html",
+    "capture": "",
+    "input_sha256": "02e6dc1e42fca0d902f60f9b890b4f97bd0c840b17cdb160505d39a4a0e3143e",
+    "input_is_assembled": false,
+    "derived_from_pdf": false,
+    "recovery_note": "Later saved Gallery manual, retained byte for byte when the original 2002 convention home capture was restored at index.html.",
+    "original_url_inferred": false,
+    "output_sha256": "8dbd4ac2d67f1b1959df2c0a7121e35bf9fcff22b5025615ec80c05e26baca1e",
+    "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
+    "local_source": "odiya/convention/gallery-manual-backup.html",
+    "local_edition_sha256": "2da617c7950874c8ab3934dbacf5746ddb9aa7cf86e975fae44c3a4066d12835"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-external-art/Kansas_City-20010605.gif",
+    "source": "restoration/qa/odiya-wayback-final-paths-nov25/raw/Kansas_City.gif",
+    "original_url": "http://banners.wunderground.com:80/banner/default/US/KS/Kansas_City.gif",
+    "capture": "20010605182011",
+    "input_sha256": "5052314fb59c4d789302774e0d206cba6e3259f13e41c6863d6160f7e9205452",
+    "output_sha256": "5052314fb59c4d789302774e0d206cba6e3259f13e41c6863d6160f7e9205452",
+    "cdx_digest_verified": true,
+    "cdx_digest": "VBVZAAVCFDJKFPSIHXJU5LJA6S4ARTZQ",
+    "recovery_note": "Original animated GIF bytes unchanged; historical weather snapshot, not a live forecast.",
+    "local_source": "odiya/recovered-external-art/Kansas_City-20010605.gif",
+    "local_edition_sha256": "5052314fb59c4d789302774e0d206cba6e3259f13e41c6863d6160f7e9205452"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-external-art/Kansas_City-20010605-still.png",
+    "source": "restoration/qa/odiya-wayback-final-paths-nov25/raw/Kansas_City.gif",
+    "original_url": "",
+    "capture": "20010605182011",
+    "input_sha256": "5052314fb59c4d789302774e0d206cba6e3259f13e41c6863d6160f7e9205452",
+    "output_sha256": "83300d7fafdae340da6d3796631449b4c3fade40287065d66179dce0a3190ba6",
+    "cdx_digest_verified": false,
+    "cdx_digest": null,
+    "recovery_note": "First frame extracted from the original GIF for the existing hide-animation and reduced-motion controls.",
+    "local_source": "odiya/recovered-external-art/Kansas_City-20010605-still.png",
+    "local_edition_sha256": "83300d7fafdae340da6d3796631449b4c3fade40287065d66179dce0a3190ba6"
   }
 ]
