@@ -3238,12 +3238,23 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "ea951ce5d2962fadc5f88422c3d88bfc56e5b86b8a771f6f7003b2d70887b3b0",
+    "output_sha256": "bb6983804d6dcc92f12632542d637c8938f819a9153ab1ee63f64d8aed5c0e05",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/misc/odiya.html",
-    "local_edition_sha256": "56e86e9cf79c51c6d0a5c3c991dd1d581854d03fea066d7c7e68ff151c770515",
+    "local_edition_sha256": "8d9486397ebe248926ef64e8855ff57ec7b1beb1748bd7a436e9c4c4500bbfa1",
     "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
-    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "external_art_recovery": [
+      {
+        "page": "odiya/backup-2013/misc/odiya.html",
+        "original_reference": "http://www.mapsofindia.com/maps/orissa/h3s2402.gif",
+        "destination": "odiya/recovered-external-art/h3s2402.gif",
+        "image_capture": "20000823200253",
+        "display_width": "640",
+        "display_height": "480",
+        "source_markup": "/Volumes/public/June2013Backup/OdiyaOrgNew/misc/odiya.shtml"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -15759,10 +15770,10 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "753d7cfa54fb4a5e585fdeabcace0dd547781a5ec788b6eaf01b9e3d5149729b",
+    "output_sha256": "941bcf60a59cb0a08ebf2eddad3245df7bf85a96de950d47827b68c20fdb490b",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/convention/site_and_direction.html",
-    "local_edition_sha256": "5a8142a0e095ebb50daaec65ef746c4ada4b644cef8914c9d88a56bb5675b47d",
+    "local_edition_sha256": "3a41b0df794f2c6497786d01a585dcd54f3dc51f11c5651d645ea573292bbc5e",
     "external_art_recovery": [
       {
         "page": "odiya/convention/site_and_direction.html",
@@ -15771,6 +15782,15 @@
         "image_capture": "20050428075640",
         "display_width": "200",
         "display_height": "136",
+        "source_markup": "/Volumes/home/MyCommunity/odiya.org/convention/site_and_direction.html"
+      },
+      {
+        "page": "odiya/convention/site_and_direction.html",
+        "original_reference": "http://images.sixcontinentshotels.com/templates/franchisee/hi/images/HI.GIF",
+        "destination": "odiya/recovered-external-art/HI.GIF",
+        "image_capture": "20010903130315",
+        "display_width": "150",
+        "display_height": "89",
         "source_markup": "/Volumes/home/MyCommunity/odiya.org/convention/site_and_direction.html"
       }
     ]
@@ -24626,12 +24646,23 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "0bcb6a27f8ead15944666c68afb68f4904e011ace0251b2e82f277af73d78e9f",
+    "output_sha256": "d8c0c5c21037559c34b8f944bbedf459dea65b67e080d69ec057c4517896f48c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/misc/odiya.html",
-    "local_edition_sha256": "15825039c0009e38f2f1a8c76bd43f64088a71ef6fdffb384758b4e906671c99",
+    "local_edition_sha256": "1017031eb1adf4ed6ebb9117616c206a41e90ee47b6ad6a6c43c5db4f9c166d3",
     "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive. Historical home links reconnect to the restored homepage.",
-    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence"
+    "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
+    "external_art_recovery": [
+      {
+        "page": "odiya/misc/odiya.html",
+        "original_reference": "http://www.mapsofindia.com/maps/orissa/h3s2402.gif",
+        "destination": "odiya/recovered-external-art/h3s2402.gif",
+        "image_capture": "20000823200253",
+        "display_width": "640",
+        "display_height": "480",
+        "source_markup": "/Volumes/home/MyCommunity/odiya.org/misc/odiya.shtml"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -46653,5 +46684,35 @@
     "recovery_note": "Original captured image; bytes unchanged. Capture date may postdate the page using this URL.",
     "local_source": "odiya/recovered-external-art/vinayak.jpg",
     "local_edition_sha256": "f307b339b0093f827dd9f71f20e79b7c7ace7a963fb5f65b2838bf85893adb56"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-external-art/HI.GIF",
+    "source": "restoration/qa/odiya-wayback-nov25-remaining/raw/20010903130315-8a8bd626df69.GIF",
+    "original_url": "http://images.sixcontinentshotels.com:80/templates/franchisee/hi/images/HI.GIF",
+    "capture": "20010903130315",
+    "input_sha256": "0b3b6a5ca37a869b54aa1241c6a3a1fa1db7ceea8a58d69b24ef63c80efbbc5f",
+    "output_sha256": "0b3b6a5ca37a869b54aa1241c6a3a1fa1db7ceea8a58d69b24ef63c80efbbc5f",
+    "cdx_digest": "B4FIGPRBOM66IMN5EF53LC4TFU2R6CSU",
+    "cdx_digest_verified": true,
+    "recovery_stage": "odiya-wayback-nov25-remaining",
+    "recovery_note": "Original captured image; bytes unchanged. Capture date may postdate the page using this URL.",
+    "local_source": "odiya/recovered-external-art/HI.GIF",
+    "local_edition_sha256": "0b3b6a5ca37a869b54aa1241c6a3a1fa1db7ceea8a58d69b24ef63c80efbbc5f"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-external-art/h3s2402.gif",
+    "source": "restoration/qa/odiya-wayback-nov25-remaining/raw/20000823200253-34776e884de6.gif",
+    "original_url": "http://www.mapsofindia.com:80/maps/orissa/h3s2402.gif",
+    "capture": "20000823200253",
+    "input_sha256": "a3b2c087cb43aed95dd40bfedd78c79e8cffc8e18eb3d1bbf572edc4b22bc16e",
+    "output_sha256": "a3b2c087cb43aed95dd40bfedd78c79e8cffc8e18eb3d1bbf572edc4b22bc16e",
+    "cdx_digest": "4AZOQ4K5CMVACDIOHQDJBHHD2RY24DDG",
+    "cdx_digest_verified": true,
+    "recovery_stage": "odiya-wayback-nov25-remaining",
+    "recovery_note": "Original captured image; bytes unchanged. Capture date may postdate the page using this URL.",
+    "local_source": "odiya/recovered-external-art/h3s2402.gif",
+    "local_edition_sha256": "a3b2c087cb43aed95dd40bfedd78c79e8cffc8e18eb3d1bbf572edc4b22bc16e"
   }
 ]
