@@ -4641,11 +4641,22 @@
     "derived_from_pdf": false,
     "recovery_note": "Recovered from the supplied June2013Backup/OdiyaOrgNew folder. The folder label is a backup identifier, not a publication date. Original saved design retained; scripts, forms and services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "63c5749857b38583872e2ce105fc0c97d1064257c5f09eeaa96ae692b3c33c24",
+    "output_sha256": "c951c23be16241724d13ce708b82a19fcc25298cff6dc3fb30c602bfd70e92ab",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/backup-2013/wt/072895.html",
-    "local_edition_sha256": "aff8eb55139c7fac2a0c4ec42d580a3154db577abf82e952ddfb3295d1ff5005",
-    "inner_page_restoration": "Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "c8730cfe556d497e3be4cfbc223d6b403fbb091952f5f6561c240a602309d187",
+    "inner_page_restoration": "Historical home links reconnect to the restored homepage.",
+    "external_art_recovery": [
+      {
+        "page": "odiya/backup-2013/wt/072895.html",
+        "original_reference": "http://www.looksmart.com/h/linkto/ecfin48.gif",
+        "destination": "odiya/recovered-external-art/ecfin48.gif",
+        "image_capture": "19990220010948",
+        "display_width": "192",
+        "display_height": "48",
+        "source_markup": "/Volumes/public/June2013Backup/OdiyaOrgNew/wt/072895.shtml"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -7009,10 +7020,10 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "dbb13deeea3d67b5e9d3636d31d8cd392d64144004f28c0b73375981fe9da3be",
+    "output_sha256": "937d4f9d98c5466f03beedb8666e24474a36fbc5ecf55031cd180dbcddc0a7ed",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/captures/1997-minnesota-home.html",
-    "local_edition_sha256": "1f63091e891d358d33b9e565f907537e074118b20cc10253b0257ecbddb21406",
+    "local_edition_sha256": "d9c1018b4950c4ce924f7225bfc144749b5bbef7d1076c922f4ca66804803057",
     "recovery_stage": "odiya-recovery-next",
     "early_image_recovery": {
       "original_image_url": "http://www.arc.umn.edu:80/Images/ahpcrc-logo.gif",
@@ -7053,6 +7064,17 @@
         "destination": "odiya/captures/texas-community/seeds/index.html",
         "fragment": ""
       }
+    ],
+    "external_art_recovery": [
+      {
+        "page": "odiya/captures/1997-minnesota-home.html",
+        "original_reference": "http://www.looksmart.com/h/linkto/ecfin64.gif",
+        "destination": "odiya/recovered-external-art/ecfin64.gif",
+        "image_capture": "19990220030422",
+        "display_width": "256",
+        "display_height": "64",
+        "source_markup": "/Users/ahimanikya/Documents/ChatGPT/Odia Archive/archive/first-odia-home-page/raw/1997-minnesota-home.html"
+      }
     ]
   },
   {
@@ -7066,10 +7088,10 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "78800dc8852b81f20c22c133dada42d2e81e5d9570e19219bfbae68b9d331a8b",
+    "output_sha256": "412a4e4a35542a95e984fa9cc1c714375cbb49cb647053a8014dfab060eeb778",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/captures/1998-columbia-home.html",
-    "local_edition_sha256": "01a547c4280195b6ccc0e4519ca20bf732504d96e0b85262270d9dca3ec5c213",
+    "local_edition_sha256": "25a4c3ade289a288e739f01be6c0106a483ffb499a83678be27f06d4cb67b47d",
     "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive.",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
     "asato_ticker": {
@@ -7087,7 +7109,18 @@
         150
       ],
       "corroboration": "Approved DOCX word/media/image3.jpg; document unchanged."
-    }
+    },
+    "external_art_recovery": [
+      {
+        "page": "odiya/captures/1998-columbia-home.html",
+        "original_reference": "http://www.looksmart.com/h/linkto/ecfin64.gif",
+        "destination": "odiya/recovered-external-art/ecfin64.gif",
+        "image_capture": "19990220030422",
+        "display_width": "256",
+        "display_height": "64",
+        "source_markup": "/Users/ahimanikya/Documents/ChatGPT/Odia Archive/archive/first-odia-home-page/raw/1998-columbia-home.html"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -7116,10 +7149,10 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "4a527de8e85c8a9c7be26af2f3170b1c6a906cd404e99c54d85e0b38d848148c",
+    "output_sha256": "b413fba97df86aa09a7261eadac16e2d61e13031dc601187e234d0ab1954c15c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/captures/1999-columbia-home.html",
-    "local_edition_sha256": "27592ae82bec2e53db6fdf1417919a7b83948f1d16cea974ec8cea35e14d9fe4",
+    "local_edition_sha256": "606fb7cf50c0745e35b20636b239d4ecef7db1979caece1fffab25393e6151c3",
     "inner_page_restoration": "Button menu recreated from saved labels, colours and grid settings; Java remains inactive.",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
     "asato_ticker": {
@@ -7137,7 +7170,18 @@
         150
       ],
       "corroboration": "Approved DOCX word/media/image3.jpg; document unchanged."
-    }
+    },
+    "external_art_recovery": [
+      {
+        "page": "odiya/captures/1999-columbia-home.html",
+        "original_reference": "http://www.looksmart.com/h/linkto/ecfin64.gif",
+        "destination": "odiya/recovered-external-art/ecfin64.gif",
+        "image_capture": "19990220030422",
+        "display_width": "256",
+        "display_height": "64",
+        "source_markup": "/Users/ahimanikya/Documents/ChatGPT/Odia Archive/archive/first-odia-home-page/raw/1999-columbia-home.html"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -7288,10 +7332,10 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "556e90a44aed60bfbf892bdefb2fa43c45d4aa71f50df09d70b59283955df3f4",
+    "output_sha256": "155da5981422288d6c340a2224fadb95655cf20a6d789c96b1332fd93b751353",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/captures/2001-home.html",
-    "local_edition_sha256": "688d10932feea7c8545913d454e19b40e50ed51ea8853e5089f7a4a08c10e26c",
+    "local_edition_sha256": "a6365597fc035d175f5ba46c0eef9bb37a80104fea767a685db01905e37943c9",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
     "asato_ticker": {
       "source": "archive/first-odia-home-page/raw/2001-home.html",
@@ -7308,7 +7352,27 @@
         150
       ],
       "corroboration": "Approved DOCX word/media/image3.jpg; document unchanged."
-    }
+    },
+    "external_art_recovery": [
+      {
+        "page": "odiya/captures/2001-home.html",
+        "original_reference": "http://www.looksmart.com/h/linkto/ecfin64.gif",
+        "destination": "odiya/recovered-external-art/ecfin64.gif",
+        "image_capture": "19990220030422",
+        "display_width": "256",
+        "display_height": "64",
+        "source_markup": "/Users/ahimanikya/Documents/ChatGPT/Odia Archive/archive/first-odia-home-page/raw/2001-home.html"
+      },
+      {
+        "page": "odiya/captures/2001-home.html",
+        "original_reference": "http://v3.come.to/banner/v3sban.gif",
+        "destination": "odiya/recovered-external-art/v3sban.gif",
+        "image_capture": "20000229041757",
+        "display_width": "88",
+        "display_height": "31",
+        "source_markup": "/Users/ahimanikya/Documents/ChatGPT/Odia Archive/archive/first-odia-home-page/raw/2001-home.html"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -15695,10 +15759,21 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "6bf11beba28e54d44b70254516772862a5014da8f89bb4705e2567c57a8c049c",
+    "output_sha256": "753d7cfa54fb4a5e585fdeabcace0dd547781a5ec788b6eaf01b9e3d5149729b",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/convention/site_and_direction.html",
-    "local_edition_sha256": "a3e347491477ba82db27b7245e6ee3c874b3745c5718083d83628ee8cd775534"
+    "local_edition_sha256": "5a8142a0e095ebb50daaec65ef746c4ada4b644cef8914c9d88a56bb5675b47d",
+    "external_art_recovery": [
+      {
+        "page": "odiya/convention/site_and_direction.html",
+        "original_reference": "http://www.htccofkc.org/images/vinayak.jpg",
+        "destination": "odiya/recovered-external-art/vinayak.jpg",
+        "image_capture": "20050428075640",
+        "display_width": "200",
+        "display_height": "136",
+        "source_markup": "/Volumes/home/MyCommunity/odiya.org/convention/site_and_direction.html"
+      }
+    ]
   },
   {
     "kind": "asset",
@@ -21733,11 +21808,11 @@
     "derived_from_pdf": false,
     "recovery_note": "Original homepage HTML and layout retained. Artwork may come from separately dated captures; see the restoration record. Links are local and online services are inactive.",
     "original_url_inferred": false,
-    "output_sha256": "0d583f5122cf88afac175a25affc3bde4a346131be7c1478b5871c4c3e749fc1",
+    "output_sha256": "b55b2aec3ce0dc58768d0a6a5386eab6ff52d3002b5b41d2559cb7b09bd79f65",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_preview_artwork": "odiya/images/mrgodisa3.gif",
     "local_source": "odiya/index.html",
-    "local_edition_sha256": "6db1882a305844e82b62d3000a6b93fef75ba6f33366b538510e543fb4908afd",
+    "local_edition_sha256": "3c37578a14419b99768419c1cc01f61339fbb446b1299ad56973ecfc41bb6471",
     "motion_restoration": "Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Asato: original image with a browser recreation of Circlet 1.0 (Nakagawa Masami, 1999); exact historical version unverified.",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
     "recovery_stage": "odiya-recovery-next",
@@ -21761,7 +21836,18 @@
       "note": "Asato: original image with a browser recreation of Circlet 1.0 (Nakagawa Masami, 1999); exact historical version unverified.",
       "legacy_java_executed": false,
       "pixel_verified_frames": 7
-    }
+    },
+    "external_art_recovery": [
+      {
+        "page": "odiya/index.html",
+        "original_reference": "http://www.looksmart.com/h/linkto/ecfin64.gif",
+        "destination": "odiya/recovered-external-art/ecfin64.gif",
+        "image_capture": "19990220030422",
+        "display_width": "128",
+        "display_height": "32",
+        "source_markup": "/Volumes/home/MyCommunity/odiya.org/indexold.html"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -21774,10 +21860,10 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "a244a451f3e0fd41a647c89d5df666bacd5c676e5f1fb999e79ded7bf8e18284",
+    "output_sha256": "59439fea50057ece57c920ad3fc5be23d4cc5fa73adee578fb4c5f14e80fa4ca",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/indexold.html",
-    "local_edition_sha256": "774d19a4d0aa89a702f7d90244e1eb1b58343c4afd0f4469f4631c08435e930c",
+    "local_edition_sha256": "a324ad62a05192afccf584811e8836ff0e0c73160ea61878ead32a8f94650c40",
     "motion_restoration": "Rollovers: original paired GIFs. Eyes: redrawn from Chakadola.java (static in the original). Clock: recreated from Bill\u2019s Clock by Bill Giel (1996), with the saved colours and TIMEZONE=8.5 (UTC\u221208:30). Asato: original image with a browser recreation of Circlet 1.0 (Nakagawa Masami, 1999); exact historical version unverified.",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
     "recovery_stage": "odiya-recovery-next",
@@ -21801,7 +21887,18 @@
       "note": "Asato: original image with a browser recreation of Circlet 1.0 (Nakagawa Masami, 1999); exact historical version unverified.",
       "legacy_java_executed": false,
       "pixel_verified_frames": 7
-    }
+    },
+    "external_art_recovery": [
+      {
+        "page": "odiya/indexold.html",
+        "original_reference": "http://www.looksmart.com/h/linkto/ecfin64.gif",
+        "destination": "odiya/recovered-external-art/ecfin64.gif",
+        "image_capture": "19990220030422",
+        "display_width": "128",
+        "display_height": "32",
+        "source_markup": "/Volumes/home/MyCommunity/odiya.org/indexold.html"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -24940,10 +25037,21 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "95a7e10314ab2060095001f245fe7fb4bb59dd7d61eb28c4784b6a823c7ac096",
+    "output_sha256": "0b7583569e8597302817d846f8a3ef6670693ceb11666e883b7140643734011d",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/odia1000/atithi.html",
-    "local_edition_sha256": "4f2958dba638485b8e9bba8f9bdf0b9e662eb41cd4fd2fbc7965ffd1905df09f"
+    "local_edition_sha256": "545541bc5dd3b3099f98c33b2fea8bfe63902bdd8f59b7e0916eb3251d589e00",
+    "external_art_recovery": [
+      {
+        "page": "odiya/odia1000/atithi.html",
+        "original_reference": "http://htmlgear.lycos.com/img/guest/gb_white.gif",
+        "destination": "odiya/recovered-external-art/gb_white.gif",
+        "image_capture": "20010822002452",
+        "display_width": "87",
+        "display_height": "31",
+        "source_markup": "/Volumes/home/MyCommunity/odiya.org/odia1000/atithi.html"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -25852,12 +25960,23 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "a34907b7b6d0c3f0f82cb697fff6214982526336c95185d3795ca5a9dd60c6a1",
+    "output_sha256": "7b902a20c4338f257c1597dbbb59433dbd6c5dc439aa534aa53786c98caca1b4",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/old_index/index_old1.html",
-    "local_edition_sha256": "cd80082c15fea6c8987838dcc7cb57005d3d25f3dc14a4b12e132ea35daa4c7c",
+    "local_edition_sha256": "51700a6fbd2fb6f5eb47dc71b8d77337fb32867b4d75ff9e7c6237bc0b2ab3be",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
-    "recovery_stage": "odiya-recovery-next"
+    "recovery_stage": "odiya-recovery-next",
+    "external_art_recovery": [
+      {
+        "page": "odiya/old_index/index_old1.html",
+        "original_reference": "http://www.looksmart.com/h/linkto/ecfin64.gif",
+        "destination": "odiya/recovered-external-art/ecfin64.gif",
+        "image_capture": "19990220030422",
+        "display_width": "256",
+        "display_height": "64",
+        "source_markup": "/Volumes/home/MyCommunity/odiya.org/old_index/index_old1.html"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -25886,10 +26005,10 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "5963428e07300d35fc8a265fc8ebb65f0b94c906555066ba8b5e5a082a876d6a",
+    "output_sha256": "21de98da725be90369c5c612939e649d398416eac2555feaae273e6331835f1c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/old_index/index_old3.html",
-    "local_edition_sha256": "0e2d1d2a606d620cbb1a1c80cc80849693c77f5d59af7f5d3928ee096411a17e",
+    "local_edition_sha256": "504731216c5ad972aeb078e3391d5d3a9cefcb98e893bcd695c8a935c607f68a",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
     "asato_ticker": {
       "source": "archive/mycommunity/selected/odiya.org/old_index/index_old3.html",
@@ -25906,7 +26025,27 @@
         150
       ],
       "corroboration": "Approved DOCX word/media/image3.jpg; document unchanged."
-    }
+    },
+    "external_art_recovery": [
+      {
+        "page": "odiya/old_index/index_old3.html",
+        "original_reference": "http://www.looksmart.com/h/linkto/ecfin64.gif",
+        "destination": "odiya/recovered-external-art/ecfin64.gif",
+        "image_capture": "19990220030422",
+        "display_width": "256",
+        "display_height": "64",
+        "source_markup": "/Volumes/home/MyCommunity/odiya.org/old_index/index_old3.html"
+      },
+      {
+        "page": "odiya/old_index/index_old3.html",
+        "original_reference": "http://v3.come.to/banner/v3sban.gif",
+        "destination": "odiya/recovered-external-art/v3sban.gif",
+        "image_capture": "20000229041757",
+        "display_width": "88",
+        "display_height": "31",
+        "source_markup": "/Volumes/home/MyCommunity/odiya.org/old_index/index_old3.html"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -25935,12 +26074,23 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "fba74d7eb6abc2a682ca3843ae8e96862f63f4f7806e136ddf84b9f0df02f68f",
+    "output_sha256": "95c959e7ee2ed945717c7ebde42e2b2f037ac2ad54c79bba60ac71f59986cc7c",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/old_index/index_old5.html",
-    "local_edition_sha256": "60a9bf4e67591ae58559e7ee8816c1262f2d9e20a7c6e45f4e4a40b6f6bfe383",
+    "local_edition_sha256": "b41fa7540459ff616cdb189d5f4390357201be6420b7e077355d9355e443243e",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
-    "recovery_stage": "odiya-recovery-next"
+    "recovery_stage": "odiya-recovery-next",
+    "external_art_recovery": [
+      {
+        "page": "odiya/old_index/index_old5.html",
+        "original_reference": "http://www.looksmart.com/h/linkto/ecfin64.gif",
+        "destination": "odiya/recovered-external-art/ecfin64.gif",
+        "image_capture": "19990220030422",
+        "display_width": "256",
+        "display_height": "64",
+        "source_markup": "/Volumes/home/MyCommunity/odiya.org/old_index/index_old5.html"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -25953,12 +26103,23 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "40ae6759b13e601b7070bab720b4164dab18569c6cf53234cd9c82a3750c9daa",
+    "output_sha256": "55ad1a863ed9c6601b57e0d0197886bef91cb09cc9457b4daf2eda1eb8c664f8",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/old_index/index_old6.html",
-    "local_edition_sha256": "0eb16d867555038613c509870e7595d7d39bc4ddb267fb043f6342fe4e0139bc",
+    "local_edition_sha256": "c6b50221ecdf51c0d046b7582d3930d9cdc05f56f88121bbf91110f30db58e1c",
     "gap_recovery_pass": "2026-11-21; see recovered source and link evidence",
-    "recovery_stage": "odiya-recovery-next"
+    "recovery_stage": "odiya-recovery-next",
+    "external_art_recovery": [
+      {
+        "page": "odiya/old_index/index_old6.html",
+        "original_reference": "http://www.looksmart.com/h/linkto/ecfin64.gif",
+        "destination": "odiya/recovered-external-art/ecfin64.gif",
+        "image_capture": "19990220030422",
+        "display_width": "128",
+        "display_height": "32",
+        "source_markup": "/Volumes/home/MyCommunity/odiya.org/old_index/index_old6.html"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -33635,11 +33796,22 @@
     "derived_from_pdf": false,
     "recovery_note": "",
     "original_url_inferred": false,
-    "output_sha256": "4c89368d82a868d6e2ffd616b036340fd966d46b45d42916cfb36f2c80b7c443",
+    "output_sha256": "83df11ee38180449874ef8383a91ca905555a0382bfe57ef3e461133ce77279a",
     "footer_restoration_note": "Local-only Home / Pages / Source notes footer. Original markup retained outside restoration navigation; source notes collapsed and brief.",
     "local_source": "odiya/wt/072895.html",
-    "local_edition_sha256": "f84e9fc97d3a8e926acc4948968a53d689b27ef778ad61f47bfcf8c864d6a3cd",
-    "inner_page_restoration": "Historical home links reconnect to the restored homepage."
+    "local_edition_sha256": "a46906c893b753ffff70318f5cbd5ad1f1f3fa7c0c41f443d42bda04ebadceda",
+    "inner_page_restoration": "Historical home links reconnect to the restored homepage.",
+    "external_art_recovery": [
+      {
+        "page": "odiya/wt/072895.html",
+        "original_reference": "http://www.looksmart.com/h/linkto/ecfin48.gif",
+        "destination": "odiya/recovered-external-art/ecfin48.gif",
+        "image_capture": "19990220010948",
+        "display_width": "192",
+        "display_height": "48",
+        "source_markup": "/Volumes/home/MyCommunity/odiya.org/wt/072895.shtml"
+      }
+    ]
   },
   {
     "kind": "page",
@@ -46406,5 +46578,80 @@
     "output_sha256": "8fd20d83505ef5eb58e4f1d369486df60c8ae499691cc802229133850ba1fbc8",
     "local_source": "samaja/odisalogo.gif",
     "local_edition_sha256": "8fd20d83505ef5eb58e4f1d369486df60c8ae499691cc802229133850ba1fbc8"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-external-art/ecfin48.gif",
+    "source": "restoration/qa/odiya-wayback-nov25-images/raw/19990220010948-142eb1d77a55.gif",
+    "original_url": "http://www.looksmart.com:80/h/linkto/ecfin48.gif",
+    "capture": "19990220010948",
+    "input_sha256": "fd3f35f6cd60d38241652c83e6b3bb1b013f732ecf167b8f2466498410086f31",
+    "output_sha256": "fd3f35f6cd60d38241652c83e6b3bb1b013f732ecf167b8f2466498410086f31",
+    "cdx_digest": "O2DBDQP4AKORA5BX2BDY4AESQ2WEILNJ",
+    "cdx_digest_verified": true,
+    "recovery_stage": "odiya-wayback-nov25-images",
+    "recovery_note": "Original captured image; bytes unchanged. Capture date may postdate the page using this URL.",
+    "local_source": "odiya/recovered-external-art/ecfin48.gif",
+    "local_edition_sha256": "fd3f35f6cd60d38241652c83e6b3bb1b013f732ecf167b8f2466498410086f31"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-external-art/ecfin64.gif",
+    "source": "restoration/qa/odiya-wayback-nov25-images/raw/19990220030422-66bdfb397d38.gif",
+    "original_url": "http://www.looksmart.com:80/h/linkto/ecfin64.gif",
+    "capture": "19990220030422",
+    "input_sha256": "cc5f302f583493e57164291068682ec643440e4283cf51c01c35277096eca85e",
+    "output_sha256": "cc5f302f583493e57164291068682ec643440e4283cf51c01c35277096eca85e",
+    "cdx_digest": "R2KZ6RR2BR5NPMD6L53WDKK2O7HHMULI",
+    "cdx_digest_verified": true,
+    "recovery_stage": "odiya-wayback-nov25-images",
+    "recovery_note": "Original captured image; bytes unchanged. Capture date may postdate the page using this URL.",
+    "local_source": "odiya/recovered-external-art/ecfin64.gif",
+    "local_edition_sha256": "cc5f302f583493e57164291068682ec643440e4283cf51c01c35277096eca85e"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-external-art/gb_white.gif",
+    "source": "restoration/qa/odiya-wayback-nov25-images/raw/20010822002452-0ca008ebc7b5.gif",
+    "original_url": "http://htmlgear.lycos.com:80/img/guest/gb_white.gif",
+    "capture": "20010822002452",
+    "input_sha256": "06723370d8951e785f2ec9c304394f12430aed972df4ad030ec0df988fcc2ca2",
+    "output_sha256": "06723370d8951e785f2ec9c304394f12430aed972df4ad030ec0df988fcc2ca2",
+    "cdx_digest": "G2GXTEFHGYITES4GNCMVIVYEMQX5HBU4",
+    "cdx_digest_verified": true,
+    "recovery_stage": "odiya-wayback-nov25-images",
+    "recovery_note": "Original captured image; bytes unchanged. Capture date may postdate the page using this URL.",
+    "local_source": "odiya/recovered-external-art/gb_white.gif",
+    "local_edition_sha256": "06723370d8951e785f2ec9c304394f12430aed972df4ad030ec0df988fcc2ca2"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-external-art/v3sban.gif",
+    "source": "restoration/qa/odiya-wayback-nov25-images/raw/20000229041757-c0b3c2cd59b5.gif",
+    "original_url": "http://v3.come.to:80/banner/v3sban.gif",
+    "capture": "20000229041757",
+    "input_sha256": "0dd7ceaab58305172b932b743aac0bdeab1d8d2bff0fccd567d62df8c068c9a7",
+    "output_sha256": "0dd7ceaab58305172b932b743aac0bdeab1d8d2bff0fccd567d62df8c068c9a7",
+    "cdx_digest": "TSCLDYRQEEG6NBTIHNCXXTNTCCF3W6E3",
+    "cdx_digest_verified": true,
+    "recovery_stage": "odiya-wayback-nov25-images",
+    "recovery_note": "Original captured image; bytes unchanged. Capture date may postdate the page using this URL.",
+    "local_source": "odiya/recovered-external-art/v3sban.gif",
+    "local_edition_sha256": "0dd7ceaab58305172b932b743aac0bdeab1d8d2bff0fccd567d62df8c068c9a7"
+  },
+  {
+    "kind": "asset",
+    "output": "odiya.org/recovered-external-art/vinayak.jpg",
+    "source": "restoration/qa/odiya-wayback-nov25-images/raw/20050428075640-5fd3a8142ca6.jpg",
+    "original_url": "http://www.htccofkc.org:80/images/vinayak.jpg",
+    "capture": "20050428075640",
+    "input_sha256": "f307b339b0093f827dd9f71f20e79b7c7ace7a963fb5f65b2838bf85893adb56",
+    "output_sha256": "f307b339b0093f827dd9f71f20e79b7c7ace7a963fb5f65b2838bf85893adb56",
+    "cdx_digest": "BWCJ5HNKXFOI36VO77L4JXDIWW753YAY",
+    "cdx_digest_verified": true,
+    "recovery_stage": "odiya-wayback-nov25-images",
+    "recovery_note": "Original captured image; bytes unchanged. Capture date may postdate the page using this URL.",
+    "local_source": "odiya/recovered-external-art/vinayak.jpg",
+    "local_edition_sha256": "f307b339b0093f827dd9f71f20e79b7c7ace7a963fb5f65b2838bf85893adb56"
   }
 ]
